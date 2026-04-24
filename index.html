@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Singvögel Deutschlands</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+
+  <!-- HOME -->
+  <div id="screen-home" class="screen active">
+    <div class="home-hero">
+      <div class="flying-birds" aria-hidden="true">
+        <span class="fly-bird b1">🐦</span>
+        <span class="fly-bird b2">🐦</span>
+        <span class="fly-bird b3">🐦</span>
+      </div>
+      <h1>Singvögel<br><span>Deutschlands</span></h1>
+      <p class="tagline">Lerne die 15 häufigsten Singvögel kennen</p>
+    </div>
+    <div class="home-stats-bar" id="home-stats"></div>
+    <div class="home-actions">
+      <button class="btn btn-primary" onclick="App.go('learn')">
+        <span class="btn-icon">📚</span>
+        <div><strong>Vögel entdecken</strong><small>15 Karten mit Fakten</small></div>
+      </button>
+      <button class="btn btn-quiz" onclick="App.go('quiz')">
+        <span class="btn-icon">🎯</span>
+        <div><strong>Quiz starten</strong><small>Teste dein Wissen</small></div>
+      </button>
+      <button class="btn btn-outline" onclick="App.go('achievements')">
+        <span class="btn-icon">🏆</span>
+        <div><strong>Abzeichen</strong><small id="badge-count-home">0 / 8 erreicht</small></div>
+      </button>
+    </div>
+  </div>
+
+  <!-- LEARN -->
+  <div id="screen-learn" class="screen">
+    <div class="topbar">
+      <button class="btn-back" onclick="App.go('home')">← Zurück</button>
+      <h2>Entdecken</h2>
+      <span class="card-counter" id="learn-counter">1 / 15</span>
+    </div>
+    <div class="cards-area">
+      <div class="card-track" id="card-track"></div>
+    </div>
+    <div class="card-nav-row">
+      <button class="nav-btn" id="btn-prev" onclick="Learn.prev()">‹</button>
+      <div class="dots-row" id="dots-row"></div>
+      <button class="nav-btn" id="btn-next" onclick="Learn.next()">›</button>
+    </div>
+  </div>
+
+  <!-- QUIZ -->
+  <div id="screen-quiz" class="screen">
+    <div class="topbar quiz-bar">
+      <button class="btn-back" onclick="Quiz.quit()">✕</button>
+      <div class="quiz-info">
+        <span id="q-num">Frage 1 / 10</span>
+        <span class="streak-badge" id="streak-badge"></span>
+      </div>
+      <span class="score-pill" id="q-score">0 Pkt</span>
+    </div>
+    <div class="quiz-progress-wrap">
+      <div class="quiz-progress-bar" id="quiz-prog-bar"></div>
+    </div>
+    <div id="quiz-stage"></div>
+  </div>
+
+  <!-- RESULTS -->
+  <div id="screen-results" class="screen">
+    <div id="results-wrap"></div>
+  </div>
+
+  <!-- ACHIEVEMENTS -->
+  <div id="screen-achievements" class="screen">
+    <div class="topbar">
+      <button class="btn-back" onclick="App.go('home')">← Zurück</button>
+      <h2>Meine Abzeichen</h2>
+      <span></span>
+    </div>
+    <div class="ach-grid" id="ach-grid"></div>
+  </div>
+
+</div>
+
+<script src="js/birds.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
