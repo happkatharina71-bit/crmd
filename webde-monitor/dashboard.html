@@ -237,7 +237,7 @@ function render() {
   }).join('') : '<p class="empty">Keine Daten im gewählten Zeitraum.</p>';
 
   // Torten
-  const extra = [{ title: 'Teaser mit / ohne Personen', cats: ['mit', 'ohne'],
+  const extra = [{ title: 'Teaser mit/ohne Personen', cats: ['mit', 'ohne'],
     counts: { mit: withP.length, ohne: teasers.length - withP.length }, unit: 'Teaser', names: { mit: 'mit Personen', ohne: 'ohne Personen' } }];
   const pieDefs = [...extra, ...PIES.map((d) => ({ ...d, unit: 'Teaser',
     counts: Object.fromEntries(d.cats.map((c) => [c, wsum(persons.filter((p) => p[d.key] === c))])) }))];
@@ -280,7 +280,7 @@ function pieHTML(d) {
     a = b; return p;
   }).join('') : `<circle cx="${C}" cy="${C}" r="${(R + r) / 2}" fill="none" stroke="var(--line)" stroke-width="${R - r}"/>`;
   const legend = d.cats.map((c, i) => `<li><span class="sw" style="background:${color(c, i)}"></span><span>${name(c)}</span><span class="num pct">${num(d.counts[c])} · ${pct(d.counts[c], total)}</span></li>`).join('');
-  return `<div class="panel pie"><h2 style="font-size:1rem;white-space:nowrap">${d.title}</h2><div class="pie-body">
+  return `<div class="panel pie"><h2 style="font-size:1rem;white-space:nowrap"><span>${d.title}</span></h2><div class="pie-body">
     <svg viewBox="0 0 132 132" role="img" aria-label="${d.title.replace(/<[^>]+>/g, '')}: ${d.cats.map((c) => name(c) + ' ' + d.counts[c]).join(', ')}">${paths}
       <text class="center num" x="66" y="68" text-anchor="middle">${num(total)}</text><text class="center2" x="66" y="84" text-anchor="middle">${d.unit}</text></svg>
     <ul class="legend">${legend}</ul></div></div>`;
