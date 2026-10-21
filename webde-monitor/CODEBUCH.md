@@ -58,7 +58,7 @@ Grundeinheit ist der **Teaser**, nicht die Person.
       "bild_typ": "personen", "personen_anzahl": 2, "menschenmenge": "nein",
       "notiz": "",
       "personen": [
-        { "name": "...", "geschlecht": "weiblich", "alter": "mittel", "hautfarbe": "weiss",
+        { "name": "...", "geschlecht": "weiblich", "alter": "ab30", "hautfarbe": "weiss",
           "bildrolle": "hauptperson", "in_headline": "namentlich",
           "headline_aktiv": "aktiv", "status": "reich_maechtig", "agenda": "ja",
           "sicherheit": "hoch", "begruendung": "..." }
