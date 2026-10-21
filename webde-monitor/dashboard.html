@@ -223,16 +223,16 @@ function render() {
   // "x von 5": Teaser mit mindestens einer Person der Gruppe
   const key = (p) => p.run_id + '#' + p.position;
   const groups = [
-    ['Frau', (p) => p.geschlecht === 'weiblich'], ['Mann', (p) => p.geschlecht === 'maennlich'],
-    ['junge Person (unter 30)', (p) => p.alter === 'jung'], ['Person mittleren Alters (30–59)', (p) => p.alter === 'mittel'],
-    ['ältere Person (60+)', (p) => p.alter === 'alt'],
-    ['weiße Person', (p) => p.hautfarbe === 'weiss'], ['PoC', (p) => p.hautfarbe === 'poc'],
+    ['Frauen', (p) => p.geschlecht === 'weiblich'], ['Männer', (p) => p.geschlecht === 'maennlich'],
+    ['junge Menschen (unter 30)', (p) => p.alter === 'jung'], ['Menschen mittleren Alters (30–59)', (p) => p.alter === 'mittel'],
+    ['ältere Menschen (60+)', (p) => p.alter === 'alt'],
+    ['weiße Menschen', (p) => p.hautfarbe === 'weiss'], ['PoC', (p) => p.hautfarbe === 'poc'],
   ];
   document.getElementById('presence').innerHTML = runs.length ? groups.map(([lbl, f]) => {
     const n = new Set(persons.filter(f).map(key)).size;
     const avg = n / runs.length;
     const dots = [0, 1, 2, 3, 4].map((i) => `<span><i style="width:${Math.max(0, Math.min(1, avg - i)) * 100}%"></i></span>`).join('');
-    return `<div class="panel pres"><div class="lbl">… ${lbl}</div><div class="v num">${fmt(avg)} <small>von 5 · ${pct(n, teasers.length)}</small></div><div class="dots" aria-hidden="true">${dots}</div></div>`;
+    return `<div class="panel pres"><div class="lbl">${lbl}</div><div class="v num">${fmt(avg)} <small>von 5 · ${pct(n, teasers.length)}</small></div><div class="dots" aria-hidden="true">${dots}</div></div>`;
   }).join('') : '<p class="empty">Keine Daten im gewählten Zeitraum.</p>';
 
   // Torten
