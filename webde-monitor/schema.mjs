@@ -5,7 +5,7 @@ export const TEASER_FIELDS = {
 };
 export const PERSON_FIELDS = {
   geschlecht: ['weiblich', 'maennlich', 'nicht_erkennbar'],
-  alter: ['jung', 'mittel', 'alt', 'nicht_erkennbar'],
+  alter: ['jung', 'ab30', 'nicht_erkennbar'],
   hautfarbe: ['weiss', 'poc', 'nicht_erkennbar'],
   bildrolle: ['hauptperson', 'nebenperson'],
   in_headline: ['namentlich', 'indirekt', 'nein'],

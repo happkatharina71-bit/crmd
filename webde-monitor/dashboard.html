@@ -148,14 +148,14 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
 <script>
 const LABELS = {
   weiblich: 'Frauen', maennlich: 'Männer', nicht_erkennbar: 'nicht erkennbar',
-  jung: 'jung (unter 30)', mittel: 'mittel (30–59)', alt: 'alt (60+)',
+  jung: 'jung (unter 30)', ab30: 'ab 30',
   weiss: '<i>weiß</i>', poc: 'PoC', ja: 'ja', nein: 'nein', unklar: 'unklar',
   aktiv: 'aktiv', passiv: 'passiv', nicht_thematisiert: 'nicht thematisiert',
 };
 const css = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
 const PIES = [
   { key: 'geschlecht', title: 'Geschlecht', cats: ['weiblich', 'maennlich', 'nicht_erkennbar'] },
-  { key: 'alter', title: 'Alter', cats: ['jung', 'mittel', 'alt', 'nicht_erkennbar'] },
+  { key: 'alter', title: 'Alter', cats: ['jung', 'ab30', 'nicht_erkennbar'] },
   { key: 'hautfarbe', title: 'Wahrgenommen als PoC/<i>weiß</i>', cats: ['poc', 'weiss', 'nicht_erkennbar'] },
 ];
 const SLOT = ['--s1', '--s2', '--s3'];
@@ -225,8 +225,7 @@ function render() {
   const key = (p) => p.run_id + '#' + p.position;
   const groups = [
     ['Teaser mit Frauen', (p) => p.geschlecht === 'weiblich'], ['Teaser mit Männern', (p) => p.geschlecht === 'maennlich'],
-    ['Teaser mit jungen Menschen<br>(unter 30)', (p) => p.alter === 'jung'], ['Teaser mit Menschen mittleren Alters (30–59)', (p) => p.alter === 'mittel'],
-    ['Teaser mit älteren Menschen<br>(60+)', (p) => p.alter === 'alt'],
+    ['Teaser mit jungen Menschen<br>(unter 30)', (p) => p.alter === 'jung'], ['Teaser mit Menschen ab 30', (p) => p.alter === 'ab30'],
     ['Teaser mit PoC', (p) => p.hautfarbe === 'poc'], ['Teaser mit <i>weißen</i> Menschen', (p) => p.hautfarbe === 'weiss'],
   ];
   document.getElementById('presence').innerHTML = runs.length ? groups.map(([lbl, f]) => {
@@ -255,7 +254,7 @@ function render() {
   }).join('') + '</div>';
   document.getElementById('framing').innerHTML = persons.length ? `<div class="frame-legend">${fr.map((f) => `<span style="--c:${frColor[f]}">${LABELS[f]}</span>`).join('')}</div>`
     + block('Geschlecht', 'geschlecht', ['weiblich', 'maennlich'])
-    + block('Alter', 'alter', ['jung', 'mittel', 'alt'])
+    + block('Alter', 'alter', ['jung', 'ab30'])
     + block('Wahrgenommen als PoC/<i>weiß</i>', 'hautfarbe', ['poc', 'weiss']) : '<p class="empty">Keine Personen im gewählten Zeitraum.</p>';
 
   renderTrend(days, teasers, persons);
