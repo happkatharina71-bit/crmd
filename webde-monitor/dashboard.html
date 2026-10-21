@@ -224,7 +224,8 @@ function render() {
   const key = (p) => p.run_id + '#' + p.position;
   const groups = [
     ['Frau', (p) => p.geschlecht === 'weiblich'], ['Mann', (p) => p.geschlecht === 'maennlich'],
-    ['junge Person', (p) => p.alter === 'jung'], ['ältere Person (60+)', (p) => p.alter === 'alt'],
+    ['junge Person (unter 30)', (p) => p.alter === 'jung'], ['Person mittleren Alters (30–59)', (p) => p.alter === 'mittel'],
+    ['ältere Person (60+)', (p) => p.alter === 'alt'],
     ['weiße Person', (p) => p.hautfarbe === 'weiss'], ['PoC', (p) => p.hautfarbe === 'poc'],
   ];
   document.getElementById('presence').innerHTML = runs.length ? groups.map(([lbl, f]) => {
