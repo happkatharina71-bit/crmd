@@ -95,7 +95,7 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
 <div class="wrap">
   <header class="hero">
     <h1>Wer ist zu sehen?</h1>
-    <p class="kicker">Analyse der Topteaser auf Web.de</p>
+    <p class="kicker">Topteaser WEB.DE / GMX</p>
   </header>
   <p class="sub intro"><strong>Methodik:</strong> Abgebildete Personen in den Topteasern der mobilen Startseite, ausgewertet nach Bild, Dachzeile und Headline. Alle Merkmale sind wahrgenommen, nicht gesichert. Die Teaser werden täglich um 7, 10, 13, 17 und 21 Uhr erfasst.</p>
 
@@ -119,20 +119,20 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
   </section>
 
   <section aria-labelledby="h-pres">
-    <h2 id="h-pres">Vorkommen in den 5 Teasern</h2>
-    <p class="note">Durchschnitt pro Erhebung. Gezählt wird, ob eine Gruppe im Teaserbild vorkommt, nicht wie viele Personen. Ein Teaser kann in mehreren Kacheln zählen, die Werte ergeben deshalb nicht 100 %.</p>
+    <h2 id="h-pres">Sichtbarkeit – in wie vielen Teasern kommt eine Gruppe vor?</h2>
+    <p class="note">Pro Teaser zählt nur, ob eine Gruppe zu sehen ist, egal wie viele Personen. Beispiel: Ein Teaser mit einer Frau und einem Mann zählt bei Frauen und bei Männern. Deshalb ergeben die Werte zusammen nicht 100 %.</p>
     <div class="presence" id="presence"></div>
   </section>
 
   <section aria-labelledby="h-pies">
-    <h2 id="h-pies">Verteilung der abgebildeten Personen</h2>
-    <p class="note">Gewichtet pro Teaser: Jeder Teaser mit Personen zählt 1, aufgeteilt auf die Personen im Bild. Ein Gruppenfoto mit 2 PoC und 3 <i>weißen</i> Personen zählt 0,4 PoC und 0,6 <i>weiß</i>.</p>
+    <h2 id="h-pies">Anteil – wie stark ist eine Gruppe in den Teasern vertreten?</h2>
+    <p class="note">Jeder Teaser mit Personen zählt 1 und wird auf die Personen darin aufgeteilt. Beispiel: Ein Teaser mit einer Frau und einem Mann zählt 0,5 Frau und 0,5 Mann. Ein Teaser mit vier Männern zählt 1 Mann. Die Werte ergeben zusammen 100 %.</p>
     <div class="pies" id="pies"></div>
   </section>
 
   <section aria-labelledby="h-frame">
     <h2 id="h-frame">Framing in der Headline <span class="badge">experimentell</span></h2>
-    <p class="note">Gleich gewichtet wie oben. Wird die Person in der Headline als handelnd (aktiv) oder als jemand dargestellt, dem etwas widerfährt (passiv)?</p>
+    <p class="note">Gleich gewichtet wie oben. Wird die Person in der Headline als handelnd (aktiv) oder als jemand dargestellt, dem etwas widerfährt (passiv)? Die Zahl in Klammern ist die Zahl der Teaser, die auf diese Gruppe entfallen.<br>aktiv: Die Person handelt, z. B. ‚Ministerin kündigt neue Reform an‘.<br>passiv: Der Person widerfährt etwas, z. B. ‚Radfahrer bei Unfall schwer verletzt‘.</p>
     <div class="panel" id="framing"></div>
   </section>
 
@@ -215,10 +215,10 @@ function render() {
   const days = [...new Set(teasers.map((t) => t.tag))].sort();
 
   document.getElementById('kpis').innerHTML = [
-    [runs.length, 'Erhebungen'],
+    [runs.length, 'Erhebungen (5×&nbsp;täglich)'],
     [teasers.length, 'Teaser'],
     [`${fmt(runs.length ? withP.length / runs.length : 0)} <small style="font-size:.9rem">von 5</small>`, 'Teaser mit Personen im Bild, Ø pro Erhebung'],
-    [persons.length, 'codierte Personen'],
+    [persons.length, 'erfasste Personen'],
   ].map(([v, l]) => `<div class="panel kpi"><div class="v num">${v}</div><div class="l">${l}</div></div>`).join('');
 
   // "x von 5": Teaser mit mindestens einer Person der Gruppe
@@ -233,7 +233,7 @@ function render() {
     const n = new Set(persons.filter(f).map(key)).size;
     const avg = n / runs.length;
     const dots = [0, 1, 2, 3, 4].map((i) => `<span><i style="width:${Math.max(0, Math.min(1, avg - i)) * 100}%"></i></span>`).join('');
-    return `<div class="panel pres"><div class="lbl">${lbl}</div><div class="v num">${fmt(avg)} <small>von 5 (Ø) · ${pct(n, teasers.length)}</small></div><div class="dots" aria-hidden="true">${dots}</div></div>`;
+    return `<div class="panel pres"><div class="lbl">${lbl}</div><div class="v num">${pct(n, teasers.length)} der Teaser <small>Ø ${fmt(avg)} von 5 pro Erhebung</small></div><div class="dots" aria-hidden="true">${dots}</div></div>`;
   }).join('') : '<p class="empty">Keine Daten im gewählten Zeitraum.</p>';
 
   // Torten
@@ -279,7 +279,7 @@ function pieHTML(d) {
     const p = `<path d="M${pt(R, a)} A${R} ${R} 0 ${large} 1 ${pt(R, b)} L${pt(r, b)} A${r} ${r} 0 ${large} 0 ${pt(r, a)}Z" fill="${color(c, i)}" data-tip="${tip}"/>`;
     a = b; return p;
   }).join('') : `<circle cx="${C}" cy="${C}" r="${(R + r) / 2}" fill="none" stroke="var(--line)" stroke-width="${R - r}"/>`;
-  const legend = d.cats.map((c, i) => `<li><span class="sw" style="background:${color(c, i)}"></span><span>${name(c)}</span><span class="num pct">${num(d.counts[c])} · ${pct(d.counts[c], total)}</span></li>`).join('');
+  const legend = d.cats.map((c, i) => `<li><span class="sw" style="background:${color(c, i)}"></span><span>${name(c)}</span><span class="num pct">${pct(d.counts[c], total)}</span></li>`).join('');
   return `<div class="panel pie"><h2 style="font-size:1rem;white-space:nowrap"><span>${d.title}</span></h2><div class="pie-body">
     <svg viewBox="0 0 132 132" role="img" aria-label="${d.title.replace(/<[^>]+>/g, '')}: ${d.cats.map((c) => name(c).replace(/<[^>]+>/g, '') + ' ' + d.counts[c]).join(', ')}">${paths}
       <text class="center num" x="66" y="68" text-anchor="middle">${num(total)}</text><text class="center2" x="66" y="84" text-anchor="middle">${d.unit.split('|').map((l, i) => `<tspan x="66" dy="${i ? 11 : 0}">${l}</tspan>`).join('')}</text></svg>
