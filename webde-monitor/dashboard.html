@@ -217,7 +217,7 @@ function render() {
   document.getElementById('kpis').innerHTML = [
     [runs.length, 'Erhebungen (5×&nbsp;täglich)'],
     [teasers.length, 'Teaser'],
-    [`${fmt(runs.length ? withP.length / runs.length : 0)} <small style="font-size:.9rem">von 5</small>`, 'Teaser mit Personen im Bild, Ø pro Erhebung'],
+    [pct(withP.length, teasers.length), `Teaser mit Personen im Bild<br><small>Ø ${fmt(runs.length ? withP.length / runs.length : 0)} von 5 pro Erhebung</small>`],
     [persons.length, 'erfasste Personen'],
   ].map(([v, l]) => `<div class="panel kpi"><div class="v num">${v}</div><div class="l">${l}</div></div>`).join('');
 
