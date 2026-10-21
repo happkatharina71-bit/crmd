@@ -24,7 +24,7 @@ Personen im Hintergrund einer Menge werden nur über `personen_anzahl` gezählt.
 |---|---|---|
 | `name` | Name oder leer | nur wenn aus Dachzeile/Headline eindeutig ist, dass diese Person gemeint ist |
 | `geschlecht` | weiblich, maennlich, nicht_erkennbar | nach Bildeindruck; keine Kategorie divers, da nur per Selbstauskunft feststellbar |
-| `alter` | jung (unter 30, inkl. Kinder), ab30 (30 und älter), nicht_erkennbar | Bei sichtbarem Gesicht **immer schätzen**, Unsicherheit über `sicherheit` markieren. `nicht_erkennbar` nur, wenn das Gesicht nicht zu sehen ist (verdeckt, abgewandt, zu klein). |
+| `alter` | jung (unter 30, inkl. Kinder), mittel (30–59), alt (60+), nicht_erkennbar | Bei sichtbarem Gesicht **immer schätzen**, Unsicherheit über `sicherheit` markieren. `nicht_erkennbar` nur, wenn das Gesicht nicht zu sehen ist (verdeckt, abgewandt, zu klein). |
 | `hautfarbe` | weiss, poc, nicht_erkennbar | rein visuelle Wahrnehmung; **nie** aus dem Namen ableiten |
 | `bildrolle` | hauptperson, nebenperson | |
 | `in_headline` | namentlich, indirekt, nein | `indirekt` = als Gruppe/Funktion gemeint ("Kanzler", "Rentnerin") |
@@ -58,7 +58,7 @@ Grundeinheit ist der **Teaser**, nicht die Person.
       "bild_typ": "personen", "personen_anzahl": 2, "menschenmenge": "nein",
       "notiz": "",
       "personen": [
-        { "name": "...", "geschlecht": "weiblich", "alter": "ab30", "hautfarbe": "weiss",
+        { "name": "...", "geschlecht": "weiblich", "alter": "mittel", "hautfarbe": "weiss",
           "bildrolle": "hauptperson", "in_headline": "namentlich",
           "headline_aktiv": "aktiv", "status": "reich_maechtig", "agenda": "ja",
           "sicherheit": "hoch", "begruendung": "..." }
