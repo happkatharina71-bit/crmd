@@ -120,7 +120,7 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
 
   <section aria-labelledby="h-pres">
     <h2 id="h-pres">Wie viele der 5 Teaser zeigen …</h2>
-    <p class="note">Durchschnitt pro Erhebung. Ein Teaser zählt, wenn mindestens eine solche Person im Bild ist. Ein Teaser kann deshalb mehrfach zählen.</p>
+    <p class="note">Durchschnitt pro Erhebung. Gezählt wird, ob eine Gruppe im Teaserbild vorkommt, nicht wie viele Personen. Ein Teaser kann in mehreren Kacheln zählen, die Werte ergeben deshalb nicht 100 %.</p>
     <div class="presence" id="presence"></div>
   </section>
 
@@ -217,29 +217,29 @@ function render() {
   document.getElementById('kpis').innerHTML = [
     [runs.length, 'Erhebungen'],
     [teasers.length, 'Teaser'],
-    [`${fmt(runs.length ? withP.length / runs.length : 0)} <small style="font-size:.9rem">von 5</small>`, 'Teaser mit Personen im Bild'],
+    [`${fmt(runs.length ? withP.length / runs.length : 0)} <small style="font-size:.9rem">von 5</small>`, 'Teaser mit Personen im Bild, Ø pro Erhebung'],
     [persons.length, 'codierte Personen'],
   ].map(([v, l]) => `<div class="panel kpi"><div class="v num">${v}</div><div class="l">${l}</div></div>`).join('');
 
   // "x von 5": Teaser mit mindestens einer Person der Gruppe
   const key = (p) => p.run_id + '#' + p.position;
   const groups = [
-    ['Frauen', (p) => p.geschlecht === 'weiblich'], ['Männer', (p) => p.geschlecht === 'maennlich'],
-    ['junge Menschen<br>(unter 30)', (p) => p.alter === 'jung'], ['Menschen mittleren Alters (30–59)', (p) => p.alter === 'mittel'],
-    ['ältere Menschen<br>(60+)', (p) => p.alter === 'alt'],
-    ['PoC', (p) => p.hautfarbe === 'poc'], ['<i>weiße</i> Menschen', (p) => p.hautfarbe === 'weiss'],
+    ['Teaser mit Frauen', (p) => p.geschlecht === 'weiblich'], ['Teaser mit Männern', (p) => p.geschlecht === 'maennlich'],
+    ['Teaser mit jungen Menschen<br>(unter 30)', (p) => p.alter === 'jung'], ['Teaser mit Menschen mittleren Alters (30–59)', (p) => p.alter === 'mittel'],
+    ['Teaser mit älteren Menschen<br>(60+)', (p) => p.alter === 'alt'],
+    ['Teaser mit PoC', (p) => p.hautfarbe === 'poc'], ['Teaser mit <i>weißen</i> Menschen', (p) => p.hautfarbe === 'weiss'],
   ];
   document.getElementById('presence').innerHTML = runs.length ? groups.map(([lbl, f]) => {
     const n = new Set(persons.filter(f).map(key)).size;
     const avg = n / runs.length;
     const dots = [0, 1, 2, 3, 4].map((i) => `<span><i style="width:${Math.max(0, Math.min(1, avg - i)) * 100}%"></i></span>`).join('');
-    return `<div class="panel pres"><div class="lbl">${lbl}</div><div class="v num">${fmt(avg)} <small>von 5 · ${pct(n, teasers.length)}</small></div><div class="dots" aria-hidden="true">${dots}</div></div>`;
+    return `<div class="panel pres"><div class="lbl">${lbl}</div><div class="v num">${fmt(avg)} <small>von 5 (Ø) · ${pct(n, teasers.length)}</small></div><div class="dots" aria-hidden="true">${dots}</div></div>`;
   }).join('') : '<p class="empty">Keine Daten im gewählten Zeitraum.</p>';
 
   // Torten
   const extra = [{ title: 'Teaser mit/ohne Personen', cats: ['mit', 'ohne'],
-    counts: { mit: withP.length, ohne: teasers.length - withP.length }, unit: 'Teaser', names: { mit: 'mit Personen', ohne: 'ohne Personen' } }];
-  const pieDefs = [...extra, ...PIES.map((d) => ({ ...d, unit: 'Teaser',
+    counts: { mit: withP.length, ohne: teasers.length - withP.length }, unit: 'Teaser gesamt', names: { mit: 'mit Personen', ohne: 'ohne Personen' } }];
+  const pieDefs = [...extra, ...PIES.map((d) => ({ ...d, unit: 'Teaser gesamt',
     counts: Object.fromEntries(d.cats.map((c) => [c, wsum(persons.filter((p) => p[d.key] === c))])) }))];
   document.getElementById('pies').innerHTML = pieDefs.map((d) => pieHTML(d)).join('');
 
