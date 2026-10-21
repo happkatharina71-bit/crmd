@@ -8,16 +8,16 @@
 :root {
   --bg: #f5f6f7; --surface: #fcfcfb; --line: #e1e3e6; --fg: #15171a; --fg-2: #52555b; --fg-3: #7b7f86;
   --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --unk: #b4b8be; --accent: #2a78d6;
-  --yellow: #ffd800; --on-yellow: #15171a; --yellow-soft: #fff9d9; --yellow-line: #f0dc6e;
+  --ocker: #c9a24d; --koralle: #e8877c; --yellow: #ffd800; --on-yellow: #15171a; --yellow-soft: #fff9d9; --yellow-line: #f0dc6e;
   --font-body: "IBM Plex Sans", system-ui, sans-serif;
   --font-head: "IBM Plex Sans Condensed", "IBM Plex Sans", system-ui, sans-serif;
 }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --bg: #121315; --surface: #1a1b1d; --line: #2c2e32; --fg: #f0efec; --fg-2: #c3c2b7; --fg-3: #8d9097;
-  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --unk: #5c6066; --accent: #3987e5; --yellow: #f2cc00; --on-yellow: #15171a; --yellow-soft: #26230f; --yellow-line: #5a4f12; color-scheme: dark } }
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --unk: #5c6066; --accent: #3987e5; --ocker: #b8924a; --koralle: #d97a70; --yellow: #f2cc00; --on-yellow: #15171a; --yellow-soft: #26230f; --yellow-line: #5a4f12; color-scheme: dark } }
 :root[data-theme="dark"] {
   --bg: #121315; --surface: #1a1b1d; --line: #2c2e32; --fg: #f0efec; --fg-2: #c3c2b7; --fg-3: #8d9097;
-  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --unk: #5c6066; --accent: #3987e5; --yellow: #f2cc00; --on-yellow: #15171a; --yellow-soft: #26230f; --yellow-line: #5a4f12; color-scheme: dark }
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --unk: #5c6066; --accent: #3987e5; --ocker: #b8924a; --koralle: #d97a70; --yellow: #f2cc00; --on-yellow: #15171a; --yellow-soft: #26230f; --yellow-line: #5a4f12; color-scheme: dark }
 
 body { background: var(--bg); color: var(--fg); font: 15px/1.5 var(--font-body); }
 .wrap { max-width: 1040px; margin: 0 auto; padding-block: 24px 48px;
@@ -151,7 +151,7 @@ const PIES = [
   { key: 'alter', title: 'Alter', cats: ['jung', 'mittel', 'alt', 'nicht_erkennbar'] },
   { key: 'hautfarbe', title: 'Wahrgenommen als PoC/<i>weiß</i>', cats: ['poc', 'weiss', 'nicht_erkennbar'] },
 ];
-const SLOT = ['--s1', '--yellow', '--s3'];
+const SLOT = ['--s1', '--ocker', '--koralle'];
 const colorFor = (cat, i) => (cat === 'nicht_erkennbar' || cat === 'unklar') ? 'var(--unk)' : `var(${SLOT[i] || '--s3'})`;
 
 function parseCSV(text) {
@@ -234,7 +234,7 @@ function render() {
 
   // Framing
   const fr = ['aktiv', 'passiv', 'nicht_thematisiert'];
-  const frColor = { aktiv: 'var(--s1)', passiv: 'var(--yellow)', nicht_thematisiert: 'var(--unk)' };
+  const frColor = { aktiv: 'var(--s1)', passiv: 'var(--ocker)', nicht_thematisiert: 'var(--unk)' };
   const block = (title, field, cats) => `<div class="frame-group"><h3>${title}</h3>` + cats.map((c) => {
     const ps = persons.filter((p) => p[field] === c);
     const tot = wsum(ps);
