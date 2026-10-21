@@ -8,16 +8,16 @@
 :root {
   --bg: #f5f6f7; --surface: #fcfcfb; --line: #e1e3e6; --fg: #15171a; --fg-2: #52555b; --fg-3: #7b7f86;
   --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --unk: #b4b8be; --accent: #2a78d6;
-  --violett: #8467c4; --koralle: #e2685b; --yellow: #ffd800; --on-yellow: #15171a; --yellow-soft: #fff9d9; --yellow-line: #f0dc6e;
+  --p1: #6a9bd1; --p2: #a5bb9a; --p3: #f08a74; --yellow: #ffd800; --on-yellow: #15171a; --yellow-soft: #fff9d9; --yellow-line: #f0dc6e;
   --font-body: "IBM Plex Sans", system-ui, sans-serif;
   --font-head: "IBM Plex Sans Condensed", "IBM Plex Sans", system-ui, sans-serif;
 }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --bg: #121315; --surface: #1a1b1d; --line: #2c2e32; --fg: #f0efec; --fg-2: #c3c2b7; --fg-3: #8d9097;
-  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --unk: #5c6066; --accent: #3987e5; --violett: #9a80d8; --koralle: #e0705f; --yellow: #f2cc00; --on-yellow: #15171a; --yellow-soft: #26230f; --yellow-line: #5a4f12; color-scheme: dark } }
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --unk: #5c6066; --accent: #3987e5; --p1: #6a9bd1; --p2: #9fb594; --p3: #ec8570; --yellow: #f2cc00; --on-yellow: #15171a; --yellow-soft: #26230f; --yellow-line: #5a4f12; color-scheme: dark } }
 :root[data-theme="dark"] {
   --bg: #121315; --surface: #1a1b1d; --line: #2c2e32; --fg: #f0efec; --fg-2: #c3c2b7; --fg-3: #8d9097;
-  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --unk: #5c6066; --accent: #3987e5; --violett: #9a80d8; --koralle: #e0705f; --yellow: #f2cc00; --on-yellow: #15171a; --yellow-soft: #26230f; --yellow-line: #5a4f12; color-scheme: dark }
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --unk: #5c6066; --accent: #3987e5; --p1: #6a9bd1; --p2: #9fb594; --p3: #ec8570; --yellow: #f2cc00; --on-yellow: #15171a; --yellow-soft: #26230f; --yellow-line: #5a4f12; color-scheme: dark }
 
 body { background: var(--bg); color: var(--fg); font: 15px/1.5 var(--font-body); }
 .wrap { max-width: 1040px; margin: 0 auto; padding-block: 24px 48px;
@@ -151,7 +151,7 @@ const PIES = [
   { key: 'alter', title: 'Alter', cats: ['jung', 'mittel', 'alt', 'nicht_erkennbar'] },
   { key: 'hautfarbe', title: 'Wahrgenommen als PoC/<i>weiß</i>', cats: ['poc', 'weiss', 'nicht_erkennbar'] },
 ];
-const SLOT = ['--s1', '--violett', '--koralle'];
+const SLOT = ['--p1', '--p2', '--p3'];
 const colorFor = (cat, i) => (cat === 'nicht_erkennbar' || cat === 'unklar') ? 'var(--unk)' : `var(${SLOT[i] || '--s3'})`;
 
 function parseCSV(text) {
@@ -257,7 +257,7 @@ function render() {
 function pieHTML(d) {
   const total = d.cats.reduce((s, c) => s + d.counts[c], 0);
   const name = (c) => (d.names && d.names[c]) || LABELS[c];
-  const color = (c, i) => d.names ? (c === 'mit' ? 'var(--s1)' : 'var(--unk)') : colorFor(c, i);
+  const color = (c, i) => d.names ? (c === 'mit' ? 'var(--p1)' : 'var(--unk)') : colorFor(c, i);
   let a = -Math.PI / 2; const R = 64, r = 40, C = 66;
   const pt = (rad, ang) => `${C + rad * Math.cos(ang)} ${C + rad * Math.sin(ang)}`;
   const paths = total ? d.cats.map((c, i) => {
