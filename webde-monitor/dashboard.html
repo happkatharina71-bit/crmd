@@ -125,7 +125,7 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
 
   <section aria-labelledby="h-frame">
     <h2 id="h-frame">Framing in der Headline <span class="badge">experimentell</span></h2>
-    <p class="note">Gleich gewichtet wie oben. Wird die Person in der Headline als handelnd (aktiv) oder als jemand dargestellt, dem etwas widerfährt (passiv)? Die Zahl in Klammern ist die Zahl der Teaser, die auf diese Gruppe entfallen.<br>aktiv: Die Person handelt, z. B. ‚Ministerin kündigt neue Reform an‘.<br>passiv: Der Person widerfährt etwas, z. B. ‚Radfahrer bei Unfall schwer verletzt‘.</p>
+    <p class="note" style="line-height:1.8">Gleich gewichtet wie oben. Wird die Person in der Headline als handelnd (aktiv) oder als jemand dargestellt, dem etwas widerfährt (passiv)? Die Zahl in Klammern ist die Zahl der Teaser, die auf diese Gruppe entfallen.<br><b>aktiv:</b> Die Person handelt, z. B. ‚Ministerin kündigt neue Reform an‘.<br><b>passiv:</b> Der Person widerfährt etwas, z. B. ‚Radfahrer bei Unfall schwer verletzt‘.</p>
     <div class="panel" id="framing"></div>
   </section>
 
@@ -151,7 +151,7 @@ const PIES = [
   { key: 'alter', title: 'Alter', cats: ['jung', 'mittel', 'alt', 'nicht_erkennbar'] },
   { key: 'hautfarbe', title: 'Wahrgenommen als PoC/<i>weiß</i>', cats: ['poc', 'weiss', 'nicht_erkennbar'] },
 ];
-const SLOT = ['--s1', '--s2', '--s3'];
+const SLOT = ['--s1', '--yellow', '--s3'];
 const colorFor = (cat, i) => (cat === 'nicht_erkennbar' || cat === 'unklar') ? 'var(--unk)' : `var(${SLOT[i] || '--s3'})`;
 
 function parseCSV(text) {
@@ -234,7 +234,7 @@ function render() {
 
   // Framing
   const fr = ['aktiv', 'passiv', 'nicht_thematisiert'];
-  const frColor = { aktiv: 'var(--s1)', passiv: 'var(--s2)', nicht_thematisiert: 'var(--unk)' };
+  const frColor = { aktiv: 'var(--s1)', passiv: 'var(--yellow)', nicht_thematisiert: 'var(--unk)' };
   const block = (title, field, cats) => `<div class="frame-group"><h3>${title}</h3>` + cats.map((c) => {
     const ps = persons.filter((p) => p[field] === c);
     const tot = wsum(ps);
