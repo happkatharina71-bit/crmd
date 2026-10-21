@@ -1,0 +1,307 @@
+<meta charset="utf-8">
+<title>Topteaser-Monitor web.de</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Sans+Condensed:wght@600&display=swap">
+<style>
+/* Layout: eine Spalte, Filterleiste oben, darunter Kennzahlen -> "x von 5" -> Torten -> Framing -> Zeitverlauf */
+:root {
+  --bg: #f5f6f7; --surface: #fcfcfb; --line: #e1e3e6; --fg: #15171a; --fg-2: #52555b; --fg-3: #7b7f86;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --unk: #b4b8be; --accent: #2a78d6;
+  --font-body: "IBM Plex Sans", system-ui, sans-serif;
+  --font-head: "IBM Plex Sans Condensed", "IBM Plex Sans", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #121315; --surface: #1a1b1d; --line: #2c2e32; --fg: #f0efec; --fg-2: #c3c2b7; --fg-3: #8d9097;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --unk: #5c6066; --accent: #3987e5; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #121315; --surface: #1a1b1d; --line: #2c2e32; --fg: #f0efec; --fg-2: #c3c2b7; --fg-3: #8d9097;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --unk: #5c6066; --accent: #3987e5; color-scheme: dark }
+
+body { background: var(--bg); color: var(--fg); font: 15px/1.5 var(--font-body); }
+.wrap { max-width: 1040px; margin: 0 auto; padding-block: 24px 48px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: grid; gap: 28px; }
+h1, h2 { font-family: var(--font-head); font-weight: 600; text-wrap: balance; margin: 0; }
+h1 { font-size: 1.7rem; line-height: 1.15; }
+h2 { font-size: 1.15rem; }
+.sub { color: var(--fg-2); margin: 4px 0 0; }
+.note { color: var(--fg-3); font-size: .82rem; margin: 0; }
+section { display: grid; gap: 12px; }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 16px; min-width: 0; }
+.num { font-variant-numeric: tabular-nums; }
+
+.filters { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: end; }
+.filters label { display: grid; gap: 4px; font-size: .78rem; color: var(--fg-2); letter-spacing: .02em; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; background: var(--surface); }
+.seg button { font: inherit; font-size: .88rem; border: 0; background: none; color: var(--fg-2); padding: 6px 12px; cursor: pointer; }
+.seg button + button { border-left: 1px solid var(--line); }
+.seg button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+.seg button:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--fg); }
+
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }
+.kpi .v { font-family: var(--font-head); font-size: 2rem; line-height: 1.1; }
+.kpi .l { color: var(--fg-2); font-size: .85rem; }
+
+.presence { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
+.pres .lbl { font-size: .85rem; color: var(--fg-2); }
+.pres .v { font-family: var(--font-head); font-size: 1.6rem; line-height: 1.2; }
+.pres .v small { font-family: var(--font-body); font-size: .8rem; color: var(--fg-3); font-weight: 400; }
+.dots { display: flex; gap: 4px; margin-top: 6px; }
+.dots span { width: 14px; height: 14px; border-radius: 50%; border: 1.5px solid var(--accent); background: transparent; position: relative; overflow: hidden; }
+.dots span i { position: absolute; inset: 0 auto 0 0; background: var(--accent); }
+
+.pies { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+.pie { display: grid; gap: 10px; }
+.pie-body { display: flex; gap: 16px; align-items: center; flex-wrap: wrap; }
+.pie svg { width: 132px; height: 132px; flex: none; }
+.pie svg path { stroke: var(--surface); stroke-width: 2; cursor: default; }
+.pie svg path:hover { opacity: .85; }
+.pie .center { font-family: var(--font-head); font-size: 22px; fill: var(--fg); }
+.pie .center2 { font-size: 10px; fill: var(--fg-3); }
+.legend { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; font-size: .88rem; min-width: 0; flex: 1; }
+.legend li { display: grid; grid-template-columns: 12px 1fr auto; gap: 8px; align-items: center; }
+.legend .sw { width: 12px; height: 12px; border-radius: 3px; }
+.legend .pct { color: var(--fg-2); }
+
+.frame-row { display: grid; grid-template-columns: 120px 1fr; gap: 10px; align-items: center; font-size: .88rem; }
+.frame-group { display: grid; gap: 6px; }
+.frame-group h3 { font-size: .8rem; color: var(--fg-3); font-weight: 500; margin: 6px 0 0; text-transform: uppercase; letter-spacing: .05em; }
+.stack { display: flex; gap: 2px; height: 18px; border-radius: 4px; overflow: hidden; background: var(--line); }
+.stack div { height: 100%; }
+.frame-legend { display: flex; gap: 16px; flex-wrap: wrap; font-size: .82rem; color: var(--fg-2); }
+.frame-legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; background: var(--c); }
+
+.trend svg { width: 100%; height: 220px; display: block; }
+.trend text { fill: var(--fg-3); font-size: 11px; }
+#tip { position: fixed; pointer-events: none; background: var(--fg); color: var(--bg); font-size: .8rem; padding: 4px 8px; border-radius: 4px; z-index: 5; }
+.empty { color: var(--fg-3); padding: 24px 0; text-align: center; }
+.badge { display: inline-block; font-size: .72rem; padding: 1px 7px; border-radius: 99px; border: 1px solid var(--fg-3); color: var(--fg-2); vertical-align: middle; margin-left: 6px; font-family: var(--font-body); font-weight: 500; }
+@media (prefers-reduced-motion: no-preference) { .stack div, .dots i { transition: width .3s; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Wer ist zu sehen? Die 5 Topteaser auf web.de</h1>
+    <p class="sub">Abgebildete Personen in den Topteasern der mobilen Startseite, ausgewertet nach Bild, Dachzeile und Headline. Alle Merkmale sind wahrgenommen, nicht gesichert.</p>
+  </header>
+
+  <div class="filters" role="group" aria-label="Filter">
+    <label>Zeitraum
+      <span class="seg" id="range">
+        <button type="button" data-r="7">7 Tage</button><button type="button" data-r="30">30 Tage</button><button type="button" data-r="all" aria-pressed="true">Alle</button>
+      </span>
+    </label>
+    <label>von <input type="date" id="from"></label>
+    <label>bis <input type="date" id="to"></label>
+    <label>Personen
+      <span class="seg" id="basis">
+        <button type="button" data-b="alle" aria-pressed="true">Alle codierten</button><button type="button" data-b="haupt">Nur Hauptperson</button>
+      </span>
+    </label>
+  </div>
+
+  <section aria-labelledby="h-kpi">
+    <h2 id="h-kpi" hidden>Überblick</h2>
+    <div class="kpis" id="kpis"></div>
+  </section>
+
+  <section aria-labelledby="h-pres">
+    <h2 id="h-pres">Wie viele der 5 Teaser zeigen …</h2>
+    <p class="note">Durchschnitt pro Erhebung. Ein Teaser zählt, wenn mindestens eine solche Person im Bild ist. Ein Teaser kann deshalb mehrfach zählen.</p>
+    <div class="presence" id="presence"></div>
+  </section>
+
+  <section aria-labelledby="h-pies">
+    <h2 id="h-pies">Verteilung der abgebildeten Personen</h2>
+    <div class="pies" id="pies"></div>
+  </section>
+
+  <section aria-labelledby="h-frame">
+    <h2 id="h-frame">Framing in der Headline <span class="badge">experimentell</span></h2>
+    <p class="note">Wird die Person in der Headline als handelnd (aktiv) oder als jemand dargestellt, dem etwas widerfährt (passiv)?</p>
+    <div class="panel" id="framing"></div>
+  </section>
+
+  <section aria-labelledby="h-trend">
+    <h2 id="h-trend">Zeitverlauf</h2>
+    <p class="note">Anteil der Teaser mit mindestens einer Frau bzw. einem Mann im Bild, pro Tag.</p>
+    <div class="panel trend" id="trend"></div>
+  </section>
+
+  <p class="note" id="foot"></p>
+</div>
+<div id="tip" hidden></div>
+
+<script>
+const LABELS = {
+  weiblich: 'Frauen', maennlich: 'Männer', divers: 'Divers', nicht_erkennbar: 'nicht erkennbar',
+  jung: 'jung (unter 30)', mittel: 'mittel (30–59)', alt: 'alt (60+)',
+  weiss: 'weiß', poc: 'PoC', ja: 'ja', nein: 'nein', unklar: 'unklar',
+  aktiv: 'aktiv', passiv: 'passiv', nicht_thematisiert: 'nicht thematisiert',
+};
+const css = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const PIES = [
+  { key: 'geschlecht', title: 'Geschlecht', cats: ['weiblich', 'maennlich', 'divers', 'nicht_erkennbar'] },
+  { key: 'alter', title: 'Alter', cats: ['jung', 'mittel', 'alt', 'nicht_erkennbar'] },
+  { key: 'hautfarbe', title: 'Hautfarbe', cats: ['weiss', 'poc', 'nicht_erkennbar'] },
+  { key: 'globaler_sueden', title: 'Bezug globaler Süden', cats: ['ja', 'nein', 'unklar'] },
+];
+const SLOT = ['--s1', '--s2', '--s3'];
+const colorFor = (cat, i) => (cat === 'nicht_erkennbar' || cat === 'unklar') ? 'var(--unk)' : `var(${SLOT[i] || '--s3'})`;
+
+function parseCSV(text) {
+  const rows = []; let row = [], cell = '', q = false;
+  for (let i = 0; i < text.length; i++) {
+    const c = text[i];
+    if (q) { if (c === '"') { if (text[i + 1] === '"') { cell += '"'; i++; } else q = false; } else cell += c; }
+    else if (c === '"') q = true;
+    else if (c === ',') { row.push(cell); cell = ''; }
+    else if (c === '\n') { row.push(cell); rows.push(row); row = []; cell = ''; }
+    else if (c !== '\r') cell += c;
+  }
+  if (cell || row.length) { row.push(cell); rows.push(row); }
+  const [head, ...body] = rows;
+  return body.filter((r) => r.length > 1).map((r) => Object.fromEntries(head.map((h, i) => [h, r[i]])));
+}
+const berlinDay = (iso) => new Date(iso).toLocaleDateString('sv-SE', { timeZone: 'Europe/Berlin' });
+const fmt = (n, d = 1) => n.toLocaleString('de-DE', { minimumFractionDigits: d, maximumFractionDigits: d });
+const pct = (a, b) => b ? fmt(100 * a / b, 0) + ' %' : '–';
+
+let TEASERS = [], PERSONS = [];
+const state = { range: 'all', from: '', to: '', basis: 'alle' };
+
+async function load() {
+  const [t, p] = await Promise.all(['data/teasers.csv', 'data/persons.csv'].map((u) => fetch(u).then((r) => r.ok ? r.text() : '')));
+  TEASERS = parseCSV(t).map((r) => ({ ...r, tag: berlinDay(r.erfasst_am), position: +r.position, personen_anzahl: +r.personen_anzahl }));
+  const day = Object.fromEntries(TEASERS.map((r) => [r.run_id, r.tag]));
+  PERSONS = parseCSV(p).map((r) => ({ ...r, tag: day[r.run_id], position: +r.position }));
+  render();
+}
+
+function filtered() {
+  let from = state.from, to = state.to;
+  if (state.range !== 'all' && !from && !to) {
+    const d = new Date(); d.setDate(d.getDate() - (+state.range - 1));
+    from = d.toLocaleDateString('sv-SE', { timeZone: 'Europe/Berlin' });
+  }
+  const inRange = (tag) => (!from || tag >= from) && (!to || tag <= to);
+  const teasers = TEASERS.filter((t) => inRange(t.tag));
+  let persons = PERSONS.filter((p) => inRange(p.tag));
+  if (state.basis === 'haupt') persons = persons.filter((p) => p.bildrolle === 'hauptperson');
+  return { teasers, persons };
+}
+
+function render() {
+  const { teasers, persons } = filtered();
+  const runs = [...new Set(teasers.map((t) => t.run_id))];
+  const withP = teasers.filter((t) => t.bild_typ === 'personen');
+  const days = [...new Set(teasers.map((t) => t.tag))].sort();
+
+  document.getElementById('kpis').innerHTML = [
+    [runs.length, 'Erhebungen'],
+    [teasers.length, 'Teaser'],
+    [`${fmt(runs.length ? withP.length / runs.length : 0)} <small style="font-size:.9rem">von 5</small>`, 'Teaser mit Personen im Bild'],
+    [persons.length, state.basis === 'haupt' ? 'Hauptpersonen' : 'codierte Personen'],
+  ].map(([v, l]) => `<div class="panel kpi"><div class="v num">${v}</div><div class="l">${l}</div></div>`).join('');
+
+  // "x von 5": Teaser mit mindestens einer Person der Gruppe
+  const key = (p) => p.run_id + '#' + p.position;
+  const groups = [
+    ['Frau', (p) => p.geschlecht === 'weiblich'], ['Mann', (p) => p.geschlecht === 'maennlich'],
+    ['junge Person', (p) => p.alter === 'jung'], ['ältere Person (60+)', (p) => p.alter === 'alt'],
+    ['weiße Person', (p) => p.hautfarbe === 'weiss'], ['PoC', (p) => p.hautfarbe === 'poc'],
+    ['Bezug globaler Süden', (p) => p.globaler_sueden === 'ja'],
+  ];
+  document.getElementById('presence').innerHTML = runs.length ? groups.map(([lbl, f]) => {
+    const n = new Set(persons.filter(f).map(key)).size;
+    const avg = n / runs.length;
+    const dots = [0, 1, 2, 3, 4].map((i) => `<span><i style="width:${Math.max(0, Math.min(1, avg - i)) * 100}%"></i></span>`).join('');
+    return `<div class="panel pres"><div class="lbl">… ${lbl}</div><div class="v num">${fmt(avg)} <small>von 5 · ${pct(n, teasers.length)}</small></div><div class="dots" aria-hidden="true">${dots}</div></div>`;
+  }).join('') : '<p class="empty">Keine Daten im gewählten Zeitraum.</p>';
+
+  // Torten
+  const extra = [{ title: 'Teaser mit / ohne Personen', cats: ['mit', 'ohne'],
+    counts: { mit: withP.length, ohne: teasers.length - withP.length }, unit: 'Teaser', names: { mit: 'mit Personen', ohne: 'ohne Personen' } }];
+  const pieDefs = [...extra, ...PIES.map((d) => ({ ...d, unit: 'Personen',
+    counts: Object.fromEntries(d.cats.map((c) => [c, persons.filter((p) => p[d.key] === c).length])) }))];
+  document.getElementById('pies').innerHTML = pieDefs.map((d) => pieHTML(d)).join('');
+
+  // Framing
+  const fr = ['aktiv', 'passiv', 'nicht_thematisiert'];
+  const frColor = { aktiv: 'var(--s1)', passiv: 'var(--s2)', nicht_thematisiert: 'var(--unk)' };
+  const block = (title, field, cats) => `<div class="frame-group"><h3>${title}</h3>` + cats.map((c) => {
+    const ps = persons.filter((p) => p[field] === c);
+    const segs = fr.map((f) => { const n = ps.filter((p) => p.headline_aktiv === f).length;
+      return n ? `<div style="width:${100 * n / ps.length}%;background:${frColor[f]}" data-tip="${LABELS[c]}: ${LABELS[f]} ${n} von ${ps.length} (${pct(n, ps.length)})"></div>` : ''; }).join('');
+    return `<div class="frame-row"><span>${LABELS[c]} <span class="note num">(${ps.length})</span></span><div class="stack">${segs}</div></div>`;
+  }).join('') + '</div>';
+  document.getElementById('framing').innerHTML = persons.length ? `<div class="frame-legend">${fr.map((f) => `<span style="--c:${frColor[f]}">${LABELS[f]}</span>`).join('')}</div>`
+    + block('Geschlecht', 'geschlecht', ['weiblich', 'maennlich'])
+    + block('Alter', 'alter', ['jung', 'mittel', 'alt'])
+    + block('Hautfarbe', 'hautfarbe', ['weiss', 'poc']) : '<p class="empty">Keine Personen im gewählten Zeitraum.</p>';
+
+  renderTrend(days, teasers, persons);
+  document.getElementById('foot').textContent = TEASERS.length
+    ? `Datenstand: ${TEASERS.at(-1).run_id.replace(/^(\d+)-(\d+)-(\d+)-(\d+)-(\d+)$/, '$3.$2.$1, $4:$5 UTC')} · ${new Set(TEASERS.map((t) => t.run_id)).size} Erhebungen insgesamt`
+    : 'Noch keine Daten vorhanden.';
+}
+
+function pieHTML(d) {
+  const total = d.cats.reduce((s, c) => s + d.counts[c], 0);
+  const name = (c) => (d.names && d.names[c]) || LABELS[c];
+  const color = (c, i) => d.names ? (c === 'mit' ? 'var(--s1)' : 'var(--unk)') : colorFor(c, i);
+  let a = -Math.PI / 2; const R = 64, r = 40, C = 66;
+  const pt = (rad, ang) => `${C + rad * Math.cos(ang)} ${C + rad * Math.sin(ang)}`;
+  const paths = total ? d.cats.map((c, i) => {
+    const n = d.counts[c]; if (!n) return '';
+    const tip = `${name(c)}: ${n} von ${total} (${pct(n, total)})`;
+    if (n === total) return `<path d="M${pt(R, -Math.PI / 2)} A${R} ${R} 0 1 1 ${pt(R, -Math.PI / 2 - .0001)} L${pt(r, -Math.PI / 2 - .0001)} A${r} ${r} 0 1 0 ${pt(r, -Math.PI / 2)}Z" fill="${color(c, i)}" data-tip="${tip}"/>`;
+    const b = a + 2 * Math.PI * n / total, large = b - a > Math.PI ? 1 : 0;
+    const p = `<path d="M${pt(R, a)} A${R} ${R} 0 ${large} 1 ${pt(R, b)} L${pt(r, b)} A${r} ${r} 0 ${large} 0 ${pt(r, a)}Z" fill="${color(c, i)}" data-tip="${tip}"/>`;
+    a = b; return p;
+  }).join('') : `<circle cx="${C}" cy="${C}" r="${(R + r) / 2}" fill="none" stroke="var(--line)" stroke-width="${R - r}"/>`;
+  const legend = d.cats.map((c, i) => `<li><span class="sw" style="background:${color(c, i)}"></span><span>${name(c)}</span><span class="num pct">${d.counts[c]} · ${pct(d.counts[c], total)}</span></li>`).join('');
+  return `<div class="panel pie"><h2 style="font-size:1rem">${d.title}</h2><div class="pie-body">
+    <svg viewBox="0 0 132 132" role="img" aria-label="${d.title}: ${d.cats.map((c) => name(c) + ' ' + d.counts[c]).join(', ')}">${paths}
+      <text class="center num" x="66" y="68" text-anchor="middle">${total}</text><text class="center2" x="66" y="84" text-anchor="middle">${d.unit}</text></svg>
+    <ul class="legend">${legend}</ul></div></div>`;
+}
+
+function renderTrend(days, teasers, persons) {
+  const el = document.getElementById('trend');
+  if (days.length < 2) { el.innerHTML = `<p class="empty">Der Zeitverlauf erscheint, sobald Daten von mindestens 2 Tagen vorliegen (bisher: ${days.length}).</p>`; return; }
+  const key = (p) => p.run_id + '#' + p.position;
+  const series = [['Frau', 'weiblich', 'var(--s1)'], ['Mann', 'maennlich', 'var(--s2)']].map(([lbl, g, col]) => ({ lbl, col,
+    pts: days.map((d) => { const n = teasers.filter((t) => t.tag === d).length;
+      const k = new Set(persons.filter((p) => p.tag === d && p.geschlecht === g).map(key)).size; return n ? k / n : 0; }) }));
+  const W = 800, H = 220, L = 36, B = 24, T = 10, Rr = 70;
+  const x = (i) => L + (W - L - Rr) * i / (days.length - 1), y = (v) => T + (H - T - B) * (1 - v);
+  const grid = [0, .5, 1].map((v) => `<line x1="${L}" x2="${W - Rr}" y1="${y(v)}" y2="${y(v)}" stroke="var(--line)"/><text x="${L - 6}" y="${y(v) + 4}" text-anchor="end">${v * 100} %</text>`).join('');
+  const step = Math.ceil(days.length / 8);
+  const xl = days.map((d, i) => i % step === 0 || i === days.length - 1 ? `<text x="${x(i)}" y="${H - 6}" text-anchor="middle">${d.slice(8)}.${d.slice(5, 7)}.</text>` : '').join('');
+  const lines = series.map((s) => `<polyline fill="none" stroke="${s.col}" stroke-width="2" points="${s.pts.map((v, i) => `${x(i)},${y(v)}`).join(' ')}"/>`
+    + s.pts.map((v, i) => `<circle cx="${x(i)}" cy="${y(v)}" r="4" fill="${s.col}" stroke="var(--surface)" stroke-width="2" data-tip="${s.lbl}: ${days[i]} – ${pct(v, 1)}"/>`).join('')
+    + `<text x="${x(days.length - 1) + 8}" y="${y(s.pts.at(-1)) + 4}" style="fill:var(--fg-2)">${s.lbl}</text>`).join('');
+  el.innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Zeitverlauf Anteil Teaser mit Frau und Mann">${grid}${xl}${lines}</svg>`;
+}
+
+// Filter
+const setPressed = (wrap, btn) => wrap.querySelectorAll('button').forEach((b) => b.setAttribute('aria-pressed', String(b === btn)));
+document.getElementById('range').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return;
+  state.range = b.dataset.r; state.from = state.to = ''; from.value = to.value = ''; setPressed(e.currentTarget, b); render(); });
+document.getElementById('basis').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return;
+  state.basis = b.dataset.b; setPressed(e.currentTarget, b); render(); });
+const from = document.getElementById('from'), to = document.getElementById('to');
+[from, to].forEach((inp) => inp.addEventListener('change', () => { state.from = from.value; state.to = to.value;
+  setPressed(document.getElementById('range'), null); render(); }));
+
+// Tooltip
+const tip = document.getElementById('tip');
+document.addEventListener('pointermove', (e) => { const t = e.target.closest('[data-tip]');
+  if (!t) { tip.hidden = true; return; } tip.textContent = t.dataset.tip; tip.hidden = false;
+  tip.style.left = Math.min(e.clientX + 12, innerWidth - tip.offsetWidth - 8) + 'px'; tip.style.top = (e.clientY + 14) + 'px'; });
+
+load().catch(() => { document.getElementById('foot').textContent = 'Die Daten konnten nicht geladen werden.'; });
+</script>

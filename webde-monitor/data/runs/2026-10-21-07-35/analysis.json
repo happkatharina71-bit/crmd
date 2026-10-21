@@ -10,8 +10,7 @@
       "bild_typ": "personen",
       "personen_anzahl": 1,
       "menschenmenge": "nein",
-      "thema": "sonstiges",
-      "notiz": "Thema Klima/Umwelt fehlt im Codebuch",
+      "notiz": "",
       "personen": [
         {
           "name": "",
@@ -24,7 +23,6 @@
           "geschlecht": "nicht_erkennbar",
           "alter": "nicht_erkennbar",
           "hautfarbe": "nicht_erkennbar",
-          "rolle": "sonstige",
           "sicherheit": "hoch",
           "begruendung": "Einsatzkraft mit Helm und Gesichtsmaske, Merkmale verdeckt; Ort aus Bild/Headline nicht erkennbar"
         }
@@ -38,7 +36,6 @@
       "bild_typ": "personen",
       "personen_anzahl": 1,
       "menschenmenge": "nein",
-      "thema": "wirtschaft",
       "notiz": "Person nicht benannt; Geste wirkt betreten",
       "personen": [
         {
@@ -52,7 +49,6 @@
           "geschlecht": "maennlich",
           "alter": "mittel",
           "hautfarbe": "weiss",
-          "rolle": "politik",
           "sicherheit": "mittel",
           "begruendung": "Mann im Anzug am Pressepult; Dachzeile 'Panne im Finanzministerium' legt Ministeriumsvertreter nahe, Panne wird ihm zugeschrieben"
         }
@@ -66,8 +62,7 @@
       "bild_typ": "landschaft_ort",
       "personen_anzahl": 0,
       "menschenmenge": "nein",
-      "thema": "sonstiges",
-      "notiz": "Boje und Enten am Ufer; Thema Umwelt fehlt im Codebuch",
+      "notiz": "Boje und Enten am Ufer",
       "personen": []
     },
     {
@@ -78,7 +73,6 @@
       "bild_typ": "personen",
       "personen_anzahl": 12,
       "menschenmenge": "ja",
-      "thema": "sport",
       "notiz": "Mannschaftsfoto, 5 Personen im Vordergrund codiert",
       "personen": [
         {
@@ -92,7 +86,6 @@
           "geschlecht": "maennlich",
           "alter": "jung",
           "hautfarbe": "poc",
-          "rolle": "sport",
           "sicherheit": "mittel",
           "begruendung": "Spieler Nr. 18, Bildmitte"
         },
@@ -107,7 +100,6 @@
           "geschlecht": "maennlich",
           "alter": "jung",
           "hautfarbe": "weiss",
-          "rolle": "sport",
           "sicherheit": "mittel",
           "begruendung": "Spieler Nr. 49, Bildmitte"
         },
@@ -122,7 +114,6 @@
           "geschlecht": "maennlich",
           "alter": "mittel",
           "hautfarbe": "weiss",
-          "rolle": "sport",
           "sicherheit": "niedrig",
           "begruendung": "Spieler Nr. 3, Alter um 30 schwer einzuschätzen"
         },
@@ -137,7 +128,6 @@
           "geschlecht": "maennlich",
           "alter": "jung",
           "hautfarbe": "weiss",
-          "rolle": "sport",
           "sicherheit": "mittel",
           "begruendung": "Spieler Nr. 4 mit Kapitänsbinde"
         },
@@ -152,7 +142,6 @@
           "geschlecht": "maennlich",
           "alter": "jung",
           "hautfarbe": "poc",
-          "rolle": "sport",
           "sicherheit": "mittel",
           "begruendung": "Spieler Nr. 40, links"
         }
@@ -166,7 +155,6 @@
       "bild_typ": "personen",
       "personen_anzahl": 2,
       "menschenmenge": "nein",
-      "thema": "sport",
       "notiz": "Schwarz-Weiß; unklar, welche Person gemeint ist; Bild wirkt jünger als 'Mit 67 Jahren'",
       "personen": [
         {
@@ -180,7 +168,6 @@
           "geschlecht": "maennlich",
           "alter": "mittel",
           "hautfarbe": "weiss",
-          "rolle": "sonstige",
           "sicherheit": "mittel",
           "begruendung": "Reporter mit Headset links; welche Person der Genannte ist, bleibt offen"
         },
@@ -195,7 +182,6 @@
           "geschlecht": "maennlich",
           "alter": "mittel",
           "hautfarbe": "weiss",
-          "rolle": "sonstige",
           "sicherheit": "mittel",
           "begruendung": "Reporter mit Headset rechts, älter wirkend; s.o."
         }

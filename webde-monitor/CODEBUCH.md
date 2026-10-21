@@ -13,7 +13,6 @@ ehrliche Lücke als eine geratene Zuordnung.
 | `bild_typ` | personen, landschaft_ort, objekt, tier, grafik_text, sonstiges | `personen`, sobald mind. eine Person erkennbar im Bild ist |
 | `personen_anzahl` | Zahl | alle sichtbaren Personen (bei Menge: Schätzung) |
 | `menschenmenge` | ja, nein | `ja` ab mehr als 5 Personen |
-| `thema` | politik, wirtschaft, krieg_konflikt, kriminalitaet_unglueck, gesellschaft, promi_unterhaltung, sport, wissenschaft_gesundheit, ratgeber_verbraucher, sonstiges | nach Dachzeile + Headline |
 | `notiz` | Freitext | Besonderheiten, z.B. Archivbild, Symbolbild |
 
 ## Personen-Ebene (nur bei `bild_typ = personen`)
@@ -33,7 +32,6 @@ Personen im Hintergrund einer Menge werden nur über `personen_anzahl` gezählt.
 | `headline_aktiv` | aktiv, passiv, nicht_thematisiert | aktiv = Person handelt/spricht/entscheidet; passiv = ihr widerfährt etwas, wird bewertet/beschrieben |
 | `status` | reich_maechtig, arm_benachteiligt, neutral, unklar | laut Dachzeile/Headline/Bild, nicht nach Kleidung allein |
 | `agenda` | ja, nein, unklar | ja = vertritt erkennbar eine Position, ein Ziel, eine Forderung |
-| `rolle` | politik, wirtschaft, expertise, promi_unterhaltung, sport, taeter_beschuldigt, opfer_betroffen, alltag_buerger, sonstige | Hauptrolle im Teaser |
 | `sicherheit` | hoch, mittel, niedrig | Gesamtsicherheit der Codierung dieser Person |
 | `begruendung` | Freitext, 1 Satz | woran die Zuordnung festgemacht wurde |
 
@@ -42,7 +40,7 @@ Personen im Hintergrund einer Menge werden nur über `personen_anzahl` gezählt.
 1. **Bildanteil**: Anteil Teaser mit Personen vs. ohne Personen.
 2. **Personen-Verteilung**: über alle codierten Personen (Geschlecht, Alter, Hautfarbe, globaler Süden).
 3. **Hauptpersonen-Verteilung**: nur `bildrolle = hauptperson` – verhindert, dass Gruppenbilder das Ergebnis dominieren.
-4. **Framing**: Kreuzungen, z.B. Geschlecht × headline_aktiv, Hautfarbe × rolle, Alter × status.
+4. **Framing** (vorerst experimentell, wird auf Aussagekraft geprüft): z.B. Geschlecht × headline_aktiv, Alter × status.
 5. `nicht_erkennbar` wird immer mit ausgewiesen, nie stillschweigend herausgerechnet.
 
 ## Format der Datei `analysis.json`
@@ -55,12 +53,12 @@ Personen im Hintergrund einer Menge werden nur über `personen_anzahl` gezählt.
     {
       "position": 1, "headline": "...", "url": "...",
       "bild_typ": "personen", "personen_anzahl": 2, "menschenmenge": "nein",
-      "thema": "politik", "notiz": "",
+      "notiz": "",
       "personen": [
         { "name": "...", "geschlecht": "weiblich", "alter": "mittel", "hautfarbe": "weiss",
           "globaler_sueden": "nein", "bildrolle": "hauptperson", "in_headline": "namentlich",
           "headline_aktiv": "aktiv", "status": "reich_maechtig", "agenda": "ja",
-          "rolle": "politik", "sicherheit": "hoch", "begruendung": "..." }
+          "sicherheit": "hoch", "begruendung": "..." }
       ]
     }
   ]
