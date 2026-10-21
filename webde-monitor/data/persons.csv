@@ -22,3 +22,12 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-21-15-06,5,3,,maennlich,alt,weiss,nebenperson,indirekt,passiv,reich_maechtig,nein,mittel,Weißhaariger Mann in Uniform rechts am Tisch sitzend
 2026-10-21-15-06,5,4,,maennlich,jung,weiss,nebenperson,indirekt,passiv,reich_maechtig,nein,niedrig,"Lockiger Mann im Frack links, lächelnd; Alter um 30 schwer einzuschätzen"
 2026-10-21-15-06,5,5,,maennlich,alt,weiss,nebenperson,indirekt,passiv,reich_maechtig,nein,mittel,"Grauhaariger Mann links im Vordergrund, sich verbeugend"
+2026-10-21-19-14,2,1,,maennlich,jung,poc,hauptperson,indirekt,passiv,neutral,nein,mittel,"Spieler im dunklen Trikot vorn links am Ball; Headline meldet Hiobsbotschaft für Arsenal"
+2026-10-21-19-14,2,2,,maennlich,jung,poc,nebenperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Spieler im roten Trikot vorn rechts, Gegner 'bei den Bayern'"
+2026-10-21-19-14,2,3,,maennlich,jung,weiss,nebenperson,indirekt,passiv,neutral,nein,niedrig,Spieler im dunklen Trikot unscharf im Hintergrund links
+2026-10-21-19-14,2,4,,maennlich,jung,poc,nebenperson,indirekt,passiv,neutral,nein,niedrig,Spieler im dunklen Trikot unscharf im Hintergrund rechts
+2026-10-21-19-14,3,1,Alice Schwarzer,weiblich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Einzelporträt einer älteren Frau; Headline nennt Alice Schwarzer, die 'Emma' einstellt und mit Kritikerinnen abrechnet"
+2026-10-21-19-14,4,1,,weiblich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Frau im hellen Anzug am mittleren Pult, zentral; Headline: AfD will EU umbauen"
+2026-10-21-19-14,4,2,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,mittel,Mann mit Brille am linken Pult
+2026-10-21-19-14,4,3,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Mann im dunklen Anzug am rechten Pult; Alter um 30 schwer einzuschätzen"
+2026-10-21-19-14,5,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Mann mit grauem Bart blickt sorgenvoll aufs Smartphone; steht für die 'Hunderttausenden', die auf Betrug hereinfallen"

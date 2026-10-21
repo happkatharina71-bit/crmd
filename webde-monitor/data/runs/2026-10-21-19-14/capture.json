@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-21-19-14",
+  "erfasst_am": "2026-10-21T19:14:07.405Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Kritische Sicherheitslücke bedroht Millionen Websites weltweit",
+      "teasertext": "BSI warnt eindringlich Kritische Sicherheitslücke bedroht Millionen Websites weltweit",
+      "url": "https://web.de/magazine/digital/kritische-sicherheitsluecke-bedroht-millionen-websites-weltweit-42860068",
+      "bild_url": "https://i0.web.de/image/490/42860490%2cpd=5%2cf=responsive169-w950/cyberangriff.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "BSI warnt eindringlich",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Hiobsbotschaft für Arsenal nach zehn Minuten im Topspiel bei den Bayern",
+      "teasertext": "CL im Ticker Hiobsbotschaft für Arsenal nach zehn Minuten im Topspiel bei den Bayern",
+      "url": "https://web.de/magazine/sport/fussball/champions-league/hiobsbotschaft-arsenal-minuten-topspiel-bayern-42861488",
+      "bild_url": "https://i0.web.de/image/716/42861716%2cpd=2%2cf=responsive169-w300/bayern-muenchen-fc-arsenal.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "CL im Ticker",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Alice Schwarzer stellt \"Emma\" ein – und rechnet mit ihren Kritikerinnen ab",
+      "teasertext": "Streitbare Verlegerin Alice Schwarzer stellt \"Emma\" ein – und rechnet mit ihren Kritikerinnen ab",
+      "url": "https://web.de/magazine/politik/inland/alice-schwarzer-stellt-emma-rechnet-kritikerinnen-42860808",
+      "bild_url": "https://i0.web.de/image/942/42860942%2cpd=1%2cf=responsive169-w300/publizistin-alice-schwarzer.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Streitbare Verlegerin",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "AfD will EU komplett umbauen",
+      "teasertext": "Allianz mit Le Pen AfD will EU komplett umbauen",
+      "url": "https://web.de/magazine/politik/inland/afd-eu-komplett-umbauen-42861490",
+      "bild_url": "https://i0.web.de/image/492/42861492%2cpd=2%2cf=responsive169-w300/fortsetzung-plenarsitzung-europaeischen-parlaments.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Allianz mit Le Pen",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Google Play Store: Hunderttausende fallen auf Fake-WhatsApp rein",
+      "teasertext": "Aktuelle Betrugsmaschen Google Play Store: Hunderttausende fallen auf Fake-WhatsApp rein",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/google-play-store-hunderttausende-fallen-fake-whatsapp-rein-42670410",
+      "bild_url": "https://i0.web.de/image/850/42860850%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Aktuelle Betrugsmaschen",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
