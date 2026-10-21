@@ -26,7 +26,6 @@ Personen im Hintergrund einer Menge werden nur über `personen_anzahl` gezählt.
 | `geschlecht` | weiblich, maennlich, divers, nicht_erkennbar | nach Bildeindruck |
 | `alter` | jung (unter 30, inkl. Kinder), mittel (30–59), alt (60+), nicht_erkennbar | nach Bildeindruck |
 | `hautfarbe` | weiss, poc, nicht_erkennbar | rein visuelle Wahrnehmung; **nie** aus dem Namen ableiten |
-| `globaler_sueden` | ja, nein, unklar | Bezug der Person zum globalen Süden (Herkunft, Ort des Geschehens) laut Dachzeile/Headline/Bild; unabhängig von `hautfarbe` |
 | `bildrolle` | hauptperson, nebenperson | |
 | `in_headline` | namentlich, indirekt, nein | `indirekt` = als Gruppe/Funktion gemeint ("Kanzler", "Rentnerin") |
 | `headline_aktiv` | aktiv, passiv, nicht_thematisiert | aktiv = Person handelt/spricht/entscheidet; passiv = ihr widerfährt etwas, wird bewertet/beschrieben |
@@ -37,10 +36,14 @@ Personen im Hintergrund einer Menge werden nur über `personen_anzahl` gezählt.
 
 ## Auswertungslogik (für das Dashboard)
 
+Grundeinheit ist der **Teaser**, nicht die Person.
+
 1. **Bildanteil**: Anteil Teaser mit Personen vs. ohne Personen.
-2. **Personen-Verteilung**: über alle codierten Personen (Geschlecht, Alter, Hautfarbe, globaler Süden).
-3. **Hauptpersonen-Verteilung**: nur `bildrolle = hauptperson` – verhindert, dass Gruppenbilder das Ergebnis dominieren.
-4. **Framing** (vorerst experimentell, wird auf Aussagekraft geprüft): z.B. Geschlecht × headline_aktiv, Alter × status.
+2. **„x von 5“**: Wie viele Teaser pro Erhebung zeigen mindestens eine Person mit dem Merkmal (z.B. mindestens eine Frau).
+3. **Verteilungen (Torten)**: Jeder Teaser mit Personen zählt genau 1. Dieses Gewicht wird gleichmäßig auf die
+   codierten Personen im Bild verteilt (5 Personen, davon 2 PoC → 0,4 PoC, 0,6 weiß). Gruppenbilder zählen
+   so nicht mehr als Einzelbilder.
+4. **Framing** (vorerst experimentell, wird auf Aussagekraft geprüft): gleiche Gewichtung, z.B. Geschlecht × headline_aktiv.
 5. `nicht_erkennbar` wird immer mit ausgewiesen, nie stillschweigend herausgerechnet.
 
 ## Format der Datei `analysis.json`
@@ -56,7 +59,7 @@ Personen im Hintergrund einer Menge werden nur über `personen_anzahl` gezählt.
       "notiz": "",
       "personen": [
         { "name": "...", "geschlecht": "weiblich", "alter": "mittel", "hautfarbe": "weiss",
-          "globaler_sueden": "nein", "bildrolle": "hauptperson", "in_headline": "namentlich",
+          "bildrolle": "hauptperson", "in_headline": "namentlich",
           "headline_aktiv": "aktiv", "status": "reich_maechtig", "agenda": "ja",
           "sicherheit": "hoch", "begruendung": "..." }
       ]

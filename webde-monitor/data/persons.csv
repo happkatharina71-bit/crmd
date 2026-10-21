@@ -1,10 +1,10 @@
-run_id,position,person_nr,name,geschlecht,alter,hautfarbe,globaler_sueden,bildrolle,in_headline,headline_aktiv,status,agenda,sicherheit,begruendung
-2026-10-21-07-35,1,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,unklar,hauptperson,nein,nicht_thematisiert,neutral,nein,hoch,"Einsatzkraft mit Helm und Gesichtsmaske, Merkmale verdeckt; Ort aus Bild/Headline nicht erkennbar"
-2026-10-21-07-35,2,1,,maennlich,mittel,weiss,nein,hauptperson,indirekt,passiv,reich_maechtig,nein,mittel,"Mann im Anzug am Pressepult; Dachzeile 'Panne im Finanzministerium' legt Ministeriumsvertreter nahe, Panne wird ihm zugeschrieben"
-2026-10-21-07-35,4,1,,maennlich,jung,poc,nein,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spieler Nr. 18, Bildmitte"
-2026-10-21-07-35,4,2,,maennlich,jung,weiss,nein,nebenperson,indirekt,aktiv,neutral,nein,mittel,"Spieler Nr. 49, Bildmitte"
-2026-10-21-07-35,4,3,,maennlich,mittel,weiss,nein,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Spieler Nr. 3, Alter um 30 schwer einzuschätzen"
-2026-10-21-07-35,4,4,,maennlich,jung,weiss,nein,nebenperson,indirekt,aktiv,neutral,nein,mittel,Spieler Nr. 4 mit Kapitänsbinde
-2026-10-21-07-35,4,5,,maennlich,jung,poc,nein,nebenperson,indirekt,aktiv,neutral,nein,mittel,"Spieler Nr. 40, links"
-2026-10-21-07-35,5,1,,maennlich,mittel,weiss,nein,hauptperson,indirekt,passiv,neutral,nein,mittel,"Reporter mit Headset links; welche Person der Genannte ist, bleibt offen"
-2026-10-21-07-35,5,2,,maennlich,mittel,weiss,nein,hauptperson,indirekt,passiv,neutral,nein,mittel,"Reporter mit Headset rechts, älter wirkend; s.o."
+run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,headline_aktiv,status,agenda,sicherheit,begruendung
+2026-10-21-07-35,1,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,hoch,"Einsatzkraft mit Helm und Gesichtsmaske, Merkmale verdeckt"
+2026-10-21-07-35,2,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,reich_maechtig,nein,mittel,"Mann im Anzug am Pressepult; Dachzeile 'Panne im Finanzministerium' legt Ministeriumsvertreter nahe, Panne wird ihm zugeschrieben"
+2026-10-21-07-35,4,1,,maennlich,jung,poc,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spieler Nr. 18, Bildmitte"
+2026-10-21-07-35,4,2,,maennlich,jung,weiss,nebenperson,indirekt,aktiv,neutral,nein,mittel,"Spieler Nr. 49, Bildmitte"
+2026-10-21-07-35,4,3,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Spieler Nr. 3, Alter um 30 schwer einzuschätzen"
+2026-10-21-07-35,4,4,,maennlich,jung,weiss,nebenperson,indirekt,aktiv,neutral,nein,mittel,Spieler Nr. 4 mit Kapitänsbinde
+2026-10-21-07-35,4,5,,maennlich,jung,poc,nebenperson,indirekt,aktiv,neutral,nein,mittel,"Spieler Nr. 40, links"
+2026-10-21-07-35,5,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Reporter mit Headset links; welche Person der Genannte ist, bleibt offen"
+2026-10-21-07-35,5,2,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Reporter mit Headset rechts, älter wirkend; s.o."

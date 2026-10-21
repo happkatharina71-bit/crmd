@@ -95,11 +95,6 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
     </label>
     <label>von <input type="date" id="from"></label>
     <label>bis <input type="date" id="to"></label>
-    <label>Personen
-      <span class="seg" id="basis">
-        <button type="button" data-b="alle" aria-pressed="true">Alle codierten</button><button type="button" data-b="haupt">Nur Hauptperson</button>
-      </span>
-    </label>
   </div>
 
   <section aria-labelledby="h-kpi">
@@ -115,12 +110,13 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
 
   <section aria-labelledby="h-pies">
     <h2 id="h-pies">Verteilung der abgebildeten Personen</h2>
+    <p class="note">Gewichtet pro Teaser: Jeder Teaser mit Personen zählt 1, aufgeteilt auf die Personen im Bild. Ein Gruppenfoto mit 2 PoC und 3 weißen Personen zählt 0,4 PoC und 0,6 weiß.</p>
     <div class="pies" id="pies"></div>
   </section>
 
   <section aria-labelledby="h-frame">
     <h2 id="h-frame">Framing in der Headline <span class="badge">experimentell</span></h2>
-    <p class="note">Wird die Person in der Headline als handelnd (aktiv) oder als jemand dargestellt, dem etwas widerfährt (passiv)?</p>
+    <p class="note">Gleich gewichtet wie oben. Wird die Person in der Headline als handelnd (aktiv) oder als jemand dargestellt, dem etwas widerfährt (passiv)?</p>
     <div class="panel" id="framing"></div>
   </section>
 
@@ -146,7 +142,6 @@ const PIES = [
   { key: 'geschlecht', title: 'Geschlecht', cats: ['weiblich', 'maennlich', 'divers', 'nicht_erkennbar'] },
   { key: 'alter', title: 'Alter', cats: ['jung', 'mittel', 'alt', 'nicht_erkennbar'] },
   { key: 'hautfarbe', title: 'Hautfarbe', cats: ['weiss', 'poc', 'nicht_erkennbar'] },
-  { key: 'globaler_sueden', title: 'Bezug globaler Süden', cats: ['ja', 'nein', 'unklar'] },
 ];
 const SLOT = ['--s1', '--s2', '--s3'];
 const colorFor = (cat, i) => (cat === 'nicht_erkennbar' || cat === 'unklar') ? 'var(--unk)' : `var(${SLOT[i] || '--s3'})`;
@@ -168,15 +163,21 @@ function parseCSV(text) {
 const berlinDay = (iso) => new Date(iso).toLocaleDateString('sv-SE', { timeZone: 'Europe/Berlin' });
 const fmt = (n, d = 1) => n.toLocaleString('de-DE', { minimumFractionDigits: d, maximumFractionDigits: d });
 const pct = (a, b) => b ? fmt(100 * a / b, 0) + ' %' : '–';
+const wsum = (ps) => ps.reduce((s, q) => s + q.w, 0);
+const num = (n) => fmt(n, Number.isInteger(Math.round(n * 100) / 100) ? 0 : 1);
 
 let TEASERS = [], PERSONS = [];
-const state = { range: 'all', from: '', to: '', basis: 'alle' };
+const state = { range: 'all', from: '', to: '' };
 
 async function load() {
   const [t, p] = await Promise.all(['data/teasers.csv', 'data/persons.csv'].map((u) => fetch(u).then((r) => r.ok ? r.text() : '')));
   TEASERS = parseCSV(t).map((r) => ({ ...r, tag: berlinDay(r.erfasst_am), position: +r.position, personen_anzahl: +r.personen_anzahl }));
   const day = Object.fromEntries(TEASERS.map((r) => [r.run_id, r.tag]));
   PERSONS = parseCSV(p).map((r) => ({ ...r, tag: day[r.run_id], position: +r.position }));
+  // Gewicht: jeder Teaser mit Personen zählt 1, gleichmäßig verteilt auf die codierten Personen im Bild
+  const perTeaser = {};
+  PERSONS.forEach((q) => { const k = q.run_id + '#' + q.position; perTeaser[k] = (perTeaser[k] || 0) + 1; });
+  PERSONS.forEach((q) => { q.w = 1 / perTeaser[q.run_id + '#' + q.position]; });
   render();
 }
 
@@ -189,7 +190,6 @@ function filtered() {
   const inRange = (tag) => (!from || tag >= from) && (!to || tag <= to);
   const teasers = TEASERS.filter((t) => inRange(t.tag));
   let persons = PERSONS.filter((p) => inRange(p.tag));
-  if (state.basis === 'haupt') persons = persons.filter((p) => p.bildrolle === 'hauptperson');
   return { teasers, persons };
 }
 
@@ -203,7 +203,7 @@ function render() {
     [runs.length, 'Erhebungen'],
     [teasers.length, 'Teaser'],
     [`${fmt(runs.length ? withP.length / runs.length : 0)} <small style="font-size:.9rem">von 5</small>`, 'Teaser mit Personen im Bild'],
-    [persons.length, state.basis === 'haupt' ? 'Hauptpersonen' : 'codierte Personen'],
+    [persons.length, 'codierte Personen'],
   ].map(([v, l]) => `<div class="panel kpi"><div class="v num">${v}</div><div class="l">${l}</div></div>`).join('');
 
   // "x von 5": Teaser mit mindestens einer Person der Gruppe
@@ -212,7 +212,6 @@ function render() {
     ['Frau', (p) => p.geschlecht === 'weiblich'], ['Mann', (p) => p.geschlecht === 'maennlich'],
     ['junge Person', (p) => p.alter === 'jung'], ['ältere Person (60+)', (p) => p.alter === 'alt'],
     ['weiße Person', (p) => p.hautfarbe === 'weiss'], ['PoC', (p) => p.hautfarbe === 'poc'],
-    ['Bezug globaler Süden', (p) => p.globaler_sueden === 'ja'],
   ];
   document.getElementById('presence').innerHTML = runs.length ? groups.map(([lbl, f]) => {
     const n = new Set(persons.filter(f).map(key)).size;
@@ -224,8 +223,8 @@ function render() {
   // Torten
   const extra = [{ title: 'Teaser mit / ohne Personen', cats: ['mit', 'ohne'],
     counts: { mit: withP.length, ohne: teasers.length - withP.length }, unit: 'Teaser', names: { mit: 'mit Personen', ohne: 'ohne Personen' } }];
-  const pieDefs = [...extra, ...PIES.map((d) => ({ ...d, unit: 'Personen',
-    counts: Object.fromEntries(d.cats.map((c) => [c, persons.filter((p) => p[d.key] === c).length])) }))];
+  const pieDefs = [...extra, ...PIES.map((d) => ({ ...d, unit: 'Teaser',
+    counts: Object.fromEntries(d.cats.map((c) => [c, wsum(persons.filter((p) => p[d.key] === c))])) }))];
   document.getElementById('pies').innerHTML = pieDefs.map((d) => pieHTML(d)).join('');
 
   // Framing
@@ -233,9 +232,10 @@ function render() {
   const frColor = { aktiv: 'var(--s1)', passiv: 'var(--s2)', nicht_thematisiert: 'var(--unk)' };
   const block = (title, field, cats) => `<div class="frame-group"><h3>${title}</h3>` + cats.map((c) => {
     const ps = persons.filter((p) => p[field] === c);
-    const segs = fr.map((f) => { const n = ps.filter((p) => p.headline_aktiv === f).length;
-      return n ? `<div style="width:${100 * n / ps.length}%;background:${frColor[f]}" data-tip="${LABELS[c]}: ${LABELS[f]} ${n} von ${ps.length} (${pct(n, ps.length)})"></div>` : ''; }).join('');
-    return `<div class="frame-row"><span>${LABELS[c]} <span class="note num">(${ps.length})</span></span><div class="stack">${segs}</div></div>`;
+    const tot = wsum(ps);
+    const segs = fr.map((f) => { const n = wsum(ps.filter((p) => p.headline_aktiv === f));
+      return n ? `<div style="width:${100 * n / tot}%;background:${frColor[f]}" data-tip="${LABELS[c]}: ${LABELS[f]} ${pct(n, tot)}"></div>` : ''; }).join('');
+    return `<div class="frame-row"><span>${LABELS[c]} <span class="note num">(${num(tot)})</span></span><div class="stack">${segs}</div></div>`;
   }).join('') + '</div>';
   document.getElementById('framing').innerHTML = persons.length ? `<div class="frame-legend">${fr.map((f) => `<span style="--c:${frColor[f]}">${LABELS[f]}</span>`).join('')}</div>`
     + block('Geschlecht', 'geschlecht', ['weiblich', 'maennlich'])
@@ -256,16 +256,16 @@ function pieHTML(d) {
   const pt = (rad, ang) => `${C + rad * Math.cos(ang)} ${C + rad * Math.sin(ang)}`;
   const paths = total ? d.cats.map((c, i) => {
     const n = d.counts[c]; if (!n) return '';
-    const tip = `${name(c)}: ${n} von ${total} (${pct(n, total)})`;
+    const tip = `${name(c)}: ${num(n)} von ${num(total)} Teasern (${pct(n, total)})`;
     if (n === total) return `<path d="M${pt(R, -Math.PI / 2)} A${R} ${R} 0 1 1 ${pt(R, -Math.PI / 2 - .0001)} L${pt(r, -Math.PI / 2 - .0001)} A${r} ${r} 0 1 0 ${pt(r, -Math.PI / 2)}Z" fill="${color(c, i)}" data-tip="${tip}"/>`;
     const b = a + 2 * Math.PI * n / total, large = b - a > Math.PI ? 1 : 0;
     const p = `<path d="M${pt(R, a)} A${R} ${R} 0 ${large} 1 ${pt(R, b)} L${pt(r, b)} A${r} ${r} 0 ${large} 0 ${pt(r, a)}Z" fill="${color(c, i)}" data-tip="${tip}"/>`;
     a = b; return p;
   }).join('') : `<circle cx="${C}" cy="${C}" r="${(R + r) / 2}" fill="none" stroke="var(--line)" stroke-width="${R - r}"/>`;
-  const legend = d.cats.map((c, i) => `<li><span class="sw" style="background:${color(c, i)}"></span><span>${name(c)}</span><span class="num pct">${d.counts[c]} · ${pct(d.counts[c], total)}</span></li>`).join('');
+  const legend = d.cats.map((c, i) => `<li><span class="sw" style="background:${color(c, i)}"></span><span>${name(c)}</span><span class="num pct">${num(d.counts[c])} · ${pct(d.counts[c], total)}</span></li>`).join('');
   return `<div class="panel pie"><h2 style="font-size:1rem">${d.title}</h2><div class="pie-body">
     <svg viewBox="0 0 132 132" role="img" aria-label="${d.title}: ${d.cats.map((c) => name(c) + ' ' + d.counts[c]).join(', ')}">${paths}
-      <text class="center num" x="66" y="68" text-anchor="middle">${total}</text><text class="center2" x="66" y="84" text-anchor="middle">${d.unit}</text></svg>
+      <text class="center num" x="66" y="68" text-anchor="middle">${num(total)}</text><text class="center2" x="66" y="84" text-anchor="middle">${d.unit}</text></svg>
     <ul class="legend">${legend}</ul></div></div>`;
 }
 
@@ -291,8 +291,6 @@ function renderTrend(days, teasers, persons) {
 const setPressed = (wrap, btn) => wrap.querySelectorAll('button').forEach((b) => b.setAttribute('aria-pressed', String(b === btn)));
 document.getElementById('range').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return;
   state.range = b.dataset.r; state.from = state.to = ''; from.value = to.value = ''; setPressed(e.currentTarget, b); render(); });
-document.getElementById('basis').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return;
-  state.basis = b.dataset.b; setPressed(e.currentTarget, b); render(); });
 const from = document.getElementById('from'), to = document.getElementById('to');
 [from, to].forEach((inp) => inp.addEventListener('change', () => { state.from = from.value; state.to = to.value;
   setPressed(document.getElementById('range'), null); render(); }));

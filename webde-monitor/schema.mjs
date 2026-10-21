@@ -7,7 +7,6 @@ export const PERSON_FIELDS = {
   geschlecht: ['weiblich', 'maennlich', 'divers', 'nicht_erkennbar'],
   alter: ['jung', 'mittel', 'alt', 'nicht_erkennbar'],
   hautfarbe: ['weiss', 'poc', 'nicht_erkennbar'],
-  globaler_sueden: ['ja', 'nein', 'unklar'],
   bildrolle: ['hauptperson', 'nebenperson'],
   in_headline: ['namentlich', 'indirekt', 'nein'],
   headline_aktiv: ['aktiv', 'passiv', 'nicht_thematisiert'],
