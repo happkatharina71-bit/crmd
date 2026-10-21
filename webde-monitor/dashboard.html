@@ -156,7 +156,7 @@ const css = (v) => getComputedStyle(document.documentElement).getPropertyValue(v
 const PIES = [
   { key: 'geschlecht', title: 'Geschlecht', cats: ['weiblich', 'maennlich', 'divers', 'nicht_erkennbar'] },
   { key: 'alter', title: 'Alter', cats: ['jung', 'mittel', 'alt', 'nicht_erkennbar'] },
-  { key: 'hautfarbe', title: 'Wahrgenommen als weiß/PoC', cats: ['weiss', 'poc', 'nicht_erkennbar'] },
+  { key: 'hautfarbe', title: 'Wahrgenommen als PoC/<i>weiß</i>', cats: ['weiss', 'poc', 'nicht_erkennbar'] },
 ];
 const SLOT = ['--s1', '--s2', '--s3'];
 const colorFor = (cat, i) => (cat === 'nicht_erkennbar' || cat === 'unklar') ? 'var(--unk)' : `var(${SLOT[i] || '--s3'})`;
@@ -256,7 +256,7 @@ function render() {
   document.getElementById('framing').innerHTML = persons.length ? `<div class="frame-legend">${fr.map((f) => `<span style="--c:${frColor[f]}">${LABELS[f]}</span>`).join('')}</div>`
     + block('Geschlecht', 'geschlecht', ['weiblich', 'maennlich'])
     + block('Alter', 'alter', ['jung', 'mittel', 'alt'])
-    + block('Wahrgenommen als weiß/PoC', 'hautfarbe', ['weiss', 'poc']) : '<p class="empty">Keine Personen im gewählten Zeitraum.</p>';
+    + block('Wahrgenommen als PoC/<i>weiß</i>', 'hautfarbe', ['weiss', 'poc']) : '<p class="empty">Keine Personen im gewählten Zeitraum.</p>';
 
   renderTrend(days, teasers, persons);
   const last = TEASERS.map((t) => t.erfasst_am).sort().at(-1);
@@ -281,7 +281,7 @@ function pieHTML(d) {
   }).join('') : `<circle cx="${C}" cy="${C}" r="${(R + r) / 2}" fill="none" stroke="var(--line)" stroke-width="${R - r}"/>`;
   const legend = d.cats.map((c, i) => `<li><span class="sw" style="background:${color(c, i)}"></span><span>${name(c)}</span><span class="num pct">${num(d.counts[c])} · ${pct(d.counts[c], total)}</span></li>`).join('');
   return `<div class="panel pie"><h2 style="font-size:1rem;white-space:nowrap">${d.title}</h2><div class="pie-body">
-    <svg viewBox="0 0 132 132" role="img" aria-label="${d.title}: ${d.cats.map((c) => name(c) + ' ' + d.counts[c]).join(', ')}">${paths}
+    <svg viewBox="0 0 132 132" role="img" aria-label="${d.title.replace(/<[^>]+>/g, '')}: ${d.cats.map((c) => name(c) + ' ' + d.counts[c]).join(', ')}">${paths}
       <text class="center num" x="66" y="68" text-anchor="middle">${num(total)}</text><text class="center2" x="66" y="84" text-anchor="middle">${d.unit}</text></svg>
     <ul class="legend">${legend}</ul></div></div>`;
 }
