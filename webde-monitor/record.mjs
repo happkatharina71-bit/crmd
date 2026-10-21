@@ -8,6 +8,16 @@ const dataDir = path.join(path.dirname(new URL(import.meta.url).pathname), 'data
 const file = process.argv[2];
 if (!file) { console.error('Aufruf: node record.mjs <analysis.json>'); process.exit(1); }
 const a = JSON.parse(fs.readFileSync(file, 'utf8'));
+// Dachzeile, Headline, URL und Zeitpunkt immer aus capture.json übernehmen, falls vorhanden
+const capFile = path.join(path.dirname(file), 'capture.json');
+if (fs.existsSync(capFile)) {
+  const cap = JSON.parse(fs.readFileSync(capFile, 'utf8'));
+  a.erfasst_am ??= cap.erfasst_am;
+  for (const t of a.teaser || []) {
+    const c = cap.teaser.find((x) => x.position === t.position);
+    if (c) for (const k of ['dachzeile', 'headline', 'url']) t[k] ??= c[k];
+  }
+}
 
 const errors = [];
 const check = (fields, obj, where) => {

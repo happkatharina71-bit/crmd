@@ -8,3 +8,6 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-21-07-35,4,5,,maennlich,jung,poc,nebenperson,indirekt,aktiv,neutral,nein,mittel,"Spieler Nr. 40, links"
 2026-10-21-07-35,5,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Reporter mit Headset links; welche Person der Genannte ist, bleibt offen"
 2026-10-21-07-35,5,2,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Reporter mit Headset rechts, älter wirkend; s.o."
+2026-10-21-11-04,1,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,unklar,mittel,"Größte, zentrale Figur, tätowierter Mann mit erhobenem Arm; Alter nach Bildeindruck."
+2026-10-21-11-04,1,2,,weiblich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,unklar,niedrig,"Frau mit langen roten Haaren im Profil, Alter nicht sicher einschätzbar."
+2026-10-21-11-04,4,1,Kimmich,maennlich,nicht_erkennbar,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Einzelner Spieler im Bayern-Trikot, Headline nennt Kimmich und Bayern; Dachzeile Trauerfall (ihm widerfährt etwas)."
