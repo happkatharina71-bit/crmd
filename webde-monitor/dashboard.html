@@ -8,15 +8,16 @@
 :root {
   --bg: #f5f6f7; --surface: #fcfcfb; --line: #e1e3e6; --fg: #15171a; --fg-2: #52555b; --fg-3: #7b7f86;
   --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --unk: #b4b8be; --accent: #2a78d6;
+  --yellow: #ffd800; --on-yellow: #15171a; --yellow-soft: #fff9d9; --yellow-line: #f0dc6e;
   --font-body: "IBM Plex Sans", system-ui, sans-serif;
   --font-head: "IBM Plex Sans Condensed", "IBM Plex Sans", system-ui, sans-serif;
 }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
   --bg: #121315; --surface: #1a1b1d; --line: #2c2e32; --fg: #f0efec; --fg-2: #c3c2b7; --fg-3: #8d9097;
-  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --unk: #5c6066; --accent: #3987e5; color-scheme: dark } }
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --unk: #5c6066; --accent: #3987e5; --yellow: #f2cc00; --on-yellow: #15171a; --yellow-soft: #26230f; --yellow-line: #5a4f12; color-scheme: dark } }
 :root[data-theme="dark"] {
   --bg: #121315; --surface: #1a1b1d; --line: #2c2e32; --fg: #f0efec; --fg-2: #c3c2b7; --fg-3: #8d9097;
-  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --unk: #5c6066; --accent: #3987e5; color-scheme: dark }
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --unk: #5c6066; --accent: #3987e5; --yellow: #f2cc00; --on-yellow: #15171a; --yellow-soft: #26230f; --yellow-line: #5a4f12; color-scheme: dark }
 
 body { background: var(--bg); color: var(--fg); font: 15px/1.5 var(--font-body); }
 .wrap { max-width: 1040px; margin: 0 auto; padding-block: 24px 48px;
@@ -24,7 +25,15 @@ body { background: var(--bg); color: var(--fg); font: 15px/1.5 var(--font-body);
   display: grid; gap: 28px; }
 h1, h2 { font-family: var(--font-head); font-weight: 600; text-wrap: balance; margin: 0; }
 h1 { font-size: 1.7rem; line-height: 1.15; }
-h2 { font-size: 1.15rem; }
+h2 { font-size: 1.15rem; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+section > h2::before { content: ""; width: 10px; height: 10px; border-radius: 2px; background: var(--yellow); flex: none; }
+.hero { background: var(--yellow); color: var(--on-yellow); border-radius: 12px; padding: 20px; display: flex; gap: 16px; align-items: center; }
+.hero h1 { font-size: 1.6rem; }
+.hero .sub { color: var(--on-yellow); opacity: .78; max-width: 62ch; }
+.mark { flex: none; width: 56px; height: 56px; border-radius: 12px; background: var(--on-yellow); color: var(--yellow);
+  display: grid; place-items: center; text-align: center; font-family: var(--font-head); line-height: 1; }
+.mark b { font-size: 1.6rem; display: block; } .mark small { font-size: .62rem; letter-spacing: .08em; }
+@media (max-width: 480px) { .hero { flex-direction: column; align-items: flex-start; } }
 .sub { color: var(--fg-2); margin: 4px 0 0; }
 .note { color: var(--fg-3); font-size: .82rem; margin: 0; }
 section { display: grid; gap: 12px; }
@@ -36,7 +45,7 @@ section { display: grid; gap: 12px; }
 .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 6px; overflow: hidden; background: var(--surface); }
 .seg button { font: inherit; font-size: .88rem; border: 0; background: none; color: var(--fg-2); padding: 6px 12px; cursor: pointer; }
 .seg button + button { border-left: 1px solid var(--line); }
-.seg button[aria-pressed="true"] { background: var(--accent); color: #fff; }
+.seg button[aria-pressed="true"] { background: var(--yellow); color: var(--on-yellow); font-weight: 500; }
 .seg button:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--fg); }
 
@@ -76,7 +85,8 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
 .trend svg { width: 100%; height: 220px; display: block; }
 .trend text { fill: var(--fg-3); font-size: 11px; }
 #tip { position: fixed; pointer-events: none; background: var(--fg); color: var(--bg); font-size: .8rem; padding: 4px 8px; border-radius: 4px; z-index: 5; }
-.status { display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: center; justify-content: space-between; }
+[hidden] { display: none !important; }
+.status { background: var(--yellow-soft); border-color: var(--yellow-line); display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: center; justify-content: space-between; }
 .stand { font-family: var(--font-head); font-size: 1.25rem; }
 .empty { color: var(--fg-3); padding: 24px 0; text-align: center; }
 .badge { display: inline-block; font-size: .72rem; padding: 1px 7px; border-radius: 99px; border: 1px solid var(--fg-3); color: var(--fg-2); vertical-align: middle; margin-left: 6px; font-family: var(--font-body); font-weight: 500; }
@@ -84,9 +94,10 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
 </style>
 
 <div class="wrap">
-  <header>
-    <h1>Wer ist zu sehen? Die 5 Topteaser auf web.de</h1>
-    <p class="sub">Abgebildete Personen in den Topteasern der mobilen Startseite, ausgewertet nach Bild, Dachzeile und Headline. Alle Merkmale sind wahrgenommen, nicht gesichert.</p>
+  <header class="hero">
+    <div class="mark" aria-hidden="true"><div><b>5</b><small>TOP</small></div></div>
+    <div><h1>Wer ist zu sehen? Die 5 Topteaser auf web.de</h1>
+    <p class="sub">Abgebildete Personen in den Topteasern der mobilen Startseite, ausgewertet nach Bild, Dachzeile und Headline. Alle Merkmale sind wahrgenommen, nicht gesichert.</p></div>
   </header>
 
   <div class="status panel">
@@ -251,7 +262,6 @@ function render() {
   const last = TEASERS.map((t) => t.erfasst_am).sort().at(-1);
   document.getElementById('stand').textContent = last
     ? new Date(last).toLocaleString('de-DE', { timeZone: 'Europe/Berlin', dateStyle: 'medium', timeStyle: 'short' }) + ' Uhr'
-      + ` · ${new Set(TEASERS.map((t) => t.run_id)).size} Erhebungen insgesamt`
     : 'Noch keine Daten vorhanden.';
 }
 
