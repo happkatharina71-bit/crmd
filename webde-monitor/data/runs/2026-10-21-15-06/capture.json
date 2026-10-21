@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-21-15-06",
+  "erfasst_am": "2026-10-21T15:06:12.413Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Kritische Sicherheitslücke bedroht Millionen Websites weltweit",
+      "teasertext": "BSI warnt eindringlich Kritische Sicherheitslücke bedroht Millionen Websites weltweit",
+      "url": "https://web.de/magazine/digital/kritische-sicherheitsluecke-bedroht-millionen-websites-weltweit-42860068",
+      "bild_url": "https://i0.web.de/image/490/42860490%2cpd=4%2cf=responsive169-w950/cyberangriff.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "BSI warnt eindringlich",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Drei Stunden mit Putin am Tisch",
+      "teasertext": "USA und Russland Drei Stunden mit Putin am Tisch",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/stunden-putin-tisch-42858020",
+      "bild_url": "https://i0.web.de/image/354/42860354%2cpd=3%2cf=responsive169-w300/ukraine-krieg-putin-beginnt-gespraeche-us-unterhae.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "USA und Russland",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Trump überrascht mit Umbau-Plan für das Weiße Haus",
+      "teasertext": "Pool statt Presse Trump überrascht mit Umbau-Plan für das Weiße Haus",
+      "url": "https://web.de/magazine/politik/us-politik/trump-ueberrascht-umbau-plan-weisse-haus-42859282",
+      "bild_url": "https://i0.web.de/image/342/42859342%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Pool statt Presse",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "82-Jähriger will sich besonders gesund ernähren – und wäre fast gestorben",
+      "teasertext": "Was in seinem Körper passierte 82-Jähriger will sich besonders gesund ernähren – und wäre fast gestorben",
+      "url": "https://web.de/magazine/gesundheit/82-jaehriger-gesund-ernaehren-gestorben-42856486",
+      "bild_url": "https://i0.web.de/image/538/42856538%2cpd=3%2cf=responsive169-w300/rote-beete.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Was in seinem Körper passierte",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Prinzessin Kate überstrahlt alle",
+      "teasertext": "Galerie Staatsbankett in Windsor Prinzessin Kate überstrahlt alle",
+      "url": "https://web.de/magazine/unterhaltung/adel/britische-royals/staatsbankett-windsor-prinzessin-kate-blickfang-abends-42858728",
+      "bild_url": "https://i0.web.de/image/748/42858748%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Staatsbankett in Windsor",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

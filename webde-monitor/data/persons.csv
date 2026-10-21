@@ -11,3 +11,14 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-21-11-04,1,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,unklar,mittel,"Größte, zentrale Figur, tätowierter Mann mit erhobenem Arm; Alter nach Bildeindruck."
 2026-10-21-11-04,1,2,,weiblich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,unklar,niedrig,"Frau mit langen roten Haaren im Profil, Alter nicht sicher einschätzbar."
 2026-10-21-11-04,4,1,Kimmich,maennlich,nicht_erkennbar,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Einzelner Spieler im Bayern-Trikot, Headline nennt Kimmich und Bayern; Dachzeile Trauerfall (ihm widerfährt etwas)."
+2026-10-21-15-06,2,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Mann links allein auf einer Tischseite gegenüber der Delegation, durch Bildkomposition hervorgehoben; Alter nach schütterem Haar geschätzt"
+2026-10-21-15-06,2,2,,maennlich,alt,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Weißhaariger Mann im Anzug rechts im Vordergrund, größte Figur, Teil der Gesprächsrunde"
+2026-10-21-15-06,2,3,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Grauhaariger Mann rechts am Tisch mit verschränkten Händen; Alter schwer einzuschätzen"
+2026-10-21-15-06,2,4,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,mittel,Dunkelhaariger Mann im Anzug links-mittig am Tisch
+2026-10-21-15-06,2,5,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,mittel,Mann im Anzug rechts-mittig am Tisch
+2026-10-21-15-06,3,1,Trump,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Einzige Person im Vordergrund, Headline nennt Trump als Urheber eines Umbau-Plans für das Weiße Haus"
+2026-10-21-15-06,5,1,Prinzessin Kate,weiblich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,nein,hoch,"Zentrale Frau mit Diadem und Schärpe; Headline bewertet ihr Erscheinen ('überstrahlt alle')"
+2026-10-21-15-06,5,2,,maennlich,alt,poc,nebenperson,indirekt,passiv,reich_maechtig,nein,mittel,"Sitzender Mann mit weißem Bart und gemustertem Turban rechts neben ihr; Teil von 'alle'"
+2026-10-21-15-06,5,3,,maennlich,alt,weiss,nebenperson,indirekt,passiv,reich_maechtig,nein,mittel,Weißhaariger Mann in Uniform rechts am Tisch sitzend
+2026-10-21-15-06,5,4,,maennlich,jung,weiss,nebenperson,indirekt,passiv,reich_maechtig,nein,niedrig,"Lockiger Mann im Frack links, lächelnd; Alter um 30 schwer einzuschätzen"
+2026-10-21-15-06,5,5,,maennlich,alt,weiss,nebenperson,indirekt,passiv,reich_maechtig,nein,mittel,"Grauhaariger Mann links im Vordergrund, sich verbeugend"
