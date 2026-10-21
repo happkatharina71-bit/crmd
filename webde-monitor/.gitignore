@@ -1,1 +1,3 @@
 node_modules/
+# Screenshots nur zur Kontrolle, nicht ins Repo (ca. 2,5 MB pro Erhebung)
+data/runs/*/*.png

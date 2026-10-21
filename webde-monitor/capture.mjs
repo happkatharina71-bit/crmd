@@ -21,22 +21,22 @@ const context = await browser.newContext({
 const page = await context.newPage();
 await page.goto(START_URL, { waitUntil: 'domcontentloaded', timeout: 60000 });
 
-// Consent-Banner wegklicken (Seite selbst und iframes)
-const consent = /^(alle akzeptieren|akzeptieren|zustimmen|zustimmen und weiter|einverstanden)$/i;
-for (let i = 0; i < 3; i++) {
-  let clicked = false;
+// Consent-Seite: bis zu 30 s auf den Zustimmen-Button (liegt in einem iframe) warten und klicken
+// Weiterleitung zur Consent-Seite passiert per JavaScript, daher erst darauf warten
+await page.waitForURL(/consent/, { timeout: 15000 }).catch(() => {});
+const consent = /akzeptieren und weiter|alle akzeptieren|zustimmen und weiter/i;
+for (let t = 0; t < 30 && /consent/.test(page.url()); t++) {
   for (const frame of page.frames()) {
-    const btn = frame.getByRole('button', { name: consent }).first();
+    const btn = frame.getByText(consent).first();
     if (await btn.isVisible().catch(() => false)) {
       await btn.click().catch(() => {});
-      clicked = true;
+      await page.waitForURL((u) => !/consent/.test(u.href), { timeout: 15000 }).catch(() => {});
       break;
     }
   }
-  if (!clicked) break;
-  await page.waitForLoadState('domcontentloaded').catch(() => {});
-  await page.waitForTimeout(1500);
+  await page.waitForTimeout(1000);
 }
+await page.waitForLoadState('load', { timeout: 20000 }).catch(() => {});
 if (!page.url().startsWith(START_URL)) await page.goto(START_URL, { waitUntil: 'domcontentloaded' });
 
 // Lazy-Loading anstoßen
@@ -46,7 +46,7 @@ for (let y = 0; y < 3; y++) {
 }
 await page.evaluate(() => window.scrollTo(0, 0));
 await page.waitForTimeout(1000);
-await page.screenshot({ path: path.join(outDir, 'seite.png'), fullPage: false, clip: { x: 0, y: 0, width: 390, height: 2500 } }).catch(() =>
+await page.screenshot({ path: path.join(outDir, 'seite.png'), fullPage: false, clip: { x: 0, y: 0, width: 390, height: 1500 } }).catch(() =>
   page.screenshot({ path: path.join(outDir, 'seite.png') }));
 
 // Teaser finden: Links mit großem Bild + Headline-Text, in Dokument-Reihenfolge, ohne Werbung
@@ -58,7 +58,7 @@ const teasers = await page.evaluate(({ n, selector }) => {
     : [...document.querySelectorAll('a[href]')].filter((a) => {
         const img = a.querySelector('img') || a.closest('article,li,div')?.querySelector('img');
         const r = img?.getBoundingClientRect();
-        return img && r && r.width >= 150 && a.innerText.trim().length >= 15;
+        return img && r && r.width >= 100 && a.innerText.trim().length >= 15;
       });
   const seen = new Set();
   const out = [];
@@ -83,12 +83,25 @@ const teasers = await page.evaluate(({ n, selector }) => {
   return out;
 }, { n: N, selector: process.env.TEASER_SELECTOR || null });
 
+// Download über eine Browser-Seite, da context.request den Proxy der Umgebung nicht nutzt
+let dl = null;
+const dlPage = async () => (dl ??= await context.newPage());
 for (const t of teasers) {
   const file = `teaser-${t.position}.png`;
   await page.locator(`[data-capture-pos="${t.position}"]`).first()
     .screenshot({ path: path.join(outDir, file) })
     .then(() => { t.screenshot = file; })
     .catch(() => { t.screenshot = null; });
+  t.dachzeile = t.teasertext.split(t.headline)[0].trim() || null;
+  // Bild zusätzlich in großer Auflösung laden (web.de liefert w300 / w950)
+  t.bild = null;
+  if (t.bild_url) {
+    const res = await (await dlPage()).goto(t.bild_url.replace(/-w\d+/, '-w950')).catch(() => null);
+    if (res?.ok()) {
+      t.bild = `bild-${t.position}.webp`;
+      fs.writeFileSync(path.join(outDir, t.bild), await res.body());
+    }
+  }
 }
 
 const capture = { run_id: runId, erfasst_am: now.toISOString(), quelle: START_URL, ansicht: 'mobil (iPhone 13)', teaser: teasers };
