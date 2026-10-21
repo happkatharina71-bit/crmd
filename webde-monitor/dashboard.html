@@ -54,8 +54,8 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
 .pres .v { font-family: var(--font-head); font-size: 1.15rem; line-height: 1.2; align-self: end; }
 .pres .sub { font-size: .8rem; line-height: 1.4; color: var(--fg-3); }
 .dots { display: flex; gap: 4px; align-self: end; padding-top: 4px; }
-.dots span { width: 14px; height: 14px; border-radius: 50%; border: 1.5px solid var(--accent); background: transparent; position: relative; overflow: hidden; }
-.dots span i { position: absolute; inset: 0 auto 0 0; background: var(--accent); }
+.dots span { width: 14px; height: 14px; border-radius: 50%; border: 1.5px solid var(--p1); background: transparent; position: relative; overflow: hidden; }
+.dots span i { position: absolute; inset: 0 auto 0 0; background: var(--p1); }
 
 .pies { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
 .pie { display: grid; gap: 10px; }
@@ -234,7 +234,7 @@ function render() {
 
   // Framing
   const fr = ['aktiv', 'passiv', 'nicht_thematisiert'];
-  const frColor = { aktiv: 'var(--s1)', passiv: 'var(--yellow)', nicht_thematisiert: 'var(--unk)' };
+  const frColor = { aktiv: 'var(--p1)', passiv: 'var(--p3)', nicht_thematisiert: 'var(--unk)' };
   const block = (title, field, cats) => `<div class="frame-group"><h3>${title}</h3>` + cats.map((c) => {
     const ps = persons.filter((p) => p[field] === c);
     const tot = wsum(ps);
