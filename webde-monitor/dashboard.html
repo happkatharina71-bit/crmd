@@ -47,12 +47,13 @@ section { display: grid; gap: 12px; }
 input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--fg); }
 
 
-.presence { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); grid-auto-rows: 1fr; gap: 12px; }
-.pres { display: flex; flex-direction: column; }
-.pres .lbl { font-size: .85rem; color: var(--fg-2); }
-.pres .v { font-family: var(--font-head); font-size: 1.6rem; line-height: 1.2; }
-.pres .v small { font-family: var(--font-body); font-size: .8rem; color: var(--fg-3); font-weight: 400; white-space: nowrap; display: block; }
-.dots { display: flex; gap: 4px; margin-top: auto; padding-top: 6px; }
+.presence { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 12px; }
+/* Subgrid: Beschriftung, Wert, Zusatz und Punkte stehen in allen Kacheln einer Reihe auf gleicher Höhe */
+.pres { display: grid; grid-row: span 4; grid-template-rows: subgrid; row-gap: 10px; padding: 18px 16px; overflow-wrap: anywhere; }
+.pres .lbl { font-size: 1rem; line-height: 1.35; color: var(--fg); }
+.pres .v { font-family: var(--font-head); font-size: 1.15rem; line-height: 1.2; align-self: end; }
+.pres .sub { font-size: .8rem; line-height: 1.4; color: var(--fg-3); }
+.dots { display: flex; gap: 4px; align-self: end; padding-top: 4px; }
 .dots span { width: 14px; height: 14px; border-radius: 50%; border: 1.5px solid var(--accent); background: transparent; position: relative; overflow: hidden; }
 .dots span i { position: absolute; inset: 0 auto 0 0; background: var(--accent); }
 
@@ -213,15 +214,15 @@ function render() {
   const key = (p) => p.run_id + '#' + p.position;
   const groups = [
     ['Teaser mit Frauen', (p) => p.geschlecht === 'weiblich'], ['Teaser mit Männern', (p) => p.geschlecht === 'maennlich'],
-    ['Teaser mit jungen Menschen<br>(unter 30)', (p) => p.alter === 'jung'], ['Teaser mit Menschen mittleren Alters (30–59)', (p) => p.alter === 'mittel'],
-    ['Teaser mit älteren Menschen<br>(60+)', (p) => p.alter === 'alt'],
+    ['Teaser mit jungen Menschen (unter&nbsp;30)', (p) => p.alter === 'jung'], ['Teaser mit Menschen mittleren Alters (30–59)', (p) => p.alter === 'mittel'],
+    ['Teaser mit älteren Menschen (60+)', (p) => p.alter === 'alt'],
     ['Teaser mit PoC', (p) => p.hautfarbe === 'poc'], ['Teaser mit <i>weißen</i> Menschen', (p) => p.hautfarbe === 'weiss'],
   ];
   document.getElementById('presence').innerHTML = runs.length ? groups.map(([lbl, f]) => {
     const n = new Set(persons.filter(f).map(key)).size;
     const avg = n / runs.length;
     const dots = [0, 1, 2, 3, 4].map((i) => `<span><i style="width:${Math.max(0, Math.min(1, avg - i)) * 100}%"></i></span>`).join('');
-    return `<div class="panel pres"><div class="lbl">${lbl}</div><div class="v num">${pct(n, teasers.length)} der Teaser <small>Ø ${fmt(avg)} von 5 pro Erhebung</small></div><div class="dots" aria-hidden="true">${dots}</div></div>`;
+    return `<div class="panel pres"><div class="lbl">${lbl}</div><div class="v num">${pct(n, teasers.length)} der Teaser</div><div class="sub num">Ø ${fmt(avg)} von 5 pro Erhebung</div><div class="dots" aria-hidden="true">${dots}</div></div>`;
   }).join('') : '<p class="empty">Keine Daten im gewählten Zeitraum.</p>';
 
   // Torten
