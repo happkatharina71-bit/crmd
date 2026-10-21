@@ -75,7 +75,7 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
 
 .frame-row { display: grid; grid-template-columns: 120px 1fr; gap: 10px; align-items: center; font-size: .88rem; }
 .frame-group { display: grid; gap: 6px; }
-.frame-group h3 { font-size: .8rem; color: var(--fg-3); font-weight: 500; margin: 6px 0 0; text-transform: uppercase; letter-spacing: .05em; }
+.frame-group h3 { font-size: .8rem; color: var(--fg-3); font-weight: 500; margin: 6px 0 0; letter-spacing: .02em; }
 .stack { display: flex; gap: 2px; height: 18px; border-radius: 4px; overflow: hidden; background: var(--line); }
 .stack div { height: 100%; }
 .frame-legend { display: flex; gap: 16px; flex-wrap: wrap; font-size: .82rem; color: var(--fg-2); }
@@ -126,7 +126,7 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
 
   <section aria-labelledby="h-pies">
     <h2 id="h-pies">Verteilung der abgebildeten Personen</h2>
-    <p class="note">Gewichtet pro Teaser: Jeder Teaser mit Personen zählt 1, aufgeteilt auf die Personen im Bild. Ein Gruppenfoto mit 2 PoC und 3 weißen Personen zählt 0,4 PoC und 0,6 weiß.</p>
+    <p class="note">Gewichtet pro Teaser: Jeder Teaser mit Personen zählt 1, aufgeteilt auf die Personen im Bild. Ein Gruppenfoto mit 2 PoC und 3 <i>weißen</i> Personen zählt 0,4 PoC und 0,6 <i>weiß</i>.</p>
     <div class="pies" id="pies"></div>
   </section>
 
@@ -149,14 +149,14 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
 const LABELS = {
   weiblich: 'Frauen', maennlich: 'Männer', divers: 'Divers', nicht_erkennbar: 'nicht erkennbar',
   jung: 'jung (unter 30)', mittel: 'mittel (30–59)', alt: 'alt (60+)',
-  weiss: 'weiß', poc: 'PoC', ja: 'ja', nein: 'nein', unklar: 'unklar',
+  weiss: '<i>weiß</i>', poc: 'PoC', ja: 'ja', nein: 'nein', unklar: 'unklar',
   aktiv: 'aktiv', passiv: 'passiv', nicht_thematisiert: 'nicht thematisiert',
 };
 const css = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
 const PIES = [
   { key: 'geschlecht', title: 'Geschlecht', cats: ['weiblich', 'maennlich', 'divers', 'nicht_erkennbar'] },
   { key: 'alter', title: 'Alter', cats: ['jung', 'mittel', 'alt', 'nicht_erkennbar'] },
-  { key: 'hautfarbe', title: 'Wahrgenommen als PoC/<i>weiß</i>', cats: ['weiss', 'poc', 'nicht_erkennbar'] },
+  { key: 'hautfarbe', title: 'Wahrgenommen als PoC/<i>weiß</i>', cats: ['poc', 'weiss', 'nicht_erkennbar'] },
 ];
 const SLOT = ['--s1', '--s2', '--s3'];
 const colorFor = (cat, i) => (cat === 'nicht_erkennbar' || cat === 'unklar') ? 'var(--unk)' : `var(${SLOT[i] || '--s3'})`;
@@ -227,7 +227,7 @@ function render() {
     ['Frauen', (p) => p.geschlecht === 'weiblich'], ['Männer', (p) => p.geschlecht === 'maennlich'],
     ['junge Menschen<br>(unter 30)', (p) => p.alter === 'jung'], ['Menschen mittleren Alters (30–59)', (p) => p.alter === 'mittel'],
     ['ältere Menschen<br>(60+)', (p) => p.alter === 'alt'],
-    ['weiße Menschen', (p) => p.hautfarbe === 'weiss'], ['PoC', (p) => p.hautfarbe === 'poc'],
+    ['PoC', (p) => p.hautfarbe === 'poc'], ['<i>weiße</i> Menschen', (p) => p.hautfarbe === 'weiss'],
   ];
   document.getElementById('presence').innerHTML = runs.length ? groups.map(([lbl, f]) => {
     const n = new Set(persons.filter(f).map(key)).size;
@@ -256,7 +256,7 @@ function render() {
   document.getElementById('framing').innerHTML = persons.length ? `<div class="frame-legend">${fr.map((f) => `<span style="--c:${frColor[f]}">${LABELS[f]}</span>`).join('')}</div>`
     + block('Geschlecht', 'geschlecht', ['weiblich', 'maennlich'])
     + block('Alter', 'alter', ['jung', 'mittel', 'alt'])
-    + block('Wahrgenommen als PoC/<i>weiß</i>', 'hautfarbe', ['weiss', 'poc']) : '<p class="empty">Keine Personen im gewählten Zeitraum.</p>';
+    + block('Wahrgenommen als PoC/<i>weiß</i>', 'hautfarbe', ['poc', 'weiss']) : '<p class="empty">Keine Personen im gewählten Zeitraum.</p>';
 
   renderTrend(days, teasers, persons);
   const last = TEASERS.map((t) => t.erfasst_am).sort().at(-1);
@@ -281,7 +281,7 @@ function pieHTML(d) {
   }).join('') : `<circle cx="${C}" cy="${C}" r="${(R + r) / 2}" fill="none" stroke="var(--line)" stroke-width="${R - r}"/>`;
   const legend = d.cats.map((c, i) => `<li><span class="sw" style="background:${color(c, i)}"></span><span>${name(c)}</span><span class="num pct">${num(d.counts[c])} · ${pct(d.counts[c], total)}</span></li>`).join('');
   return `<div class="panel pie"><h2 style="font-size:1rem;white-space:nowrap"><span>${d.title}</span></h2><div class="pie-body">
-    <svg viewBox="0 0 132 132" role="img" aria-label="${d.title.replace(/<[^>]+>/g, '')}: ${d.cats.map((c) => name(c) + ' ' + d.counts[c]).join(', ')}">${paths}
+    <svg viewBox="0 0 132 132" role="img" aria-label="${d.title.replace(/<[^>]+>/g, '')}: ${d.cats.map((c) => name(c).replace(/<[^>]+>/g, '') + ' ' + d.counts[c]).join(', ')}">${paths}
       <text class="center num" x="66" y="68" text-anchor="middle">${num(total)}</text><text class="center2" x="66" y="84" text-anchor="middle">${d.unit}</text></svg>
     <ul class="legend">${legend}</ul></div></div>`;
 }
@@ -315,7 +315,7 @@ const from = document.getElementById('from'), to = document.getElementById('to')
 // Tooltip
 const tip = document.getElementById('tip');
 document.addEventListener('pointermove', (e) => { const t = e.target.closest('[data-tip]');
-  if (!t) { tip.hidden = true; return; } tip.textContent = t.dataset.tip; tip.hidden = false;
+  if (!t) { tip.hidden = true; return; } tip.textContent = t.dataset.tip.replace(/<[^>]+>/g, ''); tip.hidden = false;
   tip.style.left = Math.min(e.clientX + 12, innerWidth - tip.offsetWidth - 8) + 'px'; tip.style.top = (e.clientY + 14) + 'px'; });
 
 load().catch(() => { document.getElementById('stand').textContent = 'Die Daten konnten nicht geladen werden.'; });
