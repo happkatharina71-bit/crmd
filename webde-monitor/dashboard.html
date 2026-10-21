@@ -76,6 +76,11 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
 .trend svg { width: 100%; height: 220px; display: block; }
 .trend text { fill: var(--fg-3); font-size: 11px; }
 #tip { position: fixed; pointer-events: none; background: var(--fg); color: var(--bg); font-size: .8rem; padding: 4px 8px; border-radius: 4px; z-index: 5; }
+.status { display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: center; justify-content: space-between; }
+.stand { font-family: var(--font-head); font-size: 1.25rem; }
+#refresh { font: inherit; font-weight: 500; padding: 8px 16px; border-radius: 6px; border: 1px solid var(--accent); background: var(--accent); color: #fff; cursor: pointer; }
+#refresh:disabled { opacity: .6; cursor: wait; }
+#refresh:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .empty { color: var(--fg-3); padding: 24px 0; text-align: center; }
 .badge { display: inline-block; font-size: .72rem; padding: 1px 7px; border-radius: 99px; border: 1px solid var(--fg-3); color: var(--fg-2); vertical-align: middle; margin-left: 6px; font-family: var(--font-body); font-weight: 500; }
 @media (prefers-reduced-motion: no-preference) { .stack div, .dots i { transition: width .3s; } }
@@ -86,6 +91,11 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
     <h1>Wer ist zu sehen? Die 5 Topteaser auf web.de</h1>
     <p class="sub">Abgebildete Personen in den Topteasern der mobilen Startseite, ausgewertet nach Bild, Dachzeile und Headline. Alle Merkmale sind wahrgenommen, nicht gesichert.</p>
   </header>
+
+  <div class="status panel">
+    <div><div class="note">Letzte Erhebung</div><div class="stand num" id="stand">wird geladen …</div><div class="note" id="loaded"></div></div>
+    <button type="button" id="refresh">Daten aktualisieren</button>
+  </div>
 
   <div class="filters" role="group" aria-label="Filter">
     <label>Zeitraum
@@ -126,7 +136,6 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
     <div class="panel trend" id="trend"></div>
   </section>
 
-  <p class="note" id="foot"></p>
 </div>
 <div id="tip" hidden></div>
 
@@ -170,7 +179,7 @@ let TEASERS = [], PERSONS = [];
 const state = { range: 'all', from: '', to: '' };
 
 async function load() {
-  const [t, p] = await Promise.all(['data/teasers.csv', 'data/persons.csv'].map((u) => fetch(u).then((r) => r.ok ? r.text() : '')));
+  const [t, p] = await Promise.all(['data/teasers.csv', 'data/persons.csv'].map((u) => fetch(u + '?t=' + Date.now(), { cache: 'no-store' }).then((r) => r.ok ? r.text() : '')));
   TEASERS = parseCSV(t).map((r) => ({ ...r, tag: berlinDay(r.erfasst_am), position: +r.position, personen_anzahl: +r.personen_anzahl }));
   const day = Object.fromEntries(TEASERS.map((r) => [r.run_id, r.tag]));
   PERSONS = parseCSV(p).map((r) => ({ ...r, tag: day[r.run_id], position: +r.position }));
@@ -243,8 +252,10 @@ function render() {
     + block('Hautfarbe', 'hautfarbe', ['weiss', 'poc']) : '<p class="empty">Keine Personen im gewählten Zeitraum.</p>';
 
   renderTrend(days, teasers, persons);
-  document.getElementById('foot').textContent = TEASERS.length
-    ? `Datenstand: ${TEASERS.at(-1).run_id.replace(/^(\d+)-(\d+)-(\d+)-(\d+)-(\d+)$/, '$3.$2.$1, $4:$5 UTC')} · ${new Set(TEASERS.map((t) => t.run_id)).size} Erhebungen insgesamt`
+  const last = TEASERS.map((t) => t.erfasst_am).sort().at(-1);
+  document.getElementById('stand').textContent = last
+    ? new Date(last).toLocaleString('de-DE', { timeZone: 'Europe/Berlin', dateStyle: 'medium', timeStyle: 'short' }) + ' Uhr'
+      + ` · ${new Set(TEASERS.map((t) => t.run_id)).size} Erhebungen insgesamt`
     : 'Noch keine Daten vorhanden.';
 }
 
@@ -301,5 +312,17 @@ document.addEventListener('pointermove', (e) => { const t = e.target.closest('[d
   if (!t) { tip.hidden = true; return; } tip.textContent = t.dataset.tip; tip.hidden = false;
   tip.style.left = Math.min(e.clientX + 12, innerWidth - tip.offsetWidth - 8) + 'px'; tip.style.top = (e.clientY + 14) + 'px'; });
 
-load().catch(() => { document.getElementById('foot').textContent = 'Die Daten konnten nicht geladen werden.'; });
+const btn = document.getElementById('refresh');
+async function refresh() {
+  btn.disabled = true; btn.textContent = 'Lädt …';
+  try {
+    await load();
+    document.getElementById('loaded').textContent = 'Daten geladen um ' + new Date().toLocaleTimeString('de-DE', { hour: '2-digit', minute: '2-digit' }) + ' Uhr';
+  } catch {
+    document.getElementById('stand').textContent = 'Die Daten konnten nicht geladen werden. Bitte später erneut versuchen.';
+  }
+  btn.disabled = false; btn.textContent = 'Daten aktualisieren';
+}
+btn.addEventListener('click', refresh);
+refresh();
 </script>

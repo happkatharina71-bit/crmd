@@ -14,15 +14,11 @@ Personen nach [CODEBUCH.md](CODEBUCH.md).
    `data/teasers.csv` (1 Zeile je Teaser) und `data/persons.csv` (1 Zeile je Person) an
 6. Commit + Push
 
-## Prompt für die geplante Aufgabe
+## Automatische Erhebung
 
-> Im Repo crmd, Ordner webde-monitor: Führe eine Erhebung laut README.md aus (Schritte 1–6).
-> Werte jedes Teaserbild (bild-N.webp) nur zusammen mit Dachzeile + Headline aus capture.json aus – keine Artikel öffnen, kein Vorwissen (Kontrolle der Erfassung per teaser-N.png/seite.png) streng nach CODEBUCH.md aus.
-> Im Zweifel `nicht_erkennbar`/`unklar`, Hautfarbe nie aus Namen ableiten. Falls capture.mjs
-> weniger als 5 Teaser findet oder seite.png zeigt, dass falsche Elemente erfasst wurden: nichts
-> eintragen, sondern den Fehler in data/runs/<run_id>/FEHLER.md notieren und committen.
-
-Geplante Zeiten (Vorschlag): 7, 10, 13, 17, 21 Uhr (Europe/Berlin).
+Geplante Aufgabe „web.de Topteaser-Erhebung“: 7, 10, 13, 17, 21 Uhr (Europe/Berlin), 21.–26.10.2026.
+Jeder Lauf startet eine neue Sitzung, die diese Schritte ausführt und danach das Online-Dashboard
+(https://claude.ai/artifact/JucmPLm9m8k9AAaCB3RbFz) mit den neuen CSV-Dateien neu veröffentlicht.
 
 ## Status
 
