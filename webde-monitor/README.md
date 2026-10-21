@@ -17,7 +17,7 @@ Personen nach [CODEBUCH.md](CODEBUCH.md).
 ## Prompt für die geplante Aufgabe
 
 > Im Repo crmd, Ordner webde-monitor: Führe eine Erhebung laut README.md aus (Schritte 1–6).
-> Werte jedes Teaserbild (bild-N.webp, dazu Headline + Dachzeile aus capture.json; Kontrolle per teaser-N.png/seite.png) streng nach CODEBUCH.md aus.
+> Werte jedes Teaserbild (bild-N.webp) nur zusammen mit Dachzeile + Headline aus capture.json aus – keine Artikel öffnen, kein Vorwissen (Kontrolle der Erfassung per teaser-N.png/seite.png) streng nach CODEBUCH.md aus.
 > Im Zweifel `nicht_erkennbar`/`unklar`, Hautfarbe nie aus Namen ableiten. Falls capture.mjs
 > weniger als 5 Teaser findet oder seite.png zeigt, dass falsche Elemente erfasst wurden: nichts
 > eintragen, sondern den Fehler in data/runs/<run_id>/FEHLER.md notieren und committen.

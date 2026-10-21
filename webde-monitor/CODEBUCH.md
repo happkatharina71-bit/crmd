@@ -1,6 +1,8 @@
 # Codebuch: Personendarstellung in den web.de-Topteasern
 
 Analyse-Einheit 1 = **Teaser** (immer 5 pro Erhebung). Analyse-Einheit 2 = **Person im Teaserbild**.
+**Grundlage ist ausschließlich, was Lesende auf der Startseite sehen: Bild, Dachzeile, Headline.**
+Keine Artikeltexte, Bildunterschriften, Dateinamen oder Vorwissen über abgebildete Personen.
 Alle Merkmale sind **wahrgenommene** Merkmale. Im Zweifel `nicht_erkennbar` / `unklar` – lieber eine
 ehrliche Lücke als eine geratene Zuordnung.
 
@@ -11,7 +13,7 @@ ehrliche Lücke als eine geratene Zuordnung.
 | `bild_typ` | personen, landschaft_ort, objekt, tier, grafik_text, sonstiges | `personen`, sobald mind. eine Person erkennbar im Bild ist |
 | `personen_anzahl` | Zahl | alle sichtbaren Personen (bei Menge: Schätzung) |
 | `menschenmenge` | ja, nein | `ja` ab mehr als 5 Personen |
-| `thema` | politik, wirtschaft, krieg_konflikt, kriminalitaet_unglueck, gesellschaft, promi_unterhaltung, sport, wissenschaft_gesundheit, ratgeber_verbraucher, sonstiges | nach Headline + Teasertext |
+| `thema` | politik, wirtschaft, krieg_konflikt, kriminalitaet_unglueck, gesellschaft, promi_unterhaltung, sport, wissenschaft_gesundheit, ratgeber_verbraucher, sonstiges | nach Dachzeile + Headline |
 | `notiz` | Freitext | Besonderheiten, z.B. Archivbild, Symbolbild |
 
 ## Personen-Ebene (nur bei `bild_typ = personen`)
@@ -21,15 +23,15 @@ Personen im Hintergrund einer Menge werden nur über `personen_anzahl` gezählt.
 
 | Feld | Werte | Regel |
 |---|---|---|
-| `name` | Name oder leer | nur wenn aus Headline/Teasertext/Bildunterschrift eindeutig |
-| `geschlecht` | weiblich, maennlich, divers, nicht_erkennbar | bei bekannten Personen: deren öffentliche Selbstbezeichnung |
-| `alter` | jung (unter 30, inkl. Kinder), mittel (30–59), alt (60+), nicht_erkennbar | bei bekannten Personen: tatsächliches Alter |
+| `name` | Name oder leer | nur wenn aus Dachzeile/Headline eindeutig ist, dass diese Person gemeint ist |
+| `geschlecht` | weiblich, maennlich, divers, nicht_erkennbar | nach Bildeindruck |
+| `alter` | jung (unter 30, inkl. Kinder), mittel (30–59), alt (60+), nicht_erkennbar | nach Bildeindruck |
 | `hautfarbe` | weiss, poc, nicht_erkennbar | rein visuelle Wahrnehmung; **nie** aus dem Namen ableiten |
-| `globaler_sueden` | ja, nein, unklar | Bezug der Person zum globalen Süden (Herkunft, Ort des Geschehens) laut Headline/Text/Bild-Kontext; unabhängig von `hautfarbe` |
+| `globaler_sueden` | ja, nein, unklar | Bezug der Person zum globalen Süden (Herkunft, Ort des Geschehens) laut Dachzeile/Headline/Bild; unabhängig von `hautfarbe` |
 | `bildrolle` | hauptperson, nebenperson | |
 | `in_headline` | namentlich, indirekt, nein | `indirekt` = als Gruppe/Funktion gemeint ("Kanzler", "Rentnerin") |
 | `headline_aktiv` | aktiv, passiv, nicht_thematisiert | aktiv = Person handelt/spricht/entscheidet; passiv = ihr widerfährt etwas, wird bewertet/beschrieben |
-| `status` | reich_maechtig, arm_benachteiligt, neutral, unklar | laut Headline/Kontext, nicht nach Kleidung allein |
+| `status` | reich_maechtig, arm_benachteiligt, neutral, unklar | laut Dachzeile/Headline/Bild, nicht nach Kleidung allein |
 | `agenda` | ja, nein, unklar | ja = vertritt erkennbar eine Position, ein Ziel, eine Forderung |
 | `rolle` | politik, wirtschaft, expertise, promi_unterhaltung, sport, taeter_beschuldigt, opfer_betroffen, alltag_buerger, sonstige | Hauptrolle im Teaser |
 | `sicherheit` | hoch, mittel, niedrig | Gesamtsicherheit der Codierung dieser Person |

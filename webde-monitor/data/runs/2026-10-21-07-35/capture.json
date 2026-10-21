@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-21-07-35",
+  "erfasst_am": "2026-10-21T07:35:40.554Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Bericht offenbart dramatisches Klima-Versagen – ein Land trägt die Hauptschuld",
+      "teasertext": "UN schlägt Alarm Bericht offenbart dramatisches Klima-Versagen – ein Land trägt die Hauptschuld",
+      "url": "https://web.de/magazine/wissen/klima/bericht-offenbart-klima-versagen-land-traegt-hauptschuld-42858322",
+      "bild_url": "https://i0.web.de/image/334/42858334%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "UN schlägt Alarm",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Höhere Steuer gilt aus Versehen schon jetzt",
+      "teasertext": "Panne im Finanzministerium Höhere Steuer gilt aus Versehen schon jetzt",
+      "url": "https://web.de/magazine/wirtschaft/hoehere-steuer-gilt-versehen-42858002",
+      "bild_url": "https://i0.web.de/image/282/42858282%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Panne im Finanzministerium",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Die Lage am Rhein bleibt kritisch",
+      "teasertext": "\"Situation ist herausfordernd\" Die Lage am Rhein bleibt kritisch",
+      "url": "https://web.de/magazine/politik/inland/lage-rhein-bleibt-kritisch-42856020",
+      "bild_url": "https://i0.web.de/image/092/42858092%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "\"Situation ist herausfordernd\"",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "BVB-Profis verlassen fluchtartig und ungeduscht das Stadion in Baku",
+      "teasertext": "\"Nicht ganz so schick\" BVB-Profis verlassen fluchtartig und ungeduscht das Stadion in Baku",
+      "url": "https://web.de/magazine/sport/fussball/champions-league/bvb-profis-verlassen-fluchtartig-ungeduscht-stadion-baku-42858032",
+      "bild_url": "https://i0.web.de/image/210/42858210%2cpd=5%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "\"Nicht ganz so schick\"",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Langjähriger ZDF-Sportreporter Michael Pfeffer tödlich verunglückt",
+      "teasertext": "Mit 67 Jahren Langjähriger ZDF-Sportreporter Michael Pfeffer tödlich verunglückt",
+      "url": "https://web.de/magazine/sport/langjaehriger-zdf-sportreporter-michael-pfeffer-toedlich-verunglueckt-42858550",
+      "bild_url": "https://i0.web.de/image/552/42858552%2cpd=3%2cf=responsive169-w300/zdf-kommentator-michael-pfeffer-r-stephan-eberhart.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Mit 67 Jahren",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
