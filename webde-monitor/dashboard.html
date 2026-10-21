@@ -46,9 +46,6 @@ section { display: grid; gap: 12px; }
 .seg button:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface); color: var(--fg); }
 
-.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px; }
-.kpi .v { font-family: var(--font-head); font-size: 2rem; line-height: 1.1; }
-.kpi .l { color: var(--fg-2); font-size: .85rem; }
 
 .presence { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); grid-auto-rows: 1fr; gap: 12px; }
 .pres { display: flex; flex-direction: column; }
@@ -85,7 +82,7 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
 .trend text { fill: var(--fg-3); font-size: 11px; }
 #tip { position: fixed; pointer-events: none; background: var(--fg); color: var(--bg); font-size: .8rem; padding: 4px 8px; border-radius: 4px; z-index: 5; }
 [hidden] { display: none !important; }
-.status { background: var(--yellow-soft); border-color: var(--yellow-line); display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: center; justify-content: space-between; }
+.status { background: var(--line); border-color: var(--line); display: flex; flex-wrap: wrap; gap: 12px 20px; align-items: center; justify-content: space-between; }
 .stand { font-family: var(--font-head); font-size: 1.25rem; }
 .empty { color: var(--fg-3); padding: 24px 0; text-align: center; }
 .badge { display: inline-block; font-size: .72rem; padding: 1px 7px; border-radius: 99px; border: 1px solid var(--fg-3); color: var(--fg-2); vertical-align: middle; margin-left: 6px; font-family: var(--font-body); font-weight: 500; }
@@ -100,7 +97,7 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
   <p class="sub intro"><strong>Methodik:</strong> Abgebildete Personen in den Topteasern der mobilen Startseite, ausgewertet nach Bild, Dachzeile und Headline. Alle Merkmale sind wahrgenommen, nicht gesichert. Die Teaser werden täglich um 7, 10, 13, 17 und 21 Uhr erfasst.</p>
 
   <div class="status panel">
-    <div><div class="note">Letzte Erhebung</div><div class="stand num" id="stand">wird geladen …</div></div>
+    <div><div class="stand num" id="count"></div><div class="note">Letzte Erhebung</div><div class="stand num" id="stand">wird geladen …</div></div>
   </div>
 
   <div class="filters" role="group" aria-label="Filter">
@@ -112,11 +109,6 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
     <label>von <input type="date" id="from"></label>
     <label>bis <input type="date" id="to"></label>
   </div>
-
-  <section aria-labelledby="h-kpi">
-    <h2 id="h-kpi" hidden>Überblick</h2>
-    <div class="kpis" id="kpis"></div>
-  </section>
 
   <section aria-labelledby="h-pres">
     <h2 id="h-pres">Sichtbarkeit – in wie vielen Teasern kommt eine Gruppe vor?</h2>
@@ -214,12 +206,8 @@ function render() {
   const withP = teasers.filter((t) => t.bild_typ === 'personen');
   const days = [...new Set(teasers.map((t) => t.tag))].sort();
 
-  document.getElementById('kpis').innerHTML = [
-    [runs.length, 'Erhebungen (5×&nbsp;täglich)'],
-    [teasers.length, 'Teaser'],
-    [pct(withP.length, teasers.length), `Teaser mit Personen im Bild<br><small>Ø ${fmt(runs.length ? withP.length / runs.length : 0)} von 5 pro Erhebung</small>`],
-    [persons.length, 'erfasste Personen'],
-  ].map(([v, l]) => `<div class="panel kpi"><div class="v num">${v}</div><div class="l">${l}</div></div>`).join('');
+  const total = new Set(TEASERS.map((t) => t.run_id)).size;
+  document.getElementById('count').textContent = total === 1 ? '1 Erhebung' : `${total} Erhebungen`;
 
   // "x von 5": Teaser mit mindestens einer Person der Gruppe
   const key = (p) => p.run_id + '#' + p.position;
