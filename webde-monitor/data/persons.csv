@@ -43,3 +43,17 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-22-05-13,4,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Kostümierte Tanzende rechts, Gesicht verdeckt"
 2026-10-22-05-13,5,1,,maennlich,alt,weiss,hauptperson,indirekt,passiv,reich_maechtig,nein,mittel,"Mann in weißem Gewand mit Kappe zentral; Headline über Erkrankung 'des Papstes' (Funktion); Alter nach Bildeindruck"
 2026-10-22-05-13,5,2,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Am linken Rand angeschnittener Mann, nur teilweise sichtbar"
+2026-10-22-08-13,1,1,Selenskyj,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Einziger Mann im Bild; Headline nennt Selenskyj mit einer Position zur Frontlinie"
+2026-10-22-08-13,2,1,Söder,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Einziger Mann im Bild, redet gestikulierend; Headline: Söder plant drastischen Schritt; Alter grenzwertig zu 60+"
+2026-10-22-08-13,3,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Älterer Mann im dunklen Mantel mittig-rechts, scharf und zentral; Zuordnung zum 'Bush-Bruder' unsicher"
+2026-10-22-08-13,3,2,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Mann mit blauer Krawatte links; ebenfalls möglicher 'Bush-Bruder'"
+2026-10-22-08-13,3,3,,weiblich,alt,weiss,nebenperson,indirekt,nicht_thematisiert,reich_maechtig,nein,mittel,"Ältere Frau im schwarzen Mantel in der Mitte, Teil der Familie laut Bildkontext"
+2026-10-22-08-13,3,4,,weiblich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,reich_maechtig,nein,mittel,"Frau mit dunklen Haaren ganz links, Hand auf dem Herzen"
+2026-10-22-08-13,3,5,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,nein,niedrig,Uniformierter Offizier rechts salutierend
+2026-10-22-08-13,4,1,Klopp,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,ja,mittel,"Mann mit Kappe spricht ins Mikrofon (Interviewter); Headline zitiert Klopp mit einer Einschätzung"
+2026-10-22-08-13,4,2,,nicht_erkennbar,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person mit Haarknoten von hinten (Interviewende), Gesicht nicht sichtbar"
+2026-10-22-08-13,4,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Unscharfer Mann mit Ohrhörer links im Hintergrund
+2026-10-22-08-13,4,4,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Teilweise verdeckter junger Mann hinter den Sprechenden
+2026-10-22-08-13,5,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Zentrale Kostümfigur mit Mikrofon; möglicherweise der in der Headline genannte Gewinner, aber nicht eindeutig"
+2026-10-22-08-13,5,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Kostümierte Tanzende links, Gesicht verdeckt"
+2026-10-22-08-13,5,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Kostümierte Tanzende rechts, Gesicht verdeckt"

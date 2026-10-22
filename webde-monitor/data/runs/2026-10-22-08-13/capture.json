@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-22-08-13",
+  "erfasst_am": "2026-10-22T08:13:58.643Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Selenskyj: Wäre mit Status quo an Frontlinie einverstanden",
+      "teasertext": "Wende in Washington Selenskyj: Wäre mit Status quo an Frontlinie einverstanden",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/selenskyj-status-quo-frontlinie-einverstanden-42861776",
+      "bild_url": "https://i0.web.de/image/778/42861778%2cpd=7%2cf=responsive169-w950/ukraine-krieg.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Wende in Washington",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Söder plant drastischen Schritt gegen Berlin und Sachsen-Anhalt",
+      "teasertext": "Beim Länderfinanzausgleich Söder plant drastischen Schritt gegen Berlin und Sachsen-Anhalt",
+      "url": "https://web.de/magazine/politik/inland/soeder-plant-drastischen-schritt-berlin-sachsen-anhalt-42862286",
+      "bild_url": "https://i0.web.de/image/320/42862320%2cpd=8%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Beim Länderfinanzausgleich",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Bush-Bruder bricht mit jahrelanger Familientradition",
+      "teasertext": "Senatswahl in Texas Bush-Bruder bricht mit jahrelanger Familientradition",
+      "url": "https://web.de/magazine/politik/us-politik/bush-bruder-bricht-jahrelanger-familientradition-42862482",
+      "bild_url": "https://i0.web.de/image/484/42862484%2cpd=2%2cf=responsive169-w300/familie-bush.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Senatswahl in Texas",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "\"Bis heute nicht verstanden\": Was Klopp an Bayern verblüfft",
+      "teasertext": "Analyse Bei Topspiel gegen Arsenal \"Bis heute nicht verstanden\": Was Klopp an Bayern verblüfft",
+      "url": "https://web.de/magazine/sport/fussball/champions-league/verstanden-klopp-bayern-verbluefft-42862454",
+      "bild_url": "https://i0.web.de/image/464/42862464%2cpd=5%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Analyse Bei Topspiel gegen Arsenal",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Schweizer Schlagersänger gewinnt \"The Masked Singer\"",
+      "teasertext": "Von Anfang an vermutet Schweizer Schlagersänger gewinnt \"The Masked Singer\"",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/the-masked-singer/vincent-gross-gewinnt-the-masked-singer-42861916",
+      "bild_url": "https://i0.web.de/image/252/42862252%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Von Anfang an vermutet",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
