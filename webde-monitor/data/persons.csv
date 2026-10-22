@@ -59,3 +59,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-22-08-13,5,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Kostümierte Tanzende rechts, Gesicht verdeckt"
 2026-10-22-11-22,1,1,,weiblich,mittel,weiss,hauptperson,indirekt,passiv,reich_maechtig,unklar,mittel,"Einzelne Frau im Blazer vor blauer Wand; Headline über 'AfD-Leaks' legt Parteivertreterin nahe, über die etwas enthüllt wird"
 2026-10-22-11-22,5,1,Carolin Kebekus,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Einzelne Frau im Porträt; Dachzeile nennt Interview mit Carolin Kebekus, Headline zitiert eine kritische Aussage"
+2026-10-22-15-14,1,1,,maennlich,jung,poc,hauptperson,indirekt,nicht_thematisiert,neutral,unklar,niedrig,"Soldat in Tarnuniform vorn links, größte Figur, Gesicht im Profil; steht für den drohenden Krieg"
+2026-10-22-15-14,1,2,,maennlich,jung,poc,nebenperson,indirekt,nicht_thematisiert,neutral,unklar,mittel,"Soldat mit rotem Barett und Gewehr rechts, zeigt mit dem Finger"
+2026-10-22-15-14,3,1,Pavel,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Einziger Mann im Bild an Mikrofonen; Dachzeile 'Tschechiens Präsident', Headline zitiert Pavel"
+2026-10-22-15-14,5,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Langhaariger Mann am Schlagzeug links (Drumsticks sichtbar), also der 'Iron-Maiden-Drummer', der die Golfrunde ablehnt"
+2026-10-22-15-14,5,2,Donald Trump,maennlich,alt,weiss,nebenperson,namentlich,passiv,reich_maechtig,nein,mittel,"Mann im Anzug mit US-Flaggen-Anstecker rechts; per Ausschluss die zweite in der Headline genannte Person, deren Einladung abgelehnt wird"

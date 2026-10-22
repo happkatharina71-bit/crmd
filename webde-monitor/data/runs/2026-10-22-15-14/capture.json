@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-22-15-14",
+  "erfasst_am": "2026-10-22T15:14:35.023Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "In Afrika droht der nächste Krieg – mit Folgen für Europa",
+      "teasertext": "Konflikt spitzt sich zu In Afrika droht der nächste Krieg – mit Folgen für Europa",
+      "url": "https://web.de/magazine/politik/afrika-droht-naechste-krieg-folgen-europa-42859858",
+      "bild_url": "https://i0.web.de/image/866/42859866%2cpd=3%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Konflikt spitzt sich zu",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Milliardenschwerer Betrug im Gesundheitswesen: Kassen wollen Aufklärung",
+      "teasertext": "Falsche Abrechnungen Milliardenschwerer Betrug im Gesundheitswesen: Kassen wollen Aufklärung",
+      "url": "https://web.de/magazine/politik/inland/betrug-gesundheitswesen-kassen-aufklaerung-42864856",
+      "bild_url": "https://i0.web.de/image/858/42864858%2cpd=2%2cf=responsive169-w300/krankenversicherungskarten.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Falsche Abrechnungen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Pavel über Putin: \"Er hat eine obsessive Angst davor, getötet zu werden\"",
+      "teasertext": "Tschechiens Präsident Pavel über Putin: \"Er hat eine obsessive Angst davor, getötet zu werden\"",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/tschechiens-praesident-pavel-putin-isoliert-falsch-informiert-42863862",
+      "bild_url": "https://i0.web.de/image/350/42864350%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Tschechiens Präsident",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Wie gefährlich ist das Shamonda-Virus?",
+      "teasertext": "Erster Fall bei einem Menschen Wie gefährlich ist das Shamonda-Virus?",
+      "url": "https://web.de/magazine/gesundheit/shamonda-virus-erstmals-menschen-nachgewiesen-42864408",
+      "bild_url": "https://i0.web.de/image/026/42865026%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Erster Fall bei einem Menschen",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Iron-Maiden-Drummer lehnt Golfrunde mit Donald Trump ab",
+      "teasertext": "\"'Was zum Teufel?'\" Iron-Maiden-Drummer lehnt Golfrunde mit Donald Trump ab",
+      "url": "https://web.de/magazine/unterhaltung/stars/iron-maiden-drummer-nicko-mcbrain-lehnt-golfrunde-donald-trump-42863988",
+      "bild_url": "https://i0.web.de/image/480/42864480%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "\"'Was zum Teufel?'\"",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

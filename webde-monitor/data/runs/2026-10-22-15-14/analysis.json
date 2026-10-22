@@ -1,0 +1,114 @@
+{
+ "run_id": "2026-10-22-15-14",
+ "erfasst_am": "2026-10-22T15:14:35.023Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 3,
+   "menschenmenge": "nein",
+   "notiz": "Zwei bewaffnete Soldaten vor Flughafengebäude, eine winzige Person im Hintergrund nur gezählt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "unklar",
+     "sicherheit": "niedrig",
+     "begruendung": "Soldat in Tarnuniform vorn links, größte Figur, Gesicht im Profil; steht für den drohenden Krieg"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "unklar",
+     "sicherheit": "mittel",
+     "begruendung": "Soldat mit rotem Barett und Gewehr rechts, zeigt mit dem Finger"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Gesundheitskarten verschiedener Kassen; Passfotos auf den Karten nur angeschnitten, keine Person erkennbar",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Pressestatement mit Mikrofonen",
+   "personen": [
+    {
+     "name": "Pavel",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Einziger Mann im Bild an Mikrofonen; Dachzeile 'Tschechiens Präsident', Headline zitiert Pavel"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "tier",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Stechmücke auf Haut (Nahaufnahme), keine Person erkennbar",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Collage aus zwei Einzelbildern",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Langhaariger Mann am Schlagzeug links (Drumsticks sichtbar), also der 'Iron-Maiden-Drummer', der die Golfrunde ablehnt"
+    },
+    {
+     "name": "Donald Trump",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann im Anzug mit US-Flaggen-Anstecker rechts; per Ausschluss die zweite in der Headline genannte Person, deren Einladung abgelehnt wird"
+    }
+   ]
+  }
+ ]
+}
