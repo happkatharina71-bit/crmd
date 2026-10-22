@@ -31,3 +31,15 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-21-19-14,4,2,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,mittel,Mann mit Brille am linken Pult
 2026-10-21-19-14,4,3,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Mann im dunklen Anzug am rechten Pult; Alter um 30 schwer einzuschätzen"
 2026-10-21-19-14,5,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Mann mit grauem Bart blickt sorgenvoll aufs Smartphone; steht für die 'Hunderttausenden', die auf Betrug hereinfallen"
+2026-10-22-05-13,1,1,Selenskyj,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Einziger Mann im Bild; Headline nennt Selenskyj mit einer Position zur Frontlinie"
+2026-10-22-05-13,2,1,Söder,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Einziger Mann im Bild, redet gestikulierend; Headline: Söder plant drastischen Schritt; Alter grenzwertig zu 60+"
+2026-10-22-05-13,3,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Spieler im roten Trikot Nr. 9 zentral mit ausgebreiteten Armen; 'Bitter für die Bayern'; Alter um 30 schwer einzuschätzen"
+2026-10-22-05-13,3,2,,maennlich,jung,poc,nebenperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Spieler im dunklen Trikot links, Gegner 'Arsenal'"
+2026-10-22-05-13,3,3,,maennlich,jung,weiss,nebenperson,indirekt,passiv,neutral,nein,mittel,Spieler im roten Trikot Nr. 8 rechts
+2026-10-22-05-13,3,4,,maennlich,jung,poc,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,Sitzender Spieler im dunklen Trikot hinten rechts
+2026-10-22-05-13,3,5,,maennlich,nicht_erkennbar,poc,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Sitzender Spieler im dunklen Trikot Nr. 15 von hinten, Gesicht nicht sichtbar"
+2026-10-22-05-13,4,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Zentrale Kostümfigur mit Mikrofon; möglicherweise der in der Headline genannte Gewinner, aber nicht eindeutig"
+2026-10-22-05-13,4,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Kostümierte Tanzende links, Gesicht verdeckt"
+2026-10-22-05-13,4,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Kostümierte Tanzende rechts, Gesicht verdeckt"
+2026-10-22-05-13,5,1,,maennlich,alt,weiss,hauptperson,indirekt,passiv,reich_maechtig,nein,mittel,"Mann in weißem Gewand mit Kappe zentral; Headline über Erkrankung 'des Papstes' (Funktion); Alter nach Bildeindruck"
+2026-10-22-05-13,5,2,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Am linken Rand angeschnittener Mann, nur teilweise sichtbar"
