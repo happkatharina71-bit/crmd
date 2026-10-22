@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-22-19-13",
+  "erfasst_am": "2026-10-22T19:13:13.953Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Wieso eine \"blaue Welle\" für Trump drastische Folgen hätte",
+      "teasertext": "Die Midterms einfach erklärt Wieso eine \"blaue Welle\" für Trump drastische Folgen hätte",
+      "url": "https://web.de/magazine/politik/wahlen/blaue-welle-trump-drastische-folgen-42862796",
+      "bild_url": "https://i0.web.de/image/344/42864344%2cpd=2%2cf=responsive169-w950/kongresswahlen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Die Midterms einfach erklärt",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Korallenriffe vor dem Kollaps",
+      "teasertext": "IUCN schlägt Alarm Korallenriffe vor dem Kollaps",
+      "url": "https://web.de/magazine/wissen/natur-umwelt/96-prozent-korallenriffe-weltweit-absterben-bedroht-42864220",
+      "bild_url": "https://i0.web.de/image/224/42864224%2cpd=3%2cf=responsive169-w300/iucn-96-prozent-flachwasser-korallenriffe-stark-be.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "IUCN schlägt Alarm",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Milliardenschwerer Betrug im Gesundheitswesen: Kassen wollen Aufklärung",
+      "teasertext": "Falsche Abrechnungen Milliardenschwerer Betrug im Gesundheitswesen: Kassen wollen Aufklärung",
+      "url": "https://web.de/magazine/politik/inland/betrug-gesundheitswesen-kassen-aufklaerung-42864856",
+      "bild_url": "https://i0.web.de/image/858/42864858%2cpd=2%2cf=responsive169-w300/krankenversicherungskarten.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Falsche Abrechnungen",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "In Sinsheim: Hoffenheim empfängt Olympique Lyon",
+      "teasertext": "Live-Ticker Europa League In Sinsheim: Hoffenheim empfängt Olympique Lyon",
+      "url": "https://web.de/magazine/sport/fussball/europa-league/tsg-hoffenheim-olympique-lyon-41831922",
+      "bild_url": "https://i0.web.de/image/692/42865692%2cpd=2%2cf=responsive169-w300/1899-hoffenheim-olympique-lyon.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Live-Ticker Europa League",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Diese Weihnachtsmärkte öffnen schon im Oktober",
+      "teasertext": "In mehreren Städten Diese Weihnachtsmärkte öffnen schon im Oktober",
+      "url": "https://web.de/magazine/reise/weihnachtsmaerkte-oeffnen-oktober-tore-42863898",
+      "bild_url": "https://i0.web.de/image/934/42863934%2cpd=3%2cf=responsive169-w300/lachende-weihnachtsmarktbesucher-trinken-glueckwei.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "In mehreren Städten",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
