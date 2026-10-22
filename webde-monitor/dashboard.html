@@ -99,7 +99,7 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
   <p class="sub intro"><strong>Methodik:</strong> Abgebildete Personen in den Topteasern der mobilen Startseite, ausgewertet nach Bild, Dachzeile und Headline. Alle Merkmale sind wahrgenommen, nicht gesichert. Die Teaser werden täglich um 7, 10, 13, 17 und 21 Uhr erfasst.</p>
 
   <div class="status panel">
-    <div><div class="stand num" id="count"></div><div class="note">Letzte Erhebung</div><div class="stand num" id="stand">wird geladen …</div></div>
+    <div><div class="stand num" id="count"></div><div class="note">Letzte Erhebung</div><div class="stand num" id="stand">wird geladen …</div><div class="note" id="auswahl" hidden></div></div>
   </div>
 
   <div class="filters" role="group" aria-label="Filter">
@@ -210,6 +210,10 @@ function render() {
 
   const total = new Set(TEASERS.map((t) => t.run_id)).size;
   document.getElementById('count').textContent = total === 1 ? '1 Erhebung' : `${total} Erhebungen`;
+  // Zeigt an, dass der Zeitfilter greift (Kasten selbst zählt immer alle Erhebungen)
+  const auswahl = document.getElementById('auswahl');
+  auswahl.hidden = runs.length === total;
+  auswahl.textContent = `Im gewählten Zeitraum: ${runs.length} von ${total} Erhebungen`;
 
   // "x von 5": Teaser mit mindestens einer Person der Gruppe
   const key = (p) => p.run_id + '#' + p.position;
@@ -299,8 +303,8 @@ const setPressed = (wrap, btn) => wrap.querySelectorAll('button').forEach((b) =>
 document.getElementById('range').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return;
   state.range = b.dataset.r; state.from = state.to = ''; from.value = to.value = ''; setPressed(e.currentTarget, b); render(); });
 const from = document.getElementById('from'), to = document.getElementById('to');
-[from, to].forEach((inp) => inp.addEventListener('change', () => { state.from = from.value; state.to = to.value;
-  setPressed(document.getElementById('range'), null); render(); }));
+[from, to].forEach((inp) => ['input', 'change'].forEach((ev) => inp.addEventListener(ev, () => { state.from = from.value; state.to = to.value;
+  setPressed(document.getElementById('range'), null); render(); })));
 
 // Tooltip
 const tip = document.getElementById('tip');
