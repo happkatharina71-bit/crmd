@@ -1,0 +1,74 @@
+{
+ "run_id": "2026-10-22-11-22",
+ "erfasst_am": "2026-10-22T11:22:25.379Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt vor blauem Hintergrund; Person nicht benannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "unklar",
+     "sicherheit": "mittel",
+     "begruendung": "Einzelne Frau im Blazer vor blauer Wand; Headline über 'AfD-Leaks' legt Parteivertreterin nahe, über die etwas enthüllt wird"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Amazon-Logo auf Lieferwagen; nur unscharfe Spiegelungen, keine Person erkennbar",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Gewitterwolken über Flusslandschaft",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "tier",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Wanzenarten auf Blättern (Collage)",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt",
+   "personen": [
+    {
+     "name": "Carolin Kebekus",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Einzelne Frau im Porträt; Dachzeile nennt Interview mit Carolin Kebekus, Headline zitiert eine kritische Aussage"
+    }
+   ]
+  }
+ ]
+}

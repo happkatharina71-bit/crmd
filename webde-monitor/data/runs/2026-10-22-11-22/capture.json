@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-22-11-22",
+  "erfasst_am": "2026-10-22T11:22:25.379Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Was in den AfD-Leaks steht",
+      "teasertext": "Erste Details bekannt Was in den AfD-Leaks steht",
+      "url": "https://web.de/magazine/politik/inland/details-afd-leaks-42862522",
+      "bild_url": "https://i0.web.de/image/120/42863120%2cpd=4%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Erste Details bekannt",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Gefälschte Amazon-Mails im Umlauf",
+      "teasertext": "Aktuelle Betrugsmaschen Gefälschte Amazon-Mails im Umlauf",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/vorsicht-betrug-gefaelschte-amazon-mails-umlauf-42670410",
+      "bild_url": "https://i0.web.de/image/758/42862758%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Aktuelle Betrugsmaschen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Sturmtief erreicht Deutschland – diese Regionen trifft es hart",
+      "teasertext": "Herbststürme ziehen auf Sturmtief erreicht Deutschland – diese Regionen trifft es hart",
+      "url": "https://web.de/magazine/panorama/wetter/sturmtief-austen-erreicht-deutschland-regionen-trifft-hart-42862466",
+      "bild_url": "https://i0.web.de/image/672/42863672%2cpd=3%2cf=responsive169-w300/dunkle-wolken-weser.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Herbststürme ziehen auf",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Zwei invasive Arten breiten sich in Deutschland aus",
+      "teasertext": "Gärtner aufgepasst! Zwei invasive Arten breiten sich in Deutschland aus",
+      "url": "https://web.de/magazine/ratgeber/haus-garten/wanzenarten-deutschland-vormarsch-erkennt-42858976",
+      "bild_url": "https://i0.web.de/image/128/42859128%2cpd=6%2cf=responsive169-w300/marmorierte-baumwanze-gruene-reiswanze.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Gärtner aufgepasst!",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "\"Wer das Spiel nicht mitspielen wollte, war raus\"",
+      "teasertext": "Interview Carolin Kebekus \"Wer das Spiel nicht mitspielen wollte, war raus\"",
+      "url": "https://web.de/magazine/unterhaltung/stars/spiel-mitspielen-raus-42858544",
+      "bild_url": "https://i0.web.de/image/454/42863454%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Interview Carolin Kebekus",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

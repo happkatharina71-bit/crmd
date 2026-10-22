@@ -57,3 +57,5 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-22-08-13,5,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Zentrale Kostümfigur mit Mikrofon; möglicherweise der in der Headline genannte Gewinner, aber nicht eindeutig"
 2026-10-22-08-13,5,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Kostümierte Tanzende links, Gesicht verdeckt"
 2026-10-22-08-13,5,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Kostümierte Tanzende rechts, Gesicht verdeckt"
+2026-10-22-11-22,1,1,,weiblich,mittel,weiss,hauptperson,indirekt,passiv,reich_maechtig,unklar,mittel,"Einzelne Frau im Blazer vor blauer Wand; Headline über 'AfD-Leaks' legt Parteivertreterin nahe, über die etwas enthüllt wird"
+2026-10-22-11-22,5,1,Carolin Kebekus,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Einzelne Frau im Porträt; Dachzeile nennt Interview mit Carolin Kebekus, Headline zitiert eine kritische Aussage"
