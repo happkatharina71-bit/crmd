@@ -97,3 +97,17 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-23-11-18,1,2,,nicht_erkennbar,mittel,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Figur mit Perücke, starkem Make-up und Federkostüm rechts, Bild verschwommen; Geschlecht und Hautfarbe nicht beurteilbar"
 2026-10-23-11-18,2,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Mann in Uniform mit Rangabzeichen spricht mit erhobenem Finger; steht für 'Iran', der etwas ankündigt; Hautfarbe zwischen den Kategorien schwer einzuordnen"
 2026-10-23-11-18,5,1,,maennlich,nicht_erkennbar,poc,hauptperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Spieler im roten Trikot mit Ball und Helm; steht für den 'NFL-Klub'; Gesicht hinter Visier kaum sichtbar"
+2026-10-23-15-07,1,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Lächelnder Mann mit Locken links vor Pressewand; Dachzeile 'Olivia-Hauptdarsteller', Headline zitiert seine Aussage; Alter um 30 schwer einzuschätzen"
+2026-10-23-15-07,1,2,,nicht_erkennbar,mittel,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Figur mit Perücke, starkem Make-up und Federkostüm rechts, Bild verschwommen; Geschlecht und Hautfarbe nicht beurteilbar"
+2026-10-23-15-07,2,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,nicht_thematisiert,neutral,unklar,mittel,"Polizist/in mit Schild und Helm in der Bildmitte, Gesicht verdeckt; Szene steht für die 'Proteste in Frankreich'"
+2026-10-23-15-07,2,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,unklar,mittel,"Einsatzkraft mit Schild links daneben, Gesicht verdeckt"
+2026-10-23-15-07,2,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,unklar,mittel,"Einsatzkraft mit Helm rechts der Mitte, Gesicht verdeckt"
+2026-10-23-15-07,2,4,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,unklar,mittel,"Einsatzkraft mit Helm ganz rechts, Gesicht verdeckt"
+2026-10-23-15-07,2,5,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,unklar,mittel,"Einsatzkraft mit Helm hinter der Gruppe, Gesicht verdeckt"
+2026-10-23-15-07,3,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,"Unscharfe Person im Laborkittel mit Handschuh rechts vor Monitor mit DNA-Grafik, Gesicht nicht sichtbar"
+2026-10-23-15-07,4,1,,nicht_erkennbar,nicht_erkennbar,weiss,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Person von hinten scannt QR-Code mit Smartphone; steht für die 'Opfer' der Betrüger; nur Hände deutlich sichtbar"
+2026-10-23-15-07,5,1,,maennlich,alt,weiss,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Lächelnder Mann mit Brille in der Mitte filmt mit Smartphone; passt ironisch zu 'Fans' und 'Handyverzicht'; Alter grenzwertig zu 30–59"
+2026-10-23-15-07,5,2,,maennlich,alt,weiss,nebenperson,indirekt,passiv,neutral,nein,mittel,Weißhaariger Mann mit Brille rechts daneben
+2026-10-23-15-07,5,3,,maennlich,alt,weiss,nebenperson,indirekt,passiv,neutral,nein,mittel,"Älterer Mann vorn unten mittig-links, blickt zur Kamera"
+2026-10-23-15-07,5,4,,maennlich,mittel,weiss,nebenperson,indirekt,passiv,neutral,nein,mittel,Mann vorn unten links
+2026-10-23-15-07,5,5,,maennlich,mittel,weiss,nebenperson,indirekt,passiv,neutral,nein,mittel,Mann mit grauem Bart links im Hintergrund

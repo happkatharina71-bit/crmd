@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-23-15-07",
+  "erfasst_am": "2026-10-23T15:07:58.218Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "\"Es wird immer unangenehmer für offen queer lebende und liebende Menschen\"",
+      "teasertext": "Interview \"Olivia\"-Hauptdarsteller \"Es wird immer unangenehmer für offen queer lebende und liebende Menschen\"",
+      "url": "https://web.de/magazine/unterhaltung/filme-serien-kino/johannes-hegemann-unangenehmer-queer-lebende-menschen-42864644",
+      "bild_url": "https://i0.web.de/image/014/42868014%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Interview \"Olivia\"-Hauptdarsteller",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Russische Bots heizten offenbar Proteste in Frankreich an",
+      "teasertext": "Studie zu Unruhen Russische Bots heizten offenbar Proteste in Frankreich an",
+      "url": "https://web.de/magazine/politik/russische-bots-heizten-offenbar-proteste-frankreich-42867848",
+      "bild_url": "https://i0.web.de/image/914/42867914%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Studie zu Unruhen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Fast jeder zählt zur genetischen Hochrisikogruppe - doch das ist völlig okay",
+      "teasertext": "Neue DNA-Studie Fast jeder zählt zur genetischen Hochrisikogruppe - doch das ist völlig okay",
+      "url": "https://web.de/magazine/wissen/wissenschaft-technik/zaehlt-genetischen-hochrisikogruppe-voellig-okay-42867464",
+      "bild_url": "https://i0.web.de/image/790/42867790%2cpd=3%2cf=responsive169-w300/aerztin-arbeitet-labor-untersucht-dna-proben-symbo.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Neue DNA-Studie",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Betrüger räumen mit QR-Codes die Konten ihrer Opfer leer",
+      "teasertext": "Aktuelle Betrugsmaschen Betrüger räumen mit QR-Codes die Konten ihrer Opfer leer",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/betrueger-raeumen-qr-codes-konten-opfer-42670410",
+      "bild_url": "https://i0.web.de/image/654/42867654%2cpd=1%2cf=responsive169-w300/aeltere-scannt-qr-code-brief.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Aktuelle Betrugsmaschen",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Der BVB belohnt Fans für Handyverzicht – wir hätten da noch ein paar Ideen",
+      "teasertext": "Satire Dafür sollte es Preise geben Der BVB belohnt Fans für Handyverzicht – wir hätten da noch ein paar Ideen",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/bvb-belohnt-fans-handyverzicht-haetten-paar-ideen-42866516",
+      "bild_url": "https://i0.web.de/image/238/42867238%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Satire Dafür sollte es Preise geben",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
