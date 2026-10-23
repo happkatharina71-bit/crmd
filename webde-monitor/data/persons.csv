@@ -75,3 +75,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-22-19-13,5,2,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Frau mit heller Mütze links im Profil, trinkt aus Becher; Alter um 30 schwer einzuschätzen"
 2026-10-22-19-13,5,3,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Lachender Mann mit grauer Mütze rechts
 2026-10-22-19-13,5,4,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Am rechten Rand angeschnittene Person, Gesicht nicht sichtbar"
+2026-10-23-05-13,1,1,,maennlich,mittel,poc,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Lächelnder Mann mit erhobenem Daumen auf Bühne; Headline: 'er' stellt seine Gegnerin im Wahlkampf mit einem Video bloß"
+2026-10-23-05-13,2,1,Laschet,maennlich,alt,weiss,hauptperson,namentlich,aktiv,unklar,ja,mittel,"Mann mit Brille zentral am Tisch, redet gestikulierend; Headline: Laschet kritisiert Selenskyj; Alter grenzwertig zu 30–59"
+2026-10-23-05-13,2,2,,nicht_erkennbar,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person mit hellem Haar links angeschnitten, von hinten"
+2026-10-23-05-13,2,3,,nicht_erkennbar,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Am rechten Rand angeschnittene Person, nur Arm und Hände sichtbar"
+2026-10-23-05-13,4,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,unklar,niedrig,"Mann mit Kappe und Bart im Nationalteam-Pullover spricht ins Mikrofon; Zuordnung zu einem Namen der Headline nicht eindeutig"
+2026-10-23-05-13,5,1,Tom Skerritt,maennlich,alt,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Lächelnder älterer Mann zentral; Headline: Trauer um Tom Skerritt; Hautfarbe im Schwarz-Weiß-Bild nur eingeschränkt beurteilbar"
+2026-10-23-05-13,5,2,,weiblich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Teilweise verdeckte Frau mit Brille im Hintergrund links

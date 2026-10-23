@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-23-05-13",
+  "erfasst_am": "2026-10-23T05:13:22.744Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Selbst Republikaner kritisieren das Video, mit dem er seine Gegnerin bloßstellt",
+      "teasertext": "Schmutziger Wahlkampf in Ohio Selbst Republikaner kritisieren das Video, mit dem er seine Gegnerin bloßstellt",
+      "url": "https://web.de/magazine/politik/us-politik/republikaner-kritisieren-video-ramaswamy-gegnerin-blossstellt-42865834",
+      "bild_url": "https://i0.web.de/image/836/42865836%2cpd=2%2cf=responsive169-w950/vivek-ramaswamy.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Schmutziger Wahlkampf in Ohio",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "\"Nicht sehr geschickt\": Laschet kritisiert Selenskyj",
+      "teasertext": "TV-Nachlese Maybrit Illner \"Nicht sehr geschickt\": Laschet kritisiert Selenskyj",
+      "url": "https://web.de/magazine/politik/politische-talkshows/geschickt-laschet-kritisiert-selenskyj-42866232",
+      "bild_url": "https://i0.web.de/image/270/42866270%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "TV-Nachlese Maybrit Illner",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Studie zeigt, welche Länder vom Klimaschutz profitieren – und welche nicht",
+      "teasertext": "Aktuelle Klimanews Studie zeigt, welche Länder vom Klimaschutz profitieren – und welche nicht",
+      "url": "https://web.de/magazine/wissen/klima/studie-zeigt-laender-klimaschutz-profitieren--42860214",
+      "bild_url": "https://i0.web.de/image/740/42864740%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Aktuelle Klimanews",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Kahn kritisiert Klopp: \"Geht um Kollegialität\"",
+      "teasertext": "Auch Söder äußert sich Kahn kritisiert Klopp: \"Geht um Kollegialität\"",
+      "url": "https://web.de/magazine/sport/fussball/champions-league/oliver-kahn-kritisiert-klopp-kollegialitaet-42866260",
+      "bild_url": "https://i0.web.de/image/344/42866344%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Auch Söder äußert sich",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Trauer um \"Top Gun\"-Star Tom Skerritt",
+      "teasertext": "Mit 93 Jahren gestorben Trauer um \"Top Gun\"-Star Tom Skerritt",
+      "url": "https://web.de/magazine/unterhaltung/stars/trauer-top-gun-star-tom-skerritt-42865768",
+      "bild_url": "https://i0.web.de/image/770/42865770%2cpd=1%2cf=responsive169-w300/tom-skerritt-spielte-tom-cruise-top-gun.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Mit 93 Jahren gestorben",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

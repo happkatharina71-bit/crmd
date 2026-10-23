@@ -1,0 +1,141 @@
+{
+ "run_id": "2026-10-23-05-13",
+ "erfasst_am": "2026-10-23T05:13:22.744Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Person in Dachzeile/Headline nicht namentlich genannt ('er')",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Lächelnder Mann mit erhobenem Daumen auf Bühne; Headline: 'er' stellt seine Gegnerin im Wahlkampf mit einem Video bloß"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 3,
+   "menschenmenge": "nein",
+   "notiz": "Talkshow-Szene; Gesicht im Hintergrund ist eine Projektion und nicht gezählt",
+   "personen": [
+    {
+     "name": "Laschet",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "unklar",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit Brille zentral am Tisch, redet gestikulierend; Headline: Laschet kritisiert Selenskyj; Alter grenzwertig zu 30–59"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person mit hellem Haar links angeschnitten, von hinten"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Am rechten Rand angeschnittene Person, nur Arm und Hände sichtbar"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "grafik_text",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Digitale Klimakarte mit Warnsymbolen",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Pressekonferenz vor Sponsorenwand; welche der drei genannten Personen (Söder, Kahn, Klopp) abgebildet ist, geht aus dem Bild nicht eindeutig hervor",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "unklar",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit Kappe und Bart im Nationalteam-Pullover spricht ins Mikrofon; Zuordnung zu einem Namen der Headline nicht eindeutig"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Schwarz-Weiß-Foto (Trauerbild); Bild wirkt jünger als 'Mit 93 Jahren'",
+   "personen": [
+    {
+     "name": "Tom Skerritt",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Lächelnder älterer Mann zentral; Headline: Trauer um Tom Skerritt; Hautfarbe im Schwarz-Weiß-Bild nur eingeschränkt beurteilbar"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Teilweise verdeckte Frau mit Brille im Hintergrund links"
+    }
+   ]
+  }
+ ]
+}
