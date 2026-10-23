@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-23-11-18",
+  "erfasst_am": "2026-10-23T11:18:46.165Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "\"Es wird immer unangenehmer für offen queer lebende und liebende Menschen\"",
+      "teasertext": "Interview \"Olivia\"-Hauptdarsteller \"Es wird immer unangenehmer für offen queer lebende und liebende Menschen\"",
+      "url": "https://web.de/magazine/unterhaltung/filme-serien-kino/johannes-hegemann-unangenehmer-queer-lebende-menschen-42864644",
+      "bild_url": "https://i0.web.de/image/014/42868014%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Interview \"Olivia\"-Hauptdarsteller",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Iran kündigt \"Vater aller Bomben\" an",
+      "teasertext": "Nach US-Drohungen Iran kündigt \"Vater aller Bomben\" an",
+      "url": "https://web.de/magazine/politik/iran-kuendigt-vater-bomben-42867436",
+      "bild_url": "https://i0.web.de/image/656/42867656%2cpd=4%2cf=responsive169-w300/hossein-mohebi.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Nach US-Drohungen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Medizinethiker: \"Unendlich viele Situationen\" für einen Sterbewunsch",
+      "teasertext": "Neue Leitlinie Medizinethiker: \"Unendlich viele Situationen\" für einen Sterbewunsch",
+      "url": "https://web.de/magazine/wissen/psychologie/patienten-sterben-regeln-assistierten-suizid-42866596",
+      "bild_url": "https://i0.web.de/image/084/42867084%2cpd=2%2cf=responsive169-w300/pflegekraft-haelt-hand-alten-person.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Neue Leitlinie",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Frau mit 19 Stichen getötet: Verdächtiger gefasst",
+      "teasertext": "Mutmaßlicher Mord in Marburg Frau mit 19 Stichen getötet: Verdächtiger gefasst",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/marburg-19-stichen-getoetet-verdaechtiger-polen-gefasst-42867430",
+      "bild_url": "https://i0.web.de/image/744/42867744%2cpd=2%2cf=responsive169-w300/marburg.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Mutmaßlicher Mord in Marburg",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "NFL-Klub löst mit neuem Logo Welle der Empörung aus",
+      "teasertext": "Nazi-Symbolik in Retrotrikots? NFL-Klub löst mit neuem Logo Welle der Empörung aus",
+      "url": "https://web.de/magazine/sport/nfl/nfl-klub-loest-logo-nazi-vergleiche-42867276",
+      "bild_url": "https://i0.web.de/image/784/42867784%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Nazi-Symbolik in Retrotrikots?",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
