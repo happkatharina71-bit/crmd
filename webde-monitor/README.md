@@ -17,8 +17,8 @@ Personen nach [CODEBUCH.md](CODEBUCH.md).
 ## Automatische Erhebung
 
 Geplante Aufgabe „web.de Topteaser-Erhebung“: 7, 10, 13, 17, 21 Uhr (Europe/Berlin), 21.10.–20.11.2026 (eine einmalige Aufgabe schaltet sie am 20.11. nach der 21-Uhr-Erhebung ab).
-Seit 21.10. mittags laufen alle Erhebungen in derselben Sitzung (eine eigene Sitzung pro Lauf konnte nicht pushen). Jeder Lauf führt diese Schritte aus und das Online-Dashboard
-(https://claude.ai/artifact/JucmPLm9m8k9AAaCB3RbFz) mit den neuen CSV-Dateien neu veröffentlicht.
+Seit 21.10. mittags laufen alle Erhebungen in derselben Sitzung (eine eigene Sitzung pro Lauf konnte nicht pushen). Jeder Lauf führt diese Schritte aus und veröffentlicht danach das Online-Dashboard
+(https://claude.ai/artifact/JucmPLm9m8k9AAaCB3RbFz) mit den neuen CSV-Dateien neu.
 
 ## Status
 
