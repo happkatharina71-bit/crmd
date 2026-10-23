@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-23-08-13",
+  "erfasst_am": "2026-10-23T08:13:46.174Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Latinos kehren Republikanern massenhaft den Rücken",
+      "teasertext": "\"Nur nicht Trump\" Latinos kehren Republikanern massenhaft den Rücken",
+      "url": "https://web.de/magazine/politik/wahlen/latinos-kehren-republikanern-kongresswahlen-massenhaft-ruecken-42862752",
+      "bild_url": "https://i0.web.de/image/766/42862766%2cpd=3%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "\"Nur nicht Trump\"",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "\"Wie dramatisch ist die Lage wirklich?\" – \"Die ist dramatisch!\"",
+      "teasertext": "TV-Nachlese Wirtschaft Thema bei \"Lanz\" \"Wie dramatisch ist die Lage wirklich?\" – \"Die ist dramatisch!\"",
+      "url": "https://web.de/magazine/politik/politische-talkshows/markus-lanz-wirtschaft-dramatisch-lage-dramatisch-42866336",
+      "bild_url": "https://i0.web.de/image/326/42866326%2cpd=5%2cf=responsive169-w300/markus-lanz-olaf-lies.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "TV-Nachlese Wirtschaft Thema bei \"Lanz\"",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Louis van Gaal zerlegt Champions League: \"Jeder Hinz und Kunz darf mitmachen\"",
+      "teasertext": "Scharfe Kritik an UEFA Louis van Gaal zerlegt Champions League: \"Jeder Hinz und Kunz darf mitmachen\"",
+      "url": "https://web.de/magazine/sport/fussball/champions-league/louis-van-gaal-zerlegt-champions-league-hinz-kunz-mitmachen-42866994",
+      "bild_url": "https://i0.web.de/image/020/42867020%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Scharfe Kritik an UEFA",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Was Felix Neureuther und seine Frau niemals machen würden",
+      "teasertext": "Interview \"Falsches Signal\" Was Felix Neureuther und seine Frau niemals machen würden",
+      "url": "https://web.de/magazine/unterhaltung/stars/felix-neureuther-wuerden-42863840",
+      "bild_url": "https://i0.web.de/image/952/42863952%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Interview \"Falsches Signal\"",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Drohnenaufnahmen lassen uns staunen – und zweimal hinsehen",
+      "teasertext": "Galerie \"Siena Drone Photo Award\" Drohnenaufnahmen lassen uns staunen – und zweimal hinsehen",
+      "url": "https://web.de/magazine/wissen/natur-umwelt/siena-drone-photo-award-drohnenaufnahmen-staunen-zweimal-hinsehen-42855064",
+      "bild_url": "https://i0.web.de/image/708/42854708%2cpd=5%2cf=responsive169-w300/siena-drone-photo-awards-drohnen-aufnahmen-fotogra.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie \"Siena Drone Photo Award\"",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

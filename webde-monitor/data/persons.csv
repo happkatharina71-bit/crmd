@@ -82,3 +82,14 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-23-05-13,4,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,unklar,niedrig,"Mann mit Kappe und Bart im Nationalteam-Pullover spricht ins Mikrofon; Zuordnung zu einem Namen der Headline nicht eindeutig"
 2026-10-23-05-13,5,1,Tom Skerritt,maennlich,alt,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Lächelnder älterer Mann zentral; Headline: Trauer um Tom Skerritt; Hautfarbe im Schwarz-Weiß-Bild nur eingeschränkt beurteilbar"
 2026-10-23-05-13,5,2,,weiblich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Teilweise verdeckte Frau mit Brille im Hintergrund links
+2026-10-23-08-13,1,1,,weiblich,jung,poc,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Rufende junge Frau mit gelbem Schild links-mittig, scharf im Vordergrund; Teil der Gruppe, die 'den Rücken kehrt'"
+2026-10-23-08-13,1,2,,maennlich,mittel,poc,nebenperson,indirekt,aktiv,neutral,ja,niedrig,"Rufender Mann in grüner Jacke mit Hand am Mund; Alter um 30 schwer einzuschätzen"
+2026-10-23-08-13,1,3,,weiblich,jung,poc,nebenperson,indirekt,aktiv,neutral,ja,mittel,"Frau mit Brille rechts, filmt mit Smartphone neben Kamera mit Licht"
+2026-10-23-08-13,1,4,,nicht_erkennbar,jung,weiss,nebenperson,indirekt,aktiv,neutral,ja,niedrig,Person mit kurzen Haaren hält großes Schild 'Immigrants make America great' in der Bildmitte
+2026-10-23-08-13,1,5,,maennlich,jung,poc,nebenperson,indirekt,aktiv,neutral,ja,niedrig,Mann mit erhobenem Arm hinten links
+2026-10-23-08-13,2,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Mann rechts im Sessel, redet gestikulierend; passt zur zitierten Antwort 'Die ist dramatisch!'"
+2026-10-23-08-13,2,2,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,nein,mittel,"Mann links im grauen Anzug, hört zu; passt zur zitierten Frage"
+2026-10-23-08-13,2,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Am rechten Rand angeschnittene Person, nur Schulter sichtbar"
+2026-10-23-08-13,3,1,Louis van Gaal,maennlich,alt,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Älterer Mann im Anzug zentral; Headline: Louis van Gaal kritisiert die Champions League scharf"
+2026-10-23-08-13,3,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Am linken Rand angeschnittene Person, nur Schulter im Anzug sichtbar"
+2026-10-23-08-13,4,1,Felix Neureuther,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Einziger, lächelnder Mann im Bild; Headline nennt Felix Neureuther und seine Haltung ('falsches Signal')"
