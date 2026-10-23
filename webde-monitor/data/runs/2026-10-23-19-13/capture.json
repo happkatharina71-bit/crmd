@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-23-19-13",
+  "erfasst_am": "2026-10-23T19:13:25.813Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Vieles spricht für Aigner – aber einer ziert sich noch",
+      "teasertext": "Analyse Die nächste Bundespräsidentin? Vieles spricht für Aigner – aber einer ziert sich noch",
+      "url": "https://web.de/magazine/politik/inland/bundespraesidentin-spricht-aigner-ziert-42868308",
+      "bild_url": "https://i0.web.de/image/344/42869344%2cpd=3%2cf=responsive169-w950/auftakt-csu-parteitag.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse Die nächste Bundespräsidentin?",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Impfung senkt Sterberisiko bei schwarzem Hautkrebs deutlich, aber...",
+      "teasertext": "Es gibt Einschränkungen Impfung senkt Sterberisiko bei schwarzem Hautkrebs deutlich, aber...",
+      "url": "https://web.de/magazine/wissen/wissenschaft-technik/impfung-sterberisiko-schwarzem-hautkrebs-deutlich-42868388",
+      "bild_url": "https://i0.web.de/image/596/42868596%2cpd=2%2cf=responsive169-w300/aerztin-untersucht-muttermals-lupe.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Es gibt Einschränkungen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Nach Zusammenbruch: Bayern-Trainer Kompany im Krankenhaus",
+      "teasertext": "Medizinischer Notfall Nach Zusammenbruch: Bayern-Trainer Kompany im Krankenhaus",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/bayern-trainer-kompany-krankenhaus-42869838",
+      "bild_url": "https://i0.web.de/image/900/42869900%2cpd=2%2cf=responsive169-w300/bayern-muenchen-fc-arsenal.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Medizinischer Notfall",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Gladbach mit dem Anschlusstreffer – alles wieder offen in Stuttgart",
+      "teasertext": "Live-Ticker Bundesliga Gladbach mit dem Anschlusstreffer – alles wieder offen in Stuttgart",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/bundesliga-live-ticker-stuttgart-gladbach-41292002",
+      "bild_url": "https://i0.web.de/image/130/42870130%2cpd=2%2cf=responsive169-w300/vfb-stuttgart-borussia-moenchengladbach.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Live-Ticker Bundesliga",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Herbststurm verletzt Menschen und behindert den Bahnverkehr",
+      "teasertext": "Warnung vom DWD Herbststurm verletzt Menschen und behindert den Bahnverkehr",
+      "url": "https://web.de/magazine/panorama/wetter/herbststurm-legt-los-schwerverletzte-probleme-bahn-42867554",
+      "bild_url": "https://i0.web.de/image/982/42869982%2cpd=2%2cf=responsive169-w300/herbststurm-brocken.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Warnung vom DWD",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

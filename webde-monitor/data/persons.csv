@@ -111,3 +111,17 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-23-15-07,5,3,,maennlich,alt,weiss,nebenperson,indirekt,passiv,neutral,nein,mittel,"Älterer Mann vorn unten mittig-links, blickt zur Kamera"
 2026-10-23-15-07,5,4,,maennlich,mittel,weiss,nebenperson,indirekt,passiv,neutral,nein,mittel,Mann vorn unten links
 2026-10-23-15-07,5,5,,maennlich,mittel,weiss,nebenperson,indirekt,passiv,neutral,nein,mittel,Mann mit grauem Bart links im Hintergrund
+2026-10-23-19-13,1,1,Aigner,weiblich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,unklar,mittel,"Lächelnde Frau mit Brille und Parteiband zentral; Headline bewertet ihre Chancen ('Vieles spricht für Aigner'); Alter grenzwertig zu 60+"
+2026-10-23-19-13,1,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Kameramann links im Hintergrund
+2026-10-23-19-13,1,3,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Älterer Mann in beiger Weste rechts im Hintergrund mit Kamera
+2026-10-23-19-13,1,4,,maennlich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Am rechten Rand angeschnittener Mann, nur Teil des Gesichts sichtbar"
+2026-10-23-19-13,2,1,,weiblich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person mit Handschuhen untersucht mit Dermatoskop eine Schulter, Gesicht nur ab Nase sichtbar"
+2026-10-23-19-13,2,2,,nicht_erkennbar,nicht_erkennbar,weiss,nebenperson,indirekt,passiv,neutral,nein,niedrig,"Untersuchte Person, nur Schulter und Rücken sichtbar; steht für Betroffene von schwarzem Hautkrebs"
+2026-10-23-19-13,3,1,Kompany,maennlich,mittel,poc,hauptperson,namentlich,passiv,neutral,nein,mittel,"Mann mit ausgebreiteten Armen an der Seitenlinie zentral, als Trainer erkennbar; Headline: Bayern-Trainer Kompany nach Zusammenbruch im Krankenhaus"
+2026-10-23-19-13,3,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Mann mit Brille links auf der Bank
+2026-10-23-19-13,3,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Mann in grüner Weste auf der Bank
+2026-10-23-19-13,3,4,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Junger Mann in gelber Weste auf der Bank
+2026-10-23-19-13,3,5,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Junger Mann in blauer Weste auf der Bank
+2026-10-23-19-13,4,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spieler im schwarzen Trikot Nr. 38 rechts, größte Figur; steht für Gladbach, das den Anschlusstreffer erzielt"
+2026-10-23-19-13,4,2,,maennlich,jung,poc,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Spieler im schwarzen Trikot in der Mitte
+2026-10-23-19-13,4,3,,maennlich,jung,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Spieler im weißen Trikot links am Ball; Gegner 'in Stuttgart'; Alter um 30 schwer einzuschätzen"
