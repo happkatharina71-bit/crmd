@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-24-05-13",
+  "erfasst_am": "2026-10-24T05:13:51.485Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Hat der Klimawandel eine beginnende Eiszeit gestoppt?",
+      "teasertext": "Neue Klimastudie Hat der Klimawandel eine beginnende Eiszeit gestoppt?",
+      "url": "https://web.de/magazine/wissen/klima/klimawandel-beginnende-eiszeit-gestoppt-42868114",
+      "bild_url": "https://i0.web.de/image/116/42868116%2cpd=2%2cf=responsive169-w950/laurentidische-eisschild.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Neue Klimastudie",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Vieles spricht für Aigner – aber einer ziert sich noch",
+      "teasertext": "Analyse Die nächste Bundespräsidentin? Vieles spricht für Aigner – aber einer ziert sich noch",
+      "url": "https://web.de/magazine/politik/inland/bundespraesidentin-spricht-aigner-ziert-42868308",
+      "bild_url": "https://i0.web.de/image/344/42869344%2cpd=3%2cf=responsive169-w300/auftakt-csu-parteitag.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Analyse Die nächste Bundespräsidentin?",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Macron nennt Schussangriff bei Paris \"rassistischen Terroranschlag\"",
+      "teasertext": "Ermittler finden Sprengfalle Macron nennt Schussangriff bei Paris \"rassistischen Terroranschlag\"",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/macron-nennt-schussangriff-paris-rassistischen-terroranschlag-42870258",
+      "bild_url": "https://i0.web.de/image/632/42870632%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Ermittler finden Sprengfalle",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Große Anteilnahme nach Zusammenbruch von Bayern-Trainer Kompany",
+      "teasertext": "\"Ganz großer Schock\" Große Anteilnahme nach Zusammenbruch von Bayern-Trainer Kompany",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/grosse-anteilnahme-zusammenbruch-bayern-trainer-kompany-42870386",
+      "bild_url": "https://i0.web.de/image/388/42870388%2cpd=1%2cf=responsive169-w300/vincent-kompany.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "\"Ganz großer Schock\"",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Er gewann eine Trauminsel – und will sie jetzt loswerden",
+      "teasertext": "Gewinnspiel mit Gottschalk Er gewann eine Trauminsel – und will sie jetzt loswerden",
+      "url": "https://web.de/magazine/panorama/aus-aller-welt/haribo-gewinn-deutscher-insel-kanada-loswerden-42867618",
+      "bild_url": "https://i0.web.de/image/634/42867634%2cpd=2%2cf=responsive169-w300/nova-scotia.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Gewinnspiel mit Gottschalk",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
