@@ -1,0 +1,126 @@
+{
+ "run_id": "2026-10-24-08-13",
+ "erfasst_am": "2026-10-24T08:13:46.745Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Schwebendes Auto mit Raketenstrahlen; Publikum unten nur als winzige dunkle Silhouetten, keine Person erkennbar",
+   "personen": []
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Porträt vor US-Flaggen, links angeschnittene Schulter",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Älterer Mann im Anzug vor US-Flaggen; Headline: 'US-Botschafter' hält einen Angriff für möglich (Funktion, kein Name)"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Am linken Rand angeschnittene Person, nur Schulter im Anzug sichtbar"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Brennendes Gebäude auf verschneitem Berg bei Nacht",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 4,
+   "menschenmenge": "nein",
+   "notiz": "Stadionszene am Spielfeldrand, sitzender Mann wird von Betreuern begrüßt; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "Kompany",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Sitzender Mann mit Kappe und Bart, dem Betreuer die Hand reichen; passt zur 'Anteilnahme nach Zusammenbruch von Bayern-Trainer Kompany'"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann in weißer Jacke mit Headset, legt Hand auf den Sitzenden"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit Glatze und Headset in gelber Weste links, im Profil"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person in weißer Jacke rechts, Gesicht nicht sichtbar, reicht die Hand"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Müslischale mit Beeren",
+   "personen": []
+  }
+ ]
+}

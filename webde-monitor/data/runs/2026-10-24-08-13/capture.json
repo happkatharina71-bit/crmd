@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-24-08-13",
+  "erfasst_am": "2026-10-24T08:13:46.745Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Elon Musks fliegendes Auto: Was hinter dem neuen Tesla-Spektakel wirklich steckt",
+      "teasertext": "Interview Show ohne Nutzen Elon Musks fliegendes Auto: Was hinter dem neuen Tesla-Spektakel wirklich steckt",
+      "url": "https://web.de/magazine/auto/elon-musks-fliegendes-auto-tesla-spektakel-steckt-42867404",
+      "bild_url": "https://i0.web.de/image/768/42867768%2cpd=3%2cf=responsive169-w950/roadster.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Interview Show ohne Nutzen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "US-Botschafter hält Angriff auf Iran noch an diesem Wochenende für möglich",
+      "teasertext": "Trump distanziert sich US-Botschafter hält Angriff auf Iran noch an diesem Wochenende für möglich",
+      "url": "https://web.de/magazine/politik/nahostkonflikt/us-botschafter-haelt-angriff-iran-wochenende-moeglich-42870604",
+      "bild_url": "https://i0.web.de/image/642/42870642%2cpd=2%2cf=responsive169-w300/tom-barrack.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Trump distanziert sich",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Großbrand im Kehlsteinhaus in Berchtesgaden: Polizei nimmt Verdächtigen fest",
+      "teasertext": "Auf 1.834 Metern Höhe Großbrand im Kehlsteinhaus in Berchtesgaden: Polizei nimmt Verdächtigen fest",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/grossbrand-kehlsteinhaus-berchtesgaden-polizei-verdaechtigen-fest-42870210",
+      "bild_url": "https://i0.web.de/image/718/42870718%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Auf 1.834 Metern Höhe",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Große Anteilnahme nach Zusammenbruch von Bayern-Trainer Kompany",
+      "teasertext": "\"Ganz großer Schock\" Große Anteilnahme nach Zusammenbruch von Bayern-Trainer Kompany",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/grosse-anteilnahme-zusammenbruch-bayern-trainer-kompany-42870386",
+      "bild_url": "https://i0.web.de/image/388/42870388%2cpd=1%2cf=responsive169-w300/vincent-kompany.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "\"Ganz großer Schock\"",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Dieses Obst ist die bessere Wahl zum Frühstück",
+      "teasertext": "Video Tipps vom Ernährungs-Doc Dieses Obst ist die bessere Wahl zum Frühstück",
+      "url": "https://web.de/magazine/ratgeber/videos/essen-trinken/obst-bessere-wahl-fruehstueck-42868244",
+      "bild_url": "https://i0.web.de/image/246/42868246%2cpd=1%2cf=responsive169-w300/ernaehrungs-obst-bessere-wahl-fruehstueck.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Video Tipps vom Ernährungs-Doc",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
