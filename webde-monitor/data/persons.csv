@@ -148,3 +148,12 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-24-11-13,2,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,unklar,unklar,niedrig,"Älterer Mann mit Kappe und weißem Bart im Vordergrund; Bezug zu 'Iran', der etwas verbietet, nur vermutet; Hautfarbe zwischen den Kategorien schwer einzuordnen"
 2026-10-24-11-13,3,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Person mit langen dunklen Haaren hält Smartphone an Sensor am Arm; steht für Menschen mit Typ-2-Diabetes; Gesicht nicht sichtbar"
 2026-10-24-11-13,4,1,Eberl,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Einziger Mann im Bild mit Ohrhörern; Headline: Eberl gibt ein Update"
+2026-10-24-15-13,1,1,,weiblich,alt,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Frau mit grauem Haar und Brille in der Bildmitte, scharf; steht für 'Brasilien', das eine Richtung wählt; Alter und Hautfarbe grenzwertig"
+2026-10-24-15-13,1,2,,maennlich,mittel,poc,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Mann im grünen T-Shirt links mit Becher und Tüte, im Profil"
+2026-10-24-15-13,1,3,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Mann im blauen T-Shirt mit Smartphone, Blick nach unten"
+2026-10-24-15-13,1,4,,maennlich,mittel,poc,nebenperson,indirekt,aktiv,neutral,nein,mittel,Mann mit Brille und Smartphone rechts
+2026-10-24-15-13,2,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Person im Kapuzenpulli von hinten vor hellem Fenster; steht vermutlich für die Autorin, die über ihren Alltag mit Chemotherapie spricht"
+2026-10-24-15-13,3,1,,maennlich,nicht_erkennbar,weiss,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Liegender Spieler links mit blutendem Gesicht, Hände vor dem Gesicht; einer der 'zwei Schalker' beim Zusammenprall"
+2026-10-24-15-13,3,2,,maennlich,jung,weiss,nebenperson,indirekt,passiv,neutral,nein,mittel,"Spieler rechts am Boden kniend, Gesicht sichtbar"
+2026-10-24-15-13,5,1,,weiblich,jung,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Lächelnde Frau mit langen blonden Haaren rechts, frontal; Bezug zur Headline (Trennung) wahrscheinlich, Rolle unklar"
+2026-10-24-15-13,5,2,,maennlich,mittel,poc,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Mann in hellem Anzug links, Kopf an Kopf mit der Frau; Bezug zur Headline wahrscheinlich, Rolle unklar"

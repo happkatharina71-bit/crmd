@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-24-15-13",
+  "erfasst_am": "2026-10-24T15:13:40.807Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Lula oder Bolsonaro: Welche Richtung schlägt Brasilien ein?",
+      "teasertext": "Stichwahl am Sonntag Lula oder Bolsonaro: Welche Richtung schlägt Brasilien ein?",
+      "url": "https://web.de/magazine/politik/brasilien-machtwechsel-lula-bolsonaro-ringen-stimmen-42799544",
+      "bild_url": "https://i0.web.de/image/548/42799548%2cpd=2%2cf=responsive169-w950/wahlen-brasilien.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Stichwahl am Sonntag",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "\"Alltag mit Chemotherapie ist herausfordernd, aber möglich\"",
+      "teasertext": "Kolumne Autorin hatte Brustkrebs \"Alltag mit Chemotherapie ist herausfordernd, aber möglich\"",
+      "url": "https://web.de/magazine/gesundheit/alltag-leben-waehrend-chemotherapie-ueberhaupt-42860092",
+      "bild_url": "https://i0.web.de/image/792/42862792%2cpd=2%2cf=responsive169-w300/lisa-marie-yilmaz-schreibt-leben-waehrend-chemothe.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Kolumne Autorin hatte Brustkrebs",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Heftiger Zusammenprall zweier Schalker – Leipzig gegen Elversberg auf Kurs",
+      "teasertext": "Live-Ticker Bundesliga Heftiger Zusammenprall zweier Schalker – Leipzig gegen Elversberg auf Kurs",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/bundesliga-live-ticker-konferenz-41292002",
+      "bild_url": "https://i0.web.de/image/660/42871660%2cpd=2%2cf=responsive169-w300/1-fc-koeln-fc-schalke-04.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Live-Ticker Bundesliga",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Staatsanwaltschaft: Mutmaßlicher Kehlsteinhaus-Brandstifter ist psychisch krank",
+      "teasertext": "Großbrand in Berchtesgaden Staatsanwaltschaft: Mutmaßlicher Kehlsteinhaus-Brandstifter ist psychisch krank",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/staatsanwaltschaft-mutmasslicher-kehlsteinhaus-brandstifter-psychisch-krank-42870210",
+      "bild_url": "https://i0.web.de/image/122/42871122%2cpd=2%2cf=responsive169-w300/kehlsteinhaus-grossbrand-schwer-zerstoert.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Großbrand in Berchtesgaden",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Patrice Aminati: Zeit vor der Trennung \"war grausam\"",
+      "teasertext": "Beschädigtes Selbstbild Patrice Aminati: Zeit vor der Trennung \"war grausam\"",
+      "url": "https://web.de/magazine/unterhaltung/stars/patrice-aminati-zeit-trennung-grausam-42870838",
+      "bild_url": "https://i0.web.de/image/840/42870840%2cpd=1%2cf=responsive169-w300/patrice-daniel-aminati-gaben-2025-trennung.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Beschädigtes Selbstbild",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
