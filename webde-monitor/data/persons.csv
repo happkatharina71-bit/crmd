@@ -157,3 +157,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-24-15-13,3,2,,maennlich,jung,weiss,nebenperson,indirekt,passiv,neutral,nein,mittel,"Spieler rechts am Boden kniend, Gesicht sichtbar"
 2026-10-24-15-13,5,1,,weiblich,jung,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Lächelnde Frau mit langen blonden Haaren rechts, frontal; Bezug zur Headline (Trennung) wahrscheinlich, Rolle unklar"
 2026-10-24-15-13,5,2,,maennlich,mittel,poc,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Mann in hellem Anzug links, Kopf an Kopf mit der Frau; Bezug zur Headline wahrscheinlich, Rolle unklar"
+2026-10-24-19-13,1,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,unklar,mittel,"Dunkle Silhouetten in Rauch und Gegenlicht, keine Gesichter erkennbar; stehen für die 'Hunderttausende auf Frankreichs Straßen'"
+2026-10-24-19-13,3,1,,maennlich,jung,poc,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Lachender Spieler mit Locken in der Bildmitte; steht für Dortmund, das Frankfurt schlägt"
+2026-10-24-19-13,3,2,,maennlich,jung,weiss,nebenperson,indirekt,aktiv,neutral,nein,mittel,Blonder lachender Spieler rechts der Mitte
+2026-10-24-19-13,3,3,,maennlich,jung,poc,nebenperson,indirekt,aktiv,neutral,nein,mittel,Lächelnder Spieler ganz rechts
+2026-10-24-19-13,3,4,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Spieler Nr. 3 von hinten, Gesicht kaum sichtbar"
+2026-10-24-19-13,3,5,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Spieler links von hinten, Gesicht nicht sichtbar"
+2026-10-24-19-13,4,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,passiv,neutral,nein,mittel,"Person mit Kürbiskopf-Maske im Auto, Gesicht vollständig verdeckt; steht für 'Du', dem ein Bußgeld droht"

@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-24-19-13",
+  "erfasst_am": "2026-10-24T19:13:40.239Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Hunderttausende auf Frankreichs Straßen - Ausschreitungen am Abend",
+      "teasertext": "Tränengas und Festnahmen Hunderttausende auf Frankreichs Straßen - Ausschreitungen am Abend",
+      "url": "https://web.de/magazine/politik/hunderttausende-frankreichs-strassen-ausschreitungen-abend-42872016",
+      "bild_url": "https://i0.web.de/image/062/42872062%2cpd=2%2cf=responsive169-w950/proteste-paris.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Tränengas und Festnahmen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Darum bleibt AuDHS bei vielen Erwachsenen jahrelang unentdeckt",
+      "teasertext": "Neurodivergenz verstehen Darum bleibt AuDHS bei vielen Erwachsenen jahrelang unentdeckt",
+      "url": "https://web.de/magazine/gesundheit/bleibt-audhs-erwachsenen-jahrelang-unentdeckt-42866206",
+      "bild_url": "https://i0.web.de/image/210/42866210%2cpd=1%2cf=responsive169-w300/symbolbild-gehirn-bunten-schnueren.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Neurodivergenz verstehen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Dortmund schlägt Frankfurt und springt an die Spitze",
+      "teasertext": "Später Lucky Punch Dortmund schlägt Frankfurt und springt an die Spitze",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/borussia-dortmund/dortmund-schlaegt-frankfurt-springt-spitze-42872136",
+      "bild_url": "https://i0.web.de/image/134/42872134%2cpd=2%2cf=responsive169-w300/borussia-dortmund-eintracht-frankfurt.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Später Lucky Punch",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Mit dieser Halloween-Verkleidung riskierst Du ein Bußgeld",
+      "teasertext": "ADAC warnt Mit dieser Halloween-Verkleidung riskierst Du ein Bußgeld",
+      "url": "https://web.de/magazine/auto/halloween-kostuem-steuer-teuer-42868912",
+      "bild_url": "https://i0.web.de/image/030/42869030%2cpd=1%2cf=responsive169-w300/kuerbismaske-kopf-steuer.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "ADAC warnt",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Hitlers \"Eagle's Nest\" zerstört – Ermittler vermuten Brandstiftung",
+      "teasertext": "Kehlsteinhaus in Berchtesgaden Hitlers \"Eagle's Nest\" zerstört – Ermittler vermuten Brandstiftung",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/hitlers-eagles-nest-zerstoert-ermittler-vermuten-brandstiftung-42870210",
+      "bild_url": "https://i0.web.de/image/692/42871692%2cpd=1%2cf=responsive169-w300/brand-schwerbeschaedigte-kehlsteinhaus-obersalzber.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Kehlsteinhaus in Berchtesgaden",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

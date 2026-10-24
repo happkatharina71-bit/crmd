@@ -1,0 +1,140 @@
+{
+ "run_id": "2026-10-24-19-13",
+ "erfasst_am": "2026-10-24T19:13:40.239Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 30,
+   "menschenmenge": "ja",
+   "notiz": "Nächtliche Straße mit Rauch/Tränengas, Menschenmenge nur als dunkle Silhouetten (Schätzung); Merkmale nicht erkennbar, eine Figur stellvertretend codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "unklar",
+     "sicherheit": "mittel",
+     "begruendung": "Dunkle Silhouetten in Rauch und Gegenlicht, keine Gesichter erkennbar; stehen für die 'Hunderttausende auf Frankreichs Straßen'"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Gehirnmodell mit bunten Fäden",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 5,
+   "menschenmenge": "nein",
+   "notiz": "Jubelnde Spieler",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Lachender Spieler mit Locken in der Bildmitte; steht für Dortmund, das Frankfurt schlägt"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Blonder lachender Spieler rechts der Mitte"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Lächelnder Spieler ganz rechts"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Spieler Nr. 3 von hinten, Gesicht kaum sichtbar"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Spieler links von hinten, Gesicht nicht sichtbar"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Symbolbild: Person mit leuchtender Kürbismaske am Steuer",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Person mit Kürbiskopf-Maske im Auto, Gesicht vollständig verdeckt; steht für 'Du', dem ein Bußgeld droht"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Ausgebranntes Gebäude im Schnee (Luftaufnahme)",
+   "personen": []
+  }
+ ]
+}
