@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-24-11-13",
+  "erfasst_am": "2026-10-24T11:13:30.024Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Angebliches Umfrage-Institut fälscht Zahlen – und fliegt auf",
+      "teasertext": "Manipulation kurz vor Midterms Angebliches Umfrage-Institut fälscht Zahlen – und fliegt auf",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/angebliches-umfrage-institut-faelscht-zahlen-fliegt-42871142",
+      "bild_url": "https://i0.web.de/image/166/42871166%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Manipulation kurz vor Midterms",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "\"Unter keinen Umständen\": Iran verbietet US-Schiffen die Einfahrt",
+      "teasertext": "Drohende Eskalation \"Unter keinen Umständen\": Iran verbietet US-Schiffen die Einfahrt",
+      "url": "https://web.de/magazine/politik/nahostkonflikt/umstaenden-iran-verbietet-us-schiffen-einfahrt-42871030",
+      "bild_url": "https://i0.web.de/image/070/42871070%2cpd=4%2cf=responsive169-w300/scharfen-worten-usa-irans-generalstabschef-ali-abd.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Drohende Eskalation",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Wird ein Implantat die Therapie bei Typ-2-Diabetes verändern?",
+      "teasertext": "Strom statt Medikamente Wird ein Implantat die Therapie bei Typ-2-Diabetes verändern?",
+      "url": "https://web.de/magazine/wissen/wissenschaft-technik/implantat-therapie-typ-2-diabetes-veraendern-42871046",
+      "bild_url": "https://i0.web.de/image/118/42871118%2cpd=1%2cf=responsive169-w300/asiatische-cgm-geraet-arm-verwendet-blutzuckerspie.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Strom statt Medikamente",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Eberl gibt Update zu Kompany",
+      "teasertext": "Nach Zusammenbruch Eberl gibt Update zu Kompany",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/fc-bayern/zusammenbruch-bayern-trainers-eberl-update-kompany-42870922",
+      "bild_url": "https://i0.web.de/image/996/42870996%2cpd=2%2cf=responsive169-w300/max-eberl.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Nach Zusammenbruch",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Gefasster Motorradfahrer soll Kehlsteinhaus in Berchtesgaden angezündet haben",
+      "teasertext": "Auf 1.838 Metern Höhe Gefasster Motorradfahrer soll Kehlsteinhaus in Berchtesgaden angezündet haben",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/gefasster-motorradfahrer-kehlsteinhaus-berchtesgaden-angezuendet-42870210",
+      "bild_url": "https://i0.web.de/image/122/42871122%2cpd=2%2cf=responsive169-w300/kehlsteinhaus-grossbrand-schwer-zerstoert.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Auf 1.838 Metern Höhe",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+ "run_id": "2026-10-24-11-13",
+ "erfasst_am": "2026-10-24T11:13:30.024Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 3,
+   "menschenmenge": "nein",
+   "notiz": "Symbolbild Wahllokal mit 'I Voted!'-Kabinen",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Grauhaariger Mann mit Brille beugt sich in eine Wahlkabine, Gesicht im Profil"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person hinter der Kabine, nur kahler Hinterkopf sichtbar"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person mit Rucksack und hellem Haar im Hintergrund, Gesicht abgewandt"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 3,
+   "menschenmenge": "nein",
+   "notiz": "Unscharfe Personen im Hintergrund nur gezählt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "unklar",
+     "agenda": "unklar",
+     "sicherheit": "niedrig",
+     "begruendung": "Älterer Mann mit Kappe und weißem Bart im Vordergrund; Bezug zu 'Iran', der etwas verbietet, nur vermutet; Hautfarbe zwischen den Kategorien schwer einzuordnen"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Symbolbild: Smartphone mit Glukosewerten, Sensor am Oberarm; Gesicht nicht sichtbar",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person mit langen dunklen Haaren hält Smartphone an Sensor am Arm; steht für Menschen mit Typ-2-Diabetes; Gesicht nicht sichtbar"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt im Stadion",
+   "personen": [
+    {
+     "name": "Eberl",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Einziger Mann im Bild mit Ohrhörern; Headline: Eberl gibt ein Update"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Ausgebranntes Gebäude auf verschneitem Berg",
+   "personen": []
+  }
+ ]
+}
