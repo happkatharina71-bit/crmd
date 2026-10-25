@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-25-12-15",
+  "erfasst_am": "2026-10-25T12:15:08.036Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Obama greift Trump im US-Wahlkampf scharf an",
+      "teasertext": "Vor Midterms in den USA Obama greift Trump im US-Wahlkampf scharf an",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/obama-greift-trump-us-wahlkampf-scharf-42873088",
+      "bild_url": "https://i0.web.de/image/294/42873294%2cpd=2%2cf=responsive169-w950/us-midterms-ohio.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Vor Midterms in den USA",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Dürfen Anbieter die Route einer Kreuzfahrt einfach ändern?",
+      "teasertext": "Kanada statt Karibik Dürfen Anbieter die Route einer Kreuzfahrt einfach ändern?",
+      "url": "https://web.de/magazine/reise/duerfen-anbieter-route-kreuzfahrt-aendern-42873492",
+      "bild_url": "https://i0.web.de/image/536/42873536%2cpd=1%2cf=responsive169-w300/kreuzfahrtschiff-anker-grand-turk-island-karibik.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Kanada statt Karibik",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Neymar eskaliert bei Spiel komplett – \"Vinícius-Regel\" beschert ihm Platzverweis",
+      "teasertext": "Eklat in Brasilien Neymar eskaliert bei Spiel komplett – \"Vinícius-Regel\" beschert ihm Platzverweis",
+      "url": "https://web.de/magazine/sport/fussball/international/neymar-eskaliert-spiel-komplett-vinicius-regel-beschert-platzverweis-42873448",
+      "bild_url": "https://i0.web.de/image/558/42873558%2cpd=2%2cf=responsive169-w300/neymar.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Eklat in Brasilien",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Krebserregendes Schimmelpilzgift in Kaffee entdeckt",
+      "teasertext": "Aktuelle Rückrufe Krebserregendes Schimmelpilzgift in Kaffee entdeckt",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/krebserregendes-schimmelpilzgift-kaffee-entdeckt-42672406",
+      "bild_url": "https://i0.web.de/image/954/42872954%2cpd=3%2cf=responsive169-w300/giesst-kaffee-rote-tasse.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Aktuelle Rückrufe",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "\"The Voice\"-Kandidatin verweigert Song",
+      "teasertext": "\"Ave Maria\" \"The Voice\"-Kandidatin verweigert Song",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/the-voice-of-germany/the-voice-kandidatin-verweigert-song-42873312",
+      "bild_url": "https://i0.web.de/image/314/42873314%2cpd=2%2cf=responsive169-w300/kandidatin-jessica-the-voice-of-germany.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "\"Ave Maria\"",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
