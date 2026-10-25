@@ -1,0 +1,140 @@
+{
+ "run_id": "2026-10-25-20-13",
+ "erfasst_am": "2026-10-25T20:13:28.418Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 15,
+   "menschenmenge": "ja",
+   "notiz": "Schwarz-Weiß-Archivbild: Menschen mit türkischer Fahne auf der Straße; Hautfarbe im Schwarz-Weiß-Bild nicht beurteilbar",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "unklar",
+     "sicherheit": "mittel",
+     "begruendung": "Junger Mann mit Fahnenstange rechts der Mitte, lachend; steht für die Migration aus der Türkei"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "unklar",
+     "sicherheit": "mittel",
+     "begruendung": "Lächelnde junge Frau links, hält die Fahne hoch"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "unklar",
+     "sicherheit": "mittel",
+     "begruendung": "Junger Mann in dunkler Kleidung in der Mitte, hält die Fahne"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "unklar",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit Schnurrbart rechts am Rand"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Uniformierter Mann links im Hintergrund"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt auf Parteiveranstaltung",
+   "personen": [
+    {
+     "name": "Ilse Aigner",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Winkende Frau mit Brille und Parteiband; Headline: wie die CDU zu einer Nominierung von Ilse Aigner steht; Alter grenzwertig zu 60+"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Spieler mit Kapitänsbinde; Name auf dem Trikot, aber nicht in Dachzeile/Headline genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Spieler im Barça-Trikot mit Kapitänsbinde, zeigt mit dem Arm; steht für 'Barça' im Clásico; Alter um 30 schwer einzuschätzen"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Formel-1-Wagen auf der Strecke; Fahrer unter Helm nicht erkennbar",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "tier",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Bettwanze auf Stoff (Nahaufnahme)",
+   "personen": []
+  }
+ ]
+}

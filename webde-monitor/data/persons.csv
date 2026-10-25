@@ -196,3 +196,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-25-16-14,3,3,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Spieler im rot-schwarzen Trikot Nr. 30 von hinten im Gespräch mit dem Schiedsrichter
 2026-10-25-16-14,3,4,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Spieler im blauen Trikot von hinten; steht für Hoffenheim, ob er der genannte Kramaric ist, ist nicht erkennbar"
 2026-10-25-16-14,5,1,Franziska Knabenreich,weiblich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Einzelne Frau mit rosa Kurzhaarschnitt vor Pressewand; Headline: Moderatorin Franziska Knabenreich trauert um ihren Verlobten"
+2026-10-25-20-13,1,1,,maennlich,jung,nicht_erkennbar,hauptperson,indirekt,nicht_thematisiert,neutral,unklar,mittel,"Junger Mann mit Fahnenstange rechts der Mitte, lachend; steht für die Migration aus der Türkei"
+2026-10-25-20-13,1,2,,weiblich,jung,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,unklar,mittel,"Lächelnde junge Frau links, hält die Fahne hoch"
+2026-10-25-20-13,1,3,,maennlich,jung,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,unklar,mittel,"Junger Mann in dunkler Kleidung in der Mitte, hält die Fahne"
+2026-10-25-20-13,1,4,,maennlich,mittel,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,unklar,niedrig,Mann mit Schnurrbart rechts am Rand
+2026-10-25-20-13,1,5,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Uniformierter Mann links im Hintergrund
+2026-10-25-20-13,2,1,Ilse Aigner,weiblich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,nein,hoch,"Winkende Frau mit Brille und Parteiband; Headline: wie die CDU zu einer Nominierung von Ilse Aigner steht; Alter grenzwertig zu 60+"
+2026-10-25-20-13,3,1,,maennlich,jung,poc,hauptperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Spieler im Barça-Trikot mit Kapitänsbinde, zeigt mit dem Arm; steht für 'Barça' im Clásico; Alter um 30 schwer einzuschätzen"

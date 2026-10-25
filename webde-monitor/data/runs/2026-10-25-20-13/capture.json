@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-25-20-13",
+  "erfasst_am": "2026-10-25T20:13:28.418Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Wie ein Vertrag mit der Türkei Deutschland für immer veränderte",
+      "teasertext": "65 Jahre Migration Wie ein Vertrag mit der Türkei Deutschland für immer veränderte",
+      "url": "https://web.de/magazine/politik/vertrag-tuerkei-deutschland-veraenderte-42872836",
+      "bild_url": "https://i0.web.de/image/208/42874208%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "65 Jahre Migration",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Wie steht die CDU zu einer Nominierung von Ilse Aigner?",
+      "teasertext": "Bundespräsidentenamt Wie steht die CDU zu einer Nominierung von Ilse Aigner?",
+      "url": "https://web.de/magazine/politik/inland/cdu-nominierung-ilse-aigner-42874656",
+      "bild_url": "https://i0.web.de/image/660/42874660%2cpd=2%2cf=responsive169-w300/auftakt-csu-parteitag.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Bundespräsidentenamt",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Tabellenführer Barça gegen Real im Clásico",
+      "teasertext": "Live-Ticker Top-Duell in La Liga Tabellenführer Barça gegen Real im Clásico",
+      "url": "https://web.de/magazine/sport/fussball/international/fc-barcelona-real-madrid-live-clasico-live-ticker-40959736",
+      "bild_url": "https://i0.web.de/image/126/42859126%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Live-Ticker Top-Duell in La Liga",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Formel 1 live: Kürt sich Antonelli in Austin zum Weltmeister?",
+      "teasertext": "Live-Ticker GP von Texas Formel 1 live: Kürt sich Antonelli in Austin zum Weltmeister?",
+      "url": "https://web.de/magazine/sport/formel-1/formel-1-live-kuert-antonelli-austin-weltmeister-40794092",
+      "bild_url": "https://i0.web.de/image/872/42866872%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Live-Ticker GP von Texas",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "So verhinderst du Bettwanzenbefall zu Hause",
+      "teasertext": "Galerie Schädlinge So verhinderst du Bettwanzenbefall zu Hause",
+      "url": "https://web.de/magazine/ratgeber/haus-garten/seltenes-problem-richtig-laestig-bettwanzen-los-42767756",
+      "bild_url": "https://i0.web.de/image/706/42767706%2cpd=1%2cf=responsive169-w300/bettwanze.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Schädlinge",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
