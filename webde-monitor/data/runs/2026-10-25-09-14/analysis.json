@@ -7,7 +7,7 @@
    "bild_typ": "personen",
    "personen_anzahl": 12,
    "menschenmenge": "ja",
-   "notiz": "Zwei Männer umarmen sich auf einer Bühne, Publikum unscharf; welcher der in der Headline genannte Trump ist, geht aus dem Bild nicht eindeutig hervor; gleiches Bild wie in der vorigen Erhebung",
+   "notiz": "Zwei Männer umarmen sich auf einer Bühne, Publikum unscharf; links Trump als bekannte Person erkannt [Nachcodierung 25.10.: Regel zu bekannten Personen]",
    "personen": [
     {
      "name": "",
@@ -16,24 +16,24 @@
      "hautfarbe": "weiss",
      "bildrolle": "hauptperson",
      "in_headline": "indirekt",
-     "headline_aktiv": "nicht_thematisiert",
+     "headline_aktiv": "passiv",
      "status": "reich_maechtig",
      "agenda": "unklar",
      "sicherheit": "niedrig",
-     "begruendung": "Mann im dunklen Anzug rechts, Gesicht sichtbar, legt Hand auf die Schulter des anderen; Bezug zu Trump oder zum 'deutschen Autobauer' unklar"
+     "begruendung": "Mann im dunklen Anzug rechts, Gesicht sichtbar, legt Hand auf Trumps Schulter; vermutlich für den 'deutschen Autobauer' stehend, nicht namentlich genannt"
     },
     {
-     "name": "",
+     "name": "Trump",
      "geschlecht": "maennlich",
      "alter": "alt",
      "hautfarbe": "weiss",
      "bildrolle": "nebenperson",
-     "in_headline": "indirekt",
-     "headline_aktiv": "nicht_thematisiert",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
      "status": "reich_maechtig",
-     "agenda": "unklar",
-     "sicherheit": "niedrig",
-     "begruendung": "Mann mit hellem Haar links, im Profil von hinten; Rolle in der Headline unklar"
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit hellem Haar links im Profil, als Trump erkennbar; Headline: Trump macht deutschen Autobauer zum Teil seines Wahlkampfs"
     }
    ]
   },

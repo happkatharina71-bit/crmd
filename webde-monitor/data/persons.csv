@@ -11,7 +11,7 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-21-11-04,1,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,unklar,mittel,"Größte, zentrale Figur, tätowierter Mann mit erhobenem Arm; Alter nach Bildeindruck."
 2026-10-21-11-04,1,2,,weiblich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,unklar,niedrig,"Frau mit langen roten Haaren im Profil, Alter nicht sicher einschätzbar."
 2026-10-21-11-04,4,1,Kimmich,maennlich,nicht_erkennbar,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Einzelner Spieler im Bayern-Trikot, Headline nennt Kimmich und Bayern; Dachzeile Trauerfall (ihm widerfährt etwas)."
-2026-10-21-15-06,2,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Mann links allein auf einer Tischseite gegenüber der Delegation, durch Bildkomposition hervorgehoben; Alter nach schütterem Haar geschätzt"
+2026-10-21-15-06,2,1,Putin,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann links allein auf einer Tischseite gegenüber der Delegation, als Putin erkennbar; Headline: 'Drei Stunden mit Putin am Tisch'"
 2026-10-21-15-06,2,2,,maennlich,alt,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Weißhaariger Mann im Anzug rechts im Vordergrund, größte Figur, Teil der Gesprächsrunde"
 2026-10-21-15-06,2,3,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Grauhaariger Mann rechts am Tisch mit verschränkten Händen; Alter schwer einzuschätzen"
 2026-10-21-15-06,2,4,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,mittel,Dunkelhaariger Mann im Anzug links-mittig am Tisch
@@ -79,7 +79,7 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-23-05-13,2,1,Laschet,maennlich,alt,weiss,hauptperson,namentlich,aktiv,unklar,ja,mittel,"Mann mit Brille zentral am Tisch, redet gestikulierend; Headline: Laschet kritisiert Selenskyj; Alter grenzwertig zu 30–59"
 2026-10-23-05-13,2,2,,nicht_erkennbar,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person mit hellem Haar links angeschnitten, von hinten"
 2026-10-23-05-13,2,3,,nicht_erkennbar,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Am rechten Rand angeschnittene Person, nur Arm und Hände sichtbar"
-2026-10-23-05-13,4,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,unklar,niedrig,"Mann mit Kappe und Bart im Nationalteam-Pullover spricht ins Mikrofon; Zuordnung zu einem Namen der Headline nicht eindeutig"
+2026-10-23-05-13,4,1,Klopp,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,unklar,hoch,"Mann mit Kappe und Bart im Nationalteam-Pullover auf Pressekonferenz, als Klopp erkennbar; Headline: Kahn kritisiert Klopp"
 2026-10-23-05-13,5,1,Tom Skerritt,maennlich,alt,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Lächelnder älterer Mann zentral; Headline: Trauer um Tom Skerritt; Hautfarbe im Schwarz-Weiß-Bild nur eingeschränkt beurteilbar"
 2026-10-23-05-13,5,2,,weiblich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Teilweise verdeckte Frau mit Brille im Hintergrund links
 2026-10-23-08-13,1,1,,weiblich,jung,poc,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Rufende junge Frau mit gelbem Schild links-mittig, scharf im Vordergrund; Teil der Gruppe, die 'den Rücken kehrt'"
@@ -88,7 +88,7 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-23-08-13,1,4,,nicht_erkennbar,jung,weiss,nebenperson,indirekt,aktiv,neutral,ja,niedrig,Person mit kurzen Haaren hält großes Schild 'Immigrants make America great' in der Bildmitte
 2026-10-23-08-13,1,5,,maennlich,jung,poc,nebenperson,indirekt,aktiv,neutral,ja,niedrig,Mann mit erhobenem Arm hinten links
 2026-10-23-08-13,2,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Mann rechts im Sessel, redet gestikulierend; passt zur zitierten Antwort 'Die ist dramatisch!'"
-2026-10-23-08-13,2,2,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,nein,mittel,"Mann links im grauen Anzug, hört zu; passt zur zitierten Frage"
+2026-10-23-08-13,2,2,Lanz,maennlich,mittel,weiss,nebenperson,namentlich,aktiv,neutral,nein,hoch,"Mann links im grauen Anzug, als Moderator Lanz erkennbar; Dachzeile nennt 'Lanz', passt zur zitierten Frage"
 2026-10-23-08-13,2,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Am rechten Rand angeschnittene Person, nur Schulter sichtbar"
 2026-10-23-08-13,3,1,Louis van Gaal,maennlich,alt,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Älterer Mann im Anzug zentral; Headline: Louis van Gaal kritisiert die Champions League scharf"
 2026-10-23-08-13,3,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Am linken Rand angeschnittene Person, nur Schulter im Anzug sichtbar"
@@ -129,7 +129,7 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-24-05-13,2,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Kameramann links im Hintergrund
 2026-10-24-05-13,2,3,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Älterer Mann in beiger Weste rechts im Hintergrund mit Kamera
 2026-10-24-05-13,2,4,,maennlich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Am rechten Rand angeschnittener Mann, nur Teil des Gesichts sichtbar"
-2026-10-24-05-13,3,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,unklar,niedrig,"Mann im dunklen Anzug rechts, ernst, im Vordergrund; Zuordnung zu Macron möglich, aber nicht eindeutig"
+2026-10-24-05-13,3,1,Macron,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann im dunklen Anzug rechts, als Macron erkennbar; Headline: Macron nennt Schussangriff 'rassistischen Terroranschlag'"
 2026-10-24-05-13,3,2,,maennlich,mittel,poc,nebenperson,nein,nicht_thematisiert,reich_maechtig,unklar,mittel,"Mann mit blau-weiß-roter Amtsschärpe links, blickt nach unten"
 2026-10-24-05-13,3,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann im dunklen Mantel im Hintergrund, teilweise verdeckt"
 2026-10-24-05-13,4,1,Kompany,maennlich,mittel,poc,hauptperson,namentlich,passiv,neutral,nein,mittel,"Sitzender Mann mit Kappe und Bart, dem Betreuer die Hand reichen; passt zur 'Anteilnahme nach Zusammenbruch von Bayern-Trainer Kompany'"
@@ -164,8 +164,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-24-19-13,3,4,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Spieler Nr. 3 von hinten, Gesicht kaum sichtbar"
 2026-10-24-19-13,3,5,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Spieler links von hinten, Gesicht nicht sichtbar"
 2026-10-24-19-13,4,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,passiv,neutral,nein,mittel,"Person mit Kürbiskopf-Maske im Auto, Gesicht vollständig verdeckt; steht für 'Du', dem ein Bußgeld droht"
-2026-10-25-06-14,1,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,reich_maechtig,unklar,niedrig,"Mann im dunklen Anzug rechts, Gesicht sichtbar, legt Hand auf die Schulter des anderen; Bezug zu Trump oder zum 'deutschen Autobauer' unklar"
-2026-10-25-06-14,1,2,,maennlich,alt,weiss,nebenperson,indirekt,nicht_thematisiert,reich_maechtig,unklar,niedrig,"Mann mit hellem Haar links, im Profil von hinten; Rolle in der Headline unklar"
+2026-10-25-06-14,1,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,reich_maechtig,unklar,niedrig,"Mann im dunklen Anzug rechts, Gesicht sichtbar, legt Hand auf Trumps Schulter; vermutlich für den 'deutschen Autobauer' stehend, nicht namentlich genannt"
+2026-10-25-06-14,1,2,Trump,maennlich,alt,weiss,nebenperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit hellem Haar links im Profil, als Trump erkennbar; Headline: Trump macht deutschen Autobauer zum Teil seines Wahlkampfs"
 2026-10-25-06-14,2,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Menschenmenge mit Fahnen und Transparenten um einen Wagen; Einzelne zu klein für Merkmale; steht für die 'politische Bühne' an der Copacabana"
 2026-10-25-06-14,3,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,unklar,mittel,"Vermummte Person in Schwarz wirft einen Gegenstand, Gesicht verdeckt; steht für die eskalierenden 'Proteste'"
 2026-10-25-06-14,4,1,Meghan,weiblich,mittel,nicht_erkennbar,hauptperson,namentlich,aktiv,neutral,ja,mittel,"Einzelne Frau im weißen Oberteil, nachdenklich; Headline: Meghan soll ihren Vater mit Vorwürfen konfrontiert haben; Hautfarbe zwischen den Kategorien nicht eindeutig zuzuordnen"
@@ -174,8 +174,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-25-06-14,5,3,,nicht_erkennbar,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person mit Uniformmütze hinter der Hauptperson, teilweise verdeckt"
 2026-10-25-06-14,5,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann im Anzug links im Hintergrund, im Profil"
 2026-10-25-06-14,5,5,,maennlich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Mann im Vordergrund links von hinten, unscharf"
-2026-10-25-09-14,1,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,reich_maechtig,unklar,niedrig,"Mann im dunklen Anzug rechts, Gesicht sichtbar, legt Hand auf die Schulter des anderen; Bezug zu Trump oder zum 'deutschen Autobauer' unklar"
-2026-10-25-09-14,1,2,,maennlich,alt,weiss,nebenperson,indirekt,nicht_thematisiert,reich_maechtig,unklar,niedrig,"Mann mit hellem Haar links, im Profil von hinten; Rolle in der Headline unklar"
+2026-10-25-09-14,1,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,reich_maechtig,unklar,niedrig,"Mann im dunklen Anzug rechts, Gesicht sichtbar, legt Hand auf Trumps Schulter; vermutlich für den 'deutschen Autobauer' stehend, nicht namentlich genannt"
+2026-10-25-09-14,1,2,Trump,maennlich,alt,weiss,nebenperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit hellem Haar links im Profil, als Trump erkennbar; Headline: Trump macht deutschen Autobauer zum Teil seines Wahlkampfs"
 2026-10-25-09-14,2,1,,weiblich,jung,weiss,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Rufende junge Frau mit erhobenem Arm in der Bildmitte; steht für die 'Studentenliste'"
 2026-10-25-09-14,2,2,,weiblich,jung,weiss,nebenperson,indirekt,aktiv,neutral,ja,mittel,Lächelnde blonde junge Frau mit Ansteckern links
 2026-10-25-09-14,2,3,,weiblich,jung,weiss,nebenperson,indirekt,aktiv,neutral,ja,mittel,"Junge Frau ganz links, lächelnd"
@@ -184,7 +184,7 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-25-09-14,4,1,Meghan,weiblich,mittel,nicht_erkennbar,hauptperson,namentlich,aktiv,neutral,ja,mittel,"Einzelne Frau im weißen Oberteil, nachdenklich; Headline: Meghan (laut Brief) – ihr Vater werde die Enkel nie kennenlernen; Hautfarbe zwischen den Kategorien nicht eindeutig zuzuordnen"
 2026-10-25-09-14,5,1,Özdemir,maennlich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,nein,mittel,"Mann mit Brille und Anzug links; einziger Mann im Bild, Headline spricht von 'seiner Frau' und dem Ministerpräsidenten Özdemir; sein Verhalten wird bewertet"
 2026-10-25-09-14,5,2,,weiblich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Lächelnde Frau mit dunklem Haar rechts; als 'seine Frau' in der Headline gemeint"
-2026-10-25-12-15,1,1,,maennlich,alt,poc,hauptperson,nein,nicht_thematisiert,unklar,ja,niedrig,"Grauhaariger Mann im hellblauen Hemd am Pult mit Wahlkampfslogan; Zuordnung zu einem der beiden Namen der Headline nicht eindeutig"
+2026-10-25-12-15,1,1,Obama,maennlich,alt,poc,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Grauhaariger Mann im hellblauen Hemd am Wahlkampfpult, als Obama erkennbar; Headline: Obama greift Trump scharf an"
 2026-10-25-12-15,3,1,Neymar,maennlich,mittel,poc,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Spieler Nr. 10 mit Kapitänsbinde zentral, einzige scharfe Person; Headline: Neymar eskaliert; Hautfarbe grenzwertig"
 2026-10-25-12-15,3,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Unscharfer Spieler rechts im Hintergrund
 2026-10-25-12-15,5,1,,weiblich,jung,poc,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Junge Frau mit Locken singt emotional ins Mikrofon; als 'The Voice'-Kandidatin gemeint, die einen Song verweigert"

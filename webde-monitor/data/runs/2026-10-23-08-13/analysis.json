@@ -81,7 +81,7 @@
    "bild_typ": "personen",
    "personen_anzahl": 3,
    "menschenmenge": "nein",
-   "notiz": "Talkshow-Studio; Personen nicht namentlich genannt",
+   "notiz": "Talkshow-Studio; links Lanz als bekannte Person erkannt, Gast rechts nicht genannt [Nachcodierung 25.10.: Regel zu bekannten Personen]",
    "personen": [
     {
      "name": "",
@@ -97,17 +97,17 @@
      "begruendung": "Mann rechts im Sessel, redet gestikulierend; passt zur zitierten Antwort 'Die ist dramatisch!'"
     },
     {
-     "name": "",
+     "name": "Lanz",
      "geschlecht": "maennlich",
      "alter": "mittel",
      "hautfarbe": "weiss",
      "bildrolle": "nebenperson",
-     "in_headline": "indirekt",
+     "in_headline": "namentlich",
      "headline_aktiv": "aktiv",
      "status": "neutral",
      "agenda": "nein",
-     "sicherheit": "mittel",
-     "begruendung": "Mann links im grauen Anzug, hört zu; passt zur zitierten Frage"
+     "sicherheit": "hoch",
+     "begruendung": "Mann links im grauen Anzug, als Moderator Lanz erkennbar; Dachzeile nennt 'Lanz', passt zur zitierten Frage"
     },
     {
      "name": "",

@@ -76,20 +76,20 @@
    "bild_typ": "personen",
    "personen_anzahl": 3,
    "menschenmenge": "nein",
-   "notiz": "Zwei Männer im Anzug, einer mit Trikolore-Schärpe; welcher der in der Headline genannte Macron ist, geht aus dem Bild nicht eindeutig hervor",
+   "notiz": "Zwei Männer im Anzug, einer mit Trikolore-Schärpe; rechts Macron als bekannte Person erkannt [Nachcodierung 25.10.: Regel zu bekannten Personen]",
    "personen": [
     {
-     "name": "",
+     "name": "Macron",
      "geschlecht": "maennlich",
      "alter": "mittel",
      "hautfarbe": "weiss",
      "bildrolle": "hauptperson",
-     "in_headline": "nein",
-     "headline_aktiv": "nicht_thematisiert",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
      "status": "reich_maechtig",
-     "agenda": "unklar",
-     "sicherheit": "niedrig",
-     "begruendung": "Mann im dunklen Anzug rechts, ernst, im Vordergrund; Zuordnung zu Macron möglich, aber nicht eindeutig"
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann im dunklen Anzug rechts, als Macron erkennbar; Headline: Macron nennt Schussangriff 'rassistischen Terroranschlag'"
     },
     {
      "name": "",

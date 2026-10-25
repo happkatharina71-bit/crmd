@@ -7,20 +7,20 @@
    "bild_typ": "personen",
    "personen_anzahl": 1,
    "menschenmenge": "nein",
-   "notiz": "Redner am Wahlkampfpult; Headline nennt zwei Personen (Obama, Trump), welche abgebildet ist, geht aus dem Bild nicht eindeutig hervor",
+   "notiz": "Redner am Wahlkampfpult; Obama als bekannte Person erkannt [Nachcodierung 25.10.: Regel zu bekannten Personen]",
    "personen": [
     {
-     "name": "",
+     "name": "Obama",
      "geschlecht": "maennlich",
      "alter": "alt",
      "hautfarbe": "poc",
      "bildrolle": "hauptperson",
-     "in_headline": "nein",
-     "headline_aktiv": "nicht_thematisiert",
-     "status": "unklar",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
      "agenda": "ja",
-     "sicherheit": "niedrig",
-     "begruendung": "Grauhaariger Mann im hellblauen Hemd am Pult mit Wahlkampfslogan; Zuordnung zu einem der beiden Namen der Headline nicht eindeutig"
+     "sicherheit": "hoch",
+     "begruendung": "Grauhaariger Mann im hellblauen Hemd am Wahlkampfpult, als Obama erkennbar; Headline: Obama greift Trump scharf an"
     }
    ]
   },

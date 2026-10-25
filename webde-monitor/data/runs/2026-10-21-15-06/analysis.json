@@ -1,33 +1,192 @@
 {
-  "run_id": "2026-10-21-15-06",
-  "erfasst_am": "2026-10-21T15:06:12.413Z",
-  "teaser": [
-    { "position": 1, "bild_typ": "objekt", "personen_anzahl": 0, "menschenmenge": "nein",
-      "notiz": "Symbolbild: beleuchtete Tastatur, nur eine Hand sichtbar, keine Person erkennbar", "personen": [] },
-    { "position": 2, "bild_typ": "personen", "personen_anzahl": 9, "menschenmenge": "ja",
-      "notiz": "Verhandlungsrunde an rundem Tisch; welche Person Putin ist, geht aus dem Bild allein nicht eindeutig hervor, daher keine Namen",
-      "personen": [
-        { "name": "", "geschlecht": "maennlich", "alter": "alt", "hautfarbe": "weiss", "bildrolle": "hauptperson", "in_headline": "indirekt", "headline_aktiv": "aktiv", "status": "reich_maechtig", "agenda": "ja", "sicherheit": "mittel", "begruendung": "Mann links allein auf einer Tischseite gegenüber der Delegation, durch Bildkomposition hervorgehoben; Alter nach schütterem Haar geschätzt" },
-        { "name": "", "geschlecht": "maennlich", "alter": "alt", "hautfarbe": "weiss", "bildrolle": "nebenperson", "in_headline": "indirekt", "headline_aktiv": "aktiv", "status": "reich_maechtig", "agenda": "ja", "sicherheit": "mittel", "begruendung": "Weißhaariger Mann im Anzug rechts im Vordergrund, größte Figur, Teil der Gesprächsrunde" },
-        { "name": "", "geschlecht": "maennlich", "alter": "mittel", "hautfarbe": "weiss", "bildrolle": "nebenperson", "in_headline": "indirekt", "headline_aktiv": "aktiv", "status": "reich_maechtig", "agenda": "ja", "sicherheit": "niedrig", "begruendung": "Grauhaariger Mann rechts am Tisch mit verschränkten Händen; Alter schwer einzuschätzen" },
-        { "name": "", "geschlecht": "maennlich", "alter": "mittel", "hautfarbe": "weiss", "bildrolle": "nebenperson", "in_headline": "indirekt", "headline_aktiv": "aktiv", "status": "reich_maechtig", "agenda": "ja", "sicherheit": "mittel", "begruendung": "Dunkelhaariger Mann im Anzug links-mittig am Tisch" },
-        { "name": "", "geschlecht": "maennlich", "alter": "mittel", "hautfarbe": "weiss", "bildrolle": "nebenperson", "in_headline": "indirekt", "headline_aktiv": "aktiv", "status": "reich_maechtig", "agenda": "ja", "sicherheit": "mittel", "begruendung": "Mann im Anzug rechts-mittig am Tisch" }
-      ] },
-    { "position": 3, "bild_typ": "personen", "personen_anzahl": 10, "menschenmenge": "ja",
-      "notiz": "Kundgebung, Publikum unscharf im Hintergrund, nur Vordergrundperson codiert",
-      "personen": [
-        { "name": "Trump", "geschlecht": "maennlich", "alter": "alt", "hautfarbe": "weiss", "bildrolle": "hauptperson", "in_headline": "namentlich", "headline_aktiv": "aktiv", "status": "reich_maechtig", "agenda": "ja", "sicherheit": "hoch", "begruendung": "Einzige Person im Vordergrund, Headline nennt Trump als Urheber eines Umbau-Plans für das Weiße Haus" }
-      ] },
-    { "position": 4, "bild_typ": "objekt", "personen_anzahl": 0, "menschenmenge": "nein",
-      "notiz": "Rote Bete und Saft; der 82-Jährige aus der Headline ist nicht abgebildet", "personen": [] },
-    { "position": 5, "bild_typ": "personen", "personen_anzahl": 12, "menschenmenge": "ja",
-      "notiz": "Galerie, Bankettszene; Frau mit Diadem zentral und scharf",
-      "personen": [
-        { "name": "Prinzessin Kate", "geschlecht": "weiblich", "alter": "mittel", "hautfarbe": "weiss", "bildrolle": "hauptperson", "in_headline": "namentlich", "headline_aktiv": "passiv", "status": "reich_maechtig", "agenda": "nein", "sicherheit": "hoch", "begruendung": "Zentrale Frau mit Diadem und Schärpe; Headline bewertet ihr Erscheinen ('überstrahlt alle')" },
-        { "name": "", "geschlecht": "maennlich", "alter": "alt", "hautfarbe": "poc", "bildrolle": "nebenperson", "in_headline": "indirekt", "headline_aktiv": "passiv", "status": "reich_maechtig", "agenda": "nein", "sicherheit": "mittel", "begruendung": "Sitzender Mann mit weißem Bart und gemustertem Turban rechts neben ihr; Teil von 'alle'" },
-        { "name": "", "geschlecht": "maennlich", "alter": "alt", "hautfarbe": "weiss", "bildrolle": "nebenperson", "in_headline": "indirekt", "headline_aktiv": "passiv", "status": "reich_maechtig", "agenda": "nein", "sicherheit": "mittel", "begruendung": "Weißhaariger Mann in Uniform rechts am Tisch sitzend" },
-        { "name": "", "geschlecht": "maennlich", "alter": "jung", "hautfarbe": "weiss", "bildrolle": "nebenperson", "in_headline": "indirekt", "headline_aktiv": "passiv", "status": "reich_maechtig", "agenda": "nein", "sicherheit": "niedrig", "begruendung": "Lockiger Mann im Frack links, lächelnd; Alter um 30 schwer einzuschätzen" },
-        { "name": "", "geschlecht": "maennlich", "alter": "alt", "hautfarbe": "weiss", "bildrolle": "nebenperson", "in_headline": "indirekt", "headline_aktiv": "passiv", "status": "reich_maechtig", "agenda": "nein", "sicherheit": "mittel", "begruendung": "Grauhaariger Mann links im Vordergrund, sich verbeugend" }
-      ] }
-  ]
+ "run_id": "2026-10-21-15-06",
+ "erfasst_am": "2026-10-21T15:06:12.413Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Symbolbild: beleuchtete Tastatur, nur eine Hand sichtbar, keine Person erkennbar",
+   "personen": []
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 9,
+   "menschenmenge": "ja",
+   "notiz": "Verhandlungsrunde an rundem Tisch; Putin als bekannte Person erkannt [Nachcodierung 25.10.: Regel zu bekannten Personen]",
+   "personen": [
+    {
+     "name": "Putin",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann links allein auf einer Tischseite gegenüber der Delegation, als Putin erkennbar; Headline: 'Drei Stunden mit Putin am Tisch'"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Weißhaariger Mann im Anzug rechts im Vordergrund, größte Figur, Teil der Gesprächsrunde"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Grauhaariger Mann rechts am Tisch mit verschränkten Händen; Alter schwer einzuschätzen"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Dunkelhaariger Mann im Anzug links-mittig am Tisch"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann im Anzug rechts-mittig am Tisch"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 10,
+   "menschenmenge": "ja",
+   "notiz": "Kundgebung, Publikum unscharf im Hintergrund, nur Vordergrundperson codiert",
+   "personen": [
+    {
+     "name": "Trump",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Einzige Person im Vordergrund, Headline nennt Trump als Urheber eines Umbau-Plans für das Weiße Haus"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Rote Bete und Saft; der 82-Jährige aus der Headline ist nicht abgebildet",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 12,
+   "menschenmenge": "ja",
+   "notiz": "Galerie, Bankettszene; Frau mit Diadem zentral und scharf",
+   "personen": [
+    {
+     "name": "Prinzessin Kate",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Zentrale Frau mit Diadem und Schärpe; Headline bewertet ihr Erscheinen ('überstrahlt alle')"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "poc",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Sitzender Mann mit weißem Bart und gemustertem Turban rechts neben ihr; Teil von 'alle'"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Weißhaariger Mann in Uniform rechts am Tisch sitzend"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Lockiger Mann im Frack links, lächelnd; Alter um 30 schwer einzuschätzen"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Grauhaariger Mann links im Vordergrund, sich verbeugend"
+    }
+   ]
+  }
+ ]
 }

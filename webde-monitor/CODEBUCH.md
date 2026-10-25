@@ -3,6 +3,8 @@
 Analyse-Einheit 1 = **Teaser** (immer 5 pro Erhebung). Analyse-Einheit 2 = **Person im Teaserbild**.
 **Grundlage ist ausschließlich, was Lesende auf der Startseite sehen: Bild, Dachzeile, Headline.**
 Keine Artikeltexte, Bildunterschriften, Dateinamen oder Vorwissen über abgebildete Personen.
+**Ausnahme Name:** Ist eine in Dachzeile/Headline genannte Person auf dem Bild klar als bekannte Persönlichkeit erkennbar,
+wird ihr Name vergeben (so wie Lesende sie erkennen). Geschlecht, Alter und Hautfarbe bleiben trotzdem rein visuell codiert.
 Alle Merkmale sind **wahrgenommene** Merkmale. Im Zweifel `nicht_erkennbar` / `unklar` – lieber eine
 ehrliche Lücke als eine geratene Zuordnung. **Ausnahme Alter:** Bei sichtbarem Gesicht wird immer geschätzt (siehe unten).
 
@@ -22,7 +24,7 @@ Personen im Hintergrund einer Menge werden nur über `personen_anzahl` gezählt.
 
 | Feld | Werte | Regel |
 |---|---|---|
-| `name` | Name oder leer | nur wenn aus Dachzeile/Headline eindeutig ist, dass diese Person gemeint ist |
+| `name` | Name oder leer | nur wenn die Person in Dachzeile/Headline genannt ist und eindeutig zugeordnet werden kann: aus Bild + Text oder weil sie als bekannte Persönlichkeit klar erkennbar ist. Im Zweifel leer. |
 | `geschlecht` | weiblich, maennlich, nicht_erkennbar | nach Bildeindruck; keine Kategorie divers, da nur per Selbstauskunft feststellbar |
 | `alter` | jung (unter 30, inkl. Kinder), mittel (30–59), alt (60+), nicht_erkennbar | Bei sichtbarem Gesicht **immer schätzen**, Unsicherheit über `sicherheit` markieren. `nicht_erkennbar` nur, wenn das Gesicht nicht zu sehen ist (verdeckt, abgewandt, zu klein). |
 | `hautfarbe` | weiss, poc, nicht_erkennbar | rein visuelle Wahrnehmung; **nie** aus dem Namen ableiten |

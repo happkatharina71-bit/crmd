@@ -85,20 +85,20 @@
    "bild_typ": "personen",
    "personen_anzahl": 1,
    "menschenmenge": "nein",
-   "notiz": "Pressekonferenz vor Sponsorenwand; welche der drei genannten Personen (Söder, Kahn, Klopp) abgebildet ist, geht aus dem Bild nicht eindeutig hervor",
+   "notiz": "Pressekonferenz vor Sponsorenwand; abgebildet ist Klopp (von den drei Genannten) [Nachcodierung 25.10.: Regel zu bekannten Personen]",
    "personen": [
     {
-     "name": "",
+     "name": "Klopp",
      "geschlecht": "maennlich",
      "alter": "mittel",
      "hautfarbe": "weiss",
      "bildrolle": "hauptperson",
-     "in_headline": "nein",
-     "headline_aktiv": "nicht_thematisiert",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
      "status": "neutral",
      "agenda": "unklar",
-     "sicherheit": "niedrig",
-     "begruendung": "Mann mit Kappe und Bart im Nationalteam-Pullover spricht ins Mikrofon; Zuordnung zu einem Namen der Headline nicht eindeutig"
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit Kappe und Bart im Nationalteam-Pullover auf Pressekonferenz, als Klopp erkennbar; Headline: Kahn kritisiert Klopp"
     }
    ]
   },
