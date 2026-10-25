@@ -1,0 +1,154 @@
+{
+ "run_id": "2026-10-25-16-14",
+ "erfasst_am": "2026-10-25T16:14:25.036Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Symbolbild",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Lachende junge Frau im orangefarbenen Pullover liegt im Laub und formt mit den Händen eine Brille"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Politiker vor orangefarbener Wand; in Dachzeile/Headline nicht namentlich genannt, daher keine Namen",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit Brille links, Blick nach unten; steht für die Koalition 'Schwarz-Rot', die laut Umfrage vor dem Aus stehen könnte"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann im dunklen Anzug rechts, blickt zur Seite; ebenfalls Teil der Koalition"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 24,
+   "menschenmenge": "ja",
+   "notiz": "Spielszene mit Schiedsrichter, unscharfes Publikum im Hintergrund (Schätzung)",
+   "personen": [
+    {
+     "name": "Siebert",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Schiedsrichter im gelben Trikot links, einziger Schiedsrichter im Bild; Headline: Schiri Siebert verletzt"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Spieler im rot-schwarzen Trikot rechts"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Spieler im rot-schwarzen Trikot Nr. 30 von hinten im Gespräch mit dem Schiedsrichter"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Spieler im blauen Trikot von hinten; steht für Hoffenheim, ob er der genannte Kramaric ist, ist nicht erkennbar"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "tier",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Geier auf Krokodil, Naturfoto",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt vor Pressewand",
+   "personen": [
+    {
+     "name": "Franziska Knabenreich",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Einzelne Frau mit rosa Kurzhaarschnitt vor Pressewand; Headline: Moderatorin Franziska Knabenreich trauert um ihren Verlobten"
+    }
+   ]
+  }
+ ]
+}

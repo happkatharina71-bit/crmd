@@ -188,3 +188,11 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-25-12-15,3,1,Neymar,maennlich,mittel,poc,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Spieler Nr. 10 mit Kapitänsbinde zentral, einzige scharfe Person; Headline: Neymar eskaliert; Hautfarbe grenzwertig"
 2026-10-25-12-15,3,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Unscharfer Spieler rechts im Hintergrund
 2026-10-25-12-15,5,1,,weiblich,jung,poc,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Junge Frau mit Locken singt emotional ins Mikrofon; als 'The Voice'-Kandidatin gemeint, die einen Song verweigert"
+2026-10-25-16-14,1,1,,weiblich,jung,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,hoch,Lachende junge Frau im orangefarbenen Pullover liegt im Laub und formt mit den Händen eine Brille
+2026-10-25-16-14,2,1,,maennlich,alt,weiss,hauptperson,indirekt,passiv,reich_maechtig,nein,mittel,"Mann mit Brille links, Blick nach unten; steht für die Koalition 'Schwarz-Rot', die laut Umfrage vor dem Aus stehen könnte"
+2026-10-25-16-14,2,2,,maennlich,mittel,weiss,nebenperson,indirekt,passiv,reich_maechtig,nein,mittel,"Mann im dunklen Anzug rechts, blickt zur Seite; ebenfalls Teil der Koalition"
+2026-10-25-16-14,3,1,Siebert,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Schiedsrichter im gelben Trikot links, einziger Schiedsrichter im Bild; Headline: Schiri Siebert verletzt"
+2026-10-25-16-14,3,2,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Spieler im rot-schwarzen Trikot rechts
+2026-10-25-16-14,3,3,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Spieler im rot-schwarzen Trikot Nr. 30 von hinten im Gespräch mit dem Schiedsrichter
+2026-10-25-16-14,3,4,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Spieler im blauen Trikot von hinten; steht für Hoffenheim, ob er der genannte Kramaric ist, ist nicht erkennbar"
+2026-10-25-16-14,5,1,Franziska Knabenreich,weiblich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Einzelne Frau mit rosa Kurzhaarschnitt vor Pressewand; Headline: Moderatorin Franziska Knabenreich trauert um ihren Verlobten"

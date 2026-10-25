@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-25-16-14",
+  "erfasst_am": "2026-10-25T16:14:25.036Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Drei Nachrichten, die Hoffnung machen",
+      "teasertext": "Good News Drei Nachrichten, die Hoffnung machen",
+      "url": "https://web.de/magazine/wissen/psychologie/nachrichten-hoffnung-42868220",
+      "bild_url": "https://i0.web.de/image/348/42869348%2cpd=2%2cf=responsive169-w950/gaertnern.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Good News",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Koalition vor dem Aus? Umfrage ergibt deutliches Bild",
+      "teasertext": "Krise bei Schwarz-Rot Koalition vor dem Aus? Umfrage ergibt deutliches Bild",
+      "url": "https://web.de/magazine/politik/inland/umfrage-mehrheit-rechnet-vorzeitigem-koalition-42874214",
+      "bild_url": "https://i0.web.de/image/216/42874216%2cpd=4%2cf=responsive169-w300/bundeskabinett.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Krise bei Schwarz-Rot",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Kramaric verwandelt Elfer für Hoffenheim – Schiri Siebert verletzt",
+      "teasertext": "Live-Ticker Bundesliga Kramaric verwandelt Elfer für Hoffenheim – Schiri Siebert verletzt",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/bundesliga-live-ticker-hoffenheim-leverkusen-41292002",
+      "bild_url": "https://i0.web.de/image/272/42874272%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Live-Ticker Bundesliga",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Magische Momente: Fotos zeigen die Natur in ihrer ganzen Vielfalt",
+      "teasertext": "Galerie Naturfotograf des Jahres 2026 Magische Momente: Fotos zeigen die Natur in ihrer ganzen Vielfalt",
+      "url": "https://web.de/magazine/wissen/tiere/fotos-zeigen-natur-vielfalt-42866936",
+      "bild_url": "https://i0.web.de/image/920/42866920%2cpd=5%2cf=responsive169-w300/rabengeier-hockt-gespreizten-fluegeln-toten-brille.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Galerie Naturfotograf des Jahres 2026",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Moderatorin Franziska Knabenreich trauert um ihren Verlobten",
+      "teasertext": "\"Völlig unerwartet\" gestorben Moderatorin Franziska Knabenreich trauert um ihren Verlobten",
+      "url": "https://web.de/magazine/unterhaltung/stars/franziska-knabenreich-trauert-verlobten-42873936",
+      "bild_url": "https://i0.web.de/image/938/42873938%2cpd=1%2cf=responsive169-w300/franziska-knabenreich-teilt-traurige-nachricht-ins.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "\"Völlig unerwartet\" gestorben",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
