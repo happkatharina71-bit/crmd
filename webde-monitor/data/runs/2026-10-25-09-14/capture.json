@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-25-09-14",
+  "erfasst_am": "2026-10-25T09:14:18.793Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Trump macht deutschen Autobauer zum Teil seines Wahlkampfs",
+      "teasertext": "SUV-Werk in den USA Trump macht deutschen Autobauer zum Teil seines Wahlkampfs",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/trump-deutschen-autobauer-teil-wahlkampfs-42872424",
+      "bild_url": "https://i0.web.de/image/452/42872452%2cpd=1%2cf=responsive169-w950/us-midterms-us-praesident-trump.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "SUV-Werk in den USA",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Richtungswahl in Serbien: Was dabei für Europa auf dem Spiel steht",
+      "teasertext": "Die Studentenliste gegen Vucic Richtungswahl in Serbien: Was dabei für Europa auf dem Spiel steht",
+      "url": "https://web.de/magazine/politik/wahlen/richtungswahl-serbien-europa-spiel-42872610",
+      "bild_url": "https://i0.web.de/image/614/42872614%2cpd=1%2cf=responsive169-w300/parlamentswahlen-serbien.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Die Studentenliste gegen Vucic",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Krebserregendes Schimmelpilzgift in Kaffee entdeckt",
+      "teasertext": "Aktuelle Rückrufe Krebserregendes Schimmelpilzgift in Kaffee entdeckt",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/krebserregendes-schimmelpilzgift-kaffee-entdeckt-42672406",
+      "bild_url": "https://i0.web.de/image/954/42872954%2cpd=3%2cf=responsive169-w300/giesst-kaffee-rote-tasse.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Aktuelle Rückrufe",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Meghan: Ihr Vater wird seine Enkel Archie und Lilibet nie kennenlernen",
+      "teasertext": "Brief an Thomas Markle Meghan: Ihr Vater wird seine Enkel Archie und Lilibet nie kennenlernen",
+      "url": "https://web.de/magazine/unterhaltung/adel/britische-royals/meghan-vater-enkel-archie-lilibet-kennenlernen-42872690",
+      "bild_url": "https://i0.web.de/image/694/42872694%2cpd=2%2cf=responsive169-w300/herzogin-meghan.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Brief an Thomas Markle",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Sein Feierabend-Fimmel brachte Özdemir schon Ärger mit seiner Frau ein",
+      "teasertext": "Ministerpräsident von BaWü Sein Feierabend-Fimmel brachte Özdemir schon Ärger mit seiner Frau ein",
+      "url": "https://web.de/magazine/unterhaltung/stars/feierabend-fimmel-oezdemir-aerger-42872520",
+      "bild_url": "https://i0.web.de/image/522/42872522%2cpd=1%2cf=responsive169-w300/cem-oezdemir-flavia-zaka.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Ministerpräsident von BaWü",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

@@ -174,3 +174,13 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-25-06-14,5,3,,nicht_erkennbar,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person mit Uniformmütze hinter der Hauptperson, teilweise verdeckt"
 2026-10-25-06-14,5,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann im Anzug links im Hintergrund, im Profil"
 2026-10-25-06-14,5,5,,maennlich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Mann im Vordergrund links von hinten, unscharf"
+2026-10-25-09-14,1,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,reich_maechtig,unklar,niedrig,"Mann im dunklen Anzug rechts, Gesicht sichtbar, legt Hand auf die Schulter des anderen; Bezug zu Trump oder zum 'deutschen Autobauer' unklar"
+2026-10-25-09-14,1,2,,maennlich,alt,weiss,nebenperson,indirekt,nicht_thematisiert,reich_maechtig,unklar,niedrig,"Mann mit hellem Haar links, im Profil von hinten; Rolle in der Headline unklar"
+2026-10-25-09-14,2,1,,weiblich,jung,weiss,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Rufende junge Frau mit erhobenem Arm in der Bildmitte; steht für die 'Studentenliste'"
+2026-10-25-09-14,2,2,,weiblich,jung,weiss,nebenperson,indirekt,aktiv,neutral,ja,mittel,Lächelnde blonde junge Frau mit Ansteckern links
+2026-10-25-09-14,2,3,,weiblich,jung,weiss,nebenperson,indirekt,aktiv,neutral,ja,mittel,"Junge Frau ganz links, lächelnd"
+2026-10-25-09-14,2,4,,maennlich,jung,weiss,nebenperson,indirekt,aktiv,neutral,ja,mittel,Mann in gelber Warnweste mit erhobener Hand rechts der Mitte
+2026-10-25-09-14,2,5,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,ja,niedrig,"Mann in gelber Warnweste ganz rechts; Alter um 30 schwer einzuschätzen"
+2026-10-25-09-14,4,1,Meghan,weiblich,mittel,nicht_erkennbar,hauptperson,namentlich,aktiv,neutral,ja,mittel,"Einzelne Frau im weißen Oberteil, nachdenklich; Headline: Meghan (laut Brief) – ihr Vater werde die Enkel nie kennenlernen; Hautfarbe zwischen den Kategorien nicht eindeutig zuzuordnen"
+2026-10-25-09-14,5,1,Özdemir,maennlich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,nein,mittel,"Mann mit Brille und Anzug links; einziger Mann im Bild, Headline spricht von 'seiner Frau' und dem Ministerpräsidenten Özdemir; sein Verhalten wird bewertet"
+2026-10-25-09-14,5,2,,weiblich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Lächelnde Frau mit dunklem Haar rechts; als 'seine Frau' in der Headline gemeint"

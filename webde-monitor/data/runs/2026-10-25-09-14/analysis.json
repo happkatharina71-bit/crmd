@@ -1,0 +1,180 @@
+{
+ "run_id": "2026-10-25-09-14",
+ "erfasst_am": "2026-10-25T09:14:18.793Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 12,
+   "menschenmenge": "ja",
+   "notiz": "Zwei Männer umarmen sich auf einer Bühne, Publikum unscharf; welcher der in der Headline genannte Trump ist, geht aus dem Bild nicht eindeutig hervor; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "unklar",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann im dunklen Anzug rechts, Gesicht sichtbar, legt Hand auf die Schulter des anderen; Bezug zu Trump oder zum 'deutschen Autobauer' unklar"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "unklar",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit hellem Haar links, im Profil von hinten; Rolle in der Headline unklar"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 40,
+   "menschenmenge": "ja",
+   "notiz": "Demonstration mit Fahnen, vorwiegend junge Menschen (Schätzung); 5 im Vordergrund codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Rufende junge Frau mit erhobenem Arm in der Bildmitte; steht für die 'Studentenliste'"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Lächelnde blonde junge Frau mit Ansteckern links"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Junge Frau ganz links, lächelnd"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann in gelber Warnweste mit erhobener Hand rechts der Mitte"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann in gelber Warnweste ganz rechts; Alter um 30 schwer einzuschätzen"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Espressokanne gießt Kaffee in rote Tasse; nur Hände und Oberkörper einer Person angeschnitten, keine Person erkennbar",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "Meghan",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Einzelne Frau im weißen Oberteil, nachdenklich; Headline: Meghan (laut Brief) – ihr Vater werde die Enkel nie kennenlernen; Hautfarbe zwischen den Kategorien nicht eindeutig zuzuordnen"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Paarfoto",
+   "personen": [
+    {
+     "name": "Özdemir",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit Brille und Anzug links; einziger Mann im Bild, Headline spricht von 'seiner Frau' und dem Ministerpräsidenten Özdemir; sein Verhalten wird bewertet"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Lächelnde Frau mit dunklem Haar rechts; als 'seine Frau' in der Headline gemeint"
+    }
+   ]
+  }
+ ]
+}
