@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-26-16-18",
+  "erfasst_am": "2026-10-26T16:18:15.141Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Weniger \"Schnickschnack\" soll Wohnungsbau günstiger machen",
+      "teasertext": "Neuer Gebäudetyp E Weniger \"Schnickschnack\" soll Wohnungsbau günstiger machen",
+      "url": "https://web.de/magazine/politik/inland/schnickschnack-wohnungsbau-guenstiger-42874884",
+      "bild_url": "https://i0.web.de/image/254/42877254%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Neuer Gebäudetyp E",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Kann KI Hollywood ersetzen? Musks \"Odyssee\" liefert Antworten",
+      "teasertext": "Analyse Kritik an Christopher Nolan Kann KI Hollywood ersetzen? Musks \"Odyssee\" liefert Antworten",
+      "url": "https://web.de/magazine/unterhaltung/filme-serien-kino/ki-hollywood-ersetzen-musks-odyssee-liefert-antworten-42877426",
+      "bild_url": "https://i0.web.de/image/540/42877540%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Analyse Kritik an Christopher Nolan",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Verband warnt vor mehr als 50.000 Kündigungen",
+      "teasertext": "Wegen Pflegereform Verband warnt vor mehr als 50.000 Kündigungen",
+      "url": "https://web.de/magazine/politik/inland/verband-warnt-50000-kuendigungen-42875896",
+      "bild_url": "https://i0.web.de/image/902/42875902%2cpd=5%2cf=responsive169-w300/pflege.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Wegen Pflegereform",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "250.000 Tonnen Eis in Bewegung – Walliser Bergdorf in Alarmbereitschaft",
+      "teasertext": "Gletschergefahr am Weisshorn 250.000 Tonnen Eis in Bewegung – Walliser Bergdorf in Alarmbereitschaft",
+      "url": "https://web.de/magazine/panorama/naturkatastrophen/250000-tonnen-eisblock-bedroht-schweizer-bergdorf-42876276",
+      "bild_url": "https://i0.web.de/image/442/42876442%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Gletschergefahr am Weisshorn",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Mann in Bayern öffnet seine Haustür – dann wird er erschossen",
+      "teasertext": "Täter auf der Flucht Mann in Bayern öffnet seine Haustür – dann wird er erschossen",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/bayern-oeffnet-haustuer-erschossen-42877436",
+      "bild_url": "https://i0.web.de/image/116/42878116%2cpd=2%2cf=responsive169-w300/dingolfing-haustuer-erschossen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Täter auf der Flucht",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
