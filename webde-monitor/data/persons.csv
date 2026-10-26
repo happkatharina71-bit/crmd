@@ -214,3 +214,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-26-06-14,4,2,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Blonde Moderatorin mit Mikrofon links
 2026-10-26-06-14,5,1,,weiblich,jung,weiss,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Junge Frau mit Zopf probiert aus einer Kelle, im Vordergrund; vermutlich mit 'Die spinnt doch' gemeint, ihr Ergebnis wird bewertet; Alter um 30 schwer einzuschätzen"
 2026-10-26-06-14,5,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Lachender Mann im weißen Hemd unscharf im Hintergrund
+2026-10-26-09-14,1,1,,weiblich,alt,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,ja,mittel,"Ältere Frau mit grauen Locken rechts im Vordergrund, hebt den Arm; Teil der Kundgebung zur 'Wahl in Israel'"
+2026-10-26-09-14,1,2,,weiblich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,ja,niedrig,Blonde Frau links der Mitte
+2026-10-26-09-14,1,3,,weiblich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,ja,niedrig,"Frau mit Brille und hellem T-Shirt in der Mitte, hält eine Fahne"
+2026-10-26-09-14,1,4,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,ja,niedrig,"Mann mit Brille im Vordergrund, Gesicht nur im Profil angeschnitten"
+2026-10-26-09-14,1,5,,weiblich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,ja,niedrig,"Frau mit Kopfhörern am rechten Rand, Gesicht teilweise sichtbar"
+2026-10-26-09-14,4,1,,weiblich,jung,weiss,hauptperson,indirekt,passiv,neutral,nein,hoch,"Spielerin im grünen Torwarttrikot mit Handschuhen auf dem Platz; als 'Feldspielerin', die ins Tor muss, gemeint"
+2026-10-26-09-14,5,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Junger Mann mit Bart und In-Ear-Kopfhörer auf der Bühne; als 'deutscher Musiker' gemeint, der die Tour verschiebt; Alter und Hautfarbe grenzwertig"

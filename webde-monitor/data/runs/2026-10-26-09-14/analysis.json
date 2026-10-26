@@ -1,0 +1,140 @@
+{
+ "run_id": "2026-10-26-09-14",
+ "erfasst_am": "2026-10-26T09:14:15.929Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 50,
+   "menschenmenge": "ja",
+   "notiz": "Nächtliche Kundgebung mit vielen Israel-Fahnen und Megafon (Schätzung); 5 Personen im Vordergrund codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Ältere Frau mit grauen Locken rechts im Vordergrund, hebt den Arm; Teil der Kundgebung zur 'Wahl in Israel'"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Blonde Frau links der Mitte"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Frau mit Brille und hellem T-Shirt in der Mitte, hält eine Fahne"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit Brille im Vordergrund, Gesicht nur im Profil angeschnitten"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Frau mit Kopfhörern am rechten Rand, Gesicht teilweise sichtbar"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Beschädigte Schiffswand mit zerstörten Rettungsbooten",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Auto in überfluteter Unterführung",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 25,
+   "menschenmenge": "ja",
+   "notiz": "Spielerin im Torwarttrikot, Publikum im Hintergrund (Schätzung)",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Spielerin im grünen Torwarttrikot mit Handschuhen auf dem Platz; als 'Feldspielerin', die ins Tor muss, gemeint"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt auf der Bühne",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Junger Mann mit Bart und In-Ear-Kopfhörer auf der Bühne; als 'deutscher Musiker' gemeint, der die Tour verschiebt; Alter und Hautfarbe grenzwertig"
+    }
+   ]
+  }
+ ]
+}

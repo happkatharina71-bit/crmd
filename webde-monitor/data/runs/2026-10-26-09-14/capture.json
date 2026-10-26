@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-26-09-14",
+  "erfasst_am": "2026-10-26T09:14:15.929Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Rückt die Zweistaatenlösung näher?",
+      "teasertext": "Wahl in Israel Rückt die Zweistaatenlösung näher?",
+      "url": "https://web.de/magazine/politik/nahostkonflikt/bedeutet-wahl-israel-gaza-42863624",
+      "bild_url": "https://i0.web.de/image/938/42875938%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Wahl in Israel",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "\"Mein Schiff 3\" rammt Frachter: Polizei nennt Unfallursache",
+      "teasertext": "Augenzeugenvideo zeigt Vorfall \"Mein Schiff 3\" rammt Frachter: Polizei nennt Unfallursache",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/schiff-3-rammt-frachter-polizei-nennt-unfallursache-42874778",
+      "bild_url": "https://i0.web.de/image/878/42875878%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Augenzeugenvideo zeigt Vorfall",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Teile Hamburgs unter Wasser – Bundesamt warnt nächste Region vor Sturmflut",
+      "teasertext": "Nordseeküste betroffen Teile Hamburgs unter Wasser – Bundesamt warnt nächste Region vor Sturmflut",
+      "url": "https://web.de/magazine/panorama/wetter/hamburgs-wasser-bundesamt-warnt-naechste-region-sturmflut-42875338",
+      "bild_url": "https://i0.web.de/image/420/42875420%2cpd=3%2cf=responsive169-w300/sturmtief-manja-hamburg.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Nordseeküste betroffen",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Beim FC Bayern muss eine Feldspielerin ins Tor",
+      "teasertext": "Analyse Spektakel in Frauen-Bundesliga Beim FC Bayern muss eine Feldspielerin ins Tor",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/fc-bayern-feldspielerin-tor-42875750",
+      "bild_url": "https://i0.web.de/image/128/42876128%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Analyse Spektakel in Frauen-Bundesliga",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Deutscher Musiker zieht die Reißleine: Komplette Tour verschoben",
+      "teasertext": "Geringe Nachfrage Deutscher Musiker zieht die Reißleine: Komplette Tour verschoben",
+      "url": "https://web.de/magazine/unterhaltung/musik/deutscher-musiker-reissleine-komplette-tour-verschoben-42874042",
+      "bild_url": "https://i0.web.de/image/044/42874044%2cpd=5%2cf=responsive169-w300/rin-tritt-naechsten-jahr-rahmen-nostalgia-tour.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Geringe Nachfrage",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
