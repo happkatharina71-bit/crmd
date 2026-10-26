@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-26-06-14",
+  "erfasst_am": "2026-10-26T06:14:18.525Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Lula siegt – Bolsonaro erkennt Wahl nicht an",
+      "teasertext": "Präsidentenwahl in Brasilien Lula siegt – Bolsonaro erkennt Wahl nicht an",
+      "url": "https://web.de/magazine/politik/wahlen/lula-siegt-brasilien-bolsonaro-erkennt-wahl-42874888",
+      "bild_url": "https://i0.web.de/image/310/42875310%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Präsidentenwahl in Brasilien",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Audi-Chef bei Trump-Wahlkampf – SPD-Politikerin findet deutliche Worte",
+      "teasertext": "Video Milliardenwerk in Georgia Audi-Chef bei Trump-Wahlkampf – SPD-Politikerin findet deutliche Worte",
+      "url": "https://web.de/magazine/wirtschaft/videos/audi-chef-trump-wahlkampf-spd-politikerin-deutliche-worte-42874922",
+      "bild_url": "https://i0.web.de/image/364/42875364%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Video Milliardenwerk in Georgia",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Deutsches Kreuzfahrtschiff rammt Frachter – Augenzeugenvideo zeigt Unfall",
+      "teasertext": "\"Mein Schiff 3\" in Bremerhaven Deutsches Kreuzfahrtschiff rammt Frachter – Augenzeugenvideo zeigt Unfall",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/schiff-3-rammt-frachter-augenzeugenvideo-zeigt-unfall-42874778",
+      "bild_url": "https://i0.web.de/image/780/42874780%2cpd=2%2cf=responsive169-w300/kreuzfahrtschiff-stoesst-containerschiff.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "\"Mein Schiff 3\" in Bremerhaven",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Schindler schreibt deutsche Darts-Geschichte – am Ende fließen trotzdem Tränen",
+      "teasertext": "Bei Heim-EM Schindler schreibt deutsche Darts-Geschichte – am Ende fließen trotzdem Tränen",
+      "url": "https://web.de/magazine/sport/darts/schindler-schreibt-deutsche-darts-geschichte-fliessen-traenen-42875302",
+      "bild_url": "https://i0.web.de/image/392/42875392%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Bei Heim-EM",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Lafer entsetzt nach schiefgegangener Geschmacksprobe: \"Die spinnt doch\"",
+      "teasertext": "Galerie Grenzenlos Genial Gekocht Lafer entsetzt nach schiefgegangener Geschmacksprobe: \"Die spinnt doch\"",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/lafer-entsetzt-geschmacksprobe-spinnt-42869524",
+      "bild_url": "https://i0.web.de/image/360/42869360%2cpd=1%2cf=responsive169-w300/marino-hintergrund-anna.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Grenzenlos Genial Gekocht",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

@@ -203,3 +203,14 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-25-20-13,1,5,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Uniformierter Mann links im Hintergrund
 2026-10-25-20-13,2,1,Ilse Aigner,weiblich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,nein,hoch,"Winkende Frau mit Brille und Parteiband; Headline: wie die CDU zu einer Nominierung von Ilse Aigner steht; Alter grenzwertig zu 60+"
 2026-10-25-20-13,3,1,,maennlich,jung,poc,hauptperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Spieler im Barça-Trikot mit Kapitänsbinde, zeigt mit dem Arm; steht für 'Barça' im Clásico; Alter um 30 schwer einzuschätzen"
+2026-10-26-06-14,1,1,Lula,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,mittel,"Älterer Mann mit weißem Bart und Mikrofon zentral, als Lula erkennbar; Headline: Lula siegt; Hautfarbe grenzwertig"
+2026-10-26-06-14,1,2,,maennlich,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann im gelben Trikot umarmt die Hauptperson, lachend"
+2026-10-26-06-14,1,3,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,nein,mittel,"Älterer Mann mit Brille rechts, applaudiert"
+2026-10-26-06-14,1,4,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Lächelnde Frau mit dunklem Haar ganz rechts
+2026-10-26-06-14,1,5,,weiblich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Frau mit Brille links angeschnitten, Gesicht nur teilweise sichtbar"
+2026-10-26-06-14,2,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,unklar,mittel,"Mann im dunklen Anzug rechts, Gesicht sichtbar, legt Hand auf Trumps Schulter; als 'Audi-Chef' (Funktion) gemeint"
+2026-10-26-06-14,2,2,Trump,maennlich,alt,weiss,nebenperson,namentlich,nicht_thematisiert,reich_maechtig,ja,hoch,"Mann mit hellem Haar links im Profil, als Trump erkennbar; Headline nennt den 'Trump-Wahlkampf'"
+2026-10-26-06-14,4,1,Schindler,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Weinender Spieler mit Pokal rechts, einziger Spieler im Bild; Headline: Schindler schreibt Darts-Geschichte, am Ende Tränen; Alter um 30 schwer einzuschätzen"
+2026-10-26-06-14,4,2,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Blonde Moderatorin mit Mikrofon links
+2026-10-26-06-14,5,1,,weiblich,jung,weiss,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Junge Frau mit Zopf probiert aus einer Kelle, im Vordergrund; vermutlich mit 'Die spinnt doch' gemeint, ihr Ergebnis wird bewertet; Alter um 30 schwer einzuschätzen"
+2026-10-26-06-14,5,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Lachender Mann im weißen Hemd unscharf im Hintergrund
