@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-26-20-14",
+  "erfasst_am": "2026-10-26T20:14:39.625Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Haben die Deutschen Verständnis für die Wut von Frankreichs Generation Z?",
+      "teasertext": "Proteste im ganzen Land Haben die Deutschen Verständnis für die Wut von Frankreichs Generation Z?",
+      "url": "https://web.de/magazine/politik/inland/deutschen-verstaendnis-wut-frankreichs-generation-z-42877372",
+      "bild_url": "https://i0.web.de/image/550/42877550%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Proteste im ganzen Land",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Konzern droht mit Investitionsstopp in Deutschland",
+      "teasertext": "Pläne zur Vergesellschaftung Konzern droht mit Investitionsstopp in Deutschland",
+      "url": "https://web.de/magazine/politik/inland/konzern-droht-investitionsstopp-deutschland-42877968",
+      "bild_url": "https://i0.web.de/image/004/42878004%2cpd=3%2cf=responsive169-w300/wohnungen-berlin.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Pläne zur Vergesellschaftung",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Wer gewinnt den Ballon d'Or? Finale Entscheidung verschiebt sich",
+      "teasertext": "Live-Ticker Kane, Yamal, Mbappé Wer gewinnt den Ballon d'Or? Finale Entscheidung verschiebt sich",
+      "url": "https://web.de/magazine/sport/fussball/international/verleihung-ballon-dor-liveticker-finale-entscheidung-verschiebt-42877828",
+      "bild_url": "https://i0.web.de/image/160/42878160%2cpd=2%2cf=responsive169-w300/ballon-dor.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Live-Ticker Kane, Yamal, Mbappé",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Barbara Becker: \"Dafür muss man sich entscheiden\"",
+      "teasertext": "Verhältnis zu Boris Becker Barbara Becker: \"Dafür muss man sich entscheiden\"",
+      "url": "https://web.de/magazine/unterhaltung/stars/barbara-becker-dafuer-entscheiden-42877708",
+      "bild_url": "https://i0.web.de/image/858/42877858%2cpd=2%2cf=responsive169-w300/barbara-becker.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Verhältnis zu Boris Becker",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Streit nach Hitlergruß: Deutscher stirbt nach Rockkonzert in der Schweiz",
+      "teasertext": "Tödliche Schlägerei Streit nach Hitlergruß: Deutscher stirbt nach Rockkonzert in der Schweiz",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/streit-hitlergruss-deutscher-stirbt-rockkonzert-schweiz-42878720",
+      "bild_url": "https://i0.web.de/image/722/42878722%2cpd=2%2cf=responsive169-w300/toedliche-schlaegerei-schweiz.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Tödliche Schlägerei",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

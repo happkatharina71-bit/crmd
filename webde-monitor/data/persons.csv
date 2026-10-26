@@ -236,3 +236,9 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-26-16-18,5,1,,maennlich,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Polizist in Uniform rechts im Vordergrund, von hinten"
 2026-10-26-16-18,5,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Polizist in Uniform in der Bildmitte, klein"
 2026-10-26-16-18,5,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Polizist in Uniform links neben dem Streifenwagen, klein"
+2026-10-26-20-14,1,1,,weiblich,jung,weiss,hauptperson,indirekt,aktiv,neutral,ja,niedrig,"Person mit langen blonden Haaren hält ein großes Protestschild, Gesicht teilweise verdeckt; steht für die protestierende 'Generation Z'"
+2026-10-26-20-14,1,2,,maennlich,jung,weiss,nebenperson,indirekt,aktiv,neutral,ja,mittel,Junger Mann in gelb-blauer Jacke links
+2026-10-26-20-14,1,3,,maennlich,jung,poc,nebenperson,indirekt,aktiv,neutral,ja,mittel,Mann mit Mütze und Bart rechts im Vordergrund
+2026-10-26-20-14,1,4,,nicht_erkennbar,jung,weiss,nebenperson,indirekt,aktiv,neutral,ja,niedrig,Person mit Brille und Mütze im gestreiften Pullover rechts der Mitte
+2026-10-26-20-14,1,5,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,ja,mittel,Vermummte Person mit Sonnenbrille unscharf vorn links
+2026-10-26-20-14,4,1,Barbara Becker,weiblich,mittel,poc,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Einzelne Frau im silbernen Kleid vor Pressewand; Headline zitiert Barbara Becker zum Verhältnis zu Boris Becker"
