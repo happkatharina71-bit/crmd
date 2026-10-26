@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-26-12-13",
+  "erfasst_am": "2026-10-26T12:13:38.226Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Der stabilste Verein im Weltfußball",
+      "teasertext": "Analyse Harte Zeiten für den FC Bayern Der stabilste Verein im Weltfußball",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/fc-bayern/fc-bayern-stabilste-verein-weltfussball-42875432",
+      "bild_url": "https://i0.web.de/image/720/42875720%2cpd=3%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse Harte Zeiten für den FC Bayern",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Deutsches Audi-Werk fürchtet um seine Zukunft",
+      "teasertext": "\"Beklemmendes Gefühl\" Deutsches Audi-Werk fürchtet um seine Zukunft",
+      "url": "https://web.de/magazine/wirtschaft/deutsches-audi-werk-fuerchtet-zukunft-42876192",
+      "bild_url": "https://i0.web.de/image/516/42876516%2cpd=3%2cf=responsive169-w300/audi-werk-usa-bauen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "\"Beklemmendes Gefühl\"",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Kreuzfahrt nach Kollision abgesagt",
+      "teasertext": "Augenzeugenvideo zeigt Vorfall Kreuzfahrt nach Kollision abgesagt",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/kreuzfahrt-kollision-abgesagt-42874778",
+      "bild_url": "https://i0.web.de/image/878/42875878%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Augenzeugenvideo zeigt Vorfall",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "\"Ich traue mich gar nicht, den nächsten 'Tatort' zu schauen\"",
+      "teasertext": "Leserstimmen Franken-Fall \"Gottesgarten\" \"Ich traue mich gar nicht, den nächsten 'Tatort' zu schauen\"",
+      "url": "https://web.de/magazine/unterhaltung/filme-serien-kino/tatort/traue-naechsten-tatort-schauen-42876132",
+      "bild_url": "https://i0.web.de/image/184/42876184%2cpd=4%2cf=responsive169-w300/rosalie-thomass-fabian-hinrichs.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Leserstimmen Franken-Fall \"Gottesgarten\"",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "DDR-Legende Heiko Weber ist gestorben",
+      "teasertext": "Ex-Klub nimmt Abschied DDR-Legende Heiko Weber ist gestorben",
+      "url": "https://web.de/magazine/sport/fussball/ddr-legende-heiko-weber-gestorben-42876814",
+      "bild_url": "https://i0.web.de/image/620/42876620%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Ex-Klub nimmt Abschied",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
