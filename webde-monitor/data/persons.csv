@@ -246,3 +246,18 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-27-06-15,2,1,Harry Kane,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann im Smoking küsst den goldenen Ball; Headline: Harry Kane gewinnt den Ballon d'Or"
 2026-10-27-06-15,3,1,,weiblich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,ja,hoch,"Frau am Talkshow-Tisch spricht gestikulierend; als 'pflegende Ehefrau', die die Pflegereform bemängelt, gemeint"
 2026-10-27-06-15,4,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,hoch,"Lachender Mann im rosa Hemd mit Ansteckmikrofon; als 'Kandidat' gemeint, der die Frage nicht versteht"
+2026-10-27-09-13,1,1,,weiblich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,"Frau mit Kopftuch und Brille trägt ein Kind, im Vordergrund vor dem Plakat"
+2026-10-27-09-13,1,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Mann mit Bart und Telefon am Ohr rechts, trägt eine Tüte"
+2026-10-27-09-13,1,3,,nicht_erkennbar,jung,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Kleinkind auf dem Arm der Frau, Gesicht kaum sichtbar"
+2026-10-27-09-13,1,4,Netanjahu,maennlich,alt,weiss,nebenperson,namentlich,passiv,reich_maechtig,unklar,mittel,"Abbildung auf dem Wahlplakat links, als Netanjahu erkennbar; Headline fragt, ob seine Ära endet"
+2026-10-27-09-13,1,5,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,unklar,mittel,"Zweite Abbildung auf dem Wahlplakat rechts, in diesem Teaser nicht genannt"
+2026-10-27-09-13,2,1,,weiblich,jung,poc,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Frau mit Haube und Maske sitzt in der Bildmitte, hält den Ärmel hoch; Alter wegen Maske schwer einzuschätzen"
+2026-10-27-09-13,2,2,,maennlich,mittel,poc,nebenperson,indirekt,nicht_thematisiert,neutral,nein,mittel,Mann mit Schal hinter ihr stehend
+2026-10-27-09-13,2,3,,maennlich,mittel,poc,nebenperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Mann rechts, blickt nach unten"
+2026-10-27-09-13,2,4,,maennlich,jung,poc,nebenperson,indirekt,nicht_thematisiert,neutral,nein,mittel,Mann im weißen Kittel in der Warteschlange
+2026-10-27-09-13,2,5,,weiblich,mittel,poc,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,Frau in OP-Kleidung mit Maske links
+2026-10-27-09-13,3,1,Kane,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Lächelnder Mann im Smoking mit goldenem Ball, als Kane erkennbar; Headline: die Presse verneigt sich vor Kane"
+2026-10-27-09-13,4,1,Selenskyj,maennlich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,nein,hoch,"Mann mit Bart im schwarzen Hemd links, als Selenskyj erkennbar; Headline: Gerüchte über angeblichen Inselkauf"
+2026-10-27-09-13,5,1,,weiblich,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Frau im gestreiften Oberteil rechts am Gehweg, klein"
+2026-10-27-09-13,5,2,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit rotem Rucksack rechts, von hinten"
+2026-10-27-09-13,5,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person mit Rucksack links am Stand, von hinten"

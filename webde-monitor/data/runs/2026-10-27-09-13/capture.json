@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-27-09-13",
+  "erfasst_am": "2026-10-27T09:13:51.297Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Steht Netanjahus Ära vor dem Ende?",
+      "teasertext": "Schicksalswahl in Israel Steht Netanjahus Ära vor dem Ende?",
+      "url": "https://web.de/magazine/politik/schicksalswahl-israel-netanjahus-aera-42879246",
+      "bild_url": "https://i0.web.de/image/432/42879432%2cpd=1%2cf=responsive169-w950/parlamentswahl-israel.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Schicksalswahl in Israel",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Mehr als 10.000 Ebola-Fälle in Demokratischer Republik Kongo",
+      "teasertext": "Neue Höchstmarke Mehr als 10.000 Ebola-Fälle in Demokratischer Republik Kongo",
+      "url": "https://web.de/magazine/panorama/aus-aller-welt/10000-ebola-faelle-demokratischer-republik-kongo-42880030",
+      "bild_url": "https://i0.web.de/image/144/42880144%2cpd=2%2cf=responsive169-w300/ebola-kongo.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Neue Höchstmarke",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Sogar die französische Presse verneigt sich vor Kane",
+      "teasertext": "Galerie \"Ist nicht länger verflucht\" Sogar die französische Presse verneigt sich vor Kane",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/fc-bayern/reaktionen-kanes-langer-unglaublichsten-zielpunkt-erreicht-42879564",
+      "bild_url": "https://i0.web.de/image/572/42879572%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Galerie \"Ist nicht länger verflucht\"",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Angeblicher Inselkauf durch Selenskyj: Was steckt hinter den Gerüchten?",
+      "teasertext": "Faktencheck Verkäufer widerspricht Angeblicher Inselkauf durch Selenskyj: Was steckt hinter den Gerüchten?",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/angeblicher-inselkauf-selenskyj-steckt-geruechten-42877040",
+      "bild_url": "https://i0.web.de/image/694/42877694%2cpd=4%2cf=responsive169-w300/bildkombo-praesident-wolodymyr-selenskyj-insel-mur.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Faktencheck Verkäufer widerspricht",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Das sind die 20 beliebtesten Kleinstädte Deutschlands",
+      "teasertext": "Galerie Warst du schon dort? Das sind die 20 beliebtesten Kleinstädte Deutschlands",
+      "url": "https://web.de/magazine/reise/20-beliebtesten-deutschen-kleinstaedte-42876510",
+      "bild_url": "https://i0.web.de/image/714/42876714%2cpd=5%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Warst du schon dort?",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
