@@ -261,3 +261,6 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-27-09-13,5,1,,weiblich,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Frau im gestreiften Oberteil rechts am Gehweg, klein"
 2026-10-27-09-13,5,2,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit rotem Rucksack rechts, von hinten"
 2026-10-27-09-13,5,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person mit Rucksack links am Stand, von hinten"
+2026-10-27-12-38,1,1,Kane,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Jubelnder Spieler im roten Bayern-Trikot, als Kane erkennbar; Dachzeile: Kane gewinnt Ballon d'Or"
+2026-10-27-12-38,4,1,Henry,maennlich,mittel,poc,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann im Smoking mit Headset auf der Gala-Bühne, als Henry erkennbar; Headline: Henrys Frage an Yamal sorgt für Empörung"
+2026-10-27-12-38,5,1,Franziska Knabenreich,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Einzelne Frau mit rosa Kurzhaarschnitt vor Pressewand; Headline: Franziska Knabenreich enthüllt Details zum Tod ihres Verlobten"

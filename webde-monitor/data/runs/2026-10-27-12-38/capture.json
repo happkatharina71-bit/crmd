@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-27-12-38",
+  "erfasst_am": "2026-10-27T12:38:30.873Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Was Kanes Eltern richtig gemacht haben",
+      "teasertext": "Analyse Kane gewinnt Ballon d'Or Was Kanes Eltern richtig gemacht haben",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/fc-bayern/kane-gewinnt-ballon-dor-ewig-unterschaetzte-42879718",
+      "bild_url": "https://i0.web.de/image/228/42880228%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse Kane gewinnt Ballon d'Or",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Fünf Bundesländer sind bei Endlagersuche endgültig raus",
+      "teasertext": "Atommüll in Deutschland Fünf Bundesländer sind bei Endlagersuche endgültig raus",
+      "url": "https://web.de/magazine/politik/inland/fuenf-bundeslaender-endlagersuche-endgueltig-raus-42880842",
+      "bild_url": "https://i0.web.de/image/046/42881046%2cpd=4%2cf=responsive169-w300/atommuell.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Atommüll in Deutschland",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Auto fährt nahe Hannover in Menschengruppe – drei Festnahmen",
+      "teasertext": "Polizei schießt auf Wagen Auto fährt nahe Hannover in Menschengruppe – drei Festnahmen",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/auto-faehrt-nahe-hannover-menschengruppe-festnahmen-42879380",
+      "bild_url": "https://i0.web.de/image/562/42879562%2cpd=3%2cf=responsive169-w300/auto-faehrt-menschengruppe-neustadt-ruebenberge.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Polizei schießt auf Wagen",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Henrys Frage an Yamal sorgt für Empörung",
+      "teasertext": "Ballon-d'Or-Gala Henrys Frage an Yamal sorgt für Empörung",
+      "url": "https://web.de/magazine/sport/fussball/international/kritik-thierry-henry-spitze-yamal-42880828",
+      "bild_url": "https://i0.web.de/image/854/42880854%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Ballon-d'Or-Gala",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Franziska Knabenreich enthüllt Details zum Tod ihres Verlobten",
+      "teasertext": "\"Mein Leben steht still\" Franziska Knabenreich enthüllt Details zum Tod ihres Verlobten",
+      "url": "https://web.de/magazine/unterhaltung/stars/moderatorin-franziska-knabenreich-verlobten-tot-42880020",
+      "bild_url": "https://i0.web.de/image/026/42880026%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "\"Mein Leben steht still\"",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

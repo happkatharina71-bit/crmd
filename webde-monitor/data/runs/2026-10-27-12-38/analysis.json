@@ -1,0 +1,88 @@
+{
+ "run_id": "2026-10-27-12-38",
+ "erfasst_am": "2026-10-27T12:38:30.873Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 15,
+   "menschenmenge": "ja",
+   "notiz": "Jubelnder Spieler, unscharfes Publikum im Hintergrund (Schätzung)",
+   "personen": [
+    {
+     "name": "Kane",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Jubelnder Spieler im roten Bayern-Trikot, als Kane erkennbar; Dachzeile: Kane gewinnt Ballon d'Or"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Atommüllfässer mit Strahlungswarnschild",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Beschädigtes Auto hinter Absperrband; Beteiligte nicht abgebildet",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Moderator auf der Bühne",
+   "personen": [
+    {
+     "name": "Henry",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Mann im Smoking mit Headset auf der Gala-Bühne, als Henry erkennbar; Headline: Henrys Frage an Yamal sorgt für Empörung"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt vor Pressewand",
+   "personen": [
+    {
+     "name": "Franziska Knabenreich",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Einzelne Frau mit rosa Kurzhaarschnitt vor Pressewand; Headline: Franziska Knabenreich enthüllt Details zum Tod ihres Verlobten"
+    }
+   ]
+  }
+ ]
+}
