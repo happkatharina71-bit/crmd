@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-27-16-33",
+  "erfasst_am": "2026-10-27T16:33:08.302Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Norwegen und Finnland sprechen erstmals mit Putin über den Krieg",
+      "teasertext": "90-minütiges Telefonat Norwegen und Finnland sprechen erstmals mit Putin über den Krieg",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/norwegen-finnland-sprechen-erstmals-putin-ukraine-krieg-42880416",
+      "bild_url": "https://i0.web.de/image/078/42882078%2cpd=4%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "90-minütiges Telefonat",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Sie könnte das neue Staatsoberhaupt werden",
+      "teasertext": "Union bei Personalie uneins Sie könnte das neue Staatsoberhaupt werden",
+      "url": "https://web.de/magazine/politik/wahlen/bundespraesidentenwahl/staatsoberhaupt-42881076",
+      "bild_url": "https://i0.web.de/image/174/42881174%2cpd=6%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Union bei Personalie uneins",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Dauerkranker Lehrerin aus Wesel droht Haftstrafe",
+      "teasertext": "17 Jahre krankgeschrieben Dauerkranker Lehrerin aus Wesel droht Haftstrafe",
+      "url": "https://web.de/magazine/panorama/aus-aller-welt/deutschland/dauerkranker-lehrerin-wesel-droht-haftstrafe-42880870",
+      "bild_url": "https://i0.web.de/image/002/42881002%2cpd=2%2cf=responsive169-w300/berufskolleg-wesel.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "17 Jahre krankgeschrieben",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Langjähriges Gesicht des \"ARD-Buffet\": Trauer um Jacqueline Stuhler",
+      "teasertext": "Nach langer Krankheit Langjähriges Gesicht des \"ARD-Buffet\": Trauer um Jacqueline Stuhler",
+      "url": "https://web.de/magazine/unterhaltung/stars/langjaehriges-gesicht-ard-buffet-jacqueline-stuhler-tot-42882052",
+      "bild_url": "https://i0.web.de/image/054/42882054%2cpd=1%2cf=responsive169-w300/jacqueline-stuhler-gestorben.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Nach langer Krankheit",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Magazin kürt neuen \"Sexiest Man Alive\"",
+      "teasertext": "Galerie Kennt ihr alle Vorgänger? Magazin kürt neuen \"Sexiest Man Alive\"",
+      "url": "https://web.de/magazine/unterhaltung/stars/people-magazin-kuert-sexiest-alive-35274110",
+      "bild_url": "https://i0.web.de/image/886/42880886%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Kennt ihr alle Vorgänger?",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

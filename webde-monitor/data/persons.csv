@@ -264,3 +264,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-27-12-38,1,1,Kane,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Jubelnder Spieler im roten Bayern-Trikot, als Kane erkennbar; Dachzeile: Kane gewinnt Ballon d'Or"
 2026-10-27-12-38,4,1,Henry,maennlich,mittel,poc,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann im Smoking mit Headset auf der Gala-Bühne, als Henry erkennbar; Headline: Henrys Frage an Yamal sorgt für Empörung"
 2026-10-27-12-38,5,1,Franziska Knabenreich,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Einzelne Frau mit rosa Kurzhaarschnitt vor Pressewand; Headline: Franziska Knabenreich enthüllt Details zum Tod ihres Verlobten"
+2026-10-27-16-33,1,1,Putin,maennlich,alt,weiss,hauptperson,namentlich,nicht_thematisiert,reich_maechtig,unklar,hoch,"Mann im Anzug am Tisch mit Russland-Schild, als Putin erkennbar; Headline: Norwegen und Finnland sprechen mit Putin"
+2026-10-27-16-33,2,1,,weiblich,mittel,weiss,hauptperson,indirekt,passiv,reich_maechtig,nein,hoch,"Lächelnde Frau mit blondem Haar vor Parteiwand; als 'Sie', die Staatsoberhaupt werden könnte, gemeint"
+2026-10-27-16-33,3,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Unscharfe Person mit Rucksack in Bewegung links vorn
+2026-10-27-16-33,3,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Person in heller Jacke von hinten in der Mitte
+2026-10-27-16-33,3,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Person mit Rucksack am Eingang, von hinten"
+2026-10-27-16-33,4,1,Jacqueline Stuhler,weiblich,mittel,nicht_erkennbar,hauptperson,namentlich,passiv,neutral,nein,hoch,"Lächelnde Frau mit Brille und Kurzhaarschnitt; Headline: Trauer um Jacqueline Stuhler"
+2026-10-27-16-33,5,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Lächelnder Mann mit Bart im Anzug; steht für den gekürten 'Sexiest Man Alive' bzw. einen Vorgänger"
