@@ -271,3 +271,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-27-16-33,3,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Person mit Rucksack am Eingang, von hinten"
 2026-10-27-16-33,4,1,Jacqueline Stuhler,weiblich,mittel,nicht_erkennbar,hauptperson,namentlich,passiv,neutral,nein,hoch,"Lächelnde Frau mit Brille und Kurzhaarschnitt; Headline: Trauer um Jacqueline Stuhler"
 2026-10-27-16-33,5,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Lächelnder Mann mit Bart im Anzug; steht für den gekürten 'Sexiest Man Alive' bzw. einen Vorgänger"
+2026-10-27-20-14,2,1,Trump,maennlich,alt,weiss,hauptperson,namentlich,passiv,reich_maechtig,nein,hoch,"Mann im Anzug vor einer Wand mit Gebäude-Motiv, als Trump erkennbar; Headline fragt, ob ihm der Konflikt zum Verhängnis wird"
+2026-10-27-20-14,3,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Spieler im weißen Trikot mit grünen Details am Ball, rechts der Mitte; Hautfarbe grenzwertig"
+2026-10-27-20-14,3,2,,maennlich,jung,poc,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Spieler im blauen Trikot links im Zweikampf
+2026-10-27-20-14,3,3,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Unscharfer Spieler im blauen Trikot im Hintergrund links
+2026-10-27-20-14,3,4,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Unscharfer Spieler im weißen Trikot am rechten Rand
+2026-10-27-20-14,4,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,nein,mittel,"Mann mit Sonnenbrille und Telefon steigt aus einem Privatjet; steht für die 'Überreichen'"
+2026-10-27-20-14,5,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,reich_maechtig,ja,mittel,"Mann mit Bart auf AfD-Wahlplakat; als 'AfD-Politiker', den die CDU wählen will, gemeint"

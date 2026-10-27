@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-27-20-14",
+  "erfasst_am": "2026-10-27T20:14:39.278Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Netanjahus Likud-Partei laut Prognosen vorn",
+      "teasertext": "Eilmeldung Parlamentswahl in Israel Netanjahus Likud-Partei laut Prognosen vorn",
+      "url": "https://web.de/magazine/politik/wahlen/netanjahus-likud-partei-prognosen-vorn-42882812",
+      "bild_url": "https://i0.web.de/image/368/35533368%2cpd=2%2cf=responsive169-w950/eilmeldung.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Eilmeldung Parlamentswahl in Israel",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Wird Trump der Konflikt zum Verhängnis?",
+      "teasertext": "Interview Iran-Krieg Wird Trump der Konflikt zum Verhängnis?",
+      "url": "https://web.de/magazine/politik/nahostkonflikt/trump-konflikt-verhaengnis-42877928",
+      "bild_url": "https://i0.web.de/image/140/42878140%2cpd=11%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Interview Iran-Krieg",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Gladbach, Darmstadt und der BVB legen im Pokal früh vor",
+      "teasertext": "Live-Ticker DFB-Pokal Gladbach, Darmstadt und der BVB legen im Pokal früh vor",
+      "url": "https://web.de/magazine/sport/fussball/dfb-pokal/dfb-pokal-live-ticker-konferenz-41267866",
+      "bild_url": "https://i0.web.de/image/800/42882800%2cpd=2%2cf=responsive169-w300/bor-moenchengladbach-karlsruher-sc.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Live-Ticker DFB-Pokal",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "\"Überreiche treiben die Welt in den Klimakollaps\"",
+      "teasertext": "Aktueller Oxfam-Bericht \"Überreiche treiben die Welt in den Klimakollaps\"",
+      "url": "https://web.de/magazine/wissen/klima/ueberreiche-treiben-welt-klimakollaps-42879990",
+      "bild_url": "https://i0.web.de/image/478/42880478%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Aktueller Oxfam-Bericht",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "\"Politik der Ausgrenzung war nicht erfolgreich\": CDU will AfD-Politiker wählen",
+      "teasertext": "Berlin-Reinickendorf \"Politik der Ausgrenzung war nicht erfolgreich\": CDU will AfD-Politiker wählen",
+      "url": "https://web.de/magazine/politik/wahlen/landtagswahlen/abgeordnetenhaus-berlin/politik-ausgrenzung-erfolgreich-cdu-afd-politiker-waehlen-42880382",
+      "bild_url": "https://i0.web.de/image/760/42880760%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Berlin-Reinickendorf",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
