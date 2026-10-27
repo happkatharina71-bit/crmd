@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-27-06-15",
+  "erfasst_am": "2026-10-27T06:15:18.233Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Nach Wahlniederlage: Ausreiseverbot für Flávio Bolsonaro",
+      "teasertext": "Geldwäsche-Verdacht Nach Wahlniederlage: Ausreiseverbot für Flávio Bolsonaro",
+      "url": "https://web.de/magazine/politik/wahlniederlage-flavio-bolsonaro-paesse-abgeben-42877662",
+      "bild_url": "https://i0.web.de/image/526/42879526%2cpd=1%2cf=responsive169-w950/flavio-bolsonaro.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Geldwäsche-Verdacht",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Bayerns Harry Kane gewinnt den Ballon d'Or",
+      "teasertext": "Neuer Weltfußballer Bayerns Harry Kane gewinnt den Ballon d'Or",
+      "url": "https://web.de/magazine/sport/fussball/international/bayerns-harry-kane-gewinnt-ballon-dor-42878854",
+      "bild_url": "https://i0.web.de/image/440/42879440%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Neuer Weltfußballer",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Pflegende Ehefrau bemängelt Pflegereform: \"Mir platzt gerade der Kragen\"",
+      "teasertext": "TV-Nachlese \"hart aber fair\" Pflegende Ehefrau bemängelt Pflegereform: \"Mir platzt gerade der Kragen\"",
+      "url": "https://web.de/magazine/politik/politische-talkshows/pflegende-ehefrau-bemaengelt-pflegereform-platzt-gerade-kragen-42879322",
+      "bild_url": "https://i0.web.de/image/364/42879364%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "TV-Nachlese \"hart aber fair\"",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Kandidat versteht Gag-Frage nicht – und geht mit 500 Euro",
+      "teasertext": "Galerie Wer wird Millionär? Kandidat versteht Gag-Frage nicht – und geht mit 500 Euro",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/wwm/wwm-kandidat-versteht-gag-frage-500-euro-42877838",
+      "bild_url": "https://i0.web.de/image/776/42877776%2cpd=2%2cf=responsive169-w300/kandidat-carsten-muschalle.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Galerie Wer wird Millionär?",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Das sind die schönsten Panoramabilder der Welt",
+      "teasertext": "Galerie Epson Pano Awards 2026 Das sind die schönsten Panoramabilder der Welt",
+      "url": "https://web.de/magazine/wissen/natur-umwelt/schoensten-panoramabilder-welt-42867798",
+      "bild_url": "https://i0.web.de/image/068/42876068%2cpd=5%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Epson Pano Awards 2026",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

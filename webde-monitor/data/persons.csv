@@ -242,3 +242,7 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-26-20-14,1,4,,nicht_erkennbar,jung,weiss,nebenperson,indirekt,aktiv,neutral,ja,niedrig,Person mit Brille und Mütze im gestreiften Pullover rechts der Mitte
 2026-10-26-20-14,1,5,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,ja,mittel,Vermummte Person mit Sonnenbrille unscharf vorn links
 2026-10-26-20-14,4,1,Barbara Becker,weiblich,mittel,poc,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Einzelne Frau im silbernen Kleid vor Pressewand; Headline zitiert Barbara Becker zum Verhältnis zu Boris Becker"
+2026-10-27-06-15,1,1,Flávio Bolsonaro,maennlich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,nein,hoch,"Einziger Mann im Bild, gestikulierend; Headline: Ausreiseverbot für Flávio Bolsonaro"
+2026-10-27-06-15,2,1,Harry Kane,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann im Smoking küsst den goldenen Ball; Headline: Harry Kane gewinnt den Ballon d'Or"
+2026-10-27-06-15,3,1,,weiblich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,ja,hoch,"Frau am Talkshow-Tisch spricht gestikulierend; als 'pflegende Ehefrau', die die Pflegereform bemängelt, gemeint"
+2026-10-27-06-15,4,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,hoch,"Lachender Mann im rosa Hemd mit Ansteckmikrofon; als 'Kandidat' gemeint, der die Frage nicht versteht"
