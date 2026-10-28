@@ -294,3 +294,13 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-28-06-18,4,4,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann in Uniform mit Brille vorn
 2026-10-28-06-18,4,5,,maennlich,alt,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Älterer Mann mit Brille stehend hinten
 2026-10-28-06-18,5,1,Torsten Sträter,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Mann mit Mütze, Bart und Mikrofon auf der Bühne, als Sträter erkennbar; Headline: Sträter stichelt gegen Merz; Alter grenzwertig zu 60+"
+2026-10-28-09-14,1,1,,weiblich,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Person mit Pferdeschwanz und Einkaufskorb von hinten vor Kühlregalen; steht für die von der 'Bezahlbarkeitskrise' Betroffenen; Gesicht nicht sichtbar"
+2026-10-28-09-14,2,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,reich_maechtig,ja,mittel,"Redner am Pult mit Präsidentensiegel, gestikulierend; als 'Audi-Chef' (Funktion) gemeint, der kritisiert wird"
+2026-10-28-09-14,2,2,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,unklar,mittel,"Mann mit rotem Schlips links neben dem Pult, in diesem Teaser nicht genannt"
+2026-10-28-09-14,3,1,Merz,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit Brille im Anzug an einer Flugzeugtür, als Merz erkennbar; Headline: Merz macht eine Klarstellung"
+2026-10-28-09-14,4,1,Füllkrug,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Spieler im Werder-Trikot mit Ball, als Füllkrug erkennbar; Headline: Füllkrug trifft und trifft"
+2026-10-28-09-14,5,1,,maennlich,mittel,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Stehender Mann rechts, gestikulierend vor Zuhörenden; vermutlich als 'Serienmörder' gemeint"
+2026-10-28-09-14,5,2,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit Brille und Schnurrbart vorn rechts
+2026-10-28-09-14,5,3,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit Brille und Schnurrbart in der Mitte
+2026-10-28-09-14,5,4,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann in Uniform mit Brille vorn
+2026-10-28-09-14,5,5,,maennlich,alt,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Älterer Mann mit Brille stehend hinten

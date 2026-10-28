@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-28-09-14",
+  "erfasst_am": "2026-10-28T09:14:34.580Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "So heftig schlägt die Bezahlbarkeitskrise in den USA ein",
+      "teasertext": "Reportage Vor den Zwischenwahlen So heftig schlägt die Bezahlbarkeitskrise in den USA ein",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/midterms-heftig-schlaegt-bezahlbarkeitskrise-usa-42883620",
+      "bild_url": "https://i0.web.de/image/626/42883626%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Reportage Vor den Zwischenwahlen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Wettet \"auf ein totes Pferd\": Umweltminister kritisiert Audi-Chef",
+      "teasertext": "Nach umstrittenen Auftritt Wettet \"auf ein totes Pferd\": Umweltminister kritisiert Audi-Chef",
+      "url": "https://web.de/magazine/politik/inland/wettet-totes-pferd-umweltminister-kritisiert-audi-chef-42883074",
+      "bild_url": "https://i0.web.de/image/076/42884076%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Nach umstrittenen Auftritt",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Merz macht eine Klarstellung zur Steinmeier-Nachfolge",
+      "teasertext": "Unions-Frauen im Gespräch Merz macht eine Klarstellung zur Steinmeier-Nachfolge",
+      "url": "https://web.de/magazine/politik/wahlen/bundespraesidentenwahl/merz-klarstellung-steinmeier-nachfolge-42883802",
+      "bild_url": "https://i0.web.de/image/804/42883804%2cpd=6%2cf=responsive169-w300/bundeskanzler-merz-reist-japan.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Unions-Frauen im Gespräch",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Füllkrug trifft und trifft – und sollte trotzdem nicht zurück zur Nationalelf",
+      "teasertext": "Kolumne Nach Gala gegen BVB Füllkrug trifft und trifft – und sollte trotzdem nicht zurück zur Nationalelf",
+      "url": "https://web.de/magazine/sport/fussball/nationalmannschaft/fuellkrug-trifft-trifft-zurueck-dfb-team-42883852",
+      "bild_url": "https://i0.web.de/image/872/42883872%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Kolumne Nach Gala gegen BVB",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Fall nach 52 Jahren gelöst: Berüchtigter Serienmörder tötete Teenagerin",
+      "teasertext": "DNA-Treffer Fall nach 52 Jahren gelöst: Berüchtigter Serienmörder tötete Teenagerin",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/52-jahren-geloest-beruechtigter-serienmoerder-toetete-teenagerin-42883366",
+      "bild_url": "https://i0.web.de/image/368/42883368%2cpd=2%2cf=responsive169-w300/us-mordfall-52-jahren-geloest.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "DNA-Treffer",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
