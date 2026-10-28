@@ -304,3 +304,11 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-28-09-14,5,3,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit Brille und Schnurrbart in der Mitte
 2026-10-28-09-14,5,4,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann in Uniform mit Brille vorn
 2026-10-28-09-14,5,5,,maennlich,alt,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Älterer Mann mit Brille stehend hinten
+2026-10-28-12-16,2,1,,maennlich,alt,weiss,hauptperson,indirekt,passiv,reich_maechtig,ja,mittel,"Älterer Mann mit roter Krawatte am Pult mit ausgebreiteten Armen; steht für die 'Schicksalswahl', die zur Zitterpartie wird"
+2026-10-28-12-16,2,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit schwarzer Maske hinter dem Redner
+2026-10-28-12-16,3,1,Henke,maennlich,alt,weiss,hauptperson,namentlich,aktiv,neutral,ja,mittel,"Grauhaariger Mann mit Brille links; per Ausschluss der in der Headline genannte Ex-Co-Trainer Henke, der die Debatte kritisiert"
+2026-10-28-12-16,3,2,Kompany,maennlich,mittel,poc,nebenperson,namentlich,passiv,neutral,nein,hoch,"Mann mit Kappe am Spielfeldrand rechts, als Kompany erkennbar; um ihn geht die Debatte"
+2026-10-28-12-16,4,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Mann im schwarzen T-Shirt mit Funkgerät rechts, scharf; steht für die ukrainische Seite der Operation"
+2026-10-28-12-16,4,2,,maennlich,mittel,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,ja,niedrig,"Bärtiger Mann in einem engen Tunnel links, im gelben Licht"
+2026-10-28-12-16,5,1,Heidi Klum,weiblich,nicht_erkennbar,nicht_erkennbar,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Person in Ganzkörper-Kostüm (Medusa, Cyborg), Gesicht vollständig geschminkt; laut Headline Heidi Klums Outfits; Alter und Hautfarbe wegen Maske nicht beurteilbar"
+2026-10-28-12-16,5,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Glatzköpfiger Mann im Anzug rechts, wohl Begleitung"

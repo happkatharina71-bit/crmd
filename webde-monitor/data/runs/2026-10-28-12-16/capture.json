@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-28-12-16",
+  "erfasst_am": "2026-10-28T12:16:12.827Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Mindestens 30 Tote bei Zugunglück in Spanien – erste Vermutungen zur Ursache",
+      "teasertext": "Waggons stürzen Damm hinunter Mindestens 30 Tote bei Zugunglück in Spanien – erste Vermutungen zur Ursache",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/30-tote-zugunglueck-spanien-vermutungen-ursache-42884238",
+      "bild_url": "https://i0.web.de/image/808/42884808%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Waggons stürzen Damm hinunter",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Israels Schicksalswahl wird zur Zitterpartie",
+      "teasertext": "Wie geht es weiter? Israels Schicksalswahl wird zur Zitterpartie",
+      "url": "https://web.de/magazine/politik/israels-schicksalswahl-zitterpartie-42883918",
+      "bild_url": "https://i0.web.de/image/710/42884710%2cpd=6%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Wie geht es weiter?",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Henke nennt die Debatte um Kompany unehrlich",
+      "teasertext": "Interview Ehemaliger Bayern-Co-Trainer Henke nennt die Debatte um Kompany unehrlich",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/henke-nennt-aktuelle-debatte-kompany-unehrlich-42879902",
+      "bild_url": "https://i0.web.de/image/292/42880292%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Interview Ehemaliger Bayern-Co-Trainer",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Dem Feind durch Gasleitungen entgegen – Ukraine dreht russische Taktik um",
+      "teasertext": "Operation \"Veles\" Dem Feind durch Gasleitungen entgegen – Ukraine dreht russische Taktik um",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/operation-veles-ukraine-dreht-russische-taktik-42884300",
+      "bild_url": "https://i0.web.de/image/606/42884606%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Operation \"Veles\"",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Heidi Klums spektakulärste Halloween-Outfits",
+      "teasertext": "Galerie Von Cyborg bis Medusa Heidi Klums spektakulärste Halloween-Outfits",
+      "url": "https://web.de/magazine/unterhaltung/stars/heidi-klums-spektakulaerste-halloween-kostueme-cyborg-medusa-37364928",
+      "bild_url": "https://i0.web.de/image/542/42876542%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Von Cyborg bis Medusa",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
