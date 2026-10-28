@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-28-20-14",
+  "erfasst_am": "2026-10-28T20:14:37.076Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Überlebende schildern Chaos nach Zugunglück in Spanien",
+      "teasertext": "Fassungslosigkeit vor Ort Überlebende schildern Chaos nach Zugunglück in Spanien",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/ueberlebende-schildern-chaos-zugunglueck-spanien-42886168",
+      "bild_url": "https://i0.web.de/image/332/42886332%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Fassungslosigkeit vor Ort",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Kompany nach Hirnhautreizung aus Krankenhaus entlassen",
+      "teasertext": "Bayern-Trainer Kompany nach Hirnhautreizung aus Krankenhaus entlassen",
+      "url": "https://web.de/magazine/sport/fussball/kompany-hirnhautreizung-krankenhaus-entlassen-42886728",
+      "bild_url": "https://i0.web.de/image/750/42886750%2cpd=2%2cf=responsive169-w300/vincent-kompany.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Bayern-Trainer",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Neue Details zum Wolfsangriff – Behörden prüfen Wildpark",
+      "teasertext": "Ein Mädchen schwer verletzt Neue Details zum Wolfsangriff – Behörden prüfen Wildpark",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/details-wolfsangriff-behoerden-pruefen-wildpark-42886464",
+      "bild_url": "https://i0.web.de/image/466/42886466%2cpd=2%2cf=responsive169-w300/wolf-kind-wildpark-johannismuehle-angegriffen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Ein Mädchen schwer verletzt",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Wilder Start in München: Bayern und Magdeburg treffen früh",
+      "teasertext": "Live-Ticker DFB-Pokal Wilder Start in München: Bayern und Magdeburg treffen früh",
+      "url": "https://web.de/magazine/sport/fussball/dfb-pokal/dfb-pokal-live-ticker-konferenz-41267866",
+      "bild_url": "https://i0.web.de/image/760/42886760%2cpd=2%2cf=responsive169-w300/bayern-muenchen-1-fc-magdeburg.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Live-Ticker DFB-Pokal",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Kein Talent und nur berühmte Eltern? Das ist längst nicht immer so",
+      "teasertext": "Galerie Nepo-Babys in Hollywood Kein Talent und nur berühmte Eltern? Das ist längst nicht immer so",
+      "url": "https://web.de/magazine/unterhaltung/filme-serien-kino/talent-beruehmte-eltern-laengst-42868004",
+      "bild_url": "https://i0.web.de/image/616/42868616%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Nepo-Babys in Hollywood",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
