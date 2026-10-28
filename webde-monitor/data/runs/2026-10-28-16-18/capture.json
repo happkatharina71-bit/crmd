@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-28-16-18",
+  "erfasst_am": "2026-10-28T16:18:17.567Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "\"Die Verhärtung der Bevölkerung ist extrem\"",
+      "teasertext": "Interview Van Aken zu Israel \"Die Verhärtung der Bevölkerung ist extrem\"",
+      "url": "https://web.de/magazine/politik/wahlen/van-aken-verhaertung-bevoelkerung-extrem-42884724",
+      "bild_url": "https://i0.web.de/image/782/42884782%2cpd=6%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Interview Van Aken zu Israel",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Zugunglück in Spanien: Was wir wissen – und was nicht",
+      "teasertext": "Mindestens 68 Tote Zugunglück in Spanien: Was wir wissen – und was nicht",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/zugunglueck-spanien-wissen--42886058",
+      "bild_url": "https://i0.web.de/image/104/42886104%2cpd=4%2cf=responsive169-w300/zusammenstoss-zweier-zuege-spanien.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Mindestens 68 Tote",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Ein Fund, der selbst Fachleute verblüfft",
+      "teasertext": "Urzeit-Amphibie Ein Fund, der selbst Fachleute verblüfft",
+      "url": "https://web.de/magazine/wissen/geschichte/fund-fachleute-verbluefft-42884396",
+      "bild_url": "https://i0.web.de/image/650/42884650%2cpd=4%2cf=responsive169-w300/gerrothorax-maritimus.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Urzeit-Amphibie",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "\"Ost. Ost. Ostdeutschland\": Was in den Kurven wirklich dahintersteckt",
+      "teasertext": "Analyse Fanforscher erklärt \"Ost. Ost. Ostdeutschland\": Was in den Kurven wirklich dahintersteckt",
+      "url": "https://web.de/magazine/sport/fussball/ostdeutsche-identitaet-lebt-fussballstadien-42876000",
+      "bild_url": "https://i0.web.de/image/122/42876122%2cpd=1%2cf=responsive169-w300/osttribuene-hansa-rostock.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Analyse Fanforscher erklärt",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Papageieneier im BH lassen Schmugglerring auffliegen",
+      "teasertext": "Kuriose Flughafenkontrolle Papageieneier im BH lassen Schmugglerring auffliegen",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/papageieneier-bh-schmugglerring-auffliegen-42884200",
+      "bild_url": "https://i0.web.de/image/736/42884736%2cpd=2%2cf=responsive169-w300/flughafen-galeao-rio-de-janeiro.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Kuriose Flughafenkontrolle",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
