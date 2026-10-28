@@ -278,3 +278,19 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-27-20-14,3,4,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Unscharfer Spieler im weißen Trikot am rechten Rand
 2026-10-27-20-14,4,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,nein,mittel,"Mann mit Sonnenbrille und Telefon steigt aus einem Privatjet; steht für die 'Überreichen'"
 2026-10-27-20-14,5,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,reich_maechtig,ja,mittel,"Mann mit Bart auf AfD-Wahlplakat; als 'AfD-Politiker', den die CDU wählen will, gemeint"
+2026-10-28-06-18,1,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Rufender Mann mit Schild links vorn, größte Figur; steht für die Anhängerschaft des vorn liegenden Lagers"
+2026-10-28-06-18,1,2,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,ja,mittel,Jubelnder Mann mit erhobenen Armen rechts der Mitte
+2026-10-28-06-18,1,3,,maennlich,jung,weiss,nebenperson,indirekt,aktiv,neutral,ja,mittel,Mann mit Tüte links der Mitte
+2026-10-28-06-18,1,4,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,ja,niedrig,"Mann mit Sonnenbrille auf dem Kopf, Arm erhoben"
+2026-10-28-06-18,1,5,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,ja,niedrig,Lachender Mann mit Glatze am rechten Rand
+2026-10-28-06-18,2,1,Anke Rehlinger,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,nein,hoch,"Frau mit Brille im Sessel, als Rehlinger erkennbar; Headline: ihre Reaktion bringt Lanz zum Lachen"
+2026-10-28-06-18,2,2,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,passiv,neutral,nein,niedrig,"Mann von hinten links; vermutlich der Moderator, Gesicht nicht sichtbar"
+2026-10-28-06-18,3,1,Bolsonaro,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,nein,mittel,"Mann im weißen Hemd zentral, als Bolsonaro (Familienmitglied) erkennbar; Headline: Wahlverlierer Bolsonaro flieht offenbar"
+2026-10-28-06-18,3,2,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Älterer Mann im gelben Trikot rechts
+2026-10-28-06-18,3,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Unscharfer Mann links im Hintergrund
+2026-10-28-06-18,4,1,,maennlich,mittel,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Stehender Mann rechts, gestikulierend vor Zuhörenden; vermutlich als 'Serienmörder' gemeint"
+2026-10-28-06-18,4,2,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit Brille und Schnurrbart vorn rechts
+2026-10-28-06-18,4,3,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit Brille und Schnurrbart in der Mitte
+2026-10-28-06-18,4,4,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann in Uniform mit Brille vorn
+2026-10-28-06-18,4,5,,maennlich,alt,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Älterer Mann mit Brille stehend hinten
+2026-10-28-06-18,5,1,Torsten Sträter,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Mann mit Mütze, Bart und Mikrofon auf der Bühne, als Sträter erkennbar; Headline: Sträter stichelt gegen Merz; Alter grenzwertig zu 60+"

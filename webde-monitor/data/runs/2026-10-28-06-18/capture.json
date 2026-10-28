@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-28-06-18",
+  "erfasst_am": "2026-10-28T06:18:28.903Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Netanjahu bei Wahl vorn – aber ohne Mehrheit",
+      "teasertext": "Ungewisse Zukunft Netanjahu bei Wahl vorn – aber ohne Mehrheit",
+      "url": "https://web.de/magazine/politik/wahlen/netanjahu-israel-wahl-vorn-mehrheit-42882994",
+      "bild_url": "https://i0.web.de/image/996/42882996%2cpd=2%2cf=responsive169-w950/wahlen-israel.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Ungewisse Zukunft",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Reaktion von Anke Rehlinger bringt Markus Lanz zum Lachen",
+      "teasertext": "TV-Nachlese \"Mehr geht nicht\" Reaktion von Anke Rehlinger bringt Markus Lanz zum Lachen",
+      "url": "https://web.de/magazine/politik/politische-talkshows/reaktion-anke-rehlinger-bringt-markus-lanz-lachen-42883590",
+      "bild_url": "https://i0.web.de/image/574/42883574%2cpd=1%2cf=responsive169-w300/anke-rehlinger-markus-lanz.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "TV-Nachlese \"Mehr geht nicht\"",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Wahlverlierer Bolsonaro flieht offenbar – USA erteilen Visum",
+      "teasertext": "Präsidentenwahl in Brasilien Wahlverlierer Bolsonaro flieht offenbar – USA erteilen Visum",
+      "url": "https://web.de/magazine/politik/us-politik/wahlverlierer-bolsonaro-flieht-offenbar-usa-erteilen-visum-42882962",
+      "bild_url": "https://i0.web.de/image/964/42882964%2cpd=2%2cf=responsive169-w300/stichwahl-praesidentenamt-brasilien.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Präsidentenwahl in Brasilien",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Fall nach 52 Jahren gelöst: Berüchtigter Serienmörder tötete Teenagerin",
+      "teasertext": "DNA-Treffer Fall nach 52 Jahren gelöst: Berüchtigter Serienmörder tötete Teenagerin",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/52-jahren-geloest-serienmoerder-ted-bundy-toetete-teenagerin-42883366",
+      "bild_url": "https://i0.web.de/image/368/42883368%2cpd=2%2cf=responsive169-w300/us-mordfall-52-jahren-geloest.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "DNA-Treffer",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Torsten Sträter stichelt gegen Friedrich Merz",
+      "teasertext": "\"Rasiert den Rest halt ab\" Torsten Sträter stichelt gegen Friedrich Merz",
+      "url": "https://web.de/magazine/unterhaltung/stars/torsten-straeter-stichelt-friedrich-merz-42883038",
+      "bild_url": "https://i0.web.de/image/040/42883040%2cpd=1%2cf=responsive169-w300/torsten-straeter-september-2026-buehne.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "\"Rasiert den Rest halt ab\"",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
