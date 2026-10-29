@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-29-06-15",
+  "erfasst_am": "2026-10-29T06:15:02.533Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Spanien sucht weiter nach Menschen in den Trümmern – und nach Antworten",
+      "teasertext": "Zugunglück in Toledo Spanien sucht weiter nach Menschen in den Trümmern – und nach Antworten",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/suche-opfern-nachts-42887058",
+      "bild_url": "https://i0.web.de/image/060/42887060%2cpd=1%2cf=responsive169-w950/zusammenstoss-zweier-zuege-spanien.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Zugunglück in Toledo",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Kompany aus der Klinik entlassen – Eberl gibt Diagnose bekannt",
+      "teasertext": "Bayern-Trainer Kompany aus der Klinik entlassen – Eberl gibt Diagnose bekannt",
+      "url": "https://web.de/magazine/sport/fussball/kompany-klinik-entlassen-eberl-diagnose-42886728",
+      "bild_url": "https://i0.web.de/image/750/42886750%2cpd=2%2cf=responsive169-w300/vincent-kompany.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Bayern-Trainer",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Markus Lanz und Berlins SPD-Chef Steffen Krach liefern sich hitziges Wortgefecht",
+      "teasertext": "TV-Nachlese Frage nach Vanessa Emde Markus Lanz und Berlins SPD-Chef Steffen Krach liefern sich hitziges Wortgefecht",
+      "url": "https://web.de/magazine/politik/politische-talkshows/berliner-spd-chef-liefert-hitziges-wortgefecht-lanz-42887526",
+      "bild_url": "https://i0.web.de/image/530/42887530%2cpd=1%2cf=responsive169-w300/spd-politiker-steffen-krach.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "TV-Nachlese Frage nach Vanessa Emde",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Neue Details zum Wolfsangriff – Behörden prüfen Konsequenzen",
+      "teasertext": "Mädchen in Wildpark verletzt Neue Details zum Wolfsangriff – Behörden prüfen Konsequenzen",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/details-wolfsangriff-behoerden-pruefen-konsequenzen-42886464",
+      "bild_url": "https://i0.web.de/image/398/42887398%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Mädchen in Wildpark verletzt",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Polizei teilt Ergebnis der Ermittlungen mit",
+      "teasertext": "Tod von Hayden Panettiere Polizei teilt Ergebnis der Ermittlungen mit",
+      "url": "https://web.de/magazine/unterhaltung/stars/polizei-stellt-ermittlungen-tod-panettiere-42887030",
+      "bild_url": "https://i0.web.de/image/536/42887536%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Tod von Hayden Panettiere",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+ "run_id": "2026-10-29-06-15",
+ "erfasst_am": "2026-10-29T06:15:02.533Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 30,
+   "menschenmenge": "ja",
+   "notiz": "Nächtliche Bergungsarbeiten an entgleisten Waggons (Schätzung); Einsatzkräfte klein, eine Figur stellvertretend codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Einsatzkräfte in Warnwesten an den Trümmern, Einzelne zu klein für Merkmale; stehen für die Suche nach Menschen"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt im Stadion; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "Kompany",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit Glatze und Bart in Bayern-Trainingsjacke, als Kompany erkennbar; Headline: aus der Klinik entlassen"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Talkshow; Moderator nur von hinten, daher ohne Namen",
+   "personen": [
+    {
+     "name": "Steffen Krach",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann im beigen Anzug im Sessel, gestikulierend; per Ausschluss der genannte Gast Krach im Wortgefecht"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Grauhaariger Mann von hinten links, vermutlich der Moderator; Gesicht nicht sichtbar"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Abgesperrter Wildpark-Eingang",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt vor Filmplakat; das Gesicht auf dem Plakat ist eine Abbildung und nicht gezählt",
+   "personen": [
+    {
+     "name": "Hayden Panettiere",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Blonde Frau im roten Anzug vor Pressewand; einzige Person, Headline: Tod von Hayden Panettiere"
+    }
+   ]
+  }
+ ]
+}

@@ -335,3 +335,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-28-20-14,5,3,,weiblich,jung,weiss,nebenperson,indirekt,passiv,neutral,nein,mittel,Baby auf dem Arm des Mannes
 2026-10-28-20-14,5,4,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit Kappe und Sonnenbrille hinter ihm
 2026-10-28-20-14,5,5,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Frau mit Sonnenbrille am rechten Rand, angeschnitten"
+2026-10-29-06-15,1,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Einsatzkräfte in Warnwesten an den Trümmern, Einzelne zu klein für Merkmale; stehen für die Suche nach Menschen"
+2026-10-29-06-15,2,1,Kompany,maennlich,mittel,poc,hauptperson,namentlich,passiv,neutral,nein,hoch,"Mann mit Glatze und Bart in Bayern-Trainingsjacke, als Kompany erkennbar; Headline: aus der Klinik entlassen"
+2026-10-29-06-15,3,1,Steffen Krach,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,mittel,"Mann im beigen Anzug im Sessel, gestikulierend; per Ausschluss der genannte Gast Krach im Wortgefecht"
+2026-10-29-06-15,3,2,,nicht_erkennbar,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Grauhaariger Mann von hinten links, vermutlich der Moderator; Gesicht nicht sichtbar"
+2026-10-29-06-15,5,1,Hayden Panettiere,weiblich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Blonde Frau im roten Anzug vor Pressewand; einzige Person, Headline: Tod von Hayden Panettiere"
