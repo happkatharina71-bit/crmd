@@ -366,3 +366,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-29-16-29,3,1,Elke Sommer,weiblich,jung,nicht_erkennbar,hauptperson,namentlich,passiv,neutral,nein,mittel,"Junge Frau mit toupiertem blondem Haar, Archivbild; Dachzeile: Trauer um Elke Sommer; Alter nach Bildeindruck um 30"
 2026-10-29-16-29,4,1,,weiblich,nicht_erkennbar,weiss,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Person mit Brille und lackierten Nägeln scrollt Job-App; steht für 'Jobsuchende' als Zielgruppe der Masche"
 2026-10-29-16-29,5,1,Heino,maennlich,alt,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Mann mit Sonnenbrille und Glitzersakko singt, als Heino erkennbar; Headline: Heino erzwingt Umbenennung"
+2026-10-29-20-16,3,1,Zverev,maennlich,jung,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Tennisspieler mit Stirnband beim Schlag, als Zverev erkennbar; Headline: Zverev wird Nummer eins; Alter um 30 schwer einzuschätzen"
+2026-10-29-20-16,4,1,,weiblich,alt,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Lachende Frau mit grauem Haar in roter Bluse in der Mitte
+2026-10-29-20-16,4,2,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Lachende Frau links in grauer Strickjacke; Alter grenzwertig zu 60+"
+2026-10-29-20-16,4,3,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Lachende Frau rechts in gelber Strickjacke; Alter grenzwertig zu 60+"
+2026-10-29-20-16,5,1,Christine Neubauer,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Lächelnde Frau mit langen dunklen Haaren, als Neubauer erkennbar; Headline: sie reagiert auf TV-Absage"
+2026-10-29-20-16,5,2,,weiblich,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Unscharfe Frau links im Hintergrund, im Profil"
+2026-10-29-20-16,5,3,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Unscharfer Mann mit Brille rechts am Rand

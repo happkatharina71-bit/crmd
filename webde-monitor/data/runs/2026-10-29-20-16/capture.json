@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-29-20-16",
+  "erfasst_am": "2026-10-29T20:16:55.310Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Lage um \"Weltuntergangsgletscher\" noch gravierender als bislang gedacht",
+      "teasertext": "Aktuelle Klimanews Lage um \"Weltuntergangsgletscher\" noch gravierender als bislang gedacht",
+      "url": "https://web.de/magazine/wissen/klima/lage-weltuntergangsgletscher-gravierender-gedacht-42881246",
+      "bild_url": "https://i0.web.de/image/052/42886052%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Aktuelle Klimanews",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "\"Star Trek\"-Legende Patrick Stewart mit 86 Jahren gestorben",
+      "teasertext": "Eilmeldung Captain Jean-Luc Picard \"Star Trek\"-Legende Patrick Stewart mit 86 Jahren gestorben",
+      "url": "https://web.de/magazine/unterhaltung/stars/star-trek-legende-patrick-stewart-86-jahren-gestorben-42890862",
+      "bild_url": "https://i0.web.de/image/368/35533368%2cpd=2%2cf=responsive169-w300/eilmeldung.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Eilmeldung Captain Jean-Luc Picard",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Zverev wird erstmals Nummer eins der Weltrangliste",
+      "teasertext": "Am Ziel der Träume Zverev wird erstmals Nummer eins der Weltrangliste",
+      "url": "https://web.de/magazine/sport/tennis/zverev-erstmals-nummer-weltrangliste-42890774",
+      "bild_url": "https://i0.web.de/image/804/42890804%2cpd=3%2cf=responsive169-w300/atp-tour-wien.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Am Ziel der Träume",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Was macht das Leben wirklich lebenswert? Ein Faktor überwiegt",
+      "teasertext": "Analyse von 13 Glücksforschern Was macht das Leben wirklich lebenswert? Ein Faktor überwiegt",
+      "url": "https://web.de/magazine/wissen/psychologie/leben-lebenswert-faktor-ueberwiegt-42888692",
+      "bild_url": "https://i0.web.de/image/838/42888838%2cpd=1%2cf=responsive169-w300/aeltere-freundinnen-gluecklich-tee-trinken.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Analyse von 13 Glücksforschern",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Christine Neubauer reagiert auf TV-Absage",
+      "teasertext": "\"Ich gebe nicht auf\" Christine Neubauer reagiert auf TV-Absage",
+      "url": "https://web.de/magazine/unterhaltung/stars/christine-neubauer-tv-absage-42889338",
+      "bild_url": "https://i0.web.de/image/456/42889456%2cpd=2%2cf=responsive169-w300/christine-neubauer.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "\"Ich gebe nicht auf\"",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
