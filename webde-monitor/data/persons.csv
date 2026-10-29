@@ -350,3 +350,12 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-29-09-16,4,4,,maennlich,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann im blauen Hemd im Hintergrund
 2026-10-29-09-16,4,5,,maennlich,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit Telefon links im Hintergrund
 2026-10-29-09-16,5,1,,weiblich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,hoch,"Frau mit langen braunen Haaren in roter Jacke; als 'GZSZ-Star', der bedroht wurde, gemeint"
+2026-10-29-12-30,1,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,reich_maechtig,unklar,mittel,"Mann mit verschränkten Armen rechts, größte Figur; steht für das Geld im 'exorbitant teuren Wahlkampf'"
+2026-10-29-12-30,1,2,,maennlich,alt,weiss,nebenperson,indirekt,nicht_thematisiert,reich_maechtig,unklar,mittel,Mann mit hellem Haar und blauer Krawatte links
+2026-10-29-12-30,1,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann im Hintergrund zwischen beiden
+2026-10-29-12-30,2,1,Eralp,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,mittel,"Frau an den Mikrofonen spricht, zentrale Figur; Headline: Eralp reagiert auf Vorwürfe"
+2026-10-29-12-30,2,2,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Älterer Mann im karierten Hemd links vorn
+2026-10-29-12-30,2,3,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Junger Mann rechts im Hintergrund
+2026-10-29-12-30,2,4,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Frau mit rötlichem Haar im Hintergrund
+2026-10-29-12-30,2,5,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit Brille und Bart hinten links
+2026-10-29-12-30,5,1,Mario Adorf,maennlich,alt,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Älterer weißhaariger Mann mit Bart, als Adorf erkennbar; Headline über seine letzte Ruhe"

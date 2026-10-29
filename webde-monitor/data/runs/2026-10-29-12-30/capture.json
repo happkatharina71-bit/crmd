@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-29-12-30",
+  "erfasst_am": "2026-10-29T12:30:07.729Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Ein exorbitant teurer Wahlkampf und seine fragwürdigen Regeln",
+      "teasertext": "Analyse Geld, Geld und noch mehr Geld Ein exorbitant teurer Wahlkampf und seine fragwürdigen Regeln",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/exorbitant-teurer-wahlkampf-fragwuerdigen-regeln-42884048",
+      "bild_url": "https://i0.web.de/image/026/42889026%2cpd=5%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse Geld, Geld und noch mehr Geld",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Eralp reagiert auf Vorwürfe",
+      "teasertext": "Wirbel um Angst-Äußerung Eralp reagiert auf Vorwürfe",
+      "url": "https://web.de/magazine/politik/inland/panne-eralps-angst-deutlich-politikerin-42887780",
+      "bild_url": "https://i0.web.de/image/928/42888928%2cpd=4%2cf=responsive169-w300/konstituierende-sitzung-berliner-abgeordnetenhaus.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Wirbel um Angst-Äußerung",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Protokoll offenbart nach Zugunglück fatale Fehlentscheidung",
+      "teasertext": "Laut Medienberichten Protokoll offenbart nach Zugunglück fatale Fehlentscheidung",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/zugunglueck-spanien-protokoll-offenbart-fatale-fehlentscheidung-42888596",
+      "bild_url": "https://i0.web.de/image/600/42888600%2cpd=3%2cf=responsive169-w300/zusammenstoss-zweier-zuege-spanien.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Laut Medienberichten",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Weltreise endet im Chaos: Wie geht es für die Passagiere weiter?",
+      "teasertext": "Plötzlich obdachlos Weltreise endet im Chaos: Wie geht es für die Passagiere weiter?",
+      "url": "https://web.de/magazine/panorama/aus-aller-welt/weltreise-endet-chaos-passagiere-42887912",
+      "bild_url": "https://i0.web.de/image/586/42888586%2cpd=4%2cf=responsive169-w300/us-kreuzfahrtschiff-kambodscha.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Plötzlich obdachlos",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Mario Adorf fand seine letzte Ruhe am Mittelmeer",
+      "teasertext": "Sechs Monate nach seinem Tod Mario Adorf fand seine letzte Ruhe am Mittelmeer",
+      "url": "https://web.de/magazine/unterhaltung/stars/mario-adorf-monate-tod-beigesetzt-42888866",
+      "bild_url": "https://i0.web.de/image/946/42888946%2cpd=1%2cf=responsive169-w300/mario-adorf.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Sechs Monate nach seinem Tod",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
