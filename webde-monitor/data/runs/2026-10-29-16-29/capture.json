@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-29-16-29",
+  "erfasst_am": "2026-10-29T16:29:23.682Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Eine Angst-Debatte – und eine neue Belastungsprobe für Rot-Grün-Rot in Berlin",
+      "teasertext": "Wirbel um Eralp Eine Angst-Debatte – und eine neue Belastungsprobe für Rot-Grün-Rot in Berlin",
+      "url": "https://web.de/magazine/politik/inland/angst-debatte-belastungsprobe-rot-gruen-rot-berlin-42890078",
+      "bild_url": "https://i0.web.de/image/110/42890110%2cpd=3%2cf=responsive169-w950/konstituierende-sitzung-berliner-abgeordnetenhaus.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Wirbel um Eralp",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Trickserei bei Alaska-Wahl? Trump ist sauer",
+      "teasertext": "Die zwei Sullivans Trickserei bei Alaska-Wahl? Trump ist sauer",
+      "url": "https://web.de/magazine/politik/us-politik/trickserei-alaska-wahl-trump-sauer-42887422",
+      "bild_url": "https://i0.web.de/image/736/42889736%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Die zwei Sullivans",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Pfarrerstochter und \"Fräuleinwunder\"",
+      "teasertext": "Galerie Trauer um Elke Sommer Pfarrerstochter und \"Fräuleinwunder\"",
+      "url": "https://web.de/magazine/unterhaltung/stars/pfarrerstochter-fraeuleinwunder-trauer-elke-sommer-42888006",
+      "bild_url": "https://i0.web.de/image/014/42889014%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Galerie Trauer um Elke Sommer",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Phishing-Masche zielt auf Jobsuchende ab",
+      "teasertext": "Aktuelle Betrugsfälle Phishing-Masche zielt auf Jobsuchende ab",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/phishing-masche-zielt-jobsuchende-42670410",
+      "bild_url": "https://i0.web.de/image/744/42889744%2cpd=1%2cf=responsive169-w300/smartphone-stellenangebote-durchsuchen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Aktuelle Betrugsfälle",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Heino erzwingt Umbenennung eines TV-Films",
+      "teasertext": "Wegen gegendertem Titel Heino erzwingt Umbenennung eines TV-Films",
+      "url": "https://web.de/magazine/unterhaltung/stars/heino-erzwingt-gegendertem-umbenennung-tv-films-42890080",
+      "bild_url": "https://i0.web.de/image/122/42890122%2cpd=1%2cf=responsive169-w300/heino.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Wegen gegendertem Titel",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
