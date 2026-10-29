@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-29-09-16",
+  "erfasst_am": "2026-10-29T09:16:40.849Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Psychoterapeutin: \"Die Symptome sind noch da, aber die Erklärung fehlt\"",
+      "teasertext": "Interview Fehldiagnosen Psychoterapeutin: \"Die Symptome sind noch da, aber die Erklärung fehlt\"",
+      "url": "https://web.de/magazine/gesundheit/psychoterapeutin-symptome-erklaerung-fehlt-42876022",
+      "bild_url": "https://i0.web.de/image/330/42876330%2cpd=4%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Interview Fehldiagnosen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Eine Panne offenbart Eralps Angst",
+      "teasertext": "Bericht des \"Spiegel\" Eine Panne offenbart Eralps Angst",
+      "url": "https://web.de/magazine/politik/inland/panne-offenbart-eralps-angst-42887780",
+      "bild_url": "https://i0.web.de/image/756/42887756%2cpd=5%2cf=responsive169-w300/pressekonferenz-sondierungsgespraechen-berlin.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Bericht des \"Spiegel\"",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Zahl der Geduldeten in Deutschland steigt nach Rückgang deutlich an",
+      "teasertext": "Ampel schuf neuen Weg Zahl der Geduldeten in Deutschland steigt nach Rückgang deutlich an",
+      "url": "https://web.de/magazine/politik/inland/zahl-geduldeten-deutschland-rueckgang-deutlich-42887170",
+      "bild_url": "https://i0.web.de/image/172/42887172%2cpd=2%2cf=responsive169-w300/duldung.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Ampel schuf neuen Weg",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Weltreise endet im Chaos: Wie geht es für die obdachlosen Passagiere weiter?",
+      "teasertext": "Gestrandet in Kambodscha Weltreise endet im Chaos: Wie geht es für die obdachlosen Passagiere weiter?",
+      "url": "https://web.de/magazine/panorama/aus-aller-welt/weltreise-endet-chaos-obdachlose-passagiere-42887912",
+      "bild_url": "https://i0.web.de/image/916/42887916%2cpd=1%2cf=responsive169-w300/us-kreuzfahrtschiff-kambodscha.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Gestrandet in Kambodscha",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "GZSZ-Star schaltete nach Drohungen Polizei ein",
+      "teasertext": "\"Hat mich richtig verfolgt\" GZSZ-Star schaltete nach Drohungen Polizei ein",
+      "url": "https://web.de/magazine/unterhaltung/stars/gzsz-star-schaltete-drohungen-polizei-42887808",
+      "bild_url": "https://i0.web.de/image/810/42887810%2cpd=1%2cf=responsive169-w300/anne-menden-vertrag-unterschrieben-beleidigen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "\"Hat mich richtig verfolgt\"",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

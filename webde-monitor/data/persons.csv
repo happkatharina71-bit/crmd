@@ -340,3 +340,13 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-29-06-15,3,1,Steffen Krach,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,mittel,"Mann im beigen Anzug im Sessel, gestikulierend; per Ausschluss der genannte Gast Krach im Wortgefecht"
 2026-10-29-06-15,3,2,,nicht_erkennbar,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Grauhaariger Mann von hinten links, vermutlich der Moderator; Gesicht nicht sichtbar"
 2026-10-29-06-15,5,1,Hayden Panettiere,weiblich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Blonde Frau im roten Anzug vor Pressewand; einzige Person, Headline: Tod von Hayden Panettiere"
+2026-10-29-09-16,1,1,,weiblich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Blonde Frau links im Vordergrund vor Pressewand; Bezug zur Headline unklar"
+2026-10-29-09-16,1,2,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Junge Frau mit Mütze rechts dahinter
+2026-10-29-09-16,2,1,Eralp,weiblich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,nein,mittel,"Einzige Frau im Bild an Mikrofonen; Headline: eine Panne offenbart Eralps Angst"
+2026-10-29-09-16,3,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,passiv,arm_benachteiligt,nein,mittel,"Unscharfe Person hält ein Duldungspapier in die Kamera; steht für die 'Geduldeten'; Gesicht nicht erkennbar"
+2026-10-29-09-16,4,1,,maennlich,mittel,poc,hauptperson,nein,nicht_thematisiert,reich_maechtig,unklar,niedrig,"Mann im karierten Hemd in der Mitte, gestikulierend, wirkt wie Offizieller"
+2026-10-29-09-16,4,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Mann in weißer Uniform links
+2026-10-29-09-16,4,3,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Mann in weißer Uniform rechts
+2026-10-29-09-16,4,4,,maennlich,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann im blauen Hemd im Hintergrund
+2026-10-29-09-16,4,5,,maennlich,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit Telefon links im Hintergrund
+2026-10-29-09-16,5,1,,weiblich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,hoch,"Frau mit langen braunen Haaren in roter Jacke; als 'GZSZ-Star', der bedroht wurde, gemeint"
