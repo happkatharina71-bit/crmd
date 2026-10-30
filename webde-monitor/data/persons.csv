@@ -373,3 +373,14 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-29-20-16,5,1,Christine Neubauer,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Lächelnde Frau mit langen dunklen Haaren, als Neubauer erkennbar; Headline: sie reagiert auf TV-Absage"
 2026-10-29-20-16,5,2,,weiblich,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Unscharfe Frau links im Hintergrund, im Profil"
 2026-10-29-20-16,5,3,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Unscharfer Mann mit Brille rechts am Rand
+2026-10-30-06-18,1,1,Eralp,weiblich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,mittel,"Einzige Frau im Bild an einem Parlamentsplatz; Headline: Krach über Eralps Bedenken"
+2026-10-30-06-18,2,1,Blume,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,mittel,"Mann mit Brille rechts, gestikulierend; per Ausschluss der genannte Gast Blume"
+2026-10-30-06-18,2,2,Lanz,maennlich,mittel,weiss,nebenperson,namentlich,aktiv,neutral,nein,hoch,"Mann links mit Notizblock, als Moderator Lanz erkennbar; Headline: Lanz hakt nach"
+2026-10-30-06-18,3,1,Patrick Stewart,maennlich,alt,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Älterer Mann mit Glatze, Hand am Kinn, als Patrick Stewart erkennbar; Dachzeile: zum Tod von Patrick Stewart"
+2026-10-30-06-18,4,1,Zverev,maennlich,jung,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Spieler mit Haarknoten küsst eine Hand, als Zverev erkennbar; Headline: gerührter Zverev nach Coup"
+2026-10-30-06-18,4,2,Thomalla,weiblich,mittel,weiss,nebenperson,namentlich,nicht_thematisiert,neutral,nein,mittel,"Frau, deren Hand er küsst, Gesicht teilweise sichtbar; per Bild und Dachzeile die genannte Thomalla"
+2026-10-30-06-18,4,3,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Fotograf mit Kamera links vorn
+2026-10-30-06-18,4,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Applaudierender Mann im weißen T-Shirt hinten
+2026-10-30-06-18,4,5,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Applaudierender älterer Mann rechts hinten
+2026-10-30-06-18,5,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Mann in gelber Bergwacht-Jacke rechts; Serienfigur der 'Bergretter'"
+2026-10-30-06-18,5,2,,weiblich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Frau mit Rucksack in roter Jacke links; Serienfigur"

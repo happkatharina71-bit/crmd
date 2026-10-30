@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-30-06-18",
+  "erfasst_am": "2026-10-30T06:18:11.642Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Krach über Eralps Bedenken: \"Das Signal ist verheerend\"",
+      "teasertext": "Wirbel um Medienbericht Krach über Eralps Bedenken: \"Das Signal ist verheerend\"",
+      "url": "https://web.de/magazine/politik/inland/krach-eralps-bedenken-signal-verheerend-42891034",
+      "bild_url": "https://i0.web.de/image/502/42891502%2cpd=1%2cf=responsive169-w950/elif-eralp.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Wirbel um Medienbericht",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Deutschland am \"Abgrund\"? Bei dieser Formulierung hakt Lanz nach",
+      "teasertext": "TV-Nachlese CSU-Politiker Blume zu Gast Deutschland am \"Abgrund\"? Bei dieser Formulierung hakt Lanz nach",
+      "url": "https://web.de/magazine/politik/politische-talkshows/deutschland-abgrund-formulierung-hakt-lanz-42891426",
+      "bild_url": "https://i0.web.de/image/508/42891508%2cpd=3%2cf=responsive169-w300/markus-lanz-markus-blume.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "TV-Nachlese CSU-Politiker Blume zu Gast",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Hollywood trauert um \"einen der Großen\"",
+      "teasertext": "Zum Tod von Patrick Stewart Hollywood trauert um \"einen der Großen\"",
+      "url": "https://web.de/magazine/unterhaltung/stars/tod-patrick-stewart-hollywood-stars-trauern-grossen-42891418",
+      "bild_url": "https://i0.web.de/image/420/42891420%2cpd=3%2cf=responsive169-w300/patrick-stewart.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Zum Tod von Patrick Stewart",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Gerührter Zverev nach Coup in Wien: \"Eines der besten Gefühle auf der Welt\"",
+      "teasertext": "Thomalla bei Meilenstein dabei Gerührter Zverev nach Coup in Wien: \"Eines der besten Gefühle auf der Welt\"",
+      "url": "https://web.de/magazine/sport/tennis/zverev-coup-wien-besten-gefuehle-welt-42891400",
+      "bild_url": "https://i0.web.de/image/404/42891404%2cpd=4%2cf=responsive169-w300/atp-tour-wien.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Thomalla bei Meilenstein dabei",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Neue Staffel beginnt mit einer Schock-Diagnose",
+      "teasertext": "Galerie Die Bergretter Neue Staffel beginnt mit einer Schock-Diagnose",
+      "url": "https://web.de/magazine/unterhaltung/filme-serien-kino/bergretter-staffel-beginnt-schock-diagnose-42888378",
+      "bild_url": "https://i0.web.de/image/102/42889102%2cpd=9%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Die Bergretter",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
