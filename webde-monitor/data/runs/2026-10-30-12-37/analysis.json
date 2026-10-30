@@ -1,0 +1,74 @@
+{
+ "run_id": "2026-10-30-12-37",
+ "erfasst_am": "2026-10-30T12:37:00.752Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 30,
+   "menschenmenge": "ja",
+   "notiz": "Spieler neben großer Ziffer 1 in einer Halle, Publikum im Hintergrund (Schätzung, nur gezählt)",
+   "personen": [
+    {
+     "name": "Zverev",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Mann im rosa Shirt mit Mikrofon neben einer großen 1, als Zverev erkennbar; Dachzeile: Zverev ist die Nummer eins; Alter um 30 schwer einzuschätzen"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Fahrräder, Paletten und Mülltonnen hinter Absperrgitter, Transparent 'Blockus now'",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Kryptomünzen (Symbolbild); gleiches Bild wie in der vorigen Erhebung",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Entgleister Zug mit Kränen in hügeliger Landschaft; Einsatzkräfte nur winzig, nicht gezählt",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Collage: Selfie einer Frau in den Bergen und Almlandschaft",
+   "personen": [
+    {
+     "name": "Carolin Schmidt",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Lächelnde Frau beim Selfie in den Bergen; Headline nennt die verschwundene Carolin Schmidt, Bild ihr zuordenbar; aktiv ist der Vater, nicht sie"
+    }
+   ]
+  }
+ ]
+}

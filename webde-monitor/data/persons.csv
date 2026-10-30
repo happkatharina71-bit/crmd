@@ -385,3 +385,5 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-30-06-18,5,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Mann in gelber Bergwacht-Jacke rechts; Serienfigur der 'Bergretter'"
 2026-10-30-06-18,5,2,,weiblich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Frau mit Rucksack in roter Jacke links; Serienfigur"
 2026-10-30-09-14,4,1,Schroeder,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Einziger Mann im Bild, nachdenkliche Pose; per Bild und Dachzeile der genannte Schroeder, dessen Show kritisiert wird"
+2026-10-30-12-37,1,1,Zverev,maennlich,jung,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann im rosa Shirt mit Mikrofon neben einer großen 1, als Zverev erkennbar; Dachzeile: Zverev ist die Nummer eins; Alter um 30 schwer einzuschätzen"
+2026-10-30-12-37,5,1,Carolin Schmidt,weiblich,jung,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Lächelnde Frau beim Selfie in den Bergen; Headline nennt die verschwundene Carolin Schmidt, Bild ihr zuordenbar; aktiv ist der Vater, nicht sie"
