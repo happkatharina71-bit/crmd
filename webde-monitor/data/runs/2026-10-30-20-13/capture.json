@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-30-20-13",
+  "erfasst_am": "2026-10-30T20:13:11.955Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "War's das schon mit einer Koalition?",
+      "teasertext": "Rot-Grün-Rot in Berlin War's das schon mit einer Koalition?",
+      "url": "https://web.de/magazine/politik/inland/wars-koalition-42893898",
+      "bild_url": "https://i0.web.de/image/270/42894270%2cpd=4%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Rot-Grün-Rot in Berlin",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "\"Ich gehe arbeiten, um zu tanken, und tanke, um zur Arbeit zu kommen\"",
+      "teasertext": "Leserstimmen Hohe Spritpreise \"Ich gehe arbeiten, um zu tanken, und tanke, um zur Arbeit zu kommen\"",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/familie-belasten-spritpreise-extrem-42865010",
+      "bild_url": "https://i0.web.de/image/596/42843596%2cpd=5%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Leserstimmen Hohe Spritpreise",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Elversberg nutzt Mainzer Fehler eiskalt aus und erhöht",
+      "teasertext": "Live-Ticker Bundesliga Elversberg nutzt Mainzer Fehler eiskalt aus und erhöht",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/bundesliga-live-ticker-elversberg-mainz-41292002",
+      "bild_url": "https://i0.web.de/image/836/42894836%2cpd=2%2cf=responsive169-w300/sv-elversberg-fsv-mainz-05.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Live-Ticker Bundesliga",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Martin Rütter: \"Habe es unterschätzt\"",
+      "teasertext": "Auf Wohnungssuche Martin Rütter: \"Habe es unterschätzt\"",
+      "url": "https://web.de/magazine/unterhaltung/stars/martin-ruetter-unterschaetzt-42892812",
+      "bild_url": "https://i0.web.de/image/246/42893246%2cpd=1%2cf=responsive169-w300/martin-ruetter.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Auf Wohnungssuche",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Boris Becker packt bei Almsick-Premiere über sein Familienleben aus",
+      "teasertext": "Radiosendung \"Einfach Franzi\" Boris Becker packt bei Almsick-Premiere über sein Familienleben aus",
+      "url": "https://web.de/magazine/unterhaltung/stars/boris-becker-packt-almsick-premiere-familienleben-42894572",
+      "bild_url": "https://i0.web.de/image/574/42894574%2cpd=2%2cf=responsive169-w300/boris-becker-franziska-van-almsick-jahr-2005.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Radiosendung \"Einfach Franzi\"",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

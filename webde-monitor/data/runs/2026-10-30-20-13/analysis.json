@@ -1,0 +1,155 @@
+{
+ "run_id": "2026-10-30-20-13",
+ "erfasst_am": "2026-10-30T20:13:11.955Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Frau allein auf einem Abgeordnetenplatz im Plenarsaal",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "unklar",
+     "sicherheit": "mittel",
+     "begruendung": "Frau im Jeanshemd liest Unterlagen im Parlament, nicht namentlich genannt; steht für die Berliner Koalition, deren Ende die Headline fragt"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Frau an einer Zapfsäule (Symbolbild)",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Frau mit Zapfpistole greift sich an den Kopf; steht für Leser*innen, die über hohe Spritpreise klagen (Zitat in der Headline)"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 8,
+   "menschenmenge": "ja",
+   "notiz": "Jubelnder Spieler, dahinter Fotograf, Maskottchen im Pandakostüm und Fans hinter dem Zaun (nur gezählt)",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Spieler im schwarz-weißen Trikot jubelt; steht für Elversberg, das laut Headline erhöht; nicht namentlich genannt"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Fotograf mit Bart und Mütze links, Gesicht teils von der Kamera verdeckt"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Person im Pandakostüm (Maskottchen), vollständig verdeckt"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt",
+   "personen": [
+    {
+     "name": "Martin Rütter",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit grauem Haar und schwarzem Shirt, als Martin Rütter erkennbar; Headline zitiert ihn"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 7,
+   "menschenmenge": "ja",
+   "notiz": "Paar auf rotem Teppich, weitere Personen klein am Rand (nur gezählt); Frau nicht sicher zuordenbar, daher ohne Namen",
+   "personen": [
+    {
+     "name": "Becker",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit blondem Haar im Smoking, als Boris Becker erkennbar; Headline: Becker packt über sein Familienleben aus"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Blonde Frau im Abendkleid neben ihm, lächelt; nicht eindeutig einer genannten Person zuordenbar"
+    }
+   ]
+  }
+ ]
+}
