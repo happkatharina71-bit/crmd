@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-30-09-14",
+  "erfasst_am": "2026-10-30T09:14:24.131Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Gen Z mobilisiert zu Protesten in rund 30 Städten",
+      "teasertext": "Demonstrationen am Samstag Gen Z mobilisiert zu Protesten in rund 30 Städten",
+      "url": "https://web.de/magazine/politik/inland/gen-z-mobilisiert-protesten-30-staedten-42888322",
+      "bild_url": "https://i0.web.de/image/156/42892156%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Demonstrationen am Samstag",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Audi-Gewinn bricht um 87 Prozent ein",
+      "teasertext": "Aktuelle Zahlen Audi-Gewinn bricht um 87 Prozent ein",
+      "url": "https://web.de/magazine/wirtschaft/audi-gewinn-bricht-87-prozent-42891834",
+      "bild_url": "https://i0.web.de/image/046/42892046%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Aktuelle Zahlen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Historischer Hackerangriff mit milliardenschweren Folgen",
+      "teasertext": "Attacke auf Kryptobörse Historischer Hackerangriff mit milliardenschweren Folgen",
+      "url": "https://web.de/magazine/wirtschaft/historischer-hackerangriff-milliardenschweren-folgen-42891556",
+      "bild_url": "https://i0.web.de/image/558/42891558%2cpd=3%2cf=responsive169-w300/kryptowaehrung.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Attacke auf Kryptobörse",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Verpatzter Auftakt von neuer ZDF-Show",
+      "teasertext": "Kritik Was macht Schroeder denn da? Verpatzter Auftakt von neuer ZDF-Show",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/verpatzter-auftakt-zdf-show-journal-deluxe-42891660",
+      "bild_url": "https://i0.web.de/image/712/42891712%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Kritik Was macht Schroeder denn da?",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Schulbus mit 20 Kindern verunglückt",
+      "teasertext": "Schleswig-Holstein Schulbus mit 20 Kindern verunglückt",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/schulbus-20-kindern-verunglueckt-bad-oldesloe-42891758",
+      "bild_url": "https://i0.web.de/image/866/42891866%2cpd=2%2cf=responsive169-w300/schulbus-20-kindern-faehrt-hauswand.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Schleswig-Holstein",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+ "run_id": "2026-10-30-09-14",
+ "erfasst_am": "2026-10-30T09:14:24.131Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "grafik_text",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Protestplakat an Litfaßsäule mit gezeichneten Augen, keine Person abgebildet",
+   "personen": []
+  },
+  {
+   "position": 2,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Firmengebäude mit Fahnen und vorbeifahrenden Autos",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Kryptomünzen (Symbolbild)",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Inszeniertes Porträt vor violetter Wand",
+   "personen": [
+    {
+     "name": "Schroeder",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Einziger Mann im Bild, nachdenkliche Pose; per Bild und Dachzeile der genannte Schroeder, dessen Show kritisiert wird"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Verunglückter Bus an Hauswand; Kinder nicht abgebildet",
+   "personen": []
+  }
+ ]
+}
