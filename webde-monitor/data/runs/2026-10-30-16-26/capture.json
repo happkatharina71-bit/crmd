@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-30-16-26",
+  "erfasst_am": "2026-10-30T16:26:53.187Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Ein Arbeitsdeal mit Folgen",
+      "teasertext": "Analyse 65 Jahre Anwerbeabkommen Ein Arbeitsdeal mit Folgen",
+      "url": "https://web.de/magazine/politik/inland/arbeitsdeal-folgen-42888798",
+      "bild_url": "https://i0.web.de/image/882/42889882%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse 65 Jahre Anwerbeabkommen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "\"Da passt der Mann nicht mehr ins System\"",
+      "teasertext": "Leserstimmen Geteilte Meinungen \"Da passt der Mann nicht mehr ins System\"",
+      "url": "https://web.de/magazine/sport/fussball/nationalmannschaft/passt-system-42891578",
+      "bild_url": "https://i0.web.de/image/696/42891696%2cpd=5%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Leserstimmen Geteilte Meinungen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Pike meldet sich nach gescheiterter Hinrichtung zu Wort",
+      "teasertext": "\"Mein Körper schmerzt\" Pike meldet sich nach gescheiterter Hinrichtung zu Wort",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/pike-meldet-gescheiterter-hinrichtung-wort-42894232",
+      "bild_url": "https://i0.web.de/image/234/42894234%2cpd=2%2cf=responsive169-w300/hinrichtung-tennessee.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "\"Mein Körper schmerzt\"",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "ADHS-Verband äußert sich zu Kritik an Annika Laus Buch",
+      "teasertext": "ADHS-Diagnose ihres Sohnes ADHS-Verband äußert sich zu Kritik an Annika Laus Buch",
+      "url": "https://web.de/magazine/unterhaltung/stars/adhs-verband-stellung-kritik-annika-laus-buch-42894302",
+      "bild_url": "https://i0.web.de/image/364/42894364%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "ADHS-Diagnose ihres Sohnes",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Ein Burger, 28 verschiedene Preise",
+      "teasertext": "Big Mac in Deutschland Ein Burger, 28 verschiedene Preise",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/big-mac-deutschland-burger-28-verschiedene-preise-42894122",
+      "bild_url": "https://i0.web.de/image/206/42894206%2cpd=2%2cf=responsive169-w300/big-mac-mcdonalds.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Big Mac in Deutschland",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
