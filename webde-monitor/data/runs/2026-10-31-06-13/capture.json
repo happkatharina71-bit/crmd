@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-31-06-13",
+  "erfasst_am": "2026-10-31T06:13:26.213Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Von der Leyen ignoriert Wunsch von Merz",
+      "teasertext": "Zoff um zwei Worte Von der Leyen ignoriert Wunsch von Merz",
+      "url": "https://web.de/magazine/politik/leyen-ignoriert-wunsch-merz-42895320",
+      "bild_url": "https://i0.web.de/image/332/42895332%2cpd=2%2cf=responsive169-w950/friedrich-merz.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Zoff um zwei Worte",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Wadephul lehnt Foto ab – Lawrow kontert scharf",
+      "teasertext": "G20-Außenministertreffen Wadephul lehnt Foto ab – Lawrow kontert scharf",
+      "url": "https://web.de/magazine/politik/wadephul-lehnt-foto-lawrow-kontert-scharf-42895346",
+      "bild_url": "https://i0.web.de/image/388/42895388%2cpd=1%2cf=responsive169-w300/wadephul.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "G20-Außenministertreffen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Mehrere Debatten überlagern den Prozess",
+      "teasertext": "Berliner Linke entscheidet Mehrere Debatten überlagern den Prozess",
+      "url": "https://web.de/magazine/politik/inland/berliner-linke-debatten-ueberlagern-prozess-42895082",
+      "bild_url": "https://i0.web.de/image/376/42895376%2cpd=1%2cf=responsive169-w300/elif-eralp.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Berliner Linke entscheidet",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Martin Rütter: \"Habe es unterschätzt\"",
+      "teasertext": "Auf Wohnungssuche Martin Rütter: \"Habe es unterschätzt\"",
+      "url": "https://web.de/magazine/unterhaltung/stars/martin-ruetter-unterschaetzt-42892812",
+      "bild_url": "https://i0.web.de/image/246/42893246%2cpd=1%2cf=responsive169-w300/martin-ruetter.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Auf Wohnungssuche",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Rúrik Gíslason erhebt schwere Vorwürfe gegen seinen Ex-Klub Sandhausen",
+      "teasertext": "Beerdigung seiner Mutter Rúrik Gíslason erhebt schwere Vorwürfe gegen seinen Ex-Klub Sandhausen",
+      "url": "https://web.de/magazine/unterhaltung/stars/rurik-gislason-erhebt-schwere-vorwuerfe-ex-klub-sandhausen-42894892",
+      "bild_url": "https://i0.web.de/image/928/42894928%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Beerdigung seiner Mutter",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
