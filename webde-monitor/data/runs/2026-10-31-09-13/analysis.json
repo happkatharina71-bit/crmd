@@ -1,0 +1,155 @@
+{
+ "run_id": "2026-10-31-09-13",
+ "erfasst_am": "2026-10-31T09:13:29.504Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 5,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Personen im Vordergrund bei einem Treffen, weitere teils verdeckt im Hintergrund; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "von der Leyen",
+     "geschlecht": "weiblich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Frau mit hellblondem Haar und hellblauer Jacke zentral, als von der Leyen erkennbar; Headline: sie ignoriert Wunsch von Merz"
+    },
+    {
+     "name": "Merz",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Großer Mann im blauen Anzug links, als Merz erkennbar; sein Wunsch wird laut Headline ignoriert"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann im dunklen Anzug hinter ihr, teils verdeckt"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person am rechten Rand mit Kamera, angeschnitten"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann vor Flaggen bei einem Gipfeltreffen; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "Wadephul",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit Brille im Nadelstreifenanzug vor Flaggen, G20-Anstecker; Headline: Wadephul lehnt Foto ab, Bild ihm zuordenbar"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 20,
+   "menschenmenge": "ja",
+   "notiz": "Redner am Pult, Publikum unscharf im Hintergrund (Schätzung, nur gezählt)",
+   "personen": [
+    {
+     "name": "Trump",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit roter Krawatte am Rednerpult mit Präsidentensiegel, als Trump erkennbar; Headline: Trumps Regierung unternimmt weiteren Schritt"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Frau im Interviewsessel",
+   "personen": [
+    {
+     "name": "Merkel",
+     "geschlecht": "weiblich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Frau im bordeauxroten Blazer spricht im Interview, als Angela Merkel erkennbar; Headline: Merkel spricht über ihre gesundheitlichen Probleme"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Dartspielerin beim Wurf",
+   "personen": [
+    {
+     "name": "Sherrock",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Blonde Frau mit Brille im rosa Trikot beim Dartwurf; Headline: Sherrock schlägt Littler, Bild ihr zuordenbar"
+    }
+   ]
+  }
+ ]
+}
