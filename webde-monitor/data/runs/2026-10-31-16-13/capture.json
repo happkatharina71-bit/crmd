@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-31-16-13",
+  "erfasst_am": "2026-10-31T16:13:44.659Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Neu im November: Regeln für Kredite, Bahntickets – und zwei wichtige Fristen",
+      "teasertext": "Wichtig für Verbraucher Neu im November: Regeln für Kredite, Bahntickets – und zwei wichtige Fristen",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/november-regeln-kredite-bahntickets-wichtige-fristen-42860446",
+      "bild_url": "https://i0.web.de/image/360/42894360%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Wichtig für Verbraucher",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Weg frei für rot-grün-rote Koalitionsgespräche",
+      "teasertext": "Eilmeldung Berlin Weg frei für rot-grün-rote Koalitionsgespräche",
+      "url": "https://web.de/magazine/politik/inland/rot-gruen-rote-koalitionsgespraeche-42896670",
+      "bild_url": "https://i0.web.de/image/368/35533368%2cpd=2%2cf=responsive169-w300/eilmeldung.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Eilmeldung Berlin",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Sechstes Tor in Leverkusen – Füllkrug trifft schon wieder",
+      "teasertext": "Live-Ticker Bundesliga-Konferenz Sechstes Tor in Leverkusen – Füllkrug trifft schon wieder",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/bundesliga-live-ticker-konferenz-41292002",
+      "bild_url": "https://i0.web.de/image/704/42896704%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Live-Ticker Bundesliga-Konferenz",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Deutsche verschwindet an türkischem Flughafen",
+      "teasertext": "Öffentlichkeitsfahndung Deutsche verschwindet an türkischem Flughafen",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/deutsche-verschwindet-tuerkischem-flughafen-42896240",
+      "bild_url": "https://i0.web.de/image/298/42896298%2cpd=2%2cf=responsive169-w300/alisa-nikolova-merx.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Öffentlichkeitsfahndung",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Früher ging es an Halloween auch um die Liebe",
+      "teasertext": "Verrückt, aber romantisch Früher ging es an Halloween auch um die Liebe",
+      "url": "https://web.de/magazine/wissen/geschichte/halloween-braeuche-frueher-liebe-ging-38804532",
+      "bild_url": "https://i0.web.de/image/290/41481290%2cpd=1%2cf=responsive169-w300/brautpaar-halloween.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Verrückt, aber romantisch",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

@@ -427,3 +427,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-31-12-19,3,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person mit langen dunklen Haaren rechts im Vordergrund, von hinten"
 2026-10-31-12-19,3,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit Bart links im Hintergrund, unscharf"
 2026-10-31-12-19,5,1,Merkel,weiblich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,nein,hoch,"Frau im bordeauxroten Blazer spricht im Interview, als Angela Merkel erkennbar; Headline: Merkel spricht über ihre gesundheitlichen Probleme"
+2026-10-31-16-13,1,1,,maennlich,jung,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Bärtiger Mann liest einen Brief und notiert etwas; steht für Verbraucher*innen, für die neue Regeln gelten"
+2026-10-31-16-13,3,1,Füllkrug,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Spieler im grün-weißen Trikot wirft Kusshand, als Füllkrug erkennbar; Headline: Füllkrug trifft schon wieder"
+2026-10-31-16-13,3,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Gegenspieler im lila Trikot im Hintergrund, unscharf, Gesicht abgewandt"
+2026-10-31-16-13,3,3,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Mitspieler im grün-weißen Trikot am rechten Rand, angeschnitten und unscharf"
+2026-10-31-16-13,4,1,,weiblich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Lächelnde blonde Frau im Porträt; Headline: Deutsche verschwindet an türkischem Flughafen, Bild ihr zuordenbar, nicht namentlich genannt"
+2026-10-31-16-13,5,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Person mit Zylinder und Totenkopf-Schminke zeigt auf die Kamera; steht für Halloween-Romantik"
+2026-10-31-16-13,5,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,nein,mittel,Person im roten Kleid mit Schleier und Totenkopf-Schminke
