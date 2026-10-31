@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-31-12-19",
+  "erfasst_am": "2026-10-31T12:19:27.544Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "\"Trauer ist eine egoistische Kuh\"",
+      "teasertext": "Interview Bestatter im Gespräch \"Trauer ist eine egoistische Kuh\"",
+      "url": "https://web.de/magazine/wissen/psychologie/bestatter-gespraech-trauer-egoistische-kuh-42860424",
+      "bild_url": "https://i0.web.de/image/918/42842918%2cpd=1%2cf=responsive169-w950/junge-drueckt-bilderrahmen-haelt-augen-geschlossen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Interview Bestatter im Gespräch",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Rückkehr in die Politik? Lindners Einstellung dazu ist klar",
+      "teasertext": "Ex-FDP-Chef Rückkehr in die Politik? Lindners Einstellung dazu ist klar",
+      "url": "https://web.de/magazine/politik/inland/rueckkehr-politik-lindners-einstellung-42895760",
+      "bild_url": "https://i0.web.de/image/762/42895762%2cpd=2%2cf=responsive169-w300/christian-lindner.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Ex-FDP-Chef",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Gottschalk schaut Kaulitz-Show nicht an",
+      "teasertext": "\"Wetten, dass..?\"-Comeback Gottschalk schaut Kaulitz-Show nicht an",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/thomas-gottschalk-schaut-kaulitz-show-42895768",
+      "bild_url": "https://i0.web.de/image/810/42895810%2cpd=1%2cf=responsive169-w300/thomas-gottschalk.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "\"Wetten, dass..?\"-Comeback",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "\"SMS des Todes\": Sicherheitslücke bedroht Millionen Android-Handys",
+      "teasertext": "Unsichtbarer Angriff \"SMS des Todes\": Sicherheitslücke bedroht Millionen Android-Handys",
+      "url": "https://web.de/magazine/digital/sms-todes-sicherheitsluecke-bedroht-millionen-android-handys-42894348",
+      "bild_url": "https://i0.web.de/image/350/42894350%2cpd=2%2cf=responsive169-w300/android-figur-erscheint-smartphone.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Unsichtbarer Angriff",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Angela Merkel spricht über ihre gesundheitlichen Probleme",
+      "teasertext": "Zitteranfälle bei Terminen Angela Merkel spricht über ihre gesundheitlichen Probleme",
+      "url": "https://web.de/magazine/unterhaltung/stars/angela-merkel-spricht-gesundheitlichen-probleme-42892908",
+      "bild_url": "https://i0.web.de/image/910/42892910%2cpd=1%2cf=responsive169-w300/altkanzlerin-angela-merkel-interview-johannes-b-ke.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Zitteranfälle bei Terminen",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
