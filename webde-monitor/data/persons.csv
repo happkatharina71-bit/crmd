@@ -434,3 +434,11 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-10-31-16-13,4,1,,weiblich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Lächelnde blonde Frau im Porträt; Headline: Deutsche verschwindet an türkischem Flughafen, Bild ihr zuordenbar, nicht namentlich genannt"
 2026-10-31-16-13,5,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Person mit Zylinder und Totenkopf-Schminke zeigt auf die Kamera; steht für Halloween-Romantik"
 2026-10-31-16-13,5,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,nein,mittel,Person im roten Kleid mit Schleier und Totenkopf-Schminke
+2026-10-31-20-13,1,1,,maennlich,mittel,poc,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Mann im Anzug spricht gestikulierend vor dem Kapitol; steht für die Demokraten, die Trump Paroli bieten wollen; nicht namentlich genannt"
+2026-10-31-20-13,2,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,"Polizeikraft mit Helm im Vordergrund, von hinten; steht für die Polizeikette"
+2026-10-31-20-13,2,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,ja,mittel,"Demonstrierende mit Fahnen hinter der Polizeikette, teils vermummt, zu klein für Merkmale; stehen für die Jugendproteste"
+2026-10-31-20-13,3,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Person mit langen geflochtenen Haaren von hinten, reckt die Hand unter einem Piratenflaggen-Plakat; steht für die protestierende Gen Z"
+2026-10-31-20-13,3,2,,weiblich,jung,weiss,nebenperson,indirekt,aktiv,neutral,ja,niedrig,"Frau mit langen dunklen Haaren rechts, Gesicht sichtbar"
+2026-10-31-20-13,3,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,ja,niedrig,"Person mit Rucksack links vorne, von hinten"
+2026-10-31-20-13,3,4,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Kameraperson rechts, Gesicht von Kamera verdeckt"
+2026-10-31-20-13,4,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spieler im roten Bayern-Trikot fasst sich ans Kinn; steht für den FC Bayern, der laut Headline stolpert; nicht namentlich genannt"

@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-10-31-20-13",
+  "erfasst_am": "2026-10-31T20:13:23.331Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Wie die Demokraten Trump bei einem Sieg Paroli bieten wollen",
+      "teasertext": "Midterms Wie die Demokraten Trump bei einem Sieg Paroli bieten wollen",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/demokraten-trump-sieg-paroli-bieten-42892896",
+      "bild_url": "https://i0.web.de/image/200/42893200%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Midterms",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Berlin, Hamburg, Frankfurt - nicht überall bleiben die Jugendproteste friedlich",
+      "teasertext": "Zehntausende bei Demos Berlin, Hamburg, Frankfurt - nicht überall bleiben die Jugendproteste friedlich",
+      "url": "https://web.de/magazine/politik/inland/hamburg-frankfurt-koeln-ueberall-jugendproteste-friedlich-42895616",
+      "bild_url": "https://i0.web.de/image/052/42897052%2cpd=1%2cf=responsive169-w300/demonstration-gen-z-berlin.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Zehntausende bei Demos",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "\"Wir sind kein Sparposten\": So lief der Protest der Gen Z in München",
+      "teasertext": "Reportage Gen-Z-Demos \"Wir sind kein Sparposten\": So lief der Protest der Gen Z in München",
+      "url": "https://web.de/magazine/politik/inland/sparposten-lief-protest-gen-z-muenchen-42897016",
+      "bild_url": "https://i0.web.de/image/080/42897080%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Reportage Gen-Z-Demos",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Bayern stolpert in wildem Klassiker",
+      "teasertext": "Sorge um FCB-Trio Bayern stolpert in wildem Klassiker",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/bayern-stolpert-wildem-klassiker-42897150",
+      "bild_url": "https://i0.web.de/image/192/42897192%2cpd=3%2cf=responsive169-w300/fc-bayern-muenchen-borussia-dortmund.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Sorge um FCB-Trio",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "\"Nicht Männlichkeit an sich macht Männer krank\" – warum Männer früher sterben",
+      "teasertext": "Drei neue Studien \"Nicht Männlichkeit an sich macht Männer krank\" – warum Männer früher sterben",
+      "url": "https://web.de/magazine/wissen/wissenschaft-technik/maennlichkeit-maenner-krank-maenner-frueher-sterben-42896064",
+      "bild_url": "https://i0.web.de/image/142/42896142%2cpd=1%2cf=responsive169-w300/hand-alten-mannes.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Drei neue Studien",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
