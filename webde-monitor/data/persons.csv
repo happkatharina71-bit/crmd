@@ -471,3 +471,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-01-12-15,4,2,,weiblich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Blonde Frau im weißen Spitzenkleid links, im Profil"
 2026-11-01-12-15,4,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Person mit langen schwarzen Haaren im weißen Kleid rechts, von hinten"
 2026-11-01-12-15,5,1,Bohlen,maennlich,alt,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Lachender Mann im schwarzen Sakko, als Dieter Bohlen erkennbar; Headline zitiert seine Unterstützung der Proteste"
+2026-11-01-16-14,1,1,Trump,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann im dunklen Anzug mit blauer Krawatte ballt die Fäuste, als Trump erkennbar; Headline: Trump-Regierung versucht Wahlprozesse zu beeinflussen"
+2026-11-01-16-14,2,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,unklar,mittel,"Vermummte Person in dunkler Kleidung geht vor den Flammen, Gesicht verdeckt; steht für die Krawalle in Frankfurt"
+2026-11-01-16-14,2,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,unklar,niedrig,"Schaulustige am Straßenrand, dunkel und klein; stellvertretend codiert"
+2026-11-01-16-14,4,1,,maennlich,jung,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Spieler im weißen Köln-Trikot mit Ball; steht für Köln bzw. die El-Mala-Brüder, die laut Headline ausgleichen; Hautfarbe nicht eindeutig zuzuordnen"
+2026-11-01-16-14,4,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Gegenspieler im roten Union-Trikot rechts

@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-01-16-14",
+  "erfasst_am": "2026-11-01T16:14:09.567Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "So versucht die Trump-Regierung, die Wahlprozesse zu beeinflussen",
+      "teasertext": "Analyse Vor den Midterms So versucht die Trump-Regierung, die Wahlprozesse zu beeinflussen",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/versucht-trump-regierung-wahlprozesse-beeinflussen-42891882",
+      "bild_url": "https://i0.web.de/image/228/42892228%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse Vor den Midterms",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Was zu den Krawallen in Frankfurt bekannt ist",
+      "teasertext": "Am Abend kippte die Stimmung Was zu den Krawallen in Frankfurt bekannt ist",
+      "url": "https://web.de/magazine/politik/inland/krawalle-frankfurt-was-bekannt-ist-42899194",
+      "bild_url": "https://i0.web.de/image/198/42899198%2cpd=3%2cf=responsive169-w300/ausschreitungen-frankfurt-main.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Am Abend kippte die Stimmung",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Regelmäßig Tee trinken könnte Herz schützen – doch ein Fehler erhöht Risiko",
+      "teasertext": "Aktuelle Studie Regelmäßig Tee trinken könnte Herz schützen – doch ein Fehler erhöht Risiko",
+      "url": "https://web.de/magazine/ratgeber/essen-trinken/regelmaessig-tee-trinken-herz-schuetzen-fehler-erhoeht-risiko-42898778",
+      "bild_url": "https://i0.web.de/image/836/42898836%2cpd=2%2cf=responsive169-w300/tee.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Aktuelle Studie",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Gibt es jetzt die heiße Schlussphase? El-Mala-Brüder sorgen für den Ausgleich!",
+      "teasertext": "Live-Ticker Bundesliga Gibt es jetzt die heiße Schlussphase? El-Mala-Brüder sorgen für den Ausgleich!",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/bundesliga-live-ticker-union-berlin-koeln-41292002",
+      "bild_url": "https://i0.web.de/image/326/42899326%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Live-Ticker Bundesliga",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Unfall-Hotspot in München wird zum Internetphänomen",
+      "teasertext": "Video \"Allguth-Stein\" Unfall-Hotspot in München wird zum Internetphänomen",
+      "url": "https://web.de/magazine/panorama/videos/aus-aller-welt/deutschland/unfall-hotspot-allguth-stein-muenchen-internetphaenomen-42894090",
+      "bild_url": "https://i0.web.de/image/092/42894092%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Video \"Allguth-Stein\"",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

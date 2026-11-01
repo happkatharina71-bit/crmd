@@ -1,0 +1,114 @@
+{
+ "run_id": "2026-11-01-16-14",
+ "erfasst_am": "2026-11-01T16:14:09.567Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 40,
+   "menschenmenge": "ja",
+   "notiz": "Mann mit geballten Fäusten vor jubelndem Publikum (Schätzung, Publikum nur gezählt)",
+   "personen": [
+    {
+     "name": "Trump",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann im dunklen Anzug mit blauer Krawatte ballt die Fäuste, als Trump erkennbar; Headline: Trump-Regierung versucht Wahlprozesse zu beeinflussen"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 20,
+   "menschenmenge": "ja",
+   "notiz": "Vermummte Person läuft vor brennendem Feuer, Schaulustige an den Seiten (Schätzung)",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "unklar",
+     "sicherheit": "mittel",
+     "begruendung": "Vermummte Person in dunkler Kleidung geht vor den Flammen, Gesicht verdeckt; steht für die Krawalle in Frankfurt"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "unklar",
+     "sicherheit": "niedrig",
+     "begruendung": "Schaulustige am Straßenrand, dunkel und klein; stellvertretend codiert"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Teekanne und Teetasse auf einem Tisch",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 100,
+   "menschenmenge": "ja",
+   "notiz": "Zweikampf zweier Spieler, voll besetzte Tribüne im Hintergrund (Schätzung); Kölner Spieler nicht eindeutig einem der El-Mala-Brüder zuordenbar",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Spieler im weißen Köln-Trikot mit Ball; steht für Köln bzw. die El-Mala-Brüder, die laut Headline ausgleichen; Hautfarbe nicht eindeutig zuzuordnen"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Gegenspieler im roten Union-Trikot rechts"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Straße mit Stein am Radweg und Tankstellenschild",
+   "personen": []
+  }
+ ]
+}
