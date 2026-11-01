@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-01-20-13",
+  "erfasst_am": "2026-11-01T20:13:35.945Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Nachrichten, die uns auf eine bessere Welt hoffen lassen",
+      "teasertext": "Good News Nachrichten, die uns auf eine bessere Welt hoffen lassen",
+      "url": "https://web.de/magazine/wissen/psychologie/nachrichten-bessere-welt-hoffen-42887726",
+      "bild_url": "https://i0.web.de/image/100/42889100%2cpd=2%2cf=responsive169-w950/junge-roten-haaren-strahlt.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Good News",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Kremlkritiker wird vergiftet – und hilft den Ermittlern auf dem Totenbett",
+      "teasertext": "Fall Litwinenko Kremlkritiker wird vergiftet – und hilft den Ermittlern auf dem Totenbett",
+      "url": "https://web.de/magazine/panorama/kremlkritiker-vergiftet-hilft-ermittlern-totenbett-42885176",
+      "bild_url": "https://i0.web.de/image/154/42886154%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Fall Litwinenko",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Nach der Krawall-Nacht geraten migrantische Täter in den Fokus",
+      "teasertext": "Jugend-Demos münden in Gewalt Nach der Krawall-Nacht geraten migrantische Täter in den Fokus",
+      "url": "https://web.de/magazine/politik/inland/krawall-nacht-geraten-migrantische-taeter-fokus-42897540",
+      "bild_url": "https://i0.web.de/image/378/42899378%2cpd=3%2cf=responsive169-w300/randalierer-schlagen-schaufenster-frankfurt.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Jugend-Demos münden in Gewalt",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Russlandfreundliche Amtsinhaberin gewinnt Präsidentschaftswahl in Bulgarien",
+      "teasertext": "Ilijana Jotowa Russlandfreundliche Amtsinhaberin gewinnt Präsidentschaftswahl in Bulgarien",
+      "url": "https://web.de/magazine/politik/bulgarien-praesidentin-jotowa-prognosen-vorn-42899622",
+      "bild_url": "https://i0.web.de/image/624/42899624%2cpd=1%2cf=responsive169-w300/stichwahl-praesidentenamt-bulgarien.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Ilijana Jotowa",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Michael Douglas verrät, wie es Jack Nicholson heute geht",
+      "teasertext": "Seit 2010 keine Rolle mehr Michael Douglas verrät, wie es Jack Nicholson heute geht",
+      "url": "https://web.de/magazine/unterhaltung/stars/michael-douglas-verraet-jack-nicholson-42899436",
+      "bild_url": "https://i0.web.de/image/438/42899438%2cpd=1%2cf=responsive169-w300/jack-nicholson-li-aufnahme-jahr-2007-michael-dougl.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Seit 2010 keine Rolle mehr",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

@@ -476,3 +476,14 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-01-16-14,2,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,unklar,niedrig,"Schaulustige am Straßenrand, dunkel und klein; stellvertretend codiert"
 2026-11-01-16-14,4,1,,maennlich,jung,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Spieler im weißen Köln-Trikot mit Ball; steht für Köln bzw. die El-Mala-Brüder, die laut Headline ausgleichen; Hautfarbe nicht eindeutig zuzuordnen"
 2026-11-01-16-14,4,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Gegenspieler im roten Union-Trikot rechts
+2026-11-01-20-13,1,1,,weiblich,jung,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,"Rothaarige junge Frau mit Sommersprossen in Jeansjacke lacht mit erhobenen Armen; Symbol für gute Nachrichten"
+2026-11-01-20-13,2,1,Litwinenko,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,ja,mittel,"Kahlköpfiger Mann mit Elektroden im Krankenbett; Dachzeile: Fall Litwinenko, Headline: Kremlkritiker wird vergiftet, Bild ihm zuordenbar"
+2026-11-01-20-13,3,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,"Polizeikraft mit Helm, Visier und Gesichtsmaske in der Mitte, nur Augen sichtbar"
+2026-11-01-20-13,3,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Polizeikraft mit Helm und Visier links
+2026-11-01-20-13,3,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Polizeikraft mit Helm und Visier rechts
+2026-11-01-20-13,4,1,Jotowa,weiblich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,mittel,"Frau mit blondem Haar spricht in viele Mikrofone; Dachzeile nennt Ilijana Jotowa, Headline: Amtsinhaberin gewinnt Wahl, Bild ihr zuordenbar"
+2026-11-01-20-13,4,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit Glatze und Bart neben ihr
+2026-11-01-20-13,4,3,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Journalistin links vorne hält Mikrofon
+2026-11-01-20-13,4,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit Brille rechts, blickt auf Handy"
+2026-11-01-20-13,5,1,Michael Douglas,maennlich,alt,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann mit weißem Haar im blauen Sakko rechts, als Michael Douglas erkennbar; Headline: Douglas verrät etwas"
+2026-11-01-20-13,5,2,Jack Nicholson,maennlich,alt,weiss,nebenperson,namentlich,passiv,neutral,nein,hoch,"Mann mit getönter Brille und roter Krawatte links, als Jack Nicholson erkennbar; über sein Befinden wird berichtet"
