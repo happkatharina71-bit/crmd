@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-01-06-13",
+  "erfasst_am": "2026-11-01T06:13:20.064Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Ausschreitungen in Frankfurt und Köln überschatten Gen-Z-Demonstrationen",
+      "teasertext": "Plünderungen und Verletzte Ausschreitungen in Frankfurt und Köln überschatten Gen-Z-Demonstrationen",
+      "url": "https://web.de/magazine/politik/inland/ausschreitungen-frankfurt-koeln-ueberschatten-gen-z-demos-42897388",
+      "bild_url": "https://i0.web.de/image/390/42897390%2cpd=2%2cf=responsive169-w950/ausschreitungen-frankfurt-main.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Plünderungen und Verletzte",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Wie die Demokraten Trump bei einem Sieg Paroli bieten wollen",
+      "teasertext": "Midterms Wie die Demokraten Trump bei einem Sieg Paroli bieten wollen",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/demokraten-trump-sieg-paroli-bieten-42892896",
+      "bild_url": "https://i0.web.de/image/200/42893200%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Midterms",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Bayern stolpert in wildem Klassiker",
+      "teasertext": "Sorge um FCB-Trio Bayern stolpert in wildem Klassiker",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/bayern-stolpert-wildem-klassiker-42897150",
+      "bild_url": "https://i0.web.de/image/192/42897192%2cpd=3%2cf=responsive169-w300/fc-bayern-muenchen-borussia-dortmund.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Sorge um FCB-Trio",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Trauernder Kimmich: \"Mein Vater hat mich immer begleitet\"",
+      "teasertext": "Nach Top-Spiel gegen den BVB Trauernder Kimmich: \"Mein Vater hat mich immer begleitet\"",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/trauernder-kimmich-vater-begleitet-42897284",
+      "bild_url": "https://i0.web.de/image/286/42897286%2cpd=1%2cf=responsive169-w300/fc-bayern-muenchen-borussia-dortmund.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Nach Top-Spiel gegen den BVB",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Weidel: \"Das Frauenbild der AfD ist katastrophal\"",
+      "teasertext": "Video AfD-Leaks aus 2016 Weidel: \"Das Frauenbild der AfD ist katastrophal\"",
+      "url": "https://web.de/magazine/politik/videos/inland/weidel-frauenbild-afd-katastrophal-42897484",
+      "bild_url": "https://i0.web.de/image/790/42897790%2cpd=3%2cf=responsive169-w300/alice-weidel.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Video AfD-Leaks aus 2016",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
