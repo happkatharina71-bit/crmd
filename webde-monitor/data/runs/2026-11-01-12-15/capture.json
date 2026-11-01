@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-01-12-15",
+  "erfasst_am": "2026-11-01T12:15:37.508Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Reul: Proteste von Linksextremisten und gewaltbereiten jungen Männern gekapert",
+      "teasertext": "Eskalation nach Jugend-Demos Reul: Proteste von Linksextremisten und gewaltbereiten jungen Männern gekapert",
+      "url": "https://web.de/magazine/politik/inland/reul-proteste-linksextremisten-gewaltbereiten-jungen-maennern-gekapert-42897388",
+      "bild_url": "https://i0.web.de/image/658/42898658%2cpd=2%2cf=responsive169-w950/sek-einsatz-hausbesitzerin-290000-euro-land.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Eskalation nach Jugend-Demos",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Mit der Dunkelheit brach das Chaos über Frankfurt hinein",
+      "teasertext": "Galerie Krawallnacht nach Demo Mit der Dunkelheit brach das Chaos über Frankfurt hinein",
+      "url": "https://web.de/magazine/politik/inland/dunkelheit-brach-chaos-frankfurt-42898160",
+      "bild_url": "https://i0.web.de/image/146/42898146%2cpd=4%2cf=responsive169-w300/randalierer-schlagen-schaufenster-frankfurt.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Galerie Krawallnacht nach Demo",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Ballack rügt Bayern-Bosse – Eberl kontert",
+      "teasertext": "Disput um Karl Ballack rügt Bayern-Bosse – Eberl kontert",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/fc-bayern/ballack-ruegt-bayern-bosse-karl-eberl-kontert-42897984",
+      "bild_url": "https://i0.web.de/image/986/42897986%2cpd=2%2cf=responsive169-w300/bayern-muenchen-1-fc-magdeburg.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Disput um Karl",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Deutsche Influencerin stiehlt Heidi Klum fast die Show",
+      "teasertext": "Galerie Promis legen sich ins Zeug Deutsche Influencerin stiehlt Heidi Klum fast die Show",
+      "url": "https://web.de/magazine/unterhaltung/stars/deutsche-influencerin-stiehlt-heidi-klum-show-42897990",
+      "bild_url": "https://i0.web.de/image/246/42898246%2cpd=3%2cf=responsive169-w300/laura-abla.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Galerie Promis legen sich ins Zeug",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Dieter Bohlen: \"Richtig, wenn euch der Kragen platzt\"",
+      "teasertext": "Gen-Z-Proteste Dieter Bohlen: \"Richtig, wenn euch der Kragen platzt\"",
+      "url": "https://web.de/magazine/unterhaltung/stars/dieter-bohlen-richtig-kragen-platzt-42898388",
+      "bild_url": "https://i0.web.de/image/390/42898390%2cpd=1%2cf=responsive169-w300/dieter-bohlen-sechsfacher-vater.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Gen-Z-Proteste",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

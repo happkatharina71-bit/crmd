@@ -463,3 +463,11 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-01-09-13,3,4,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Person im Schutzanzug mit Gasmaske, zeigt mit Stift auf das Kostüm"
 2026-11-01-09-13,3,5,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Person im Schutzanzug mit Gasmaske rechts außen
 2026-11-01-09-13,4,1,Kramp-Karrenbauer,weiblich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Frau mit Brille und rotem Blazer am Rednerpult, als Kramp-Karrenbauer erkennbar; Headline: sie warnt vor AfD und Linken; Alter um 60 schwer einzuschätzen"
+2026-11-01-12-15,1,1,Reul,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,mittel,"Älterer Mann mit grauem Haar im Anzug spricht gestikulierend am Mikrofon; Headline: Reul zur Eskalation der Proteste, Bild ihm zuordenbar"
+2026-11-01-12-15,2,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,unklar,mittel,"Person im Batman-Kostüm mit Maske zeigt Victory-Zeichen vor Flammen; steht für die Krawallnacht"
+2026-11-01-12-15,2,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,unklar,niedrig,"Schaulustige mit Handys an den Hauswänden, klein; stellvertretend codiert"
+2026-11-01-12-15,3,1,Karl,maennlich,jung,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Junger Spieler im Bayern-Trikot ruft mit offenen Armen; Dachzeile: Disput um Karl, Bild ihm zuordenbar"
+2026-11-01-12-15,4,1,,weiblich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Frau in schwarzer Korsage in der Mitte, Gesicht im Profil sichtbar"
+2026-11-01-12-15,4,2,,weiblich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Blonde Frau im weißen Spitzenkleid links, im Profil"
+2026-11-01-12-15,4,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Person mit langen schwarzen Haaren im weißen Kleid rechts, von hinten"
+2026-11-01-12-15,5,1,Bohlen,maennlich,alt,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Lachender Mann im schwarzen Sakko, als Dieter Bohlen erkennbar; Headline zitiert seine Unterstützung der Proteste"
