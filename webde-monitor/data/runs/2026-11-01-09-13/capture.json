@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-01-09-13",
+  "erfasst_am": "2026-11-01T09:13:27.536Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Ausschreitungen in Frankfurt und Köln überschatten Gen-Z-Demonstrationen",
+      "teasertext": "Plünderungen und Verletzte Ausschreitungen in Frankfurt und Köln überschatten Gen-Z-Demonstrationen",
+      "url": "https://web.de/magazine/politik/inland/ausschreitungen-frankfurt-koeln-ueberschatten-gen-z-demos-42897388",
+      "bild_url": "https://i0.web.de/image/390/42897390%2cpd=2%2cf=responsive169-w950/ausschreitungen-frankfurt-main.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Plünderungen und Verletzte",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "BVB zeigt neue Qualität, Bayern ein ungewohntes Problem",
+      "teasertext": "Analyse Bundesliga BVB zeigt neue Qualität, Bayern ein ungewohntes Problem",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/bvb-zeigt-qualitaet-bayern-ungewohntes-problem-42897792",
+      "bild_url": "https://i0.web.de/image/802/42897802%2cpd=1%2cf=responsive169-w300/bvb-fcb.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Analyse Bundesliga",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Blutig und abgefahren: Heidi Klum verblüfft wieder einmal mit Halloween-Kostüm",
+      "teasertext": "Abgerissene Hand Blutig und abgefahren: Heidi Klum verblüfft wieder einmal mit Halloween-Kostüm",
+      "url": "https://web.de/magazine/unterhaltung/stars/blutig-abgefahren-heidi-klum-verbluefft-halloween-kostuem-42897762",
+      "bild_url": "https://i0.web.de/image/772/42897772%2cpd=6%2cf=responsive169-w300/heidi-klums-halloween-party-2026.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Abgerissene Hand",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Kramp-Karrenbauer warnt vor AfD und Linken",
+      "teasertext": "Bei Regierungsübernahme Kramp-Karrenbauer warnt vor AfD und Linken",
+      "url": "https://web.de/magazine/politik/inland/kramp-karrenbauer-warnt-afd-linken-42897442",
+      "bild_url": "https://i0.web.de/image/852/42897852%2cpd=1%2cf=responsive169-w300/annegret-kramp-karrenbauer.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Bei Regierungsübernahme",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Führerschein-Umtausch: Wer jetzt handeln sollte",
+      "teasertext": "Nächste Frist endet im Januar Führerschein-Umtausch: Wer jetzt handeln sollte",
+      "url": "https://web.de/magazine/auto/fuehrerschein-umtausch-handeln-42894130",
+      "bild_url": "https://i0.web.de/image/132/42894132%2cpd=1%2cf=responsive169-w300/fuehrerscheine-liegen-tisch.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Nächste Frist endet im Januar",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

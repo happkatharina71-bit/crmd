@@ -451,3 +451,15 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-01-06-13,4,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Schiedsrichter am rechten Rand, angeschnitten"
 2026-11-01-06-13,4,5,,maennlich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Spieler im Bayern-Trikot links, von hinten"
 2026-11-01-06-13,5,1,Weidel,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Blonde Frau im dunklen Blazer blickt nach unten, als Weidel erkennbar; Headline zitiert sie zum Frauenbild der AfD"
+2026-11-01-09-13,1,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,unklar,mittel,"Menschen auf der Straße hinter brennenden Containern, zu klein und dunkel für Merkmale; stehen für die Demonstrierenden bei den Ausschreitungen"
+2026-11-01-09-13,2,1,,maennlich,jung,poc,hauptperson,indirekt,passiv,neutral,nein,mittel,"Spieler im roten Bayern-Trikot Nr. 17 mit gesenktem Blick, Gesicht sichtbar; steht für Bayerns 'ungewohntes Problem'; nicht namentlich genannt"
+2026-11-01-09-13,2,2,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Dortmunder Spieler Nr. 25 rechts, von hinten"
+2026-11-01-09-13,2,3,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Dortmunder Spieler Nr. 3 links, von hinten"
+2026-11-01-09-13,2,4,,maennlich,nicht_erkennbar,poc,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Dortmunder Spieler links am Rand, jubelnd, Gesicht teils sichtbar"
+2026-11-01-09-13,2,5,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Dortmunder Spieler Nr. 8 in der Bildmitte, von hinten"
+2026-11-01-09-13,3,1,Heidi Klum,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Ganzkörperkostüm als blutige Hand vor Heidi-Klum-Halloween-Wand; Headline: Heidi Klum verblüfft mit Halloween-Kostüm, Kostüm ihr zuordenbar"
+2026-11-01-09-13,3,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Person im Schutzanzug mit Gasmaske links außen
+2026-11-01-09-13,3,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Person im Schutzanzug mit Gasmaske, zweite von links"
+2026-11-01-09-13,3,4,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Person im Schutzanzug mit Gasmaske, zeigt mit Stift auf das Kostüm"
+2026-11-01-09-13,3,5,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Person im Schutzanzug mit Gasmaske rechts außen
+2026-11-01-09-13,4,1,Kramp-Karrenbauer,weiblich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Frau mit Brille und rotem Blazer am Rednerpult, als Kramp-Karrenbauer erkennbar; Headline: sie warnt vor AfD und Linken; Alter um 60 schwer einzuschätzen"
