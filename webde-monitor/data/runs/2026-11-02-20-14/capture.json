@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-02-20-14",
+  "erfasst_am": "2026-11-02T20:14:00.251Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Deutschland soll eine Bundespräsidentin bekommen",
+      "teasertext": "Merz legt sich fest Deutschland soll eine Bundespräsidentin bekommen",
+      "url": "https://web.de/magazine/politik/inland/deutschland-bundespraesidentin-bekommen-42903520",
+      "bild_url": "https://i0.web.de/image/522/42903522%2cpd=2%2cf=responsive169-w950/friedrich-merz.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Merz legt sich fest",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Russland bombardiert Schule bei Hilfsausgabe – viele Tote",
+      "teasertext": "Krieg in der Ukraine Russland bombardiert Schule bei Hilfsausgabe – viele Tote",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/russland-bombardiert-schule-hilfsausgabe-tote-42903576",
+      "bild_url": "https://i0.web.de/image/590/42903590%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Krieg in der Ukraine",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Frühwarnzeichen für einen Herzinfarkt zeigen sich teils schon Wochen vorher",
+      "teasertext": "Auf diese Symptome achten Frühwarnzeichen für einen Herzinfarkt zeigen sich teils schon Wochen vorher",
+      "url": "https://web.de/magazine/gesundheit/herzinfarkt-fruehwarnzeichen-treten-wochen-41514524",
+      "bild_url": "https://i0.web.de/image/534/41515534%2cpd=6%2cf=responsive169-w300/herzinfarkt-darstellung-computer.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Auf diese Symptome achten",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Wende im Høiby-Prozess: Gericht ordnet Freilassung aus U-Haft an",
+      "teasertext": "Mette-Marits Sohn Wende im Høiby-Prozess: Gericht ordnet Freilassung aus U-Haft an",
+      "url": "https://web.de/magazine/unterhaltung/adel/wende-hiby-prozess-gericht-ordnet-freilassung-u-haft-42903464",
+      "bild_url": "https://i0.web.de/image/552/42385552%2cpd=1%2cf=responsive169-w300/marius-borg-hiby-haftstrafe-jahren-verurteilt-word.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Mette-Marits Sohn",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Leben ohne Vorstellungskraft",
+      "teasertext": "Aphantasie Leben ohne Vorstellungskraft",
+      "url": "https://web.de/magazine/wissen/psychologie/aphantasie-leben-vorstellungskraft-42902068",
+      "bild_url": "https://i0.web.de/image/082/42902082%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Aphantasie",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

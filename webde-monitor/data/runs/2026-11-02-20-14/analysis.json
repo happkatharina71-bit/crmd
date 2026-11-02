@@ -1,0 +1,141 @@
+{
+ "run_id": "2026-11-02-20-14",
+ "erfasst_am": "2026-11-02T20:14:00.251Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt, Ränder unscharf",
+   "personen": [
+    {
+     "name": "Merz",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit Brille im blauen Anzug spricht, als Merz erkennbar; Dachzeile: Merz legt sich fest"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Raketenwerfer feuert, Soldat von hinten daneben",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Person in Tarnuniform mit Waffe von hinten, filmt den Abschuss; steht für das bombardierende Militär"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "grafik_text",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "3D-Illustration eines Körpers mit Herz und Gefäßen",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 7,
+   "menschenmenge": "ja",
+   "notiz": "Junger Mann mit Sonnenbrille im Vordergrund, mehrere Personen unscharf im Hintergrund",
+   "personen": [
+    {
+     "name": "Høiby",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Junger Mann mit zurückgekämmtem blondem Haar, Sonnenbrille und hellblauem Sakko; Headline: Høiby-Prozess, Mette-Marits Sohn, Bild ihm zuordenbar"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit Glatze im dunklen Anzug links im Hintergrund"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Junge im weißen Hemd hinter ihm, unscharf"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Älterer Mann mit Bart rechts im Hintergrund, unscharf"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Nachdenkliche Frau am Fenster (Symbolbild)",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Frau im roten Pullover stützt den Kopf auf die Hand; steht für Menschen mit Aphantasie"
+    }
+   ]
+  }
+ ]
+}
