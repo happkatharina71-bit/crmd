@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-02-16-33",
+  "erfasst_am": "2026-11-02T16:33:33.129Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "KI, die Ressourcenschleuder – Können wir uns das leisten?",
+      "teasertext": "Analyse Strom, Wasser, Fläche KI, die Ressourcenschleuder – Können wir uns das leisten?",
+      "url": "https://web.de/magazine/politik/inland/ki-ressourcenschleuder-leisten-42880018",
+      "bild_url": "https://i0.web.de/image/294/42881294%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse Strom, Wasser, Fläche",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Reiche plant zahnlosen Spritpreisdeckel",
+      "teasertext": "Gesetzentwurf Reiche plant zahnlosen Spritpreisdeckel",
+      "url": "https://web.de/magazine/politik/inland/reiches-gesetzentwurf-praxis-wirkungslos-42902382",
+      "bild_url": "https://i0.web.de/image/810/42902810%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Gesetzentwurf",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Wie Mercedes einen Zwölfjährigen zum Weltmeister formte",
+      "teasertext": "Analyse Andrea Kimi Antonelli Wie Mercedes einen Zwölfjährigen zum Weltmeister formte",
+      "url": "https://web.de/magazine/sport/formel-1/mercedes-zwoelfjaehrigen-weltmeister-formte-42902666",
+      "bild_url": "https://i0.web.de/image/160/42903160%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Analyse Andrea Kimi Antonelli",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Rassismus-Vorwürfe gegen Waldemar Hartmann nach Post über Elif Eralp",
+      "teasertext": "Parteiübergreifende Kritik Rassismus-Vorwürfe gegen Waldemar Hartmann nach Post über Elif Eralp",
+      "url": "https://web.de/magazine/politik/inland/rassismus-vorwuerfe-waldemar-hartmann-post-elif-eralp-42901960",
+      "bild_url": "https://i0.web.de/image/962/42901962%2cpd=1%2cf=responsive169-w300/waldemar-hartmann-erntet-beitrag-elif-eralp-scharf.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Parteiübergreifende Kritik",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Drei deutschsprachige Städte zählen zu Europas schönsten Reisezielen",
+      "teasertext": "Galerie Laut US-Reisemagazin Drei deutschsprachige Städte zählen zu Europas schönsten Reisezielen",
+      "url": "https://web.de/magazine/reise/schoensten-kleinstaedte-europas-deutschsprachige-staedte-42901246",
+      "bild_url": "https://i0.web.de/image/286/42901286%2cpd=6%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Laut US-Reisemagazin",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

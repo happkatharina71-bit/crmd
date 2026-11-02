@@ -1,0 +1,88 @@
+{
+ "run_id": "2026-11-02-16-33",
+ "erfasst_am": "2026-11-02T16:33:33.129Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Serverraum mit beleuchteten Racks",
+   "personen": []
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Frau am Pult mit Mikrofonen",
+   "personen": [
+    {
+     "name": "Reiche",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Frau mit dunklem Haar im rostroten Blazer am Pressepult; Headline: Reiche plant Spritpreisdeckel, Bild ihr zuordenbar"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 15,
+   "menschenmenge": "ja",
+   "notiz": "Jubelnder Fahrer mit Pokal und Mercedes-Stern, Fotografierende und Publikum im Hintergrund (Schätzung, nur gezählt)",
+   "personen": [
+    {
+     "name": "Antonelli",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Junger Mann mit Mercedes-Kappe und Pokal jubelt; Dachzeile nennt Antonelli, Headline: Mercedes formte ihn zum Weltmeister"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt im TV-Studio",
+   "personen": [
+    {
+     "name": "Hartmann",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Älterer Mann mit grauem Haar und grauem Sakko, Headset-Mikrofon; Headline: Rassismus-Vorwürfe gegen Waldemar Hartmann, Bild ihm zuordenbar"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Insel mit Kirche in einem Bergsee, Luftaufnahme",
+   "personen": []
+  }
+ ]
+}

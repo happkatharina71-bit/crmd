@@ -506,3 +506,6 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-02-12-29,5,1,,maennlich,mittel,poc,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spieler im weißen Trikot Nr. 4 mit Kapitänsabzeichen; steht für den Sieg, um den es in der Headline geht; nicht namentlich genannt"
 2026-11-02-12-29,5,2,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Spieler im roten Trikot links, Gesicht nicht sichtbar"
 2026-11-02-12-29,5,3,,maennlich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit weißer Kappe und grauem Hoodie im Hintergrund
+2026-11-02-16-33,2,1,Reiche,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,mittel,"Frau mit dunklem Haar im rostroten Blazer am Pressepult; Headline: Reiche plant Spritpreisdeckel, Bild ihr zuordenbar"
+2026-11-02-16-33,3,1,Antonelli,maennlich,jung,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Junger Mann mit Mercedes-Kappe und Pokal jubelt; Dachzeile nennt Antonelli, Headline: Mercedes formte ihn zum Weltmeister"
+2026-11-02-16-33,4,1,Hartmann,maennlich,alt,weiss,hauptperson,namentlich,passiv,neutral,ja,mittel,"Älterer Mann mit grauem Haar und grauem Sakko, Headset-Mikrofon; Headline: Rassismus-Vorwürfe gegen Waldemar Hartmann, Bild ihm zuordenbar"
