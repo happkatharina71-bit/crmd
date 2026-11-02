@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-02-09-17",
+  "erfasst_am": "2026-11-02T09:17:54.199Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "\"Vertrauen kommt nicht über Nacht zurück, das muss man sich verdienen\"",
+      "teasertext": "Interview CDU-Politiker Hose \"Vertrauen kommt nicht über Nacht zurück, das muss man sich verdienen\"",
+      "url": "https://web.de/magazine/politik/inland/michael-hose-vertrauen-nacht-zurueck-42894600",
+      "bild_url": "https://i0.web.de/image/604/42894604%2cpd=2%2cf=responsive169-w950/michael-hose.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Interview CDU-Politiker Hose",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Bärbel Bas spricht über Tod ihrer Stieftochter und Ärger über Union",
+      "teasertext": "Interview nach Rücktritt Bärbel Bas spricht über Tod ihrer Stieftochter und Ärger über Union",
+      "url": "https://web.de/magazine/politik/inland/baerbel-bas-spricht-tod-stieftochter-aerger-union-42900500",
+      "bild_url": "https://i0.web.de/image/502/42900502%2cpd=1%2cf=responsive169-w300/baerbel-bas.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Interview nach Rücktritt",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Tausende Mieter alarmierten über App die Ämter",
+      "teasertext": "Linke zieht Zwischenbilanz Tausende Mieter alarmierten über App die Ämter",
+      "url": "https://web.de/magazine/politik/inland/tausende-mieter-alarmierten-app-aemter-42900074",
+      "bild_url": "https://i0.web.de/image/076/42900076%2cpd=1%2cf=responsive169-w300/symbolbildproduktion-wohnen-frankfurt.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Linke zieht Zwischenbilanz",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Riesenzoff bei Ferrari: Lewis Hamilton stinksauer",
+      "teasertext": "Grund ist sein Teamkollege Riesenzoff bei Ferrari: Lewis Hamilton stinksauer",
+      "url": "https://web.de/magazine/sport/formel-1/riesenzoff-ferrari-lewis-hamilton-stinksauer-42900318",
+      "bild_url": "https://i0.web.de/image/320/42900320%2cpd=2%2cf=responsive169-w300/grand-prix-mexiko.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Grund ist sein Teamkollege",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Nadeln in Süßigkeiten in mehreren Bundesländern entdeckt",
+      "teasertext": "Der Schrecken nach Halloween Nadeln in Süßigkeiten in mehreren Bundesländern entdeckt",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/achtung-nadeln-halloween-suessigkeiten-faelle-mehreren-bundeslaendern-42899842",
+      "bild_url": "https://i0.web.de/image/382/42900382%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Der Schrecken nach Halloween",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+ "run_id": "2026-11-02-09-17",
+ "erfasst_am": "2026-11-02T09:17:54.199Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt im Plenarsaal",
+   "personen": [
+    {
+     "name": "Hose",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit Bart im grauen Anzug im Parlament; Dachzeile: Interview CDU-Politiker Hose, Headline zitiert ihn, Bild ihm zuordenbar"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt",
+   "personen": [
+    {
+     "name": "Bärbel Bas",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Frau mit blondem Haar und rosa Bluse spricht, als Bärbel Bas erkennbar; Headline: sie spricht über Tod ihrer Stieftochter und Ärger über Union"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Wohnhäuser mit Balkonen",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Ferrari-Rennwagen auf der Strecke; Fahrer nur als Helme sichtbar, nicht erkennbar",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Collage: Süßigkeiten mit Nadeln; nur eine Hand sichtbar, keine Person erkennbar",
+   "personen": []
+  }
+ ]
+}

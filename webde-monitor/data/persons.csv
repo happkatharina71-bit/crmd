@@ -494,3 +494,5 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-02-06-15,4,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,passiv,neutral,nein,mittel,Kind mit Totenkopfmaske rechts
 2026-11-02-06-15,4,4,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,passiv,neutral,nein,niedrig,"Kind mit weißer Maske im Hintergrund, verdeckt"
 2026-11-02-06-15,5,1,,maennlich,jung,poc,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Mann mit langen Locs im schwarzen Umhang; Headline: 'Harry Potter'-Star verteidigt Rolle nach Morddrohungen, nicht namentlich genannt"
+2026-11-02-09-17,1,1,Hose,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,mittel,"Mann mit Bart im grauen Anzug im Parlament; Dachzeile: Interview CDU-Politiker Hose, Headline zitiert ihn, Bild ihm zuordenbar"
+2026-11-02-09-17,2,1,Bärbel Bas,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Frau mit blondem Haar und rosa Bluse spricht, als Bärbel Bas erkennbar; Headline: sie spricht über Tod ihrer Stieftochter und Ärger über Union"
