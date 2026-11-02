@@ -1,0 +1,141 @@
+{
+ "run_id": "2026-11-02-06-15",
+ "erfasst_am": "2026-11-02T06:15:39.559Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann mit Hand am Kinn vor Pressewand; als Merz erkennbar, aber nur als 'Kanzler' bezeichnet, daher ohne Namen",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "unklar",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit Brille im karierten Sakko, nachdenklich; Headline: Kanzler trifft auf verärgerte CDU-Basis, nicht namentlich genannt"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "In Plastik verpackte Paprika",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Jubelnder Fahrer mit Pokal und Mercedes-Stern; Hände mit Handys im Vordergrund nicht gezählt",
+   "personen": [
+    {
+     "name": "Antonelli",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Junger Mann mit Mercedes-Kappe und Pokal, Tränen und Jubel; Headline: Antonelli krönt sich zum Weltmeister, Bild ihm zuordenbar"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 4,
+   "menschenmenge": "nein",
+   "notiz": "Kostümierte Kinder an einer Haustür, Erwachsenenhand reicht Süßigkeiten (Hand nicht gezählt); Merkmale wegen Masken/Kostümen weitgehend nicht codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "jung",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Kind im Piratenkostüm mit Bart und Fahne in der Mitte, Gesicht teils verdeckt; steht für Kinder, die Halloween-Süßigkeiten bekommen"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Kind im Gespensterkostüm mit Maske links"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Kind mit Totenkopfmaske rechts"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Kind mit weißer Maske im Hintergrund, verdeckt"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann im dunklen Umhang in verschneitem Wald (Szenenbild)",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit langen Locs im schwarzen Umhang; Headline: 'Harry Potter'-Star verteidigt Rolle nach Morddrohungen, nicht namentlich genannt"
+    }
+   ]
+  }
+ ]
+}

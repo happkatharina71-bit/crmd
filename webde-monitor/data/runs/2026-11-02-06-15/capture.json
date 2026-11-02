@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-02-06-15",
+  "erfasst_am": "2026-11-02T06:15:39.559Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Alarmstufe \"dunkelrot\": Kanzler trifft auf verärgerte CDU-Basis",
+      "teasertext": "Frust über Bundespolitik Alarmstufe \"dunkelrot\": Kanzler trifft auf verärgerte CDU-Basis",
+      "url": "https://web.de/magazine/politik/inland/alarmstufe-dunkelrot-kanzler-trifft-veraergerte-basis-42900164",
+      "bild_url": "https://i0.web.de/image/300/42900300%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Frust über Bundespolitik",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Wirtschaftsverbände laufen Sturm gegen geplante Plastiksteuer",
+      "teasertext": "Brief ans Kanzleramt Wirtschaftsverbände laufen Sturm gegen geplante Plastiksteuer",
+      "url": "https://web.de/magazine/wirtschaft/wirtschaftsverbaende-laufen-sturm-geplante-plastiksteuer-42900056",
+      "bild_url": "https://i0.web.de/image/280/42900280%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Brief ans Kanzleramt",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Antonelli krönt sich zum jüngsten Formel-1-Weltmeister",
+      "teasertext": "Tränen und Jubel Antonelli krönt sich zum jüngsten Formel-1-Weltmeister",
+      "url": "https://web.de/magazine/sport/formel-1/antonelli-kroent-juengsten-formel-1-weltmeister-42899692",
+      "bild_url": "https://i0.web.de/image/240/42900240%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Tränen und Jubel",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Achtung vor Nadeln in Halloween-Süßigkeiten – Fälle in mehreren Bundesländern",
+      "teasertext": "Was die Behörden raten Achtung vor Nadeln in Halloween-Süßigkeiten – Fälle in mehreren Bundesländern",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/achtung-nadeln-halloween-suessigkeiten-faelle-mehreren-bundeslaendern-42899842",
+      "bild_url": "https://i0.web.de/image/844/42899844%2cpd=1%2cf=responsive169-w300/abstand-maske-halloween.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Was die Behörden raten",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Nach Morddrohungen: \"Harry Potter\"-Star verteidigt Rolle",
+      "teasertext": "Er spielt Severus Snape Nach Morddrohungen: \"Harry Potter\"-Star verteidigt Rolle",
+      "url": "https://web.de/magazine/unterhaltung/filme-serien-kino/harry-potter/morddrohungen-harry-potter-star-paapa-essiedu-verteidigt-rolle-42899490",
+      "bild_url": "https://i0.web.de/image/492/42899492%2cpd=1%2cf=responsive169-w300/paapa-essiedu-severus-snape-harry-potter-serie.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Er spielt Severus Snape",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

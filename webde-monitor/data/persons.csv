@@ -487,3 +487,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-01-20-13,4,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit Brille rechts, blickt auf Handy"
 2026-11-01-20-13,5,1,Michael Douglas,maennlich,alt,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann mit weißem Haar im blauen Sakko rechts, als Michael Douglas erkennbar; Headline: Douglas verrät etwas"
 2026-11-01-20-13,5,2,Jack Nicholson,maennlich,alt,weiss,nebenperson,namentlich,passiv,neutral,nein,hoch,"Mann mit getönter Brille und roter Krawatte links, als Jack Nicholson erkennbar; über sein Befinden wird berichtet"
+2026-11-02-06-15,1,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,unklar,mittel,"Mann mit Brille im karierten Sakko, nachdenklich; Headline: Kanzler trifft auf verärgerte CDU-Basis, nicht namentlich genannt"
+2026-11-02-06-15,3,1,Antonelli,maennlich,jung,weiss,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Junger Mann mit Mercedes-Kappe und Pokal, Tränen und Jubel; Headline: Antonelli krönt sich zum Weltmeister, Bild ihm zuordenbar"
+2026-11-02-06-15,4,1,,nicht_erkennbar,jung,nicht_erkennbar,hauptperson,indirekt,passiv,neutral,nein,mittel,"Kind im Piratenkostüm mit Bart und Fahne in der Mitte, Gesicht teils verdeckt; steht für Kinder, die Halloween-Süßigkeiten bekommen"
+2026-11-02-06-15,4,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,passiv,neutral,nein,mittel,Kind im Gespensterkostüm mit Maske links
+2026-11-02-06-15,4,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,passiv,neutral,nein,mittel,Kind mit Totenkopfmaske rechts
+2026-11-02-06-15,4,4,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,passiv,neutral,nein,niedrig,"Kind mit weißer Maske im Hintergrund, verdeckt"
+2026-11-02-06-15,5,1,,maennlich,jung,poc,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Mann mit langen Locs im schwarzen Umhang; Headline: 'Harry Potter'-Star verteidigt Rolle nach Morddrohungen, nicht namentlich genannt"
