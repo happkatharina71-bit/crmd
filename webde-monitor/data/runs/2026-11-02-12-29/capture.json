@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-02-12-29",
+  "erfasst_am": "2026-11-02T12:29:08.018Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Ärger um neuen Bundeswehrhubschrauber",
+      "teasertext": "Bericht des \"Spiegel\" Ärger um neuen Bundeswehrhubschrauber",
+      "url": "https://web.de/magazine/politik/inland/25-milliarden-euro-hubschrauber-schiessen-42900986",
+      "bild_url": "https://i0.web.de/image/320/42901320%2cpd=5%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Bericht des \"Spiegel\"",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Über das Missverständnis, nach überstandenem Krebs sei alles wieder gut",
+      "teasertext": "Kolumne Autorin hatte Brustkrebs Über das Missverständnis, nach überstandenem Krebs sei alles wieder gut",
+      "url": "https://web.de/magazine/gesundheit/ueberstandenem-krebs-gut-42884032",
+      "bild_url": "https://i0.web.de/image/580/42894580%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Kolumne Autorin hatte Brustkrebs",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Freunde lassen 20-Jährigen auf dem Weg zum Gipfel einfach zurück",
+      "teasertext": "Einsatz im Hochkönigmassiv Freunde lassen 20-Jährigen auf dem Weg zum Gipfel einfach zurück",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/freunde-20-jaehrigen-gipfel-zurueck-42901412",
+      "bild_url": "https://i0.web.de/image/414/42901414%2cpd=5%2cf=responsive169-w300/20-jaehriger-deutscher-bergsteiger-oesterreich-geb.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Einsatz im Hochkönigmassiv",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "\"Das sage ich jetzt zum ersten Mal\": Jan Hofer verrät sein wahres Alter",
+      "teasertext": "Mehrere Geburtsjahre kursieren \"Das sage ich jetzt zum ersten Mal\": Jan Hofer verrät sein wahres Alter",
+      "url": "https://web.de/magazine/unterhaltung/stars/jan-hofer-verraet-wahres-alter-42900804",
+      "bild_url": "https://i0.web.de/image/944/42900944%2cpd=1%2cf=responsive169-w300/jan-hofer.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Mehrere Geburtsjahre kursieren",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Das gab es seit 52 Jahren nicht: So kann man auch gewinnen!",
+      "teasertext": "Das war der 8. NFL-Spieltag Das gab es seit 52 Jahren nicht: So kann man auch gewinnen!",
+      "url": "https://web.de/magazine/sport/nfl/52-jahren-gewinnen-42901158",
+      "bild_url": "https://i0.web.de/image/344/42901344%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Das war der 8. NFL-Spieltag",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
