@@ -25,3 +25,16 @@ Seit 21.10. mittags laufen alle Erhebungen in derselben Sitzung (eine eigene Sit
 - `capture.mjs` am 21.10.2026 gegen web.de getestet: Consent wird bestätigt, die 5 Topteaser (Aufmacher + 4 Listenteaser) werden korrekt erfasst.
 - Benötigte Domains in der Netzwerk-Freigabe: `web.de`, `*.web.de`, `*.uicdn.com`.
 - Dashboard: noch offen.
+
+## Geplante Nachcodierung nach Abschluss (erst nach ausdrücklichem Go)
+
+Nach dem 20.11.2026 sollen alle Teaser anhand der gespeicherten Texte (capture.json, CSV) und Bilder nachträglich ergänzt werden. Ziel: faktenbasiert zeigen, wo bei Themensetzung und Bebilderung Spielraum für eine ausgewogenere Verteilung von Geschlechtern und Altersgruppen bestand.
+
+Geplante zusätzliche Felder je Teaser:
+1. **Themensetzung:** aktuell/unvermeidbar (z. B. Regierung, Krieg, Krawalle, große Sportereignisse) vs. redaktionell gesetzt (z. B. Gesundheit, Ratgeber, Promis, Kurioses).
+2. **Bildbindung:** zwingend (Person ist das Thema) / naheliegend / frei (Symbolbild).
+3. **Vom Text vorgegebene Protagonist*innen** (falls vorhanden): wer, Geschlecht, Alter.
+
+Auswertung: Kreuzung dieser Felder mit den vorhandenen Bild-Codierungen; die inhaltliche Analyse übernimmt die Projektverantwortliche.
+
+**Vorgehen:** Nach Abschluss der Erhebung NICHT selbstständig starten. Erst aktiv nachfragen, ob die Nachcodierung beginnen soll, und auf ein ausdrückliches Go warten.
