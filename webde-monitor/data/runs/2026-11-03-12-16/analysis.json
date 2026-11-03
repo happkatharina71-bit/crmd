@@ -1,0 +1,128 @@
+{
+ "run_id": "2026-11-03-12-16",
+ "erfasst_am": "2026-11-03T12:16:00.874Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt vor EU- und Deutschlandflagge",
+   "personen": [
+    {
+     "name": "Petra Pau",
+     "geschlecht": "weiblich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Frau mit kurzem rotblondem Haar und gemusterter Bluse vor Flaggen; Headline zitiert Petra Pau, Bild ihr zuordenbar"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "China-Fähnchen vor MediaMarkt-Filiale; Passanten im Hintergrund winzig, nicht gezählt",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 25,
+   "menschenmenge": "ja",
+   "notiz": "Parteitagshalle der Grünen in der Pause, Personen klein und dunkel (Schätzung); eine Figur stellvertretend codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "unklar",
+     "sicherheit": "niedrig",
+     "begruendung": "Person im Gang vorne, Silhouette von hinten; Personen in der Halle stehen für die Grünen"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Frau im pinken Kleid, links angeschnittene Person mit Schleier",
+   "personen": [
+    {
+     "name": "Melissa Heitmann",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Blonde Frau im Profil mit Ansteckmikrofon; Headline nennt Melissa Heitmann, Bild ihr zuordenbar"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person am linken Rand hinter pinkem Tüll, angeschnitten"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Schwarz-Weiß-Foto eines Fußballspielers beim Aufwärmen, weiterer Spieler rechts unten; Hautfarbe wegen S/W nicht codiert",
+   "personen": [
+    {
+     "name": "Jesus de Miguel",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Spieler mit Bart im Leibchen; Headline: Tod von Jesus de Miguel, S/W-Gedenkbild ihm zuordenbar"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Weiterer Spieler rechts unten, angeschnitten"
+    }
+   ]
+  }
+ ]
+}

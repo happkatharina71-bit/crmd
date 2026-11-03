@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-03-12-16",
+  "erfasst_am": "2026-11-03T12:16:00.874Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Petra Pau: \"Ich bin fest überzeugt: Der NSU war kein Trio\"",
+      "teasertext": "Interview 15 Jahre Selbstenttarnung Petra Pau: \"Ich bin fest überzeugt: Der NSU war kein Trio\"",
+      "url": "https://web.de/magazine/politik/inland/petra-pau-fest-ueberzeugt-nsu-trio-42896618",
+      "bild_url": "https://i0.web.de/image/648/42896648%2cpd=3%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Interview 15 Jahre Selbstenttarnung",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Trotz Drohungen aus Peking – EU winkt Milliarden-Übernahme durch",
+      "teasertext": "MediaMarktSaturn Trotz Drohungen aus Peking – EU winkt Milliarden-Übernahme durch",
+      "url": "https://web.de/magazine/wirtschaft/trotz-drohungen-peking-eu-winkt-milliarden-uebernahme-42905432",
+      "bild_url": "https://i0.web.de/image/454/42905454%2cpd=5%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "MediaMarktSaturn",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Grüne wollen Nicht-Mitglieder auf ihre Bühne holen",
+      "teasertext": "Redner können sich bewerben Grüne wollen Nicht-Mitglieder auf ihre Bühne holen",
+      "url": "https://web.de/magazine/politik/inland/gruenen-meinung-partei-laedt-mitglieder-42901492",
+      "bild_url": "https://i0.web.de/image/528/42901528%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Redner können sich bewerben",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Melissa Heitmann bricht Schwangerschaft nach langer Überlegung ab",
+      "teasertext": "Zuspruch und Kritik Melissa Heitmann bricht Schwangerschaft nach langer Überlegung ab",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/melissa-heitmann-bricht-schwangerschaft-langer-ueberlegung-42904868",
+      "bild_url": "https://i0.web.de/image/186/41766186%2cpd=2%2cf=responsive169-w300/melissa-heitmann.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Zuspruch und Kritik",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Fassungslosigkeit nach Tod von Jesus de Miguel",
+      "teasertext": "Gestorben nach Foul Fassungslosigkeit nach Tod von Jesus de Miguel",
+      "url": "https://web.de/magazine/sport/fussball/international/fassungslosigkeit-tod-jesus-de-miguel-42905074",
+      "bild_url": "https://i0.web.de/image/268/42905268%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Gestorben nach Foul",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
