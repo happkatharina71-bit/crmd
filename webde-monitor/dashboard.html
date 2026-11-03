@@ -267,7 +267,7 @@ function render() {
     + block('Wahrgenommen als PoC/<i>weiß</i>', 'hautfarbe', ['poc', 'weiss']) : '<p class="empty">Keine Personen im gewählten Zeitraum.</p>';
 
   // Abgleich Nutzende (feste Referenz) vs. Hauptpersonen im Bild (gefiltert)
-  const mColor = { nutz: 'var(--p2)', bild: 'var(--p1)' };
+  const mColor = { nutz: '#5c7d85', bild: '#eca95b' };
   const haupt = persons.filter((p) => p.bildrolle === 'hauptperson');
   const bar = (v, c, tip) => `<div class="stack" style="background:var(--line)"><div style="width:${v}%;background:${c}" data-tip="${tip}"></div></div><span class="note num">${fmt(v, 0)} %</span>`;
   const mblock = (title, field, cats) => {
