@@ -524,3 +524,7 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-03-06-13,5,3,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Junge Frau mit dunklem Haar dahinter, teils verdeckt"
 2026-11-03-06-13,5,4,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Frau am linken Rand, angeschnitten"
 2026-11-03-06-13,5,5,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Sicherheitskraft am rechten Rand, angeschnitten"
+2026-11-03-09-13,1,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,nicht_thematisiert,reich_maechtig,unklar,mittel,"Abgeordnete stehen und applaudieren im Plenarsaal, Einzelne zu klein für Merkmale; stehen für den Kongress, um den es bei den Zwischenwahlen geht"
+2026-11-03-09-13,2,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Person in dunkler Kleidung kniet vor Kühlregal, Gesicht abgewandt; steht für betroffene Supermärkte"
+2026-11-03-09-13,3,1,Daniel Brühl,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann mit Bart im schwarzen Hemd gestikuliert am Mikrofon, als Daniel Brühl erkennbar; Headline: Interview mit ihm"
+2026-11-03-09-13,5,1,,maennlich,mittel,nicht_erkennbar,hauptperson,indirekt,passiv,neutral,nein,mittel,"Spieler im Trikot klatscht, Schwarz-Weiß-Bild; Headline: spanischer Fußballprofi stirbt nach Foul, nicht namentlich genannt"

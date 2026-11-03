@@ -1,0 +1,102 @@
+{
+ "run_id": "2026-11-03-09-13",
+ "erfasst_am": "2026-11-03T09:13:34.349Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 300,
+   "menschenmenge": "ja",
+   "notiz": "Voll besetzter Plenarsaal des US-Kongresses (Schätzung); Personen klein, eine Figur stellvertretend codiert; Redner am Pult zu klein für Zuordnung",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "unklar",
+     "sicherheit": "mittel",
+     "begruendung": "Abgeordnete stehen und applaudieren im Plenarsaal, Einzelne zu klein für Merkmale; stehen für den Kongress, um den es bei den Zwischenwahlen geht"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Leere Kühlregale im Supermarkt, eine Person kniet an einer Kühltür",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person in dunkler Kleidung kniet vor Kühlregal, Gesicht abgewandt; steht für betroffene Supermärkte"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann im Tonstudio vor Mikrofon",
+   "personen": [
+    {
+     "name": "Daniel Brühl",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit Bart im schwarzen Hemd gestikuliert am Mikrofon, als Daniel Brühl erkennbar; Headline: Interview mit ihm"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Luftaufnahme eines großen Werksgeländes",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Schwarz-Weiß-Porträt eines Fußballspielers; Hautfarbe wegen S/W nicht codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Spieler im Trikot klatscht, Schwarz-Weiß-Bild; Headline: spanischer Fußballprofi stirbt nach Foul, nicht namentlich genannt"
+    }
+   ]
+  }
+ ]
+}

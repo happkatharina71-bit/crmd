@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-03-09-13",
+  "erfasst_am": "2026-11-03T09:13:34.349Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Was genau passiert bei den Zwischenwahlen in den USA?",
+      "teasertext": "Die Midterms einfach erklärt Was genau passiert bei den Zwischenwahlen in den USA?",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/midterms-2026-genau-passiert-zwischenwahlen-usa-42862796",
+      "bild_url": "https://i0.web.de/image/344/42864344%2cpd=2%2cf=responsive169-w950/kongresswahlen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Die Midterms einfach erklärt",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Hackerangriffe auf Supermärkte in Europa – nun auch Deutschland betroffen",
+      "teasertext": "50 Grad in Kühlanlagen Hackerangriffe auf Supermärkte in Europa – nun auch Deutschland betroffen",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/hackerangriffe-supermaerkte-europa-deutschland-betroffen-42904536",
+      "bild_url": "https://i0.web.de/image/542/42904542%2cpd=2%2cf=responsive169-w300/cyberangriffe-supermaerkte-schweden.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "50 Grad in Kühlanlagen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Daniel Brühl: Was ihn mit Lord Voldemort verbindet",
+      "teasertext": "Interview Harry-Potter-Hörbücher Daniel Brühl: Was ihn mit Lord Voldemort verbindet",
+      "url": "https://web.de/magazine/unterhaltung/stars/harry-potter-hoerbuecher-daniel-bruehl-lord-voldemort-verbindet-42876846",
+      "bild_url": "https://i0.web.de/image/878/42876878%2cpd=4%2cf=responsive169-w300/48-jaehrige-deutsche-schauspieler-daniel-bruehl.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Interview Harry-Potter-Hörbücher",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Schaeffler streicht Tausende Jobs und schließt Werke",
+      "teasertext": "Krise der Autoindustrie Schaeffler streicht Tausende Jobs und schließt Werke",
+      "url": "https://web.de/magazine/wirtschaft/schaeffler-streicht-tausende-jobs-schliesst-werke-42904574",
+      "bild_url": "https://i0.web.de/image/582/42904582%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Krise der Autoindustrie",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Spanischer Fußballprofi stirbt nach Foul",
+      "teasertext": "Zusammenprall mit Torwart Spanischer Fußballprofi stirbt nach Foul",
+      "url": "https://web.de/magazine/sport/fussball/international/fussballprofi-erleidet-herzstillstand-foul-42904544",
+      "bild_url": "https://i0.web.de/image/004/42905004%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Zusammenprall mit Torwart",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
