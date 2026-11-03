@@ -534,3 +534,11 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-03-12-16,4,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person am linken Rand hinter pinkem Tüll, angeschnitten"
 2026-11-03-12-16,5,1,Jesus de Miguel,maennlich,mittel,nicht_erkennbar,hauptperson,namentlich,passiv,neutral,nein,mittel,"Spieler mit Bart im Leibchen; Headline: Tod von Jesus de Miguel, S/W-Gedenkbild ihm zuordenbar"
 2026-11-03-12-16,5,2,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Weiterer Spieler rechts unten, angeschnitten"
+2026-11-03-16-14,1,1,Merz,maennlich,nicht_erkennbar,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,mittel,"Großer Mann im dunklen Mantel von hinten, Gesicht kaum sichtbar; über Headline (Merz gibt Versprechen) und Bildsituation ihm zuordenbar"
+2026-11-03-16-14,1,2,Selenskyj,maennlich,mittel,weiss,nebenperson,namentlich,passiv,reich_maechtig,ja,hoch,"Mann mit Bart in schwarzer Kleidung im Profil, als Selenskyj erkennbar; Dachzeile: Selenskyj in Berlin, die Ukraine erhält das Versprechen"
+2026-11-03-16-14,3,1,,nicht_erkennbar,nicht_erkennbar,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Sitzendes Publikum von hinten; steht für Rentner*innen, deren Renten steigen sollen"
+2026-11-03-16-14,5,1,,maennlich,jung,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Spieler im weißen Trikot Nr. 23 in der Mitte, Gesicht teils sichtbar, Arm auf Mitspieler"
+2026-11-03-16-14,5,2,,maennlich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Spieler im weißen Trikot links, Gesicht sichtbar"
+2026-11-03-16-14,5,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Schiedsrichter mit grauem Haar
+2026-11-03-16-14,5,4,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Spieler im roten Trikot Nr. 10, von hinten"
+2026-11-03-16-14,5,5,,maennlich,nicht_erkennbar,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Spieler im schwarzen Trikot rechts, Gesicht teils verdeckt"

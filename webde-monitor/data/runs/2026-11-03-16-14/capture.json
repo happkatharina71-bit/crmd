@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-03-16-14",
+  "erfasst_am": "2026-11-03T16:14:34.770Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Merz gibt der Ukraine ein Versprechen",
+      "teasertext": "Selenskyj in Berlin Merz gibt der Ukraine ein Versprechen",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/selenskyj-berlin-merz-ukraine-versprechen-42905976",
+      "bild_url": "https://i0.web.de/image/966/42905966%2cpd=3%2cf=responsive169-w950/ukrainischer-praesident-selenskyj-berlin.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Selenskyj in Berlin",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "\"Pure Arroganz\": Was hinter dem Rodungs-Skandal um Google steckt",
+      "teasertext": "Analyse Kahlschlag für den KI-Boom \"Pure Arroganz\": Was hinter dem Rodungs-Skandal um Google steckt",
+      "url": "https://web.de/magazine/wissen/natur-umwelt/pure-arroganz-rodungs-skandal-google-steckt-42900996",
+      "bild_url": "https://i0.web.de/image/662/42906662%2cpd=2%2cf=responsive169-w300/muhos.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Analyse Kahlschlag für den KI-Boom",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "So stark sollen die Renten steigen",
+      "teasertext": "Ab Juli 2027 So stark sollen die Renten steigen",
+      "url": "https://web.de/magazine/wirtschaft/renten-steigen-ab-2027-42906810",
+      "bild_url": "https://i0.web.de/image/838/42906838%2cpd=5%2cf=responsive169-w300/rentenerhoehung.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Ab Juli 2027",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Das ist die gefährlichste Stunde des Tages",
+      "teasertext": "Auf deutschen Straßen Das ist die gefährlichste Stunde des Tages",
+      "url": "https://web.de/magazine/auto/gefaehrlichste-stunde-42904186",
+      "bild_url": "https://i0.web.de/image/348/42905348%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Auf deutschen Straßen",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Fußballer stirbt nach Foul – jetzt ermittelt die Polizei",
+      "teasertext": "Tod von de Miguel Fußballer stirbt nach Foul – jetzt ermittelt die Polizei",
+      "url": "https://web.de/magazine/sport/fussball/international/fussballer-stirbt-foul-ermittelt-polizei-42906228",
+      "bild_url": "https://i0.web.de/image/056/42905056%2cpd=10%2cf=responsive169-w300/cd-tenerife-fc-andorra-jesus-de-miguel.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Tod von de Miguel",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
