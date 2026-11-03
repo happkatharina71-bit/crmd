@@ -77,6 +77,8 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
 .frame-group h3 { font-size: .8rem; color: var(--fg-2); font-weight: 600; margin: 22px 0 2px; letter-spacing: .02em; }
 .stack { display: flex; gap: 2px; height: 18px; border-radius: 4px; overflow: hidden; background: var(--line); }
 .stack div { height: 100%; }
+.match-row { display: grid; grid-template-columns: 110px 64px 1fr 40px; gap: 4px 10px; align-items: center; font-size: .88rem; margin-bottom: 6px; }
+.match-row .num { text-align: right; }
 .frame-legend { display: flex; gap: 16px; flex-wrap: wrap; font-size: .82rem; color: var(--fg-2); }
 .frame-legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 2px; margin-right: 6px; background: var(--c); }
 
@@ -130,6 +132,12 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
     <div class="panel" id="framing"></div>
   </section>
 
+  <section aria-labelledby="h-match">
+    <h2 id="h-match">Abgleich – wer klickt, wer ist zu sehen?</h2>
+    <p class="note" style="line-height:1.8">Vergleicht die Hauptpersonen in den Teaserbildern mit den Menschen, die auf den Hero klicken. Die Werte der Nutzenden sind eine feste Referenz: Klicks auf den Hero der mobilen Startseite im Oktober 2026 (interne Analytics), nur Kund*innen mit bekanntem Geschlecht bzw. Alter. Bei rund 31&nbsp;% der Klicks sind diese Angaben unbekannt. Die Bildwerte folgen dem Zeitfilter und zählen nur Hauptpersonen, bei denen das Merkmal erkennbar ist.<br>Die beiden Quellen messen Unterschiedliches (wahrgenommene Bildpersonen vs. Kundendaten) und sind nicht deckungsgleich. Der Abgleich zeigt, ob die Sichtbarkeit von Gruppen grob zur Nutzerschaft passt.</p>
+    <div class="panel" id="match"></div>
+  </section>
+
   <section aria-labelledby="h-trend">
     <h2 id="h-trend">Zeitverlauf</h2>
     <p class="note">Anteil der Teaser mit mindestens einer Frau bzw. einem Mann im Bild, pro Tag.</p>
@@ -152,6 +160,12 @@ const PIES = [
   { key: 'alter', title: 'Alter', cats: ['jung', 'mittel', 'alt', 'nicht_erkennbar'] },
   { key: 'hautfarbe', title: 'Wahrgenommen als PoC/<i>weiß</i>', cats: ['poc', 'weiss', 'nicht_erkennbar'] },
 ];
+// Referenz Nutzende: Hero-Klicks mobile Startseite, Oktober 2026, nur bekannte Werte
+// (Geschlecht: 516.925 w / 555.919 m; Alter: 20.058 U30 / 660.519 30–59 / 391.188 60+)
+const NUTZENDE = {
+  geschlecht: { weiblich: 100 * 516925 / 1072844, maennlich: 100 * 555919 / 1072844 },
+  alter: { jung: 100 * 20058 / 1071765, mittel: 100 * 660519 / 1071765, alt: 100 * 391188 / 1071765 },
+};
 const SLOT = ['--p1', '--p2', '--p3'];
 const colorFor = (cat, i) => (cat === 'nicht_erkennbar' || cat === 'unklar') ? 'var(--unk)' : `var(${SLOT[i] || '--s3'})`;
 
@@ -251,6 +265,22 @@ function render() {
     + block('Geschlecht', 'geschlecht', ['weiblich', 'maennlich'])
     + block('Alter', 'alter', ['jung', 'mittel', 'alt'])
     + block('Wahrgenommen als PoC/<i>weiß</i>', 'hautfarbe', ['poc', 'weiss']) : '<p class="empty">Keine Personen im gewählten Zeitraum.</p>';
+
+  // Abgleich Nutzende (feste Referenz) vs. Hauptpersonen im Bild (gefiltert)
+  const mColor = { nutz: 'var(--p2)', bild: 'var(--p1)' };
+  const haupt = persons.filter((p) => p.bildrolle === 'hauptperson');
+  const bar = (v, c, tip) => `<div class="stack" style="background:var(--line)"><div style="width:${v}%;background:${c}" data-tip="${tip}"></div></div><span class="note num">${fmt(v, 0)} %</span>`;
+  const mblock = (title, field, cats) => {
+    const known = haupt.filter((p) => cats.includes(p[field]));
+    return `<div class="frame-group"><h3>${title} <span class="note num" style="font-weight:400">(Bild: ${known.length} Hauptpersonen mit erkennbarem Merkmal, ${haupt.length - known.length} nicht erkennbar)</span></h3>` + cats.map((c) => {
+      const b = known.length ? 100 * known.filter((p) => p[field] === c).length / known.length : 0;
+      return `<div class="match-row"><span>${LABELS[c]}</span><span class="note">Nutzende</span>${bar(NUTZENDE[field][c], mColor.nutz, `${LABELS[c]}, Nutzende: ${fmt(NUTZENDE[field][c], 0)} %`)}`
+        + `<span></span><span class="note">Bild</span>${bar(b, mColor.bild, `${LABELS[c]}, Bild: ${fmt(b, 0)} %`)}</div>`;
+    }).join('') + '</div>';
+  };
+  document.getElementById('match').innerHTML = haupt.length ? `<div class="frame-legend"><span style="--c:${mColor.nutz}">Nutzende (Klicks, Okt. 2026)</span><span style="--c:${mColor.bild}">Hauptpersonen im Bild</span></div>`
+    + mblock('Geschlecht', 'geschlecht', ['weiblich', 'maennlich'])
+    + mblock('Alter', 'alter', ['jung', 'mittel', 'alt']) : '<p class="empty">Keine Personen im gewählten Zeitraum.</p>';
 
   renderTrend(days, teasers, persons);
   const last = TEASERS.map((t) => t.erfasst_am).sort().at(-1);
