@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-03-06-13",
+  "erfasst_am": "2026-11-03T06:13:36.685Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Der größte Mythos über Rheuma wird am Ende oft zum Verhängnis",
+      "teasertext": "Wann man zum Arzt sollte Der größte Mythos über Rheuma wird am Ende oft zum Verhängnis",
+      "url": "https://web.de/magazine/gesundheit/groesste-mythos-rheuma-verhaengnis-42884644",
+      "bild_url": "https://i0.web.de/image/836/42884836%2cpd=4%2cf=responsive169-w950/rheuma-schmerzen-finger.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Wann man zum Arzt sollte",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Nadeln in Süßigkeiten: Kinder verletzt – Fälle in fast allen Bundesländern",
+      "teasertext": "Polizei steht vor Rätsel Nadeln in Süßigkeiten: Kinder verletzt – Fälle in fast allen Bundesländern",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/nadeln-suessigkeiten-kinder-verletzt-faelle-bundeslaendern-42904300",
+      "bild_url": "https://i0.web.de/image/312/42904312%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Polizei steht vor Rätsel",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Notfallsanitäter spricht von \"kriegsähnlichen Szenen\"",
+      "teasertext": "Krawalle in Frankfurt Notfallsanitäter spricht von \"kriegsähnlichen Szenen\"",
+      "url": "https://web.de/magazine/regio/hessen/notfallsanitaeter-spricht-kriegsaehnlichen-szenen-42904036",
+      "bild_url": "https://i0.web.de/image/038/42904038%2cpd=2%2cf=responsive169-w300/ausschreitungen-frankfurt-main.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Krawalle in Frankfurt",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "So erkennst du verdeckte Narzissten – bevor sie dich manipulieren",
+      "teasertext": "Typische Anzeichen So erkennst du verdeckte Narzissten – bevor sie dich manipulieren",
+      "url": "https://web.de/magazine/wissen/psychologie/erkennst-verdeckte-narzissten-manipulieren-40148550",
+      "bild_url": "https://i0.web.de/image/868/41438868%2cpd=2%2cf=responsive169-w300/junge-gesicht-bild-mehrfach-widerspiegelt.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Typische Anzeichen",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Viertes Kind legt Nachnamen von Brad Pitt ab",
+      "teasertext": "\"Persönliche\" Gründe Viertes Kind legt Nachnamen von Brad Pitt ab",
+      "url": "https://web.de/magazine/unterhaltung/stars/viertes-kind-legt-nachnamen-brad-pitt-42903848",
+      "bild_url": "https://i0.web.de/image/850/42903850%2cpd=1%2cf=responsive169-w300/vivienne-toechter-angelina-jolie-brad-pitt-offizie.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "\"Persönliche\" Gründe",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
