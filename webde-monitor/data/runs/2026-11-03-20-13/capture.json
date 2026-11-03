@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-03-20-13",
+  "erfasst_am": "2026-11-03T20:13:58.475Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "ADHS-Medikamente und Lebenserwartung: Was die Daten zeigen – und was nicht",
+      "teasertext": "Neue Meta-Analyse ADHS-Medikamente und Lebenserwartung: Was die Daten zeigen – und was nicht",
+      "url": "https://web.de/magazine/gesundheit/adhs-medikamente-lebenserwartung-daten-zeigen--42901490",
+      "bild_url": "https://i0.web.de/image/630/42901630%2cpd=2%2cf=responsive169-w950/adhs-medikamente-lebenserwartung-metaanalyse-gesun.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Neue Meta-Analyse",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Neuer zurück im Bayern-Tor – und die Abwehr mit dem ersten kleinen Wackler",
+      "teasertext": "Live-Ticker Champions League Neuer zurück im Bayern-Tor – und die Abwehr mit dem ersten kleinen Wackler",
+      "url": "https://web.de/magazine/sport/fussball/champions-league/koenigsklassen-konferenz-live-ticker-41303232",
+      "bild_url": "https://i0.web.de/image/604/42907604%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Live-Ticker Champions League",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Trump kündigt Ende milliardenschwerer Hilfen an Israel an",
+      "teasertext": "\"Verschwendung\" von Geldern Trump kündigt Ende milliardenschwerer Hilfen an Israel an",
+      "url": "https://web.de/magazine/politik/us-politik/trump-kuendigt-milliardenschwerer-hilfen-israel-42907366",
+      "bild_url": "https://i0.web.de/image/368/42907368%2cpd=1%2cf=responsive169-w300/benjamin-netanjahu-donald-trump.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "\"Verschwendung\" von Geldern",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Trotz Krise: VW streicht Hürden für Manager-Boni zusammen",
+      "teasertext": "Autobauer schreibt rote Zahlen Trotz Krise: VW streicht Hürden für Manager-Boni zusammen",
+      "url": "https://web.de/magazine/wirtschaft/trotz-krise-vw-streicht-huerden-manager-boni-42905286",
+      "bild_url": "https://i0.web.de/image/332/42905332%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Autobauer schreibt rote Zahlen",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Bedrohliche Taxifahrt: \"Am schlimmsten ist die Sorge um die Kinder\"",
+      "teasertext": "Özdemir in heikler Situation Bedrohliche Taxifahrt: \"Am schlimmsten ist die Sorge um die Kinder\"",
+      "url": "https://web.de/magazine/politik/inland/schlimmsten-sorge-kinder-42906218",
+      "bild_url": "https://i0.web.de/image/980/42906980%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Özdemir in heikler Situation",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

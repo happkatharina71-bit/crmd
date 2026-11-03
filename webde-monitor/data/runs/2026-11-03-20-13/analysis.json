@@ -1,0 +1,155 @@
+{
+ "run_id": "2026-11-03-20-13",
+ "erfasst_am": "2026-11-03T20:13:58.475Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Hände mit Tabletten und Pillendose, Kopf einer Person unscharf am Rand, zweite kleinere Hand im Hintergrund (Symbolbild); Gesichter nicht sichtbar",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person im Strickpullover hält Tabletten in der Hand, Gesicht unscharf/abgewandt; steht für Menschen, die ADHS-Medikamente nehmen"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Zweite Hand im Hintergrund, Person nicht sichtbar"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 20,
+   "menschenmenge": "ja",
+   "notiz": "Torwart beim Aufwärmen, Publikum unscharf (Schätzung, nur gezählt)",
+   "personen": [
+    {
+     "name": "Neuer",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Torwart in rot-blauem Trainingsoberteil wirft sich nach dem Ball, als Neuer erkennbar; Headline: Neuer zurück im Bayern-Tor"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Männer beim Händedruck vor US- und Israel-Flagge; linker Mann als bekannte Person erkennbar, aber nicht genannt, daher ohne Namen",
+   "personen": [
+    {
+     "name": "Trump",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit rotem Schlips rechts, als Trump erkennbar; Headline: Trump kündigt Ende der Hilfen an Israel an"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit grauem Haar links vor Israel-Flagge; steht für Israel, dem Hilfen gestrichen werden; nicht namentlich genannt"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Männer im Anzug vor VW-Schriftzug, nicht namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann im dunklen Anzug links vor Volkswagen-Schriftzug; steht für VW-Management"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit Brille im blauen Anzug rechts; steht für VW-Management"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Redner am Mikrofon",
+   "personen": [
+    {
+     "name": "Özdemir",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit Brille im dunklen Anzug spricht am Mikrofon, als Özdemir erkennbar; Headline: bedrohliche Taxifahrt, Sorge um die Kinder; Hautfarbe rein nach Bildeindruck"
+    }
+   ]
+  }
+ ]
+}
