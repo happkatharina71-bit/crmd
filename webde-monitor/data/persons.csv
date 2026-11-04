@@ -588,3 +588,12 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-04-16-15,5,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Reisende mit Koffern vor dem Terminal, überwiegend von hinten; stellvertretend codiert"
 2026-11-04-16-15,5,2,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann im weißen T-Shirt am linken Rand, Gesicht seitlich"
 2026-11-04-16-15,5,3,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Frau im schwarzen Kleid rechts, geht ins Bild"
+2026-11-04-20-14,1,1,JD Vance,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit Bart und roter Krawatte spricht, als JD Vance erkennbar; Headline: Vance rechnet mit Trumps Iran-Politik ab"
+2026-11-04-20-14,2,1,,weiblich,mittel,poc,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Lächelnde Frau im beigen Blazer links; steht für mögliche Präsidentschaftskandidat*innen"
+2026-11-04-20-14,2,2,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,mittel,Lächelnder Mann im dunklen Sakko in der Mitte
+2026-11-04-20-14,2,3,,weiblich,mittel,nicht_erkennbar,nebenperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Frau mit langen dunklen Haaren und weißer Bluse rechts, spricht; Hautfarbe nicht eindeutig zuzuordnen"
+2026-11-04-20-14,3,1,,maennlich,jung,poc,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spieler im gelben BVB-Trikot am Ball; steht für den BVB mit der ersten Großchance"
+2026-11-04-20-14,3,2,,maennlich,jung,poc,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Spieler im grün-weißen Betis-Trikot links
+2026-11-04-20-14,3,3,,maennlich,jung,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Weiterer Dortmunder Spieler dahinter, teils verdeckt"
+2026-11-04-20-14,4,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Person im roten Kostüm hält Pokéball-Eimer mit Süßigkeiten, Gesicht nicht sichtbar; steht für Kinder an Halloween"
+2026-11-04-20-14,5,1,Fürst Albert,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,nein,hoch,"Mann mit Brille im blauen Anzug am Mikrofon, als Fürst Albert erkennbar; Headline: Fürst Albert nimmt Abschied"

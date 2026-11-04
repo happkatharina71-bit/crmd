@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-04-20-14",
+  "erfasst_am": "2026-11-04T20:14:11.920Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "JD Vance rechnet mit Trumps Iran-Politik ab – der reagiert",
+      "teasertext": "Live-Blog Midterms 2026 JD Vance rechnet mit Trumps Iran-Politik ab – der reagiert",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/midterms-live-jd-vance-rechnet-trumps-iran-politik--42905508",
+      "bild_url": "https://i0.web.de/image/178/42912178%2cpd=1%2cf=responsive169-w950/vize-praesident-jd-vance.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Live-Blog Midterms 2026",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Der Präsidentschaftswahlkampf beginnt jetzt! Wer könnte auf Trump folgen?",
+      "teasertext": "Galerie Nach den Midterms Der Präsidentschaftswahlkampf beginnt jetzt! Wer könnte auf Trump folgen?",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/praesidentschaftswahlkampf-beginnt-trump-folgen-42909408",
+      "bild_url": "https://i0.web.de/image/562/42910562%2cpd=2%2cf=responsive169-w300/kamala-harris-james-talarico-alexandria-ocasio-cor.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Galerie Nach den Midterms",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "BVB gegen Betis mit der ertsen Großchance",
+      "teasertext": "Live-Ticker Champions League BVB gegen Betis mit der ertsen Großchance",
+      "url": "https://web.de/magazine/sport/fussball/champions-league/konferenz-koenigsklasse-live-ticker-41303232",
+      "bild_url": "https://i0.web.de/image/852/42912852%2cpd=1%2cf=responsive169-w300/felix-nmecha-borussia-dortmund-zweikampf.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Live-Ticker Champions League",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Manipulierte Halloween-Süßigkeiten: Polizei hat Vermutung zum Auslöser",
+      "teasertext": "Über 80 Fälle Manipulierte Halloween-Süßigkeiten: Polizei hat Vermutung zum Auslöser",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/manipulierte-halloween-suessigkeiten-polizei-verdacht-42909222",
+      "bild_url": "https://i0.web.de/image/368/42909368%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Über 80 Fälle",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Trauer um Antoine de Massy: Fürst Albert und Familie nehmen Abschied",
+      "teasertext": "Er starb mit 29 Jahren Trauer um Antoine de Massy: Fürst Albert und Familie nehmen Abschied",
+      "url": "https://web.de/magazine/unterhaltung/adel/trauer-antoine-de-massy-fuerst-albert-familie-abschied-42912314",
+      "bild_url": "https://i0.web.de/image/316/42912316%2cpd=2%2cf=responsive169-w300/trauerfeier-antoine-de-massy-verwandten-fuerst-alb.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Er starb mit 29 Jahren",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
