@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-04-09-13",
+  "erfasst_am": "2026-11-04T09:13:37.239Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Mit so einer Klatsche für Trump haben selbst die Demokraten nicht gerechnet",
+      "teasertext": "Analyse Zwischenwahlen in den USA Mit so einer Klatsche für Trump haben selbst die Demokraten nicht gerechnet",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/midterms-2026-klatsche-trump-demokraten-gerechnet-42908568",
+      "bild_url": "https://i0.web.de/image/708/42908708%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse Zwischenwahlen in den USA",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Trumps Feindbild: Linker Kandidat El-Sayed gewinnt Senatswahl in Michigan",
+      "teasertext": "Live-Blog Midterms 2026 Trumps Feindbild: Linker Kandidat El-Sayed gewinnt Senatswahl in Michigan",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/midterms-live-linker-kandidat-el-sayed-gewinnt-senatswahl-michigan-42905508",
+      "bild_url": "https://i0.web.de/image/886/42908886%2cpd=3%2cf=responsive169-w300/abdul-el-sayed.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Live-Blog Midterms 2026",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Beenden die Demokraten-Siege Trumps Ego-Show?",
+      "teasertext": "Midterms 2026 Beenden die Demokraten-Siege Trumps Ego-Show?",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/beenden-demokraten-siege-trumps-ego-show-42908510",
+      "bild_url": "https://i0.web.de/image/088/42909088%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Midterms 2026",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Sterbezahlen bei Gebärmutterhalskrebs könnten stark steigen",
+      "teasertext": "Düstere Prognose Sterbezahlen bei Gebärmutterhalskrebs könnten stark steigen",
+      "url": "https://web.de/magazine/gesundheit/sterbezahlen-gebaermutterhalskrebs-stark-42905042",
+      "bild_url": "https://i0.web.de/image/080/42905080%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Düstere Prognose",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "\"Bei dieser Szene schockierten mich die Worte mehr, als ich vorausgesehen hatte\"",
+      "teasertext": "Interview Oriana Schrage \"Bei dieser Szene schockierten mich die Worte mehr, als ich vorausgesehen hatte\"",
+      "url": "https://web.de/magazine/unterhaltung/stars/szene-schockierten-worte-vorausgesehen-42905136",
+      "bild_url": "https://i0.web.de/image/194/42909194%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Interview Oriana Schrage",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
