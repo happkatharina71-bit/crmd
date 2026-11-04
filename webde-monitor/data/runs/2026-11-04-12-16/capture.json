@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-04-12-16",
+  "erfasst_am": "2026-11-04T12:16:04.858Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Trump droht mit \"ultimativer Macht\" seines Vetos",
+      "teasertext": "Live-Blog Midterms 2026 Trump droht mit \"ultimativer Macht\" seines Vetos",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/midterms-live-trump-droht-ultimativer-vetos-42905508",
+      "bild_url": "https://i0.web.de/image/064/42910064%2cpd=7%2cf=responsive169-w950/us-midterms-iowa.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Live-Blog Midterms 2026",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Wer Trump um die Mehrheit im Senat gebracht hat",
+      "teasertext": "Galerie Blaue Welle in den USA Wer Trump um die Mehrheit im Senat gebracht hat",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/trump-mehrheit-senat-42908344",
+      "bild_url": "https://i0.web.de/image/664/42908664%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Galerie Blaue Welle in den USA",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Janosch verzauberte Millionen Kinder – seine eigene Kindheit war unfassbar hart",
+      "teasertext": "Zum Tod des Kultautors Janosch verzauberte Millionen Kinder – seine eigene Kindheit war unfassbar hart",
+      "url": "https://web.de/magazine/unterhaltung/kultur/janosch-verzauberte-millionen-kinder-eigene-kindheit-unfassbar-hart-42909680",
+      "bild_url": "https://i0.web.de/image/062/42910062%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Zum Tod des Kultautors",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Ronaldo kontert Kritik seines Ex-Trainers mit nur einem Satz",
+      "teasertext": "Reaktion auf ten Hag Ronaldo kontert Kritik seines Ex-Trainers mit nur einem Satz",
+      "url": "https://web.de/magazine/sport/fussball/international/ronaldo-kontert-kritik-ex-trainers-satz-42909930",
+      "bild_url": "https://i0.web.de/image/982/42909982%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Reaktion auf ten Hag",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Totes Kind in Hotelzimmer in München entdeckt",
+      "teasertext": "Verdacht auf Gewalttat Totes Kind in Hotelzimmer in München entdeckt",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/totes-kind-hotelzimmer-muenchen-entdeckt-42909874",
+      "bild_url": "https://i0.web.de/image/902/42909902%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Verdacht auf Gewalttat",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

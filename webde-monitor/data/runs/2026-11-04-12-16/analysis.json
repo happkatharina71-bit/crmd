@@ -1,0 +1,141 @@
+{
+ "run_id": "2026-11-04-12-16",
+ "erfasst_am": "2026-11-04T12:16:04.858Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Nahaufnahme am Mikrofon",
+   "personen": [
+    {
+     "name": "Trump",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit roter Krawatte am Mikrofon, als Trump erkennbar; Headline: Trump droht mit seinem Veto"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 15,
+   "menschenmenge": "ja",
+   "notiz": "Jubelnde Frau auf einer Wahlparty, Unterstützende mit Schildern (Schätzung); nicht namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Lachende Frau im dunkelblauen Blazer mit erhobenen Händen auf der Bühne; steht für die Gewinner*innen, die Trump die Senatsmehrheit kosteten"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Frau rechts mit gefalteten Händen, jubelnd"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Frau mit Brille unten links, mit Schildern"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann mit Schnurrbart vor einem Plakat 'Janoschs Traumstunde'",
+   "personen": [
+    {
+     "name": "Janosch",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit grauem Haar und Schnurrbart vor Janosch-Plakat; Headline: zum Tod des Kultautors Janosch, Bild ihm zuordenbar"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 100,
+   "menschenmenge": "ja",
+   "notiz": "Spieler mit Trikot 'Ronaldo 7' von hinten, weitere Spieler und Publikum im Hintergrund (Schätzung)",
+   "personen": [
+    {
+     "name": "Ronaldo",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Spieler von hinten mit Schriftzug 'Ronaldo 7' auf dem Trikot, trinkt; Headline: Ronaldo kontert Kritik"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann im grauen Shirt rechts, streckt die Hand aus"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Polizeiauto mit Blaulicht im Einsatz",
+   "personen": []
+  }
+ ]
+}
