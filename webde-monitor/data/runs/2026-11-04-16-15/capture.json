@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-04-16-15",
+  "erfasst_am": "2026-11-04T16:15:32.081Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Der \"blaue Tsunami\" bringt schwierige Mehrheiten",
+      "teasertext": "Analyse Nach den Midterms Der \"blaue Tsunami\" bringt schwierige Mehrheiten",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/folgen-midterms-blaue-tsunami-bringt-schwierige-mehrheiten-42910494",
+      "bild_url": "https://i0.web.de/image/598/42911598%2cpd=3%2cf=responsive169-w950/us-midterms-washington-dc.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse Nach den Midterms",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Zukünftige Gouverneurinnen schreiben US-Geschichte",
+      "teasertext": "Nach Midterms Zukünftige Gouverneurinnen schreiben US-Geschichte",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/zukuenftige-gouverneurinnen-us-geschichte-42908988",
+      "bild_url": "https://i0.web.de/image/754/42909754%2cpd=2%2cf=responsive169-w300/deb-haaland-keisha-lance-bottoms-gina-hinojosa.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Nach Midterms",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Siegmund könnte Konkurrenz bei Ministerpräsidentenwahl bekommen",
+      "teasertext": "Unerwartete Gegenkandidatin Siegmund könnte Konkurrenz bei Ministerpräsidentenwahl bekommen",
+      "url": "https://web.de/magazine/politik/inland/siegmund-bekommt-ministerpraesidentenwahl-moeglicherweise-konkurrenz-42910272",
+      "bild_url": "https://i0.web.de/image/060/42911060%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Unerwartete Gegenkandidatin",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Manipulierte Halloween-Süßigkeiten: Polizei hat Vermutung zum Auslöser",
+      "teasertext": "Über 80 Fälle Manipulierte Halloween-Süßigkeiten: Polizei hat Vermutung zum Auslöser",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/manipulierte-halloween-suessigkeiten-polizei-vermutung-ausloeser-42909222",
+      "bild_url": "https://i0.web.de/image/368/42909368%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Über 80 Fälle",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Rätsel um Mann ohne Gedächtnis scheint gelöst",
+      "teasertext": "An Flughafen gestrandet Rätsel um Mann ohne Gedächtnis scheint gelöst",
+      "url": "https://web.de/magazine/panorama/menschen-schicksale/gedaechtnis-strandet-flughafen-raetsel-neapel-scheint-geloest-42905114",
+      "bild_url": "https://i0.web.de/image/230/42905230%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "An Flughafen gestrandet",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

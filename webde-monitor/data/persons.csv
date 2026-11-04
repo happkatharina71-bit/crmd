@@ -580,3 +580,11 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-04-12-16,3,1,Janosch,maennlich,alt,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Mann mit grauem Haar und Schnurrbart vor Janosch-Plakat; Headline: zum Tod des Kultautors Janosch, Bild ihm zuordenbar"
 2026-11-04-12-16,4,1,Ronaldo,maennlich,nicht_erkennbar,nicht_erkennbar,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Spieler von hinten mit Schriftzug 'Ronaldo 7' auf dem Trikot, trinkt; Headline: Ronaldo kontert Kritik"
 2026-11-04-12-16,4,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann im grauen Shirt rechts, streckt die Hand aus"
+2026-11-04-16-15,2,1,,weiblich,mittel,poc,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Lachende Frau mit lockigem Haar am Rednerpult links; steht für die künftigen Gouverneurinnen"
+2026-11-04-16-15,2,2,,weiblich,mittel,nicht_erkennbar,nebenperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Frau mit langem dunklem Haar und Ansteckmikrofon in der Mitte; Hautfarbe nicht eindeutig zuzuordnen"
+2026-11-04-16-15,2,3,,weiblich,alt,poc,nebenperson,indirekt,aktiv,reich_maechtig,ja,mittel,Frau mit Brille und langen dunklen Haaren rechts am Mikrofon
+2026-11-04-16-15,3,1,Siegmund,maennlich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,mittel,"Mann mit Bart im grauen Sakko hinter vielen Mikrofonen vor Sachsen-Anhalt-Wand; Headline: Siegmund könnte Konkurrenz bekommen, Bild ihm zuordenbar"
+2026-11-04-16-15,4,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Person im roten Kostüm hält Pokéball-Eimer mit Süßigkeiten, Gesicht nicht sichtbar; steht für Kinder an Halloween"
+2026-11-04-16-15,5,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Reisende mit Koffern vor dem Terminal, überwiegend von hinten; stellvertretend codiert"
+2026-11-04-16-15,5,2,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann im weißen T-Shirt am linken Rand, Gesicht seitlich"
+2026-11-04-16-15,5,3,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Frau im schwarzen Kleid rechts, geht ins Bild"
