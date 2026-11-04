@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-04-06-13",
+  "erfasst_am": "2026-11-04T06:13:50.800Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Blaue Welle erfasst Amerika – Demokraten übernehmen auch im Senat die Mehrheit",
+      "teasertext": "Live-Blog Midterms 2026 Blaue Welle erfasst Amerika – Demokraten übernehmen auch im Senat die Mehrheit",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/midterms-live-blog-demokraten-uebernehmen-senat-mehrheit-42905508",
+      "bild_url": "https://i0.web.de/image/306/42908306%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Live-Blog Midterms 2026",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Republikaner werden hart abgestraft – Trump findet einen Schuldigen",
+      "teasertext": "US-Kongresswahlen Republikaner werden hart abgestraft – Trump findet einen Schuldigen",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/republikaner-hart-abgestraft-trump-schuldigen-42907756",
+      "bild_url": "https://i0.web.de/image/468/42908468%2cpd=1%2cf=responsive169-w300/us-midterms-kapitol.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "US-Kongresswahlen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Weimer warnt: Gefahr, \"dass Deutschland uns um die Ohren fliegt\"",
+      "teasertext": "TV-Nachlese \"Maischberger\" Weimer warnt: Gefahr, \"dass Deutschland uns um die Ohren fliegt\"",
+      "url": "https://web.de/magazine/politik/politische-talkshows/weimer-warnt-maischberger-gefahr-deutschland-ohren-fliegt-42907962",
+      "bild_url": "https://i0.web.de/image/976/42907976%2cpd=1%2cf=responsive169-w300/wolfram-weimer.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "TV-Nachlese \"Maischberger\"",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Lennart Karl antwortet auf Kritik – und löst gleich die nächste Debatte aus",
+      "teasertext": "Analyse Bayern-Sieg gegen Atlético Lennart Karl antwortet auf Kritik – und löst gleich die nächste Debatte aus",
+      "url": "https://web.de/magazine/sport/fussball/champions-league/lennart-karl-antwortet-kritik-loest-naechste-debatte-42908028",
+      "bild_url": "https://i0.web.de/image/040/42908040%2cpd=1%2cf=responsive169-w300/karl-fc-bayern.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Analyse Bayern-Sieg gegen Atlético",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Brigitte Bardot rechnete vor ihrem Tod mit Lebenspartner ab",
+      "teasertext": "Brief veröffentlicht Brigitte Bardot rechnete vor ihrem Tod mit Lebenspartner ab",
+      "url": "https://web.de/magazine/unterhaltung/stars/brigitte-bardot-rechnete-tod-lebenspartner-42908276",
+      "bild_url": "https://i0.web.de/image/302/42908302%2cpd=4%2cf=responsive169-w300/brigitte-bardot-bernard-dormale.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Brief veröffentlicht",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
