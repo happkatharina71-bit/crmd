@@ -1,0 +1,115 @@
+{
+ "run_id": "2026-11-05-12-19",
+ "erfasst_am": "2026-11-05T12:19:43.759Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "US-Flaggen vor der Kapitolkuppel; winzige Silhouette unten nicht gezählt",
+   "personen": []
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 20,
+   "menschenmenge": "ja",
+   "notiz": "Lachender Mann, Publikum unscharf im Hintergrund (Schätzung, nur gezählt)",
+   "personen": [
+    {
+     "name": "Klopp",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Lachender Mann mit grauem Bart im dunkelblauen Shirt, als Klopp erkennbar; Headline: Klopp mit Überraschung im Kader"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Spieler im Portugal-Trikot",
+   "personen": [
+    {
+     "name": "Ronaldo",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Spieler im roten Portugal-Trikot, als Cristiano Ronaldo erkennbar; Headline: Ronaldo verkündet Rücktritt"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Paar vor goldverzierter Wand",
+   "personen": [
+    {
+     "name": "Aiwanger",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Lachender Mann mit roter Krawatte rechts, als Hubert Aiwanger erkennbar; Headline über die Beziehung des Paares"
+    },
+    {
+     "name": "Tanja Schweiger",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Lächelnde Frau mit rotbraunem Haar links; Headline nennt Tanja Schweiger als Partnerin, Bild ihr zuordenbar"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Kind greift nach Getränkedosen im Supermarktregal (Symbolbild)",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Kind mit kurzen Haaren greift über Dosen; steht für junge Konsument*innen koffeinhaltiger Getränke"
+    }
+   ]
+  }
+ ]
+}

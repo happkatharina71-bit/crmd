@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-05-12-19",
+  "erfasst_am": "2026-11-05T12:19:43.759Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Was die Trump-Schlappe für Deutschland bedeutet",
+      "teasertext": "Midterms Was die Trump-Schlappe für Deutschland bedeutet",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/trump-schlappe-deutschland-bedeutet-42911644",
+      "bild_url": "https://i0.web.de/image/858/42914858%2cpd=3%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Midterms",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Klopp mit Riesen-Überraschung im neuen Kader",
+      "teasertext": "Galerie DFB-Team Klopp mit Riesen-Überraschung im neuen Kader",
+      "url": "https://web.de/magazine/sport/fussball/nationalmannschaft/bundestrainer-klopp-riesen-ueberraschung-kader-37926680",
+      "bild_url": "https://i0.web.de/image/222/42911222%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Galerie DFB-Team",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Ronaldo verkündet Nationalelf-Rücktritt nach Eklat",
+      "teasertext": "Ära geht zu Ende Ronaldo verkündet Nationalelf-Rücktritt nach Eklat",
+      "url": "https://web.de/magazine/sport/fussball/international/cristiano-ronaldo-beendet-karriere-portugals-nationalteam-42914948",
+      "bild_url": "https://i0.web.de/image/954/42914954%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Ära geht zu Ende",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Hubert Aiwanger und Tanja Schweiger: Eine Liebe abseits der Öffentlichkeit",
+      "teasertext": "Mehr als 15 Jahre ein Paar Hubert Aiwanger und Tanja Schweiger: Eine Liebe abseits der Öffentlichkeit",
+      "url": "https://web.de/magazine/unterhaltung/stars/hubert-aiwanger-tanja-schweiger-liebe-abseits-oeffentlichkeit-42914422",
+      "bild_url": "https://i0.web.de/image/540/42914540%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Mehr als 15 Jahre ein Paar",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "\"Befund, der ein Ausrufezeichen verdient\": Koffein-Studie alarmiert Mediziner",
+      "teasertext": "Neue Erkenntnisse \"Befund, der ein Ausrufezeichen verdient\": Koffein-Studie alarmiert Mediziner",
+      "url": "https://web.de/magazine/gesundheit/befund-ausrufezeichen-verdient-koffein-studie-alarmiert-mediziner-42905942",
+      "bild_url": "https://i0.web.de/image/158/42915158%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Neue Erkenntnisse",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
