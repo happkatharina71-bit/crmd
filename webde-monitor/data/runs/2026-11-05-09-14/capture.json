@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-05-09-14",
+  "erfasst_am": "2026-11-05T09:14:08.367Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Hubert Aiwanger tot in Hotel gefunden – Rätsel um Todesursache",
+      "teasertext": "Freie-Wähler-Chef Hubert Aiwanger tot in Hotel gefunden – Rätsel um Todesursache",
+      "url": "https://web.de/magazine/politik/inland/hubert-aiwanger-tot-hotel-gefunden-raetsel-todesursache-42912902",
+      "bild_url": "https://i0.web.de/image/102/42914102%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Freie-Wähler-Chef",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Dax springt auf Rekordhoch",
+      "teasertext": "Eilmeldung Börse Dax springt auf Rekordhoch",
+      "url": "https://web.de/magazine/wirtschaft/dax-springt-rekordhoch-42914326",
+      "bild_url": "https://i0.web.de/image/368/35533368%2cpd=2%2cf=responsive169-w300/eilmeldung.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Eilmeldung Börse",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Vance rechnet mit Trumps Iran-Krieg ab – US-Präsident reagiert schmallippig",
+      "teasertext": "Video Nach Wahldebakel Vance rechnet mit Trumps Iran-Krieg ab – US-Präsident reagiert schmallippig",
+      "url": "https://web.de/magazine/politik/videos/wahlen/midterms/vance-rechnet-trumps-iran-krieg-us-praesident-prompt-42913324",
+      "bild_url": "https://i0.web.de/image/032/42914032%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Video Nach Wahldebakel",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Kane verlängert bei den Bayern – und formuliert sein großes Ziel",
+      "teasertext": "\"Fühle mich wie zu Hause\" Kane verlängert bei den Bayern – und formuliert sein großes Ziel",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/fc-bayern/kane-verlaengert-bayern-formuliert-grosses-ziel-42914148",
+      "bild_url": "https://i0.web.de/image/158/42914158%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "\"Fühle mich wie zu Hause\"",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Reality-Star wegen Vergewaltigung von Show-Partnerin verurteilt",
+      "teasertext": "Yasin Mohamed Reality-Star wegen Vergewaltigung von Show-Partnerin verurteilt",
+      "url": "https://web.de/magazine/unterhaltung/stars/reality-star-vergewaltigung-show-partnerin-verurteilt-42913800",
+      "bild_url": "https://i0.web.de/image/104/42914104%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Yasin Mohamed",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

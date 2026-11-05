@@ -1,0 +1,115 @@
+{
+ "run_id": "2026-11-05-09-14",
+ "erfasst_am": "2026-11-05T09:14:08.367Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Schwarz-Weiß-Porträt; Hautfarbe wegen S/W nicht codiert",
+   "personen": [
+    {
+     "name": "Aiwanger",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Mann im Sakko mit offenem Hemd, S/W-Gedenkbild, als Hubert Aiwanger erkennbar; Headline: Aiwanger tot aufgefunden"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "grafik_text",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Grafik 'Eilmeldung' auf Weltkarte",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Redner am Pult mit Siegel",
+   "personen": [
+    {
+     "name": "Vance",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit Bart und blauer Krawatte spricht gestikulierend am Pult, als JD Vance erkennbar; Headline: Vance rechnet mit Trumps Iran-Krieg ab"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 20,
+   "menschenmenge": "ja",
+   "notiz": "Spieler im Bayern-Trikot, Publikum unscharf (Schätzung, nur gezählt)",
+   "personen": [
+    {
+     "name": "Kane",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Spieler im weißen Bayern-Trikot, als Harry Kane erkennbar; Headline: Kane verlängert und formuliert sein Ziel"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Männer im Gerichtssaal, einer in Robe",
+   "personen": [
+    {
+     "name": "Yasin Mohamed",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit Halstattoo im schwarzen Anzug sitzt im Gerichtssaal; Dachzeile nennt Yasin Mohamed, Headline: Reality-Star verurteilt, Bild ihm zuordenbar; Hautfarbe nicht eindeutig zuzuordnen"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann in schwarzer Robe links, beugt sich vor, vermutlich Anwalt"
+    }
+   ]
+  }
+ ]
+}
