@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-05-16-16",
+  "erfasst_am": "2026-11-05T16:16:47.374Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Trumps Partei geht auf Abstand zu ihrem Präsidenten",
+      "teasertext": "Nach Midterms-Schlappe Trumps Partei geht auf Abstand zu ihrem Präsidenten",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/rip-maga-trumps-partei-abstand-praesidenten-42913450",
+      "bild_url": "https://i0.web.de/image/430/42914430%2cpd=5%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Nach Midterms-Schlappe",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Serie von Bombendrohungen stört europäischen Flugverkehr",
+      "teasertext": "Zweites Mal in dieser Woche Serie von Bombendrohungen stört europäischen Flugverkehr",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/serie-bombendrohungen-stoert-europaeischen-flugverkehr-42914934",
+      "bild_url": "https://i0.web.de/image/626/42915626%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Zweites Mal in dieser Woche",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Keine Anzeichen für Fremdverschulden bei Aiwangers Tod",
+      "teasertext": "Vorläufiges Obduktionsergebnis Keine Anzeichen für Fremdverschulden bei Aiwangers Tod",
+      "url": "https://web.de/magazine/politik/inland/anzeichen-fremdverschulden-aiwangers-tod-42912902",
+      "bild_url": "https://i0.web.de/image/158/42916158%2cpd=1%2cf=responsive169-w300/hubert-aiwanger.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Vorläufiges Obduktionsergebnis",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Russell Brand wegen Vergewaltigung schuldig gesprochen",
+      "teasertext": "In mehreren Anklagepunkten Russell Brand wegen Vergewaltigung schuldig gesprochen",
+      "url": "https://web.de/magazine/unterhaltung/stars/russell-brand-vergewaltigung-schuldig-gesprochen-42916198",
+      "bild_url": "https://i0.web.de/image/280/42916280%2cpd=5%2cf=responsive169-w300/prozess-comedian-schauspieler-brand-london.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "In mehreren Anklagepunkten",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "17-Jährige auf Zugspitze zurückgelassen – Ermittlungen gegen Begleiter",
+      "teasertext": "Bei minus zwölf Grad 17-Jährige auf Zugspitze zurückgelassen – Ermittlungen gegen Begleiter",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/17-jaehrige-zugspitze-zurueckgelassen-ermittlungen-begleiter-42915108",
+      "bild_url": "https://i0.web.de/image/110/42915110%2cpd=4%2cf=responsive169-w300/zugspitze.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Bei minus zwölf Grad",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
