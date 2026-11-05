@@ -1,0 +1,142 @@
+{
+ "run_id": "2026-11-05-06-13",
+ "erfasst_am": "2026-11-05T06:13:59.478Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Schwarz-Weiß-Porträt; Hautfarbe wegen S/W nicht codiert",
+   "personen": [
+    {
+     "name": "Aiwanger",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Lächelnder Mann im Sakko, S/W-Gedenkbild, als Hubert Aiwanger erkennbar; Headline: Aiwanger tot aufgefunden"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Redner im Parlament",
+   "personen": [
+    {
+     "name": "Laschet",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit Brille und hellblauer Krawatte spricht gestikulierend, als Armin Laschet erkennbar; Headline zitiert ihn"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Talkshow-Gast im Sessel",
+   "personen": [
+    {
+     "name": "zu Guttenberg",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit Brille, Bart und schwarzem Sakko gestikuliert in Talkshow, als zu Guttenberg erkennbar; Headline: er erklärt Vances Machtkalkül"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 30,
+   "menschenmenge": "ja",
+   "notiz": "Spieler schießt auf das Tor, Torwart von hinten, Publikum im Hintergrund (Schätzung); nicht namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Junger Spieler im weißen Trikot Nr. 54 nach dem Schuss; steht für die feiernde Mannschaft"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Torwart im pinken Trikot Nr. 40 von hinten"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 4,
+   "menschenmenge": "nein",
+   "notiz": "Frau im gestreiften Hemd, Person mit Locken im Vordergrund von hinten, zwei Personen unscharf im Hintergrund (nur gezählt)",
+   "personen": [
+    {
+     "name": "Meghan",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Frau mit langen dunklen Haaren im blau-weiß gestreiften Hemd, als Meghan erkennbar; Headline betrifft ihren Vater; Hautfarbe zwischen den Kategorien nicht eindeutig zuzuordnen"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person mit lockigem Haar im Vordergrund rechts, von hinten"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-05-06-13",
+  "erfasst_am": "2026-11-05T06:13:59.478Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Hubert Aiwanger tot in Hotelzimmer gefunden – Ermittlungsverfahren eingeleitet",
+      "teasertext": "Freie-Wähler-Chef Hubert Aiwanger tot in Hotelzimmer gefunden – Ermittlungsverfahren eingeleitet",
+      "url": "https://web.de/magazine/politik/inland/hubert-aiwanger-tot-hotelzimmer-gefunden-ermittlungsverfahren-eingeleitet-42912902",
+      "bild_url": "https://i0.web.de/image/636/42913636%2cpd=3%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Freie-Wähler-Chef",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Armin Laschet: \"Der MAGA-Trend in den USA ist noch aufzuhalten\"",
+      "teasertext": "Interview Nach den Midterms Armin Laschet: \"Der MAGA-Trend in den USA ist noch aufzuhalten\"",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/armin-laschet-midterms-maga-trend-aufzuhalten-42911622",
+      "bild_url": "https://i0.web.de/image/770/42911770%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Interview Nach den Midterms",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Fällt Trump? Zu Guttenberg erklärt Vances Machtkalkül",
+      "teasertext": "TV-Nachlese Maischberger Fällt Trump? Zu Guttenberg erklärt Vances Machtkalkül",
+      "url": "https://web.de/magazine/politik/politische-talkshows/faellt-trump-guttenberg-erklaert-maischberger-vances-machtkalkuel-42913612",
+      "bild_url": "https://i0.web.de/image/662/42913662%2cpd=2%2cf=responsive169-w300/karl-theodor-guttenberg-gast-sandra-maischberger.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "TV-Nachlese Maischberger",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Neuling feiert 9:1-Gala – Arsenal sorgt für Negativ-Rekord",
+      "teasertext": "Champions League Neuling feiert 9:1-Gala – Arsenal sorgt für Negativ-Rekord",
+      "url": "https://web.de/magazine/sport/fussball/champions-league/neuling-feiert-91-gala-champions-league-42912816",
+      "bild_url": "https://i0.web.de/image/776/42913776%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Champions League",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Neue Wendung im Missbrauchs-Fall um Meghans Vater",
+      "teasertext": "Ermittlungen auf Philippinen Neue Wendung im Missbrauchs-Fall um Meghans Vater",
+      "url": "https://web.de/magazine/unterhaltung/adel/britische-royals/wendung-missbrauchs-meghans-vater-42913876",
+      "bild_url": "https://i0.web.de/image/878/42913878%2cpd=2%2cf=responsive169-w300/herzogin-meghan.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Ermittlungen auf Philippinen",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
