@@ -619,3 +619,9 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-05-16-16,3,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person im dunklen Sakko am linken Rand, angeschnitten"
 2026-11-05-16-16,4,1,Russell Brand,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Mann mit langen Locken, Bart und Sonnenbrille, als Russell Brand erkennbar; Headline: er wurde schuldig gesprochen"
 2026-11-05-16-16,4,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Unscharfer Hinterkopf am rechten Rand
+2026-11-05-20-13,1,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Feuerwehrkraft mit Helm neben rotem Sichtschutz, Gesicht kaum erkennbar; steht für die Lage an Polens Ostgrenze"
+2026-11-05-20-13,1,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Viele kleine Personen und Rettungskräfte auf der Wiese, zu klein für Merkmale; stellvertretend codiert"
+2026-11-05-20-13,3,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Demonstrierende mit Handylichtern unter Transparent, Einzelne kaum erkennbar; stehen für junge Menschen und ihr Parteienvertrauen"
+2026-11-05-20-13,3,2,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,ja,niedrig,Mann mit Kappe und Rucksack am linken Rand
+2026-11-05-20-13,4,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Tätowierter Spieler im Leverkusen-Trikot gestikuliert; steht für Leverkusen im Heimspiel"
+2026-11-05-20-13,5,1,Ronaldo,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Spieler mit blondierten Haaren im Portugal-Trikot, als Cristiano Ronaldo erkennbar; Dachzeile: Reaktionen auf CR7-Rücktritt"

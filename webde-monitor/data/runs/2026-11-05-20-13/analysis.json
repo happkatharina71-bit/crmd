@@ -1,0 +1,128 @@
+{
+ "run_id": "2026-11-05-20-13",
+ "erfasst_am": "2026-11-05T20:13:34.542Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 40,
+   "menschenmenge": "ja",
+   "notiz": "Rettungsübung oder Unglücksszene neben einem Zug: Feuerwehrkraft vorne, viele kleine Personen und Rettungskräfte im Nebel (Schätzung); stellvertretend codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Feuerwehrkraft mit Helm neben rotem Sichtschutz, Gesicht kaum erkennbar; steht für die Lage an Polens Ostgrenze"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Viele kleine Personen und Rettungskräfte auf der Wiese, zu klein für Merkmale; stellvertretend codiert"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Omega-3-Kapseln und Fläschchen",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 200,
+   "menschenmenge": "ja",
+   "notiz": "Demonstration mit Transparent, Fahnen und Handylichtern (Schätzung); eine Figur stellvertretend und eine sichtbare Person codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Demonstrierende mit Handylichtern unter Transparent, Einzelne kaum erkennbar; stehen für junge Menschen und ihr Parteienvertrauen"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit Kappe und Rucksack am linken Rand"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 20,
+   "menschenmenge": "ja",
+   "notiz": "Spieler im schwarzen Leverkusen-Trikot zeigt mit dem Arm, Publikum unscharf (Schätzung, nur gezählt); nicht namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Tätowierter Spieler im Leverkusen-Trikot gestikuliert; steht für Leverkusen im Heimspiel"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Spieler im Portugal-Aufwärmtrikot vor Flutlicht",
+   "personen": [
+    {
+     "name": "Ronaldo",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Spieler mit blondierten Haaren im Portugal-Trikot, als Cristiano Ronaldo erkennbar; Dachzeile: Reaktionen auf CR7-Rücktritt"
+    }
+   ]
+  }
+ ]
+}

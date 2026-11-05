@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-05-20-13",
+  "erfasst_am": "2026-11-05T20:13:34.542Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "An Polens Ostgrenze wächst das Unbehagen",
+      "teasertext": "Ein Kilometer bis zum Krieg An Polens Ostgrenze wächst das Unbehagen",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/polens-ostgrenze-waechst-unbehagen-42916182",
+      "bild_url": "https://i0.web.de/image/228/42916228%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Ein Kilometer bis zum Krieg",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Omega-3-Präparate und Krebs: Grund zur Sorge?",
+      "teasertext": "Neue Studienergebnisse Omega-3-Präparate und Krebs: Grund zur Sorge?",
+      "url": "https://web.de/magazine/gesundheit/omega-3-praeparate-krebs-grund-sorge-42905790",
+      "bild_url": "https://i0.web.de/image/904/42905904%2cpd=1%2cf=responsive169-w300/omega-3-praeparate-omega-3-fettsaeuren-studie-kreb.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Neue Studienergebnisse",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Diesen Parteien vertrauen junge Menschen am meisten",
+      "teasertext": "Neue Wahlumfrage zeigt Diesen Parteien vertrauen junge Menschen am meisten",
+      "url": "https://web.de/magazine/politik/inland/parteien-vertrauen-junge-menschen-42917228",
+      "bild_url": "https://i0.web.de/image/232/42917232%2cpd=2%2cf=responsive169-w300/demonstrationen-gen-z-regelt-frankfurt.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Neue Wahlumfrage zeigt",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "4. Spieltag: Leverkusen zuhause gegen Olympique Marseille",
+      "teasertext": "Live-Ticker Europa League 4. Spieltag: Leverkusen zuhause gegen Olympique Marseille",
+      "url": "https://web.de/magazine/sport/fussball/europa-league/bayer-leverkusen-olympique-marseille-41831922",
+      "bild_url": "https://i0.web.de/image/328/42909328%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Live-Ticker Europa League",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "\"Eine Ära geht zu Ende\"",
+      "teasertext": "Galerie Reaktionen auf CR7-Rücktritt \"Eine Ära geht zu Ende\"",
+      "url": "https://web.de/magazine/sport/fussball/international/aera-42915784",
+      "bild_url": "https://i0.web.de/image/830/42915830%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Reaktionen auf CR7-Rücktritt",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
