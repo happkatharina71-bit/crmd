@@ -1,0 +1,142 @@
+{
+ "run_id": "2026-11-06-06-14",
+ "erfasst_am": "2026-11-06T06:14:26.899Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann am Schreibtisch vor Flaggen",
+   "personen": [
+    {
+     "name": "Trump",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit roter Krawatte am Schreibtisch gestikuliert, als Trump erkennbar; Headline: Trump kündigt Abkommen an"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Talkshow-Gast gestikuliert; nicht namentlich genannt (Merz ist genannt, aber nicht im Bild)",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "unklar",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit grauem Haar im dunklen Sakko spricht gestikulierend in Talkshow; vermutlich Urheber des zitierten Satzes, nicht namentlich genannt"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann am Mikrofon vor FDP-Wand",
+   "personen": [
+    {
+     "name": "Kubicki",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Älterer Mann mit weißem Haar vor FDP-Wand, als Kubicki erkennbar; Headline: Kubicki stellt Ultimatum"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 4,
+   "menschenmenge": "nein",
+   "notiz": "Mann und Jugendlicher auf der Tribüne, weitere Zuschauende angeschnitten",
+   "personen": [
+    {
+     "name": "Prinz William",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit Kappe und Bart auf der Tribüne, als Prinz William erkennbar; Headline: William und George brechen mit royaler Regel"
+    },
+    {
+     "name": "Prinz George",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Jugendlicher in Aston-Villa-Jacke neben ihm; Headline nennt Prinz George, Bild ihm zuordenbar"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Zuschauer oben, angeschnitten"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann mit Brille telefoniert am Laptop (Symbolbild)",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Junger Mann mit Bart und Brille telefoniert am Schreibtisch; steht für Beschäftigte, denen der Brückentag verweigert werden könnte"
+    }
+   ]
+  }
+ ]
+}

@@ -625,3 +625,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-05-20-13,3,2,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,ja,niedrig,Mann mit Kappe und Rucksack am linken Rand
 2026-11-05-20-13,4,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Tätowierter Spieler im Leverkusen-Trikot gestikuliert; steht für Leverkusen im Heimspiel"
 2026-11-05-20-13,5,1,Ronaldo,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Spieler mit blondierten Haaren im Portugal-Trikot, als Cristiano Ronaldo erkennbar; Dachzeile: Reaktionen auf CR7-Rücktritt"
+2026-11-06-06-14,1,1,Trump,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit roter Krawatte am Schreibtisch gestikuliert, als Trump erkennbar; Headline: Trump kündigt Abkommen an"
+2026-11-06-06-14,2,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,unklar,ja,mittel,"Mann mit grauem Haar im dunklen Sakko spricht gestikulierend in Talkshow; vermutlich Urheber des zitierten Satzes, nicht namentlich genannt"
+2026-11-06-06-14,3,1,Kubicki,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Älterer Mann mit weißem Haar vor FDP-Wand, als Kubicki erkennbar; Headline: Kubicki stellt Ultimatum"
+2026-11-06-06-14,4,1,Prinz William,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,nein,hoch,"Mann mit Kappe und Bart auf der Tribüne, als Prinz William erkennbar; Headline: William und George brechen mit royaler Regel"
+2026-11-06-06-14,4,2,Prinz George,maennlich,jung,weiss,nebenperson,namentlich,aktiv,reich_maechtig,nein,mittel,"Jugendlicher in Aston-Villa-Jacke neben ihm; Headline nennt Prinz George, Bild ihm zuordenbar"
+2026-11-06-06-14,4,3,,maennlich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Zuschauer oben, angeschnitten"
+2026-11-06-06-14,5,1,,maennlich,jung,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Junger Mann mit Bart und Brille telefoniert am Schreibtisch; steht für Beschäftigte, denen der Brückentag verweigert werden könnte"

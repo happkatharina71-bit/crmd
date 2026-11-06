@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-06-06-14",
+  "erfasst_am": "2026-11-06T06:14:26.899Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Trump kündigt \"großes Abkommen\" für ganz Europa an",
+      "teasertext": "Nach Gespräch mit Russland Trump kündigt \"großes Abkommen\" für ganz Europa an",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/trump-kuendigt-grosses-abkommen-europa-42917452",
+      "bild_url": "https://i0.web.de/image/794/42917794%2cpd=3%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Nach Gespräch mit Russland",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "\"Friedrich Merz hat es voll versemmelt\": Streit um Verhältnis zu den USA",
+      "teasertext": "TV-Nachlese Debatte bei Maybrit Illner \"Friedrich Merz hat es voll versemmelt\": Streit um Verhältnis zu den USA",
+      "url": "https://web.de/magazine/politik/politische-talkshows/friedrich-merz-voll-versemmelt-streit-us-politk-42917876",
+      "bild_url": "https://i0.web.de/image/910/42917910%2cpd=2%2cf=responsive169-w300/jan-van-aken.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "TV-Nachlese Debatte bei Maybrit Illner",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Kubicki stellt politisches Ultimatum: \"Dann war es das\" für die FDP",
+      "teasertext": "Schicksalswahlen 2027 Kubicki stellt politisches Ultimatum: \"Dann war es das\" für die FDP",
+      "url": "https://web.de/magazine/politik/inland/kubicki-stellt-politisches-ultimatum-fdp-42917478",
+      "bild_url": "https://i0.web.de/image/480/42917480%2cpd=3%2cf=responsive169-w300/landtagswahlen-fdp.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Schicksalswahlen 2027",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Prinz William und Prinz George brechen für Fußball mit royaler Regel",
+      "teasertext": "Überraschung im Linienflug Prinz William und Prinz George brechen für Fußball mit royaler Regel",
+      "url": "https://web.de/magazine/unterhaltung/adel/britische-royals/prinz-william-prinz-george-brechen-fussball-alter-royaler-regel-42917446",
+      "bild_url": "https://i0.web.de/image/448/42917448%2cpd=1%2cf=responsive169-w300/prinz-william-prinz-george-champions-league-spiel-.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Überraschung im Linienflug",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Darf der Chef den Brückentag verweigern?",
+      "teasertext": "Klare Rechtslage Darf der Chef den Brückentag verweigern?",
+      "url": "https://web.de/magazine/ratgeber/job-gehalt/brueckentage-chef-verweigern-42911838",
+      "bild_url": "https://i0.web.de/image/820/42911820%2cpd=3%2cf=responsive169-w300/x.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Klare Rechtslage",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
