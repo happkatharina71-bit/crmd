@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-06-20-14",
+  "erfasst_am": "2026-11-06T20:14:12.249Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Umstrittene Führerscheinreform auf den Weg gebracht – was drin steckt",
+      "teasertext": "Erster Teil beschlossen Umstrittene Führerscheinreform auf den Weg gebracht – was drin steckt",
+      "url": "https://web.de/magazine/politik/inland/fuehrerscheinreform-beschlossen-fahrschueler-sparen-42918306",
+      "bild_url": "https://i0.web.de/image/962/42919962%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Erster Teil beschlossen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Trumps Stabschefin Susie Wiles räumt ihren Posten",
+      "teasertext": "Nach Midterms-Wahldebakel Trumps Stabschefin Susie Wiles räumt ihren Posten",
+      "url": "https://web.de/magazine/politik/us-politik/trumps-stabschefin-susie-wiles-raeumt-posten-42921184",
+      "bild_url": "https://i0.web.de/image/194/42921194%2cpd=2%2cf=responsive169-w300/susie-wiles.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Nach Midterms-Wahldebakel",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Herzogin Meghans Vater Thomas Markle in den USA festgenommen",
+      "teasertext": "Vorwürfe der Kinderpornografie Herzogin Meghans Vater Thomas Markle in den USA festgenommen",
+      "url": "https://web.de/magazine/unterhaltung/adel/britische-royals/herzogin-meghans-vater-thomas-markle-usa-festgenommen-42920768",
+      "bild_url": "https://i0.web.de/image/890/42920890%2cpd=1%2cf=responsive169-w300/herzogin-meghans-vater-thomas-markle-interview.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Vorwürfe der Kinderpornografie",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Schneller Treffer: Hamburg überrascht die Gladbacher",
+      "teasertext": "Live-Ticker Bundesliga Schneller Treffer: Hamburg überrascht die Gladbacher",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/bundesliga-live-ticker-hamburg-gladbach-41292002",
+      "bild_url": "https://i0.web.de/image/286/42921286%2cpd=2%2cf=responsive169-w300/hamburger-sv-borussia-moenchengladbach.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Live-Ticker Bundesliga",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Sektenführer wegen Mordes an 190 Kindern in Kenia verurteilt",
+      "teasertext": "Hungern bis zum Tod Sektenführer wegen Mordes an 190 Kindern in Kenia verurteilt",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/sektenfuehrer-mordes-190-kindern-kenia-verurteilt-42919564",
+      "bild_url": "https://i0.web.de/image/040/42920040%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Hungern bis zum Tod",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

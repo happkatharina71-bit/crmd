@@ -662,3 +662,14 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-06-16-15,4,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person im grauen Kapuzenpulli von hinten in der Bildmitte, Gesicht nicht sichtbar"
 2026-11-06-16-15,4,2,,weiblich,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Polizistin mit Zopf rechts, von hinten; steht für die suchende Polizei"
 2026-11-06-16-15,4,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Gruppe von Polizeikräften links, klein, Gesichter kaum erkennbar; stellvertretend codiert"
+2026-11-06-20-14,2,1,Susie Wiles,weiblich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,nein,mittel,"Frau mit grauem Haar und hellgelbem Blazer; Headline: Stabschefin Susie Wiles räumt ihren Posten, Bild ihr zuordenbar"
+2026-11-06-20-14,2,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Unscharfe Person rechts im Vordergrund
+2026-11-06-20-14,3,1,Thomas Markle,maennlich,alt,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Älterer Mann mit weißem Bart im hellblauen Hemd; Headline: Thomas Markle festgenommen, Bild ihm zuordenbar"
+2026-11-06-20-14,4,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spieler im HSV-Trikot Nr. 28 jubelt; steht für Hamburg, das laut Headline überrascht"
+2026-11-06-20-14,4,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Ordner mit Headset im Hintergrund
+2026-11-06-20-14,4,3,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Fotograf mit Kamera rechts
+2026-11-06-20-14,5,1,,maennlich,mittel,poc,hauptperson,indirekt,passiv,neutral,nein,mittel,"Mann im rot-schwarz gestreiften Polo mit ernstem Blick in der Bildmitte; steht vermutlich für den verurteilten Sektenführer"
+2026-11-06-20-14,5,2,,maennlich,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit Brille im Anzug, lachend, links neben ihm"
+2026-11-06-20-14,5,3,,maennlich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann im dunklen Anzug im Vordergrund, unscharf, im Profil"
+2026-11-06-20-14,5,4,,nicht_erkennbar,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person mit Brille am linken Rand, angeschnitten"
+2026-11-06-20-14,5,5,,maennlich,nicht_erkennbar,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Uniformierter rechts, Gesicht angeschnitten"
