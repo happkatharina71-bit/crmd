@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-06-16-15",
+  "erfasst_am": "2026-11-06T16:15:14.358Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Merz konnte die Aigner-Welle nicht mehr stoppen",
+      "teasertext": "Analyse Sie soll Steinmeier nachfolgen Merz konnte die Aigner-Welle nicht mehr stoppen",
+      "url": "https://web.de/magazine/politik/inland/bundespraesidentin-merz-aigner-welle-stoppen-42919852",
+      "bild_url": "https://i0.web.de/image/912/42919912%2cpd=5%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse Sie soll Steinmeier nachfolgen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Die \"grüne Lunge der Erde\" hat Atemnot",
+      "teasertext": "Aktuelle Klimanews Die \"grüne Lunge der Erde\" hat Atemnot",
+      "url": "https://web.de/magazine/wissen/klima/gruene-lunge-erde-atemnot-42910288",
+      "bild_url": "https://i0.web.de/image/752/42919752%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Aktuelle Klimanews",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Monika Gruber kritisiert Reaktionen auf Hubert Aiwangers Tod",
+      "teasertext": "Geschmacklose Kommentare Monika Gruber kritisiert Reaktionen auf Hubert Aiwangers Tod",
+      "url": "https://web.de/magazine/unterhaltung/stars/monika-gruber-kritisiert-reaktionen-hubert-aiwangers-tod-42919598",
+      "bild_url": "https://i0.web.de/image/742/42920742%2cpd=2%2cf=responsive169-w300/bildkombo-monika-gruberhubert-aiwanger.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Geschmacklose Kommentare",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "13-jährige Lisa T. aus Berlin seit drei Tagen vermisst",
+      "teasertext": "Polizei sucht mit Spürhunden 13-jährige Lisa T. aus Berlin seit drei Tagen vermisst",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/13-jaehrige-lisa-t-berlin-tagen-vermisst-42920078",
+      "bild_url": "https://i0.web.de/image/470/42920470%2cpd=2%2cf=responsive169-w300/suche-vermisster-schuelerin.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Polizei sucht mit Spürhunden",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Forschungsteam entwickelt neue Ernährungspyramide – das ändert sich",
+      "teasertext": "Ernährungstipps Forschungsteam entwickelt neue Ernährungspyramide – das ändert sich",
+      "url": "https://web.de/magazine/ratgeber/essen-trinken/forschungsteam-entwickelt-ernaehrungspyramide-aendert-42918522",
+      "bild_url": "https://i0.web.de/image/898/42918898%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Ernährungstipps",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
