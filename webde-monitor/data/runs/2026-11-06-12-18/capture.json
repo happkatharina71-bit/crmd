@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-06-12-18",
+  "erfasst_am": "2026-11-06T12:18:54.065Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Auf Euphorie folgt Panik",
+      "teasertext": "Absturz der Tech-Aktien Auf Euphorie folgt Panik",
+      "url": "https://web.de/magazine/wirtschaft/absturz-tech-aktien-platzt-ki-blase-42917592",
+      "bild_url": "https://i0.web.de/image/870/42918870%2cpd=1%2cf=responsive169-w950/finanzmaerkte-wall-street.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Absturz der Tech-Aktien",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "\"Das war es\": Volker Beck bricht mit Claudia Roth",
+      "teasertext": "Nahoststreit unter Grünen \"Das war es\": Volker Beck bricht mit Claudia Roth",
+      "url": "https://web.de/magazine/politik/inland/volker-beck-bricht-claudia-roth-42918540",
+      "bild_url": "https://i0.web.de/image/738/42918738%2cpd=1%2cf=responsive169-w300/bildkombo-volker-beck-claudia-roth.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Nahoststreit unter Grünen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Klimaforscher warnt vor \"Pfad in eine unbeherrschbare Zukunft\"",
+      "teasertext": "Copernicus-Prognose Klimaforscher warnt vor \"Pfad in eine unbeherrschbare Zukunft\"",
+      "url": "https://web.de/magazine/wissen/klima/klimaforscher-warnt-pfad-unbeherrschbare-zukunft-42918664",
+      "bild_url": "https://i0.web.de/image/668/42918668%2cpd=2%2cf=responsive169-w300/herbst-harz.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Copernicus-Prognose",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Infantino benutzte diplomatische Privilegien für seine Töchter und deren Hunde",
+      "teasertext": "Machtmissbrauch? Infantino benutzte diplomatische Privilegien für seine Töchter und deren Hunde",
+      "url": "https://web.de/magazine/sport/fussball/international/infantino-benutzte-diplomatische-privilegien-toechter-hunde-42918704",
+      "bild_url": "https://i0.web.de/image/816/42918816%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Machtmissbrauch?",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Bushido erfuhr erst nach über 30 Jahren von Familiengeheimnis",
+      "teasertext": "Seine Frau wusste davon Bushido erfuhr erst nach über 30 Jahren von Familiengeheimnis",
+      "url": "https://web.de/magazine/unterhaltung/stars/bushido-erfuhr-30-jahren-familiengeheimnis-42918640",
+      "bild_url": "https://i0.web.de/image/714/42918714%2cpd=5%2cf=responsive169-w300/anna-maria-ferchichi-bushido.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Seine Frau wusste davon",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

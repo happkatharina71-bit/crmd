@@ -640,3 +640,17 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-06-09-14,4,3,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Spieler im weißen Trikot Nr. 5, unscharf, von hinten"
 2026-11-06-09-14,4,4,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Spieler im weißen Trikot Nr. 16, unscharf, von hinten"
 2026-11-06-09-14,5,1,RJ Mitte,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Lächelnder Mann mit dunklem Haar und Bart vor gelber Eventwand; Headline nennt RJ Mitte, Bild ihm zuordenbar"
+2026-11-06-12-18,1,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Mann mit Brille zeigt rufend mit dem Stift; steht für Börsenhändler*innen beim Kursabsturz"
+2026-11-06-12-18,1,2,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Mann im karierten Hemd von hinten, hebt den Finger"
+2026-11-06-12-18,1,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Person in blauer Jacke mit erhobenem Arm, Gesicht verdeckt"
+2026-11-06-12-18,1,4,,maennlich,alt,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Mann mit grauem Haar links, unscharf im Profil"
+2026-11-06-12-18,1,5,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Person mit Zopf rechts, Gesicht abgewandt"
+2026-11-06-12-18,2,1,Volker Beck,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit Brille und schwarzer Krawatte links, als Volker Beck erkennbar; Headline: Beck bricht mit Claudia Roth"
+2026-11-06-12-18,2,2,Claudia Roth,weiblich,alt,weiss,nebenperson,namentlich,passiv,reich_maechtig,ja,hoch,"Frau mit weißem Haar, Brille und rosa Schal rechts, als Claudia Roth erkennbar"
+2026-11-06-12-18,4,1,Infantino,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,nein,hoch,"Glatzköpfiger Mann im schwarzen Gewand in der Mitte, als Infantino erkennbar; Headline: Infantino nutzte Privilegien für seine Töchter"
+2026-11-06-12-18,4,2,,weiblich,jung,nicht_erkennbar,nebenperson,indirekt,passiv,reich_maechtig,nein,niedrig,Junge Frau mit dunklen Haaren links neben ihm
+2026-11-06-12-18,4,3,,weiblich,jung,nicht_erkennbar,nebenperson,indirekt,passiv,reich_maechtig,nein,niedrig,Junge Frau im rosa Gewand
+2026-11-06-12-18,4,4,,weiblich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,reich_maechtig,nein,niedrig,Frau rechts neben ihm in hellem Gewand
+2026-11-06-12-18,4,5,,weiblich,jung,nicht_erkennbar,nebenperson,indirekt,passiv,reich_maechtig,nein,niedrig,Junge Frau im blauen Gewand rechts außen
+2026-11-06-12-18,5,1,Bushido,maennlich,mittel,nicht_erkennbar,hauptperson,namentlich,passiv,neutral,nein,mittel,"Mann mit grauem Bart in schwarzer Jacke, als Bushido erkennbar; Headline: er erfuhr erst spät von Familiengeheimnis; Hautfarbe nicht eindeutig zuzuordnen"
+2026-11-06-12-18,5,2,,weiblich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,nein,mittel,"Frau mit langen dunklen Haaren im schwarzen Spitzenoberteil; vermutlich 'seine Frau', nicht namentlich genannt"
