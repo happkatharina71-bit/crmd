@@ -1,0 +1,155 @@
+{
+ "run_id": "2026-11-06-09-14",
+ "erfasst_am": "2026-11-06T09:14:01.359Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann am Rednerpult im Dunkeln",
+   "personen": [
+    {
+     "name": "Trump",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann am Pult im Halbdunkel, als Trump erkennbar; Headline: Republikaner rebellieren gegen ihn"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Redner am Pult vor Freie-Wähler-Wand",
+   "personen": [
+    {
+     "name": "Aiwanger",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann spricht am Pult vor Freie-Wähler-Logo, als Hubert Aiwanger erkennbar; Headline: Nachfolge nach seinem Tod schwierig"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Talkshow-Gast; nicht namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit zurückgekämmtem Haar im dunklen Anzug spricht in Talkshow; steht für den zitierten Politberater, nicht namentlich genannt"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 30,
+   "menschenmenge": "ja",
+   "notiz": "Spieler vor einem Freistoß, unscharfe Spieler im Vordergrund, Publikum im Hintergrund (Schätzung)",
+   "personen": [
+    {
+     "name": "Ronaldo",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Spieler im roten Portugal-Trikot Nr. 7 vor dem Ball, als Ronaldo erkennbar; Headline: wurde mit Freistoß zum Gespött"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Spieler im roten Trikot vorne, unscharf, von hinten"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Spieler im weißen Trikot Nr. 5, unscharf, von hinten"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Spieler im weißen Trikot Nr. 16, unscharf, von hinten"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt vor gelber Wand",
+   "personen": [
+    {
+     "name": "RJ Mitte",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Lächelnder Mann mit dunklem Haar und Bart vor gelber Eventwand; Headline nennt RJ Mitte, Bild ihm zuordenbar"
+    }
+   ]
+  }
+ ]
+}
