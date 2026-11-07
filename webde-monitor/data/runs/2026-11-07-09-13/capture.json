@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-07-09-13",
+  "erfasst_am": "2026-11-07T09:13:39.986Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Aigner soll's machen – doch an Merz hagelt es Kritik: \"Dieses Amtes unwürdig\"",
+      "teasertext": "Erste Bundespräsidentin Aigner soll's machen – doch an Merz hagelt es Kritik: \"Dieses Amtes unwürdig\"",
+      "url": "https://web.de/magazine/politik/wahlen/bundespraesidentenwahl/aigner-solls-merz-hagelt-kritik-amtes-unwuerdig-42921658",
+      "bild_url": "https://i0.web.de/image/660/42921660%2cpd=4%2cf=responsive169-w950/ilse-aigner.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Erste Bundespräsidentin",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Ganz am Ende wird Selenskyj sogar persönlich",
+      "teasertext": "Kritik Gespräch mit Böhmermann Ganz am Ende wird Selenskyj sogar persönlich",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/boehmermanns-zdf-magazin-royale-selenskyj-persoenlich-42921832",
+      "bild_url": "https://i0.web.de/image/842/42921842%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Kritik Gespräch mit Böhmermann",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Warum Pistorius bei der Wehrpflicht nun Entwarnung gibt",
+      "teasertext": "Personalbedarf der Truppe Warum Pistorius bei der Wehrpflicht nun Entwarnung gibt",
+      "url": "https://web.de/magazine/politik/inland/pistorius-wehrpflicht-entwarnung-42921936",
+      "bild_url": "https://i0.web.de/image/940/42921940%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Personalbedarf der Truppe",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Sensation bei Suche nach neuem James Bond",
+      "teasertext": "Hollywoodstar spricht vor Sensation bei Suche nach neuem James Bond",
+      "url": "https://web.de/magazine/unterhaltung/filme-serien-kino/sensation-james-bond-suche-robert-pattinson-spricht-rolle-42921930",
+      "bild_url": "https://i0.web.de/image/932/42921932%2cpd=2%2cf=responsive169-w300/robert-pattinson-james-bond.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Hollywoodstar spricht vor",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Daniela Katzenberger erfüllt sich ihren alten \"Playboy\"-Traum",
+      "teasertext": "Galerie VOX-Dokusoap Daniela Katzenberger erfüllt sich ihren alten \"Playboy\"-Traum",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/daniela-katzenberger-erfuellt-alten-playboy-traum-42919862",
+      "bild_url": "https://i0.web.de/image/826/42919826%2cpd=3%2cf=responsive169-w300/daniela-katzenberger.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie VOX-Dokusoap",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

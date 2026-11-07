@@ -1,0 +1,168 @@
+{
+ "run_id": "2026-11-07-09-13",
+ "erfasst_am": "2026-11-07T09:13:39.986Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt im Freien; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "Aigner",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Lächelnde Frau mit Brille im blauen Blazer, als Ilse Aigner erkennbar; Headline: Aigner soll's machen"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Männer sitzen auf roten Sesseln",
+   "personen": [
+    {
+     "name": "Selenskyj",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit Bart in schwarzer Kleidung links, als Selenskyj erkennbar; Headline: Selenskyj wird persönlich"
+    },
+    {
+     "name": "Böhmermann",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann im dunklen Anzug rechts, als Böhmermann erkennbar; Dachzeile: Gespräch mit Böhmermann"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 12,
+   "menschenmenge": "ja",
+   "notiz": "Mann in Flecktarnjacke geht an salutierenden Soldat*innen vorbei (Schätzung)",
+   "personen": [
+    {
+     "name": "Pistorius",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit Brille in Tarnjacke lächelnd, als Pistorius erkennbar; Headline: Pistorius gibt Entwarnung"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Soldat von hinten rechts, salutiert"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Soldatin mit Barett links, salutiert"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Soldat mit Barett links hinten, salutiert"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt; als bekannte Person erkennbar, aber nicht namentlich genannt ('Hollywoodstar'), daher ohne Namen",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit dunklem Haar im grauen Anzug; steht für den Hollywoodstar, der vorspricht"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Frau im Interview-Setting (TV-Szene); gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "Daniela Katzenberger",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Lachende Frau mit langen platinblonden Haaren, als Daniela Katzenberger erkennbar; Headline: sie erfüllt sich einen Traum"
+    }
+   ]
+  }
+ ]
+}
