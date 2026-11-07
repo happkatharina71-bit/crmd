@@ -673,3 +673,7 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-06-20-14,5,3,,maennlich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann im dunklen Anzug im Vordergrund, unscharf, im Profil"
 2026-11-06-20-14,5,4,,nicht_erkennbar,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person mit Brille am linken Rand, angeschnitten"
 2026-11-06-20-14,5,5,,maennlich,nicht_erkennbar,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Uniformierter rechts, Gesicht angeschnitten"
+2026-11-07-06-14,1,1,Aigner,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Lächelnde Frau mit Brille im blauen Blazer, als Ilse Aigner erkennbar; Headline: Aigner soll's machen"
+2026-11-07-06-14,2,1,,maennlich,mittel,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,ja,niedrig,"Mann mit Bart im lachsfarbenen Polo hält Flagge, Gesicht nach unten; Hautfarbe nicht eindeutig zuzuordnen"
+2026-11-07-06-14,2,2,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,ja,niedrig,"Mann in schwarzer Steppjacke rechts, von hinten"
+2026-11-07-06-14,5,1,Daniela Katzenberger,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Lachende Frau mit langen platinblonden Haaren, als Daniela Katzenberger erkennbar; Headline: sie erfüllt sich einen Traum"

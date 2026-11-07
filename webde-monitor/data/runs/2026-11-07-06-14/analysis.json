@@ -1,0 +1,101 @@
+{
+ "run_id": "2026-11-07-06-14",
+ "erfasst_am": "2026-11-07T06:14:02.040Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt im Freien",
+   "personen": [
+    {
+     "name": "Aigner",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Lächelnde Frau mit Brille im blauen Blazer, als Ilse Aigner erkennbar; Headline: Aigner soll's machen"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 6,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Männer mit iranischen Löwen-Sonnen-Flaggen im Park, kleine Personen im Hintergrund (nur gezählt); der umstrittene Politiker ist nicht erkennbar im Bild",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit Bart im lachsfarbenen Polo hält Flagge, Gesicht nach unten; Hautfarbe nicht eindeutig zuzuordnen"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann in schwarzer Steppjacke rechts, von hinten"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "grafik_text",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Schild 'Geflügelpest Sperrbezirk'",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Hanfsamen in einer Hand zwischen Cannabispflanzen; nur Hand sichtbar",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Frau im Interview-Setting (TV-Szene)",
+   "personen": [
+    {
+     "name": "Daniela Katzenberger",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Lachende Frau mit langen platinblonden Haaren, als Daniela Katzenberger erkennbar; Headline: sie erfüllt sich einen Traum"
+    }
+   ]
+  }
+ ]
+}
