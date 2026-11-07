@@ -708,3 +708,13 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-07-16-13,4,3,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Polizist von hinten in der Mitte
 2026-11-07-16-13,4,4,,maennlich,alt,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Polizist mit Glatze oben rechts, angeschnitten"
 2026-11-07-16-13,5,1,Bonnie Wright,weiblich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Frau mit rotem Haar und kariertem Kleid spricht ins Mikrofon; Headline nennt Bonnie Wright, Bild ihr zuordenbar"
+2026-11-07-20-15,1,1,Stephen Miller,maennlich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,mittel,"Glatzköpfiger Mann im dunklen Anzug spricht gestikulierend; Headline nennt Stephen Miller als neuen Stabschef, Bild ihm zuordenbar"
+2026-11-07-20-15,2,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Feuerwehrkräfte mit Helm neben Rettungswagen, klein und abgewandt; stehen für den Großeinsatz"
+2026-11-07-20-15,2,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Einsatzkraft in Warnweste, klein"
+2026-11-07-20-15,2,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person im beigen Mantel im Hintergrund, klein"
+2026-11-07-20-15,3,1,Lisa T.,weiblich,jung,poc,hauptperson,namentlich,passiv,neutral,nein,mittel,"Mädchen mit langen dunklen Haaren im Porträt; Headline: Suche nach 13-jähriger Lisa T., Bild ihr zuordenbar"
+2026-11-07-20-15,3,2,,weiblich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Polizistin mit Dutt und Handy rechts, Gesicht abgewandt; steht für die suchende Polizei"
+2026-11-07-20-15,3,3,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Polizist von hinten in der Mitte
+2026-11-07-20-15,3,4,,maennlich,alt,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Polizist mit Glatze oben rechts, angeschnitten"
+2026-11-07-20-15,4,1,,maennlich,jung,poc,hauptperson,indirekt,passiv,neutral,nein,mittel,"Spieler im grünen Wolfsburg-Trikot Nr. 33 geht mit gesenktem Kopf; steht vermutlich für den Platzverweis, Wolfsburg in Unterzahl"
+2026-11-07-20-15,5,1,Jamie Campbell Bower,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Lächelnder Mann mit langen blonden Haaren im Nadelstreifensakko; Headline zitiert Jamie Campbell Bower, Bild ihm zuordenbar"
