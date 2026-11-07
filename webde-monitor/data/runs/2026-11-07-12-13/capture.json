@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-07-12-13",
+  "erfasst_am": "2026-11-07T12:13:32.183Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Warum Vance auf Distanz zu Trump geht",
+      "teasertext": "Analyse Nach Zwischenwahlen Warum Vance auf Distanz zu Trump geht",
+      "url": "https://web.de/magazine/politik/wahlen/midterms/america-first-praesident-vance-distanz-trump-42921894",
+      "bild_url": "https://i0.web.de/image/928/42921928%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse Nach Zwischenwahlen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Selenskyj schießt gegen Klitschko – der kontert mit deutlichen Worten",
+      "teasertext": "\"Manipulation\" und \"Lüge\" Selenskyj schießt gegen Klitschko – der kontert mit deutlichen Worten",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/selenskyj-schiesst-klitschko-kontert-deutlichen-worten-42922062",
+      "bild_url": "https://i0.web.de/image/132/42922132%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "\"Manipulation\" und \"Lüge\"",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Tumore bei Kindern nach \"Millionenspritze\" – FDA ermittelt",
+      "teasertext": "Gentherapie unter Verdacht Tumore bei Kindern nach \"Millionenspritze\" – FDA ermittelt",
+      "url": "https://web.de/magazine/wissen/wissenschaft-technik/zolgensma-tumore-kindern-millionenspritze-fda-ermittelt-42922118",
+      "bild_url": "https://i0.web.de/image/152/42922152%2cpd=4%2cf=responsive169-w300/zolgensma.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Gentherapie unter Verdacht",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Mehr als 100 Beamte suchen nach 13-jähriger Lisa T.",
+      "teasertext": "Polizei vermutet Verbrechen Mehr als 100 Beamte suchen nach 13-jähriger Lisa T.",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/100-beamte-13-jaehriger-lisa-t-42922018",
+      "bild_url": "https://i0.web.de/image/360/42922360%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Polizei vermutet Verbrechen",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Katja Burkard: Kinder waren nach ihrer Verlobung \"stinksauer\"",
+      "teasertext": "Hochzeit mit Hans Mahr Katja Burkard: Kinder waren nach ihrer Verlobung \"stinksauer\"",
+      "url": "https://web.de/magazine/unterhaltung/stars/katja-burkard-kinder-verlobung-stinksauer-42922120",
+      "bild_url": "https://i0.web.de/image/122/42922122%2cpd=1%2cf=responsive169-w300/katja-burkard-hans-mahr-2025-verheiratet.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Hochzeit mit Hans Mahr",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

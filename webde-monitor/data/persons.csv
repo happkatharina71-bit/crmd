@@ -686,3 +686,12 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-07-09-13,3,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Soldat mit Barett links hinten, salutiert"
 2026-11-07-09-13,4,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Mann mit dunklem Haar im grauen Anzug; steht für den Hollywoodstar, der vorspricht"
 2026-11-07-09-13,5,1,Daniela Katzenberger,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Lachende Frau mit langen platinblonden Haaren, als Daniela Katzenberger erkennbar; Headline: sie erfüllt sich einen Traum"
+2026-11-07-12-13,1,1,Vance,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit Bart und roter Krawatte gestikuliert, als JD Vance erkennbar; Headline: Vance geht auf Distanz zu Trump"
+2026-11-07-12-13,2,1,Selenskyj,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit Bart in schwarzer Kleidung links, als Selenskyj erkennbar; Headline: Selenskyj schießt gegen Klitschko"
+2026-11-07-12-13,2,2,Klitschko,maennlich,mittel,weiss,nebenperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit kurzen grauen Haaren im karierten Hemd rechts, als Klitschko erkennbar; er kontert laut Headline"
+2026-11-07-12-13,4,1,Lisa T.,weiblich,jung,poc,hauptperson,namentlich,passiv,neutral,nein,mittel,"Mädchen mit langen dunklen Haaren im Porträt; Headline: Suche nach 13-jähriger Lisa T., Bild ihr zuordenbar"
+2026-11-07-12-13,4,2,,weiblich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Polizistin mit Dutt und Handy rechts, Gesicht abgewandt; steht für die suchende Polizei"
+2026-11-07-12-13,4,3,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Polizist von hinten in der Mitte
+2026-11-07-12-13,4,4,,maennlich,alt,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Polizist mit Glatze oben rechts, angeschnitten"
+2026-11-07-12-13,5,1,Katja Burkard,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Frau mit blonden Locken im Paillettenoberteil, als Katja Burkard erkennbar; Headline zitiert sie"
+2026-11-07-12-13,5,2,Hans Mahr,maennlich,alt,weiss,nebenperson,namentlich,nicht_thematisiert,neutral,nein,mittel,"Älterer Mann mit Brille im grauen Sakko; Dachzeile nennt Hochzeit mit Hans Mahr, Bild ihm zuordenbar"
