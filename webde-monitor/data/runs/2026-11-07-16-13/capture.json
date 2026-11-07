@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-07-16-13",
+  "erfasst_am": "2026-11-07T16:13:33.185Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Tote und Verletzte nach Schüssen in Krakau",
+      "teasertext": "Großeinsatz in Polen Tote und Verletzte nach Schüssen in Krakau",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/tote-verletzte-schuessen-krakau-42922894",
+      "bild_url": "https://i0.web.de/image/906/42922906%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Großeinsatz in Polen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Elversberg in Dortmund wieder dran – Bayern auf Kurs",
+      "teasertext": "Live-Ticker Bundesliga-Konferenz Elversberg in Dortmund wieder dran – Bayern auf Kurs",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/bayern-dortmund-fernduell-spitze-41292002",
+      "bild_url": "https://i0.web.de/image/934/42922934%2cpd=2%2cf=responsive169-w300/lennart-karl.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Live-Ticker Bundesliga-Konferenz",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Selenskyj nennt Trumps Friedensplan gefährlich",
+      "teasertext": "\"Großes Abkommen\" mit Moskau Selenskyj nennt Trumps Friedensplan gefährlich",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/selenskyj-nennt-trumps-friedensplan-gefaehrlich-42922466",
+      "bild_url": "https://i0.web.de/image/468/42922468%2cpd=1%2cf=responsive169-w300/ukrainischer-praesident-wolodymyr-selenskyj.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "\"Großes Abkommen\" mit Moskau",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Mehr als 140 Beamte suchen nach 13-jähriger Lisa T.",
+      "teasertext": "Polizei vermutet Verbrechen Mehr als 140 Beamte suchen nach 13-jähriger Lisa T.",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/140-beamte-13-jaehriger-lisa-t-42922018",
+      "bild_url": "https://i0.web.de/image/360/42922360%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Polizei vermutet Verbrechen",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "\"Harry Potter\"-Star Bonnie Wright: Ihr Baby musste sechsmal in Krankenhaus",
+      "teasertext": "Fünf Wochen alter Sohn \"Harry Potter\"-Star Bonnie Wright: Ihr Baby musste sechsmal in Krankenhaus",
+      "url": "https://web.de/magazine/unterhaltung/stars/harry-potter-star-bonnie-wright-baby-sechsmal-krankenhaus-42922876",
+      "bild_url": "https://i0.web.de/image/970/42922970%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Fünf Wochen alter Sohn",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
