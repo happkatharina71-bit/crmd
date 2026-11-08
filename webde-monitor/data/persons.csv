@@ -743,3 +743,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-08-12-13,4,1,Felix Nmecha,maennlich,jung,poc,hauptperson,namentlich,passiv,neutral,nein,mittel,"Spieler im BVB-Trikot kniet mit Jubelgeste; Headline: Kritik an Felix Nmechas Torjubel, Bild ihm zuordenbar"
 2026-11-08-12-13,5,1,Laura Wontorra,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Frau mit langen braunen Haaren im schwarzen Spitzenkleid; Headline nennt Laura Wontorra, Bild ihr zuordenbar"
 2026-11-08-12-13,5,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Mann mit Bart im Smoking und Fliege neben ihr
+2026-11-08-16-13,1,1,,weiblich,alt,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Frau mit kurzen Haaren blickt lächelnd zum Mann auf, im Gegenlicht; Symbol für gute Nachrichten"
+2026-11-08-16-13,1,2,,maennlich,alt,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit grauem Haar im Polohemd, im Gegenlicht"
+2026-11-08-16-13,3,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spieler im weißen Köln-Trikot am Ball; steht für Köln, dem die Zeit davonläuft"
+2026-11-08-16-13,3,2,,maennlich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Spieler im Leverkusen-Trikot Nr. 17 springt ins Duell
+2026-11-08-16-13,5,1,Alanis Morissette,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Lächelnde Frau mit langen dunklen Haaren vor CMT-Wand, als Alanis Morissette erkennbar; Headline: sie outet sich"

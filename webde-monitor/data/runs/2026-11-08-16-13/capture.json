@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-08-16-13",
+  "erfasst_am": "2026-11-08T16:13:41.812Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Drei Nachrichten, die Hoffnung machen",
+      "teasertext": "Good News der Woche Drei Nachrichten, die Hoffnung machen",
+      "url": "https://web.de/magazine/wissen/psychologie/nachrichten-hoffnung-42914234",
+      "bild_url": "https://i0.web.de/image/072/42925072%2cpd=3%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Good News der Woche",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Mann tauscht Deutschlandflagge vor Bundestag gegen Palästinafahne",
+      "teasertext": "Staatsschutz ermittelt Mann tauscht Deutschlandflagge vor Bundestag gegen Palästinafahne",
+      "url": "https://web.de/magazine/politik/inland/tauscht-deutschlandflagge-bundestag-palaestinafahne-42924794",
+      "bild_url": "https://i0.web.de/image/886/42924886%2cpd=1%2cf=responsive169-w300/palaestinensische-flagge-reichstag.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Staatsschutz ermittelt",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Köln läuft im rheinischen Derby die Zeit davon",
+      "teasertext": "Live-Ticker Bundesliga Köln läuft im rheinischen Derby die Zeit davon",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/bundesliga-live-ticker-koeln-leverkusen-41292002",
+      "bild_url": "https://i0.web.de/image/204/42925204%2cpd=2%2cf=responsive169-w300/said-el-mala-edmond-tapsoba-kaempfen-ball.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Live-Ticker Bundesliga",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Schloss für einen Euro zu verkaufen – doch das Angebot hat einen Haken",
+      "teasertext": "Mit Rittersaal und zwei Türmen Schloss für einen Euro zu verkaufen – doch das Angebot hat einen Haken",
+      "url": "https://web.de/magazine/panorama/aus-aller-welt/deutschland/schloss-euro-verkaufen-angebot-haken-42925092",
+      "bild_url": "https://i0.web.de/image/036/42925036%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Mit Rittersaal und zwei Türmen",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Alanis Morissette outet sich als pansexuell",
+      "teasertext": "Offene Worte der Sängerin Alanis Morissette outet sich als pansexuell",
+      "url": "https://web.de/magazine/unterhaltung/stars/alanis-morissette-outet-pansexuell-42924660",
+      "bild_url": "https://i0.web.de/image/662/42924662%2cpd=2%2cf=responsive169-w300/alanis-morissette-podcast-ueberraschende-aussage-b.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Offene Worte der Sängerin",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
