@@ -1,0 +1,129 @@
+{
+ "run_id": "2026-11-08-09-13",
+ "erfasst_am": "2026-11-08T09:13:35.366Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Polizist hinter Absperrband bei Nacht",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Bärtiger Polizist mit Mütze und Schutzweste hinter Absperrband; steht für den Polizeieinsatz in Krakau"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 3,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Männer treten aus einem Gebäude, angeschnittene Person rechts hinter Zweigen (nur gezählt); gleiches Bild wie in der vorigen Erhebung; Dana White nicht mehr namentlich genannt, daher ohne Namen",
+   "personen": [
+    {
+     "name": "Trump",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann im blauen Anzug rechts, als Trump erkennbar; Headline: Trump will Kampfsportler als Pressesprecher"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Glatzköpfiger Mann im schwarzen Sakko links; vermutlich der in der Headline genannte ungewöhnliche Kandidat, Name nicht mehr in Dachzeile/Headline"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Spieler im Werder-Trikot, Publikum unscharf (nicht gezählt); gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "Füllkrug",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Spieler im grünen Werder-Trikot, als Füllkrug erkennbar; Headline: Füllkrug bricht Interview ab"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 15,
+   "menschenmenge": "ja",
+   "notiz": "Mann am Rednerpult im Stadion, junge Menschen in Trainingsjacken auf der Tribüne (Schätzung, nur gezählt)",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Bärtiger Mann im dunklen Sakko spricht am Pult; steht vermutlich für den Kapitän, der um Fassung ringt, nicht namentlich genannt"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Person hängt Wäsche auf, Gesicht nicht im Bild (Symbolbild)",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person im Jeanshemd hängt Wäsche an Wäscheständer, nur Oberkörper und Hände sichtbar"
+    }
+   ]
+  }
+ ]
+}
