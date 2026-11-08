@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-08-20-13",
+  "erfasst_am": "2026-11-08T20:13:41.635Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Vermisste Schülerin Lisa tot gefunden - Verdächtiger gefasst",
+      "teasertext": "Traurige Gewissheit Vermisste Schülerin Lisa tot gefunden - Verdächtiger gefasst",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/vermisste-schuelerin-lisa-tot-gefunden-verdaechtiger-gefasst-42925318",
+      "bild_url": "https://i0.web.de/image/398/42925398%2cpd=2%2cf=responsive169-w950/suche-vermisster-schuelerin-leiche-gefunden.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Traurige Gewissheit",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Merz: Aigner soll Bundespräsidentin werden",
+      "teasertext": "Entscheidung der CDU Merz: Aigner soll Bundespräsidentin werden",
+      "url": "https://web.de/magazine/politik/inland/merz-aigner-bundespraesidentin-42925496",
+      "bild_url": "https://i0.web.de/image/516/42925516%2cpd=7%2cf=responsive169-w300/ilse-aigner.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Entscheidung der CDU",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Trump: Neue Angriffe im Iran bei Gesprächen unwahrscheinlich",
+      "teasertext": "Krieg im Iran Trump: Neue Angriffe im Iran bei Gesprächen unwahrscheinlich",
+      "url": "https://web.de/magazine/politik/nahostkonflikt/trump-angriffe-iran-gespraechen-unwahrscheinlich-42925480",
+      "bild_url": "https://i0.web.de/image/490/42925490%2cpd=2%2cf=responsive169-w300/us-praesident-trump.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Krieg im Iran",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Tor Schalke - reicht es noch für den Ausgleich gegen Hoffenheim?",
+      "teasertext": "Live-Ticker Bundesliga Tor Schalke - reicht es noch für den Ausgleich gegen Hoffenheim?",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/bundesliga-live-ticker-hoffenheim-schalke-41292002",
+      "bild_url": "https://i0.web.de/image/458/42925458%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Live-Ticker Bundesliga",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Darf man Angehörige von der Bestattung ausschließen?",
+      "teasertext": "Bei Streit in der Familie Darf man Angehörige von der Bestattung ausschließen?",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/angehoerige-bestattung-ausschliessen-42890294",
+      "bild_url": "https://i0.web.de/image/296/42890296%2cpd=2%2cf=responsive169-w300/kreuz-ostfriedhof.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Bei Streit in der Familie",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

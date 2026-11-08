@@ -748,3 +748,14 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-08-16-13,3,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spieler im weißen Köln-Trikot am Ball; steht für Köln, dem die Zeit davonläuft"
 2026-11-08-16-13,3,2,,maennlich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Spieler im Leverkusen-Trikot Nr. 17 springt ins Duell
 2026-11-08-16-13,5,1,Alanis Morissette,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Lächelnde Frau mit langen dunklen Haaren vor CMT-Wand, als Alanis Morissette erkennbar; Headline: sie outet sich"
+2026-11-08-20-13,1,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,"Person im weißen Schutzanzug mit Kapuze an der Fahrzeugtür, Gesicht abgewandt"
+2026-11-08-20-13,1,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Zweite Person im Schutzanzug, halb verdeckt"
+2026-11-08-20-13,2,1,Aigner,weiblich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,hoch,"Frau mit Brille im roten Blazer reißt die Arme hoch, als Ilse Aigner erkennbar; Headline: Merz will sie als Bundespräsidentin"
+2026-11-08-20-13,2,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,nein,niedrig,"Lachender Mann mit Brille links, klatscht"
+2026-11-08-20-13,2,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,nein,niedrig,"Mann mit Brille rechts im Vordergrund, unscharf"
+2026-11-08-20-13,2,4,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Älterer Mann links hinten, unscharf"
+2026-11-08-20-13,3,1,Trump,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit roter Krawatte spricht, als Trump erkennbar; Headline zitiert ihn"
+2026-11-08-20-13,4,1,,maennlich,jung,poc,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spieler im neongrünen Schalke-Trikot Nr. 13 am Ball; steht für Schalke im Spiel gegen Hoffenheim"
+2026-11-08-20-13,4,2,,maennlich,jung,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Hoffenheim-Spieler Nr. 18 links
+2026-11-08-20-13,4,3,,maennlich,jung,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Hoffenheim-Spieler rechts hinten
+2026-11-08-20-13,4,4,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Hoffenheim-Spieler Nr. 19 links vorne, von hinten"
