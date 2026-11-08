@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-08-12-13",
+  "erfasst_am": "2026-11-08T12:13:27.618Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Krakau: Was wir wissen – und was nicht",
+      "teasertext": "Attentat in Polen Krakau: Was wir wissen – und was nicht",
+      "url": "https://web.de/magazine/politik/krakau-wissen--42924558",
+      "bild_url": "https://i0.web.de/image/562/42924562%2cpd=3%2cf=responsive169-w950/schuesse-krakau.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Attentat in Polen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "\"Erpressung auf höchster Ebene\": Trump droht Demokraten nach Wahlniederlage",
+      "teasertext": "Ermittlungen angewiesen \"Erpressung auf höchster Ebene\": Trump droht Demokraten nach Wahlniederlage",
+      "url": "https://web.de/magazine/politik/us-politik/erpressung-hoechster-ebene-trump-droht-demokraten-wahl-42923556",
+      "bild_url": "https://i0.web.de/image/090/42924090%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Ermittlungen angewiesen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Ilse Aigner als Bundespräsidentin? Hape Kerkeling meldet sich zu Wort",
+      "teasertext": "Viele stimmten für ihn Ilse Aigner als Bundespräsidentin? Hape Kerkeling meldet sich zu Wort",
+      "url": "https://web.de/magazine/unterhaltung/stars/ilse-aigner-bundespraesidentin-hape-kerkeling-meldet-wort-42924184",
+      "bild_url": "https://i0.web.de/image/228/42924228%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Viele stimmten für ihn",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Scharfe Kritik an Felix Nmechas Torjubel",
+      "teasertext": "BVB-Fans fordern Abgrenzung Scharfe Kritik an Felix Nmechas Torjubel",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/borussia-dortmund/scharfe-kritik-felix-nmechas-torjubel-42924402",
+      "bild_url": "https://i0.web.de/image/430/42924430%2cpd=5%2cf=responsive169-w300/felix-nmecha.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "BVB-Fans fordern Abgrenzung",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Laura Wontorra zeigt ihren Babybauch",
+      "teasertext": "Deutscher Sportpresseball Laura Wontorra zeigt ihren Babybauch",
+      "url": "https://web.de/magazine/unterhaltung/stars/deutscher-sportpresseball-laura-wontorra-zeigt-babybauch-42924566",
+      "bild_url": "https://i0.web.de/image/610/42924610%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Deutscher Sportpresseball",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
