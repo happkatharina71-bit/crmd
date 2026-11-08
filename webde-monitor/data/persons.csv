@@ -718,3 +718,12 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-07-20-15,3,4,,maennlich,alt,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Polizist mit Glatze oben rechts, angeschnitten"
 2026-11-07-20-15,4,1,,maennlich,jung,poc,hauptperson,indirekt,passiv,neutral,nein,mittel,"Spieler im grünen Wolfsburg-Trikot Nr. 33 geht mit gesenktem Kopf; steht vermutlich für den Platzverweis, Wolfsburg in Unterzahl"
 2026-11-07-20-15,5,1,Jamie Campbell Bower,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Lächelnder Mann mit langen blonden Haaren im Nadelstreifensakko; Headline zitiert Jamie Campbell Bower, Bild ihm zuordenbar"
+2026-11-08-06-13,1,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,"Polizeikraft mit Helm und Gesichtsmaske rechts, hebt Absperrband"
+2026-11-08-06-13,1,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Polizeikraft mit Helm und Maske in der Mitte
+2026-11-08-06-13,1,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Polizeikraft mit Mütze links, Gesicht abgewandt"
+2026-11-08-06-13,2,1,Trump,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann im blauen Anzug rechts, als Trump erkennbar; Headline: Trump will Kampfsportler als Pressesprecher"
+2026-11-08-06-13,2,2,Dana White,maennlich,mittel,weiss,nebenperson,namentlich,passiv,reich_maechtig,nein,mittel,"Glatzköpfiger Mann im schwarzen Sakko links; Dachzeile nennt UFC-Chef Dana White, Bild ihm zuordenbar"
+2026-11-08-06-13,3,1,Döllner,maennlich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,mittel,"Mann im dunklen Anzug spricht am Pult; Headline: Untersuchung nach Trump-Auftritt Döllners, Bild ihm zuordenbar"
+2026-11-08-06-13,3,2,Trump,maennlich,alt,weiss,nebenperson,namentlich,nicht_thematisiert,reich_maechtig,ja,hoch,"Mann hinter dem Redner, als Trump erkennbar; in der Headline genannt"
+2026-11-08-06-13,3,3,,weiblich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Frau im Publikum rechts, unscharf"
+2026-11-08-06-13,4,1,Füllkrug,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Spieler im grünen Werder-Trikot, als Füllkrug erkennbar; Headline: Füllkrug bricht Interview ab"

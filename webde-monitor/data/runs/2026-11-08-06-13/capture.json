@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-08-06-13",
+  "erfasst_am": "2026-11-08T06:13:42.434Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Todesschütze von Krakau soll noch größeres Massaker geplant haben",
+      "teasertext": "Gewalttat in Polen Todesschütze von Krakau soll noch größeres Massaker geplant haben",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/todesschuetze-krakau-groesseres-massaker-geplant-42923818",
+      "bild_url": "https://i0.web.de/image/838/42923838%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Gewalttat in Polen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Ein Drohung an die Demokraten? Trump will Kampfsportler als Pressesprecher",
+      "teasertext": "UFC-Chef Dana White Ein Drohung an die Demokraten? Trump will Kampfsportler als Pressesprecher",
+      "url": "https://web.de/magazine/politik/us-politik/drohung-demokraten-trump-kampfsportler-pressesprecher-42923858",
+      "bild_url": "https://i0.web.de/image/870/42923870%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "UFC-Chef Dana White",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "VW leitet Untersuchung nach umstrittenem Trump-Auftritt Döllners ein",
+      "teasertext": "Video Medienbericht VW leitet Untersuchung nach umstrittenem Trump-Auftritt Döllners ein",
+      "url": "https://web.de/magazine/wirtschaft/videos/vw-leitet-untersuchung-umstrittenem-trump-auftritt-doellners-42923538",
+      "bild_url": "https://i0.web.de/image/540/42923540%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Video Medienbericht",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "\"Nee, danke, ciao\": Füllkrug bricht ZDF-Interview ab",
+      "teasertext": "Frage nach Nationalteam \"Nee, danke, ciao\": Füllkrug bricht ZDF-Interview ab",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/nee-ciao-fuellkrug-bricht-zdf-interview-42923470",
+      "bild_url": "https://i0.web.de/image/876/42923876%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Frage nach Nationalteam",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "An diesen Stellen versteckt sich Schimmel besonders oft",
+      "teasertext": "Galerie Haushaltstipps An diesen Stellen versteckt sich Schimmel besonders oft",
+      "url": "https://web.de/magazine/ratgeber/haus-garten/stellen-versteckt-schimmel-42868438",
+      "bild_url": "https://i0.web.de/image/350/42868350%2cpd=1%2cf=responsive169-w300/fenster-kondenswasser-schimmel-schwamm-hand.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Haushaltstipps",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
