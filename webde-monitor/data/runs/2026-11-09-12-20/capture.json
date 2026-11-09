@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-09-12-20",
+  "erfasst_am": "2026-11-09T12:20:06.591Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Realitätsschock nach dem Studium",
+      "teasertext": "Sozialarbeiter berichten Realitätsschock nach dem Studium",
+      "url": "https://web.de/magazine/ratgeber/job-gehalt/realitaetsschock-studium-sozialarbeiter-ausbrennen-42916148",
+      "bild_url": "https://i0.web.de/image/324/42916324%2cpd=2%2cf=responsive169-w950/personen-interview.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Sozialarbeiter berichten",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Hoeneß stiftet Unruhe beim FC Bayern",
+      "teasertext": "Analyse Er kann es nicht lassen Hoeneß stiftet Unruhe beim FC Bayern",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/fc-bayern/hoeness-stiftet-unruhe-fc-bayern-42926214",
+      "bild_url": "https://i0.web.de/image/520/42926520%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Analyse Er kann es nicht lassen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Obduktion 13-jähriger Lisa soll Hinweise liefern – Verdächtiger in Lebensgefahr",
+      "teasertext": "Leiche entdeckt Obduktion 13-jähriger Lisa soll Hinweise liefern – Verdächtiger in Lebensgefahr",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/obduktion-lisa-hinweise-liefern-42925318",
+      "bild_url": "https://i0.web.de/image/052/42927052%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Leiche entdeckt",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "\"Ein Krimi zum Sofort-Vergessen\"",
+      "teasertext": "Leserstimmen \"Tatort\" aus Zürich \"Ein Krimi zum Sofort-Vergessen\"",
+      "url": "https://web.de/magazine/unterhaltung/filme-serien-kino/tatort/tatort-zuerich-krimi-vergessen-42926750",
+      "bild_url": "https://i0.web.de/image/976/42926976%2cpd=5%2cf=responsive169-w300/ronald-zehrfeld-person.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Leserstimmen \"Tatort\" aus Zürich",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Olympiasiegerin schwebt nach Wohnungsbrand in Lebensgefahr",
+      "teasertext": "Schwere Verbrennungen Olympiasiegerin schwebt nach Wohnungsbrand in Lebensgefahr",
+      "url": "https://web.de/magazine/sport/olympia/sommer/olympiasiegerin-schurotschkina-schwebt-brand-lebensgefahr-42927200",
+      "bild_url": "https://i0.web.de/image/252/42927252%2cpd=1%2cf=responsive169-w300/maria-schurotschkina.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Schwere Verbrennungen",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

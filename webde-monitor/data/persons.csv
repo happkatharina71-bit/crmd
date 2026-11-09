@@ -773,3 +773,9 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-09-09-14,4,4,,weiblich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Blonde Frau rechts am Tisch, halb verdeckt"
 2026-11-09-09-14,5,1,,weiblich,jung,poc,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Junge Frau mit lockigem Haar im orangefarbenen Oberteil wendet sich verärgert ab; steht für die 'Nein'-Antwort im Streit"
 2026-11-09-09-14,5,2,,maennlich,jung,poc,nebenperson,indirekt,aktiv,neutral,nein,mittel,Junger Mann im karierten Hemd blickt zu ihr
+2026-11-09-12-20,1,1,,nicht_erkennbar,jung,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Junge Person mit dunklen Locken und Tattoos sitzt am Schreibtisch und hört zu; steht für Klient*innen der Sozialarbeit"
+2026-11-09-12-20,1,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Person mit blonden Haaren rechts, von hinten angeschnitten, schreibt; steht vermutlich für Sozialarbeitende"
+2026-11-09-12-20,2,1,Hoeneß,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Älterer Mann mit weißem Haar im dunklen Sakko, als Uli Hoeneß erkennbar; Headline: Hoeneß stiftet Unruhe"
+2026-11-09-12-20,4,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,"Bärtiger Mann mit langen Haaren hält eine Frau von hinten fest; Szene aus dem 'Tatort'"
+2026-11-09-12-20,4,2,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Frau mit dunklen Haaren wird festgehalten, ängstlicher Blick"
+2026-11-09-12-20,5,1,,weiblich,jung,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Frau mit Dutt im roten Blazer mit Orden; steht für die Olympiasiegerin, die in Lebensgefahr schwebt"
