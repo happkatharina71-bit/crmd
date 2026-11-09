@@ -759,3 +759,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-08-20-13,4,2,,maennlich,jung,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Hoffenheim-Spieler Nr. 18 links
 2026-11-08-20-13,4,3,,maennlich,jung,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Hoffenheim-Spieler rechts hinten
 2026-11-08-20-13,4,4,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Hoffenheim-Spieler Nr. 19 links vorne, von hinten"
+2026-11-09-06-20,3,1,Huang,maennlich,alt,poc,hauptperson,namentlich,aktiv,reich_maechtig,nein,hoch,"Mann mit grauem Haar, Brille und Lederjacke, als Nvidia-Chef Huang erkennbar; Headline: Huang gibt Untreue zu"
+2026-11-09-06-20,4,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Mann mit Brille im Anzug auf großem Bildschirm zugeschaltet; steht vermutlich für den Ex-Kommunikationschef des Weißen Hauses, nicht namentlich genannt"
+2026-11-09-06-20,4,2,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit grauem Haar am Tisch, von hinten"
+2026-11-09-06-20,4,3,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Frau mit blonden Locken am Tisch rechts, im Profil"
+2026-11-09-06-20,4,4,,weiblich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Blonde Frau rechts am Tisch, halb verdeckt"
+2026-11-09-06-20,5,1,,weiblich,jung,poc,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Junge Frau mit lockigem Haar im orangefarbenen Oberteil wendet sich verärgert ab; steht für die 'Nein'-Antwort im Streit"
+2026-11-09-06-20,5,2,,maennlich,jung,poc,nebenperson,indirekt,aktiv,neutral,nein,mittel,Junger Mann im karierten Hemd blickt zu ihr

@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-09-06-20",
+  "erfasst_am": "2026-11-09T06:20:24.300Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Polizei: Todesschütze von Krakau ist tot",
+      "teasertext": "Eilmeldung Verletzungen erlegen Polizei: Todesschütze von Krakau ist tot",
+      "url": "https://web.de/magazine/politik/polizei-todesschuetze-krakau-tot-42926202",
+      "bild_url": "https://i0.web.de/image/368/35533368%2cpd=2%2cf=responsive169-w950/eilmeldung.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Eilmeldung Verletzungen erlegen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Vermisste Schülerin Lisa tot gefunden – Verdächtiger gefasst",
+      "teasertext": "Traurige Gewissheit Vermisste Schülerin Lisa tot gefunden – Verdächtiger gefasst",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/vermisste-schuelerin-lisa-tot-gefunden-verdaechtiger-gefasst-42925318",
+      "bild_url": "https://i0.web.de/image/010/42926010%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Traurige Gewissheit",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Affäre des Nvidia-Chefs mit möglicher Spionin erschüttert Tech-Industrie",
+      "teasertext": "Huang gibt Untreue zu Affäre des Nvidia-Chefs mit möglicher Spionin erschüttert Tech-Industrie",
+      "url": "https://web.de/magazine/wirtschaft/affaere-nvidia-chefs-moeglicher-spionin-erschuettert-tech-industrie-42925598",
+      "bild_url": "https://i0.web.de/image/074/42926074%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Huang gibt Untreue zu",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Ex-Kommunikationschef des Weißen Hauses sieht \"besorgniserregendes Zeichen\"",
+      "teasertext": "TV-Nachlese \"Caren Miosga\" nach Midterms Ex-Kommunikationschef des Weißen Hauses sieht \"besorgniserregendes Zeichen\"",
+      "url": "https://web.de/magazine/politik/politische-talkshows/ex-kommunikationschef-weissen-hauses-besorgniserregendes-zeichen-42926016",
+      "bild_url": "https://i0.web.de/image/026/42926026%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "TV-Nachlese \"Caren Miosga\" nach Midterms",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "\"Du hast doch was?\" – \"Nein\": Diese Art zu streiten hat einen Namen",
+      "teasertext": "Was dahintersteckt \"Du hast doch was?\" – \"Nein\": Diese Art zu streiten hat einen Namen",
+      "url": "https://web.de/magazine/liebe-partnerschaft/art-streiten-namen-42875196",
+      "bild_url": "https://i0.web.de/image/198/42875198%2cpd=2%2cf=responsive169-w300/paar-streitet.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Was dahintersteckt",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
