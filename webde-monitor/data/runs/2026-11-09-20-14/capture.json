@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-09-20-14",
+  "erfasst_am": "2026-11-09T20:14:28.066Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Hegseth steht kurz vor Amtsenthebungsverfahren",
+      "teasertext": "Entscheidung schon Mittwoch? Hegseth steht kurz vor Amtsenthebungsverfahren",
+      "url": "https://web.de/magazine/politik/us-politik/hegseth-kurz-amtsenthebungsverfahren-42929162",
+      "bild_url": "https://i0.web.de/image/142/42929142%2cpd=4%2cf=responsive169-w950/treffen-verteidigungsminister-asean-staaten.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Entscheidung schon Mittwoch?",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Datenleck offenbart erstmals Ausmaß russischer Verluste",
+      "teasertext": "Krieg in der Ukraine Datenleck offenbart erstmals Ausmaß russischer Verluste",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/datenleck-offenbart-erstmals-ausmass-russischer-verluste-42927142",
+      "bild_url": "https://i0.web.de/image/694/42928694%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Krieg in der Ukraine",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Wie die Rechte Jugendliche auf Instagram anwirbt",
+      "teasertext": "Neue Datenauswertung Wie die Rechte Jugendliche auf Instagram anwirbt",
+      "url": "https://web.de/magazine/politik/inland/rechtsextreme-instagram-nachwuchs-rekrutieren-42918708",
+      "bild_url": "https://i0.web.de/image/900/42918900%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Neue Datenauswertung",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Ermittler: Getötete 13-jährige Lisa und Verdächtiger kannten sich nicht",
+      "teasertext": "Was wir wissen und was nicht Ermittler: Getötete 13-jährige Lisa und Verdächtiger kannten sich nicht",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/ermittler-getoetete-13-jaehrige-lisa-verdaechtiger-kannten-42926820",
+      "bild_url": "https://i0.web.de/image/730/42928730%2cpd=1%2cf=responsive169-w300/tod-13-jaehrigen-lisa-berlin-tatort.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Was wir wissen und was nicht",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "\"In der Form meines Lebens\": Andrea Kiewel hat über 15 Kilo abgenommen",
+      "teasertext": "Trostessen nach dem 7. Oktober \"In der Form meines Lebens\": Andrea Kiewel hat über 15 Kilo abgenommen",
+      "url": "https://web.de/magazine/unterhaltung/stars/form-lebens-andrea-kiewel-15-kilo-abgenommen-42928998",
+      "bild_url": "https://i0.web.de/image/000/42929000%2cpd=1%2cf=responsive169-w300/andrea-kiewel-form-lebens.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Trostessen nach dem 7. Oktober",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

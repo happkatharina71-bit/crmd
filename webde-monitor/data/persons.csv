@@ -784,3 +784,16 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-09-16-17,2,2,Merz,maennlich,alt,weiss,nebenperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit Brille im dunklen Anzug, als Merz erkennbar; er präsentiert Aigner"
 2026-11-09-16-17,3,1,Russell Brand,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Mann mit langen Locken, Bart und Sonnenbrille, als Russell Brand erkennbar; Headline: zu Haft verurteilt"
 2026-11-09-16-17,4,1,Manuel Neuer,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Torwart im gelben Bayern-Trikot sitzt auf dem Rasen, als Manuel Neuer erkennbar; Headline: Neuer bringt Bayern in schwierige Lage"
+2026-11-09-20-14,1,1,Hegseth,maennlich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,mittel,"Mann im Anzug salutiert; Headline: Hegseth vor Amtsenthebungsverfahren, Bild ihm zuordenbar"
+2026-11-09-20-14,1,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Unscharfe Person mit Uniformmütze im Vordergrund, von hinten"
+2026-11-09-20-14,2,1,,maennlich,jung,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Soldat mit Helm und Orden in der vorderen Reihe; steht für die russischen Truppen und ihre Verluste"
+2026-11-09-20-14,2,2,,maennlich,jung,weiss,nebenperson,indirekt,passiv,neutral,nein,niedrig,Soldat mit Helm vorne links
+2026-11-09-20-14,2,3,,maennlich,jung,weiss,nebenperson,indirekt,passiv,neutral,nein,niedrig,Soldat mit Helm vorne Mitte
+2026-11-09-20-14,2,4,,maennlich,jung,weiss,nebenperson,indirekt,passiv,neutral,nein,niedrig,Soldat mit Helm vorne rechts
+2026-11-09-20-14,2,5,,maennlich,mittel,weiss,nebenperson,indirekt,passiv,neutral,nein,niedrig,Soldat mit Helm in der zweiten Reihe
+2026-11-09-20-14,3,1,,maennlich,nicht_erkennbar,weiss,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Junger Mann mit kurzem Haar im schwarzen Pulli mit Adler-Aufdruck, von hinten; steht für rechte Jugendliche"
+2026-11-09-20-14,3,2,,maennlich,jung,weiss,nebenperson,indirekt,aktiv,neutral,ja,niedrig,"Mann mit Mütze hält Fahne, im Profil"
+2026-11-09-20-14,4,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Polizist mit Gesichtsmaske am Tor; steht für die Ermittler"
+2026-11-09-20-14,4,2,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Polizist mit Bart und Mütze links
+2026-11-09-20-14,4,3,,weiblich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Polizistin mit blondem Haar ganz links
+2026-11-09-20-14,5,1,Andrea Kiewel,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Blonde Frau mit ZDF-Mikrofon, als Andrea Kiewel erkennbar; Headline zitiert sie"
