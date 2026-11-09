@@ -1,0 +1,115 @@
+{
+ "run_id": "2026-11-09-16-17",
+ "erfasst_am": "2026-11-09T16:17:40.999Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann mit Mikrofon hält ein Bauteil hoch",
+   "personen": [
+    {
+     "name": "Jensen Huang",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit grauem Haar, Brille und Lederjacke, als Jensen Huang erkennbar; Dachzeile nennt ihn, Headline: Affäre mit Folgen"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Paar vor Deutschland- und EU-Flaggen",
+   "personen": [
+    {
+     "name": "Aigner",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Frau mit Brille im lila Blazer, als Ilse Aigner erkennbar; Headline: sie erlaubt sich einen Scherz"
+    },
+    {
+     "name": "Merz",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit Brille im dunklen Anzug, als Merz erkennbar; er präsentiert Aigner"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt mit Sonnenbrille",
+   "personen": [
+    {
+     "name": "Russell Brand",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit langen Locken, Bart und Sonnenbrille, als Russell Brand erkennbar; Headline: zu Haft verurteilt"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Torwart sitzt auf dem Rasen; Person oben angeschnitten nicht codiert",
+   "personen": [
+    {
+     "name": "Manuel Neuer",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Torwart im gelben Bayern-Trikot sitzt auf dem Rasen, als Manuel Neuer erkennbar; Headline: Neuer bringt Bayern in schwierige Lage"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Kreuzfahrtschiff vor bewaldeter Küste",
+   "personen": []
+  }
+ ]
+}

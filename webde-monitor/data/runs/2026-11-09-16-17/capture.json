@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-09-16-17",
+  "erfasst_am": "2026-11-09T16:17:40.999Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Eine Affäre mit gigantischen Folgen",
+      "teasertext": "Nvidia-CEO Jensen Huang Eine Affäre mit gigantischen Folgen",
+      "url": "https://web.de/magazine/wirtschaft/nvidia-ceo-jensen-huang-affaere-gigantischen-folgen-42926830",
+      "bild_url": "https://i0.web.de/image/388/42927388%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Nvidia-CEO Jensen Huang",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Merz präsentiert Aigner – die erlaubt sich Scherz auf seine Kosten",
+      "teasertext": "Bundespräsidentenwahl Merz präsentiert Aigner – die erlaubt sich Scherz auf seine Kosten",
+      "url": "https://web.de/magazine/politik/inland/merz-praesentiert-aigner-erlaubt-scherz-kosten-42928084",
+      "bild_url": "https://i0.web.de/image/086/42928086%2cpd=1%2cf=responsive169-w300/friedrich-merz-ilse-aigner-offiziell-kandidatin-bu.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Bundespräsidentenwahl",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Russell Brand zu mehr als zehn Jahren Haft verurteilt",
+      "teasertext": "Hohes Strafmaß Russell Brand zu mehr als zehn Jahren Haft verurteilt",
+      "url": "https://web.de/magazine/unterhaltung/stars/russell-brand-jahren-haft-verurteilt-42928144",
+      "bild_url": "https://i0.web.de/image/214/42928214%2cpd=6%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Hohes Strafmaß",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Manuel Neuer bringt den FC Bayern in eine schwierige Situation",
+      "teasertext": "Analyse Ist er noch verlässlich? Manuel Neuer bringt den FC Bayern in eine schwierige Situation",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/fc-bayern/manuel-bringt-fc-bayern-schwierige-situation-42926652",
+      "bild_url": "https://i0.web.de/image/796/42926796%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Analyse Ist er noch verlässlich?",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Kreuzfahrt-Pianist überlebt neun Stunden im Pazifik",
+      "teasertext": "Von Fischern gerettet Kreuzfahrt-Pianist überlebt neun Stunden im Pazifik",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/kreuzfahrt-pianist-ueberlebt-stunden-pazifik-42927458",
+      "bild_url": "https://i0.web.de/image/402/42927402%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Von Fischern gerettet",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

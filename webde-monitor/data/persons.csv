@@ -779,3 +779,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-09-12-20,4,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,"Bärtiger Mann mit langen Haaren hält eine Frau von hinten fest; Szene aus dem 'Tatort'"
 2026-11-09-12-20,4,2,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Frau mit dunklen Haaren wird festgehalten, ängstlicher Blick"
 2026-11-09-12-20,5,1,,weiblich,jung,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Frau mit Dutt im roten Blazer mit Orden; steht für die Olympiasiegerin, die in Lebensgefahr schwebt"
+2026-11-09-16-17,1,1,Jensen Huang,maennlich,alt,poc,hauptperson,namentlich,passiv,reich_maechtig,nein,hoch,"Mann mit grauem Haar, Brille und Lederjacke, als Jensen Huang erkennbar; Dachzeile nennt ihn, Headline: Affäre mit Folgen"
+2026-11-09-16-17,2,1,Aigner,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Frau mit Brille im lila Blazer, als Ilse Aigner erkennbar; Headline: sie erlaubt sich einen Scherz"
+2026-11-09-16-17,2,2,Merz,maennlich,alt,weiss,nebenperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit Brille im dunklen Anzug, als Merz erkennbar; er präsentiert Aigner"
+2026-11-09-16-17,3,1,Russell Brand,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Mann mit langen Locken, Bart und Sonnenbrille, als Russell Brand erkennbar; Headline: zu Haft verurteilt"
+2026-11-09-16-17,4,1,Manuel Neuer,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Torwart im gelben Bayern-Trikot sitzt auf dem Rasen, als Manuel Neuer erkennbar; Headline: Neuer bringt Bayern in schwierige Lage"
