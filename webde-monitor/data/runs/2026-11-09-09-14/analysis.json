@@ -1,0 +1,140 @@
+{
+ "run_id": "2026-11-09-09-14",
+ "erfasst_am": "2026-11-09T09:14:32.476Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Grablichter, Blumen und Schild 'Je suis Kraków'",
+   "personen": []
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt vor schwarzem Hintergrund; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "Huang",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit grauem Haar, Brille und Lederjacke, als Nvidia-Chef Huang erkennbar; Headline: Huang gibt Untreue zu"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Absperrband auf nächtlichem Gehweg, Fahrzeug; Einsatzkräfte im Hintergrund winzig, nicht gezählt; gleiches Bild wie in der vorigen Erhebung",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 35,
+   "menschenmenge": "ja",
+   "notiz": "Talkshow-Studio: zugeschalteter Gast auf Bildschirm, Moderation und Gäste am Tisch, Publikum (Schätzung); Caren Miosga nicht eindeutig einer Person zuordenbar, daher ohne Namen; gleiches Motiv wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit Brille im Anzug auf großem Bildschirm zugeschaltet; steht vermutlich für den Ex-Kommunikationschef des Weißen Hauses, nicht namentlich genannt"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit grauem Haar am Tisch, von hinten"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Frau mit blonden Locken am Tisch rechts, im Profil"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Blonde Frau rechts am Tisch, halb verdeckt"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Paar sitzt abgewandt nebeneinander (Symbolbild Streit); gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Junge Frau mit lockigem Haar im orangefarbenen Oberteil wendet sich verärgert ab; steht für die 'Nein'-Antwort im Streit"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Junger Mann im karierten Hemd blickt zu ihr"
+    }
+   ]
+  }
+ ]
+}
