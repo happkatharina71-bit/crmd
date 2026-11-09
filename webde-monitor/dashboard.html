@@ -138,6 +138,12 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
     <div class="panel" id="match"></div>
   </section>
 
+  <section aria-labelledby="h-ress">
+    <h2 id="h-ress">Ressorts – wo sind Frauen und Männer zu sehen?</h2>
+    <p class="note">Anteil der Teaser je Ressort mit mindestens einer Frau bzw. einem Mann im Bild. Das Ressort stammt aus der Teaser-URL von WEB.DE. Die Zahl in Klammern ist die Zahl der Teaser im Ressort.</p>
+    <div class="panel" id="ressorts"></div>
+  </section>
+
   <section aria-labelledby="h-trend">
     <h2 id="h-trend">Zeitverlauf</h2>
     <p class="note">Anteil der Teaser mit mindestens einer Frau bzw. einem Mann im Bild, pro Tag.</p>
@@ -166,6 +172,12 @@ const NUTZENDE = {
   geschlecht: { weiblich: 100 * 516925 / 1072844, maennlich: 100 * 555919 / 1072844 },
   alter: { jung: 100 * 20058 / 1071765, mittel: 100 * 660519 / 1071765, alt: 100 * 391188 / 1071765 },
 };
+// Ressort-Gruppen aus dem ersten URL-Pfadteil (nach /magazine/)
+const RESSORT_MAP = { politik: 'Politik', wirtschaft: 'Wirtschaft', sport: 'Sport', unterhaltung: 'Entertainment',
+  panorama: 'Panorama', regio: 'Panorama', wissen: 'Wissen', gesundheit: 'Wissen',
+  ratgeber: 'Ratgeber', reise: 'Ratgeber', auto: 'Ratgeber', digital: 'Ratgeber', 'liebe-partnerschaft': 'Ratgeber' };
+const RESSORTS = ['Politik', 'Wirtschaft', 'Sport', 'Entertainment', 'Panorama', 'Ratgeber', 'Wissen', 'Sonstige'];
+const ressortOf = (url) => { const m = /^https?:\/\/[^/]+\/(?:magazine\/)?([^/?#]+)/.exec(url || ''); return (m && RESSORT_MAP[m[1]]) || 'Sonstige'; };
 const SLOT = ['--p1', '--p2', '--p3'];
 const colorFor = (cat, i) => (cat === 'nicht_erkennbar' || cat === 'unklar') ? 'var(--unk)' : `var(${SLOT[i] || '--s3'})`;
 
@@ -281,6 +293,21 @@ function render() {
   document.getElementById('match').innerHTML = haupt.length ? `<div class="frame-legend"><span style="--c:${mColor.nutz}">Nutzende (Klicks, Okt. 2026)</span><span style="--c:${mColor.bild}">Hauptpersonen im Bild</span></div>`
     + mblock('Geschlecht', 'geschlecht', ['weiblich', 'maennlich'])
     + mblock('Alter', 'alter', ['jung', 'mittel', 'alt']) : '<p class="empty">Keine Personen im gewählten Zeitraum.</p>';
+
+  // Ressorts: Teaser mit mindestens einer Frau / einem Mann je Ressort (aus der URL)
+  const rColor = { weiblich: 'var(--p1)', maennlich: 'var(--p2)' };
+  const rTeasers = (r) => teasers.filter((t) => ressortOf(t.url) === r);
+  document.getElementById('ressorts').innerHTML = teasers.length ? `<div class="frame-legend"><span style="--c:${rColor.weiblich}">Teaser mit Frauen</span><span style="--c:${rColor.maennlich}">Teaser mit Männern</span></div>`
+    + '<div class="frame-group">' + RESSORTS.map((r) => {
+      const ts = rTeasers(r); if (!ts.length) return '';
+      const keys = new Set(ts.map((t) => t.run_id + '#' + t.position));
+      return ['weiblich', 'maennlich'].map((g, i) => {
+        const n = new Set(persons.filter((p) => p.geschlecht === g && keys.has(key(p))).map(key)).size;
+        const v = 100 * n / ts.length;
+        return `<div class="match-row"><span>${i ? '' : `${r} <span class="note num">(${ts.length})</span>`}</span><span class="note">${LABELS[g]}</span>`
+          + `<div class="stack"><div style="width:${v}%;background:${rColor[g]}" data-tip="${r}, ${LABELS[g]}: ${n} von ${ts.length} Teasern"></div></div><span class="note num">${fmt(v, 0)} %</span></div>`;
+      }).join('');
+    }).join('') + '</div>' : '<p class="empty">Keine Daten im gewählten Zeitraum.</p>';
 
   renderTrend(days, teasers, persons);
   const last = TEASERS.map((t) => t.erfasst_am).sort().at(-1);
