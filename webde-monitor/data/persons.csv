@@ -797,3 +797,14 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-09-20-14,4,2,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Polizist mit Bart und Mütze links
 2026-11-09-20-14,4,3,,weiblich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,Polizistin mit blondem Haar ganz links
 2026-11-09-20-14,5,1,Andrea Kiewel,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Blonde Frau mit ZDF-Mikrofon, als Andrea Kiewel erkennbar; Headline zitiert sie"
+2026-11-10-06-18,1,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Mann im blauen Pullover in der Mitte des Tisches spricht; steht für die Verhandlungsdelegation"
+2026-11-10-06-18,1,2,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,Mann mit grauem Haar im schwarzen Hemd links neben ihm
+2026-11-10-06-18,1,3,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,Mann in Uniform rechts neben ihm
+2026-11-10-06-18,1,4,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,Mann im Anzug links außen
+2026-11-10-06-18,1,5,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Mann im Vordergrund links, unscharf von hinten"
+2026-11-10-06-18,2,1,,weiblich,nicht_erkennbar,weiss,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Blonde Frau von hinten im Feld; steht für Krebsüberlebende"
+2026-11-10-06-18,4,1,Tanja Schweiger,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,nein,mittel,"Frau mit rotbraunen Haaren im dunklen Blazer spricht; Dachzeile nennt Tanja Schweiger, Bild ihr zuordenbar"
+2026-11-10-06-18,4,2,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Frau mit Brille im Hintergrund, unscharf"
+2026-11-10-06-18,5,1,,nicht_erkennbar,jung,nicht_erkennbar,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Kind in Warnweste trägt Laterne, nur Körper sichtbar; steht für Kinder beim Martinsumzug"
+2026-11-10-06-18,5,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Erwachsene Person links angeschnitten; steht für Eltern"
+2026-11-10-06-18,5,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person im Hintergrund, unscharf"

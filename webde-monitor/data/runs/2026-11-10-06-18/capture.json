@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-10-06-18",
+  "erfasst_am": "2026-11-10T06:18:03.220Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Was ist von den Ukraine-Verhandlungen unter US-Vermittlung zu erwarten?",
+      "teasertext": "Vertreter aus Kiew und Moskau Was ist von den Ukraine-Verhandlungen unter US-Vermittlung zu erwarten?",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/ukraine-verhandlungen-us-vermittlung-erwarten-42929674",
+      "bild_url": "https://i0.web.de/image/706/42929706%2cpd=3%2cf=responsive169-w950/us-delegation-ukraine-verhandlungen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Vertreter aus Kiew und Moskau",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "SPD fordert gesetzlichen Schutz von Krebsüberlebenden",
+      "teasertext": "\"Recht auf Vergessenwerden\" SPD fordert gesetzlichen Schutz von Krebsüberlebenden",
+      "url": "https://web.de/magazine/politik/inland/spd-gesetzlichen-schutz-krebsueberlebenden-42927762",
+      "bild_url": "https://i0.web.de/image/414/42928414%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "\"Recht auf Vergessenwerden\"",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Verdächtiger im Fall Lisa bereits polizeibekannt",
+      "teasertext": "Tod der 13-Jährigen aus Berlin Verdächtiger im Fall Lisa bereits polizeibekannt",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/verdaechtiger-lisa-polizeibekannt-42929398",
+      "bild_url": "https://i0.web.de/image/616/42929616%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Tod der 13-Jährigen aus Berlin",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Aiwangers Partnerin meldet sich nach Todesnachricht erstmals zu Wort",
+      "teasertext": "Tanja Schweiger Aiwangers Partnerin meldet sich nach Todesnachricht erstmals zu Wort",
+      "url": "https://web.de/magazine/politik/aiwangers-partnerin-meldet-todesnachricht-erstmals-wort-42929364",
+      "bild_url": "https://i0.web.de/image/606/42929606%2cpd=1%2cf=responsive169-w300/tanja-schweiger.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Tanja Schweiger",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Süßes sammeln beim Martinsumzug? Das rät die Polizei Eltern",
+      "teasertext": "Nach Vorfällen an Halloween Süßes sammeln beim Martinsumzug? Das rät die Polizei Eltern",
+      "url": "https://web.de/magazine/ratgeber/kind-familie/suesses-sammeln-martinsumzug-raet-polizei-eltern-42929568",
+      "bild_url": "https://i0.web.de/image/630/42929630%2cpd=1%2cf=responsive169-w300/laterne-martinsumzug.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Nach Vorfällen an Halloween",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
