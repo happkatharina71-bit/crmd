@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-10-16-16",
+  "erfasst_am": "2026-11-10T16:16:36.690Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Wie die Regierung Studierende im Stich lässt",
+      "teasertext": "Analyse Wird Studium zum Luxus? Wie die Regierung Studierende im Stich lässt",
+      "url": "https://web.de/magazine/politik/inland/bundesregierung-studierende-stich-laesst-42926978",
+      "bild_url": "https://i0.web.de/image/048/42927048%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse Wird Studium zum Luxus?",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Klingbeil will beliebte Steuerklassen für Ehepaare kippen",
+      "teasertext": "Streit ums Herbstpaket Klingbeil will beliebte Steuerklassen für Ehepaare kippen",
+      "url": "https://web.de/magazine/politik/inland/klingbeil-beliebte-steuerklassen-ehepaare-kippen-42931426",
+      "bild_url": "https://i0.web.de/image/556/42931556%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Streit ums Herbstpaket",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Christian Lell hat \"mit Deutschland gebrochen\"",
+      "teasertext": "Interview Ex-Bayern-Profi Christian Lell hat \"mit Deutschland gebrochen\"",
+      "url": "https://web.de/magazine/sport/fussball/christian-lell-deutschland-gebrochen-42928160",
+      "bild_url": "https://i0.web.de/image/960/42931960%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Interview Ex-Bayern-Profi",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Mit deutlichen Worten an Gina H. räumt der Richter jeden Zweifel aus",
+      "teasertext": "Urteil im Fall Fabian Mit deutlichen Worten an Gina H. räumt der Richter jeden Zweifel aus",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/deutlichen-worten-gina-h-raeumt-richter-zweifel-42930772",
+      "bild_url": "https://i0.web.de/image/978/42930978%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Urteil im Fall Fabian",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Bekannte Sehenswürdigkeiten, die man 2027 nicht (mehr) besuchen kann",
+      "teasertext": "Galerie Für die Reiseplanung Bekannte Sehenswürdigkeiten, die man 2027 nicht (mehr) besuchen kann",
+      "url": "https://web.de/magazine/reise/sehenswuerdigkeiten-2027-besuchen-42920918",
+      "bild_url": "https://i0.web.de/image/914/42920914%2cpd=2%2cf=responsive169-w300/arco-degli-innamorati.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Für die Reiseplanung",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

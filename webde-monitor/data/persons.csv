@@ -827,3 +827,12 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-10-12-17,4,4,,maennlich,nicht_erkennbar,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Spieler Nr. 22 von hinten
 2026-11-10-12-17,5,1,,weiblich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Frau mit dunklen Haaren im grauen Pullover spricht gestikulierend; steht für Robert Enkes Witwe, nicht namentlich genannt"
 2026-11-10-12-17,5,2,Robert Enke,maennlich,mittel,weiss,nebenperson,namentlich,passiv,neutral,nein,mittel,"Torwart mit kurzen Haaren im Hannover-96-Trikot; Headline nennt Robert Enke, Bild ihm zuordenbar"
+2026-11-10-16-16,1,1,,maennlich,jung,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Junger Mann im grauen Hoodie sitzt nachdenklich am Klapptisch; steht für Studierende"
+2026-11-10-16-16,1,2,,nicht_erkennbar,jung,nicht_erkennbar,nebenperson,indirekt,passiv,neutral,nein,niedrig,Bewegungsunscharfe Person rechts mit langen Haaren
+2026-11-10-16-16,1,3,,nicht_erkennbar,jung,nicht_erkennbar,nebenperson,indirekt,passiv,neutral,nein,niedrig,Bewegungsunscharfe Person links
+2026-11-10-16-16,1,4,,nicht_erkennbar,jung,nicht_erkennbar,nebenperson,indirekt,passiv,neutral,nein,niedrig,Bewegungsunscharfe Person rechts außen
+2026-11-10-16-16,2,1,Klingbeil,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann im dunklen Anzug gestikuliert am Mikrofon, als Klingbeil erkennbar; Headline: Klingbeil will Steuerklassen kippen"
+2026-11-10-16-16,3,1,Christian Lell,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,ja,mittel,"Mann mit Kappe und Bayern-Trikot; Headline: Interview mit Christian Lell, Bild ihm zuordenbar"
+2026-11-10-16-16,4,1,Gina H.,weiblich,nicht_erkennbar,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Person mit dunklen Haaren im rosa Pullover hält Mappe vors Gesicht; Headline: Höchststrafe für Gina H., Bild ihr zuordenbar; Alter wegen verdecktem Gesicht nicht codiert"
+2026-11-10-16-16,4,2,,maennlich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann in schwarzer Robe rechts, Gesicht nicht im Bild"
+2026-11-10-16-16,4,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person in dunkler Uniform links hinten, angeschnitten"
