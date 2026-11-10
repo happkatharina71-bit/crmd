@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-10-12-17",
+  "erfasst_am": "2026-11-10T12:17:59.016Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Höchststrafe für Gina H. wegen Mordes an Fabian",
+      "teasertext": "Urteil gefällt Höchststrafe für Gina H. wegen Mordes an Fabian",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/hoechststrafe-gina-h-mordes-fabian-42930772",
+      "bild_url": "https://i0.web.de/image/978/42930978%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Urteil gefällt",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Wofür die Bundesregierung 2027 mehr Geld braucht",
+      "teasertext": "Milliarden-Nachschlag Wofür die Bundesregierung 2027 mehr Geld braucht",
+      "url": "https://web.de/magazine/politik/inland/wofuer-bundesregierung-2027-geld-42930598",
+      "bild_url": "https://i0.web.de/image/700/42930700%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Milliarden-Nachschlag",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Verletzte nach Schüssen in Hafencity – \"Elphi\" teils geräumt",
+      "teasertext": "Fahndung läuft Verletzte nach Schüssen in Hafencity – \"Elphi\" teils geräumt",
+      "url": "https://web.de/magazine/panorama/aus-aller-welt/deutschland/verletzte-schuessen-hafencity-elphi-teils-geraeumt-42930420",
+      "bild_url": "https://i0.web.de/image/064/42931064%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Fahndung läuft",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Theologe: \"Da gruselt es mich ein bisschen\"",
+      "teasertext": "Analyse Wirbel um Nmecha-Jubel Theologe: \"Da gruselt es mich ein bisschen\"",
+      "url": "https://web.de/magazine/sport/fussball/theologe-fussball-missionsfeld-gruselt-bisschen-41396802",
+      "bild_url": "https://i0.web.de/image/686/42926686%2cpd=6%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Analyse Wirbel um Nmecha-Jubel",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Robert Enkes Witwe spricht erstmals über seine letzten Stunden",
+      "teasertext": "Todestag am 10. November Robert Enkes Witwe spricht erstmals über seine letzten Stunden",
+      "url": "https://web.de/magazine/sport/fussball/robert-enkes-witwe-spricht-erstmals-stunden-42930372",
+      "bild_url": "https://i0.web.de/image/904/42930904%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Todestag am 10. November",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

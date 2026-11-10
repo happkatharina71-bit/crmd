@@ -815,3 +815,15 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-10-09-14,4,1,,weiblich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,nein,mittel,"Frau mit rotbraunen Haaren im dunklen Blazer spricht; Headline: Aiwangers Partnerin meldet sich zu Wort, nicht namentlich genannt"
 2026-11-10-09-14,4,2,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Frau mit Brille im Hintergrund, unscharf"
 2026-11-10-09-14,5,1,Nmecha,maennlich,jung,poc,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Spieler im gelben BVB-Trikot Nr. 8 mit Jubelgeste; Headline: Nmecha äußert sich zum Jubel, Bild ihm zuordenbar"
+2026-11-10-12-17,1,1,Gina H.,weiblich,nicht_erkennbar,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Person mit dunklen Haaren im rosa Pullover hält Mappe vors Gesicht; Headline: Höchststrafe für Gina H., Bild ihr zuordenbar; Alter wegen verdecktem Gesicht nicht codiert"
+2026-11-10-12-17,1,2,,maennlich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann in schwarzer Robe rechts, Gesicht nicht im Bild"
+2026-11-10-12-17,1,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person in dunkler Uniform links hinten, angeschnitten"
+2026-11-10-12-17,2,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Mann im grauen Sakko spricht am Mikrofon; steht für die Bundesregierung, die mehr Geld braucht"
+2026-11-10-12-17,3,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Polizeikraft mit Helm und Schutzausrüstung von hinten; steht für die Fahndung"
+2026-11-10-12-17,3,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,neutral,nein,mittel,"Weitere Polizeikräfte von hinten, stellvertretend codiert"
+2026-11-10-12-17,4,1,,maennlich,jung,poc,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Lachender Spieler im BVB-Trikot, einziges sichtbares Gesicht, zeigt nach oben; steht vermutlich für den umstrittenen Jubel"
+2026-11-10-12-17,4,2,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Spieler Nr. 19 von hinten
+2026-11-10-12-17,4,3,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Spieler Nr. 21 mit Locken von hinten
+2026-11-10-12-17,4,4,,maennlich,nicht_erkennbar,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Spieler Nr. 22 von hinten
+2026-11-10-12-17,5,1,,weiblich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Frau mit dunklen Haaren im grauen Pullover spricht gestikulierend; steht für Robert Enkes Witwe, nicht namentlich genannt"
+2026-11-10-12-17,5,2,Robert Enke,maennlich,mittel,weiss,nebenperson,namentlich,passiv,neutral,nein,mittel,"Torwart mit kurzen Haaren im Hannover-96-Trikot; Headline nennt Robert Enke, Bild ihm zuordenbar"
