@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-10-20-14",
+  "erfasst_am": "2026-11-10T20:14:19.497Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Sex aus Pflichtgefühl: Nicht unbedingt ein Warnsignal",
+      "teasertext": "Beziehungen Sex aus Pflichtgefühl: Nicht unbedingt ein Warnsignal",
+      "url": "https://web.de/magazine/liebe-partnerschaft/sex-pflichtgefuehl-warnsignal-42901660",
+      "bild_url": "https://i0.web.de/image/566/42930566%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Beziehungen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Mangelernährung in Kliniken: Was die \"angereicherte Vollkost\" bewirken soll",
+      "teasertext": "Unterschätztes Risiko Mangelernährung in Kliniken: Was die \"angereicherte Vollkost\" bewirken soll",
+      "url": "https://web.de/magazine/gesundheit/mangelernaehrung-kliniken-angereicherte-vollkost-bewirken-42931100",
+      "bild_url": "https://i0.web.de/image/186/42931186%2cpd=2%2cf=responsive169-w300/krankenhausessen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Unterschätztes Risiko",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Wohl kaum ein Chemiker hat die Welt stärker verändert als er",
+      "teasertext": "Felix Hoffmann Wohl kaum ein Chemiker hat die Welt stärker verändert als er",
+      "url": "https://web.de/magazine/wissen/geschichte/chemiker-welt-staerker-veraendert-41409398",
+      "bild_url": "https://i0.web.de/image/810/42860810%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Felix Hoffmann",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Fall Lisa: Staatsanwaltschaft gibt neue Details bekannt",
+      "teasertext": "Berlin Fall Lisa: Staatsanwaltschaft gibt neue Details bekannt",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/lisa-staatsanwaltschaft-details-42932402",
+      "bild_url": "https://i0.web.de/image/408/42932408%2cpd=2%2cf=responsive169-w300/entwicklung-tod-13-jaehrigen-lisa-berlin.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Berlin",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Showdown in Paris: Bayern zu Gast in Frankreich",
+      "teasertext": "Live-Ticker Champions League der Frauen Showdown in Paris: Bayern zu Gast in Frankreich",
+      "url": "https://web.de/magazine/sport/fussball/champions-league/live-ticker-paris-sg-fc-bayern-40776556",
+      "bild_url": "https://i0.web.de/image/456/42930456%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Live-Ticker Champions League der Frauen",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
