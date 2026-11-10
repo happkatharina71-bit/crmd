@@ -1,0 +1,142 @@
+{
+ "run_id": "2026-11-10-09-14",
+ "erfasst_am": "2026-11-10T09:14:07.666Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Übergabe einer Karte am Empfang einer Praxis (Symbolbild); Gesicht der Mitarbeiterin angeschnitten",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Frau in blauer Praxiskleidung nimmt eine Karte entgegen, Gesicht nur angeschnitten; steht für Arztpraxen"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Hand einer Person reicht die Karte, nur Arm sichtbar; steht für Patient*innen"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Person mit Rucksack auf einer Hängebrücke im Wald, von hinten und klein (Symbolbild)",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person in gelber Jacke mit Mütze von hinten auf der Brücke; Symbol für Krebsüberlebende"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Frau mit Unterlagen, Person am linken Rand angeschnitten (nur gezählt)",
+   "personen": [
+    {
+     "name": "Patricia Schlesinger",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Frau mit rotblonden Haaren im dunklen Blazer mit Papieren; Headline nennt Patricia Schlesinger, Bild ihr zuordenbar; Alter um 60 schwer einzuschätzen"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Frau im Vordergrund, zweite Frau unscharf dahinter; gleiches Bild wie in der vorigen Erhebung; Name nur noch indirekt (\"Aiwangers Partnerin\")",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Frau mit rotbraunen Haaren im dunklen Blazer spricht; Headline: Aiwangers Partnerin meldet sich zu Wort, nicht namentlich genannt"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Frau mit Brille im Hintergrund, unscharf"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Spieler im BVB-Trikot beim Torjubel; Person im Hintergrund unscharf (nur gezählt)",
+   "personen": [
+    {
+     "name": "Nmecha",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Spieler im gelben BVB-Trikot Nr. 8 mit Jubelgeste; Headline: Nmecha äußert sich zum Jubel, Bild ihm zuordenbar"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-10-09-14",
+  "erfasst_am": "2026-11-10T09:14:07.666Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Facharzttermine nur gegen Bezahlung – was steckt dahinter?",
+      "teasertext": "Kritik an Selbstzahlerterminen Facharzttermine nur gegen Bezahlung – was steckt dahinter?",
+      "url": "https://web.de/magazine/politik/inland/facharzttermine-bezahlung-steckt-dahinter-42925280",
+      "bild_url": "https://i0.web.de/image/310/42930310%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Kritik an Selbstzahlerterminen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "SPD fordert gesetzlichen Schutz von Krebsüberlebenden",
+      "teasertext": "\"Recht auf Vergessenwerden\" SPD fordert gesetzlichen Schutz von Krebsüberlebenden",
+      "url": "https://web.de/magazine/politik/inland/spd-gesetzlichen-schutz-krebsueberlebenden-42927762",
+      "bild_url": "https://i0.web.de/image/412/42928412%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "\"Recht auf Vergessenwerden\"",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Vom Massagesitz in den Gerichtssaal: Der Fall Patricia Schlesinger",
+      "teasertext": "Prozess beginnt Vom Massagesitz in den Gerichtssaal: Der Fall Patricia Schlesinger",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/massagesitz-gerichtssaal-patricia-schlesinger-42784980",
+      "bild_url": "https://i0.web.de/image/380/42785380%2cpd=2%2cf=responsive169-w300/patricia-schlesinger.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Prozess beginnt",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Aiwangers Partnerin meldet sich erstmals öffentlich zu Wort",
+      "teasertext": "Nach Todesnachricht Aiwangers Partnerin meldet sich erstmals öffentlich zu Wort",
+      "url": "https://web.de/magazine/politik/aiwangers-partnerin-meldet-erstmals-oeffentlich-wort-42929364",
+      "bild_url": "https://i0.web.de/image/606/42929606%2cpd=1%2cf=responsive169-w300/tanja-schweiger.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Nach Todesnachricht",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Jetzt äußert sich Nmecha zu seinem umstrittenen Kronen-Jubel",
+      "teasertext": "Klopp sprach schon mit ihm Jetzt äußert sich Nmecha zu seinem umstrittenen Kronen-Jubel",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/borussia-dortmund/aeussert-nmecha-umstrittenen-kronen-jubel-42929782",
+      "bild_url": "https://i0.web.de/image/920/42929920%2cpd=1%2cf=responsive169-w300/umstrittene-kronen-jubel-bvb-profi-felix-nmecha-sp.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Klopp sprach schon mit ihm",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
