@@ -4,10 +4,12 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { TEASER_FIELDS, PERSON_FIELDS, TEASER_COLUMNS, PERSON_COLUMNS, MAX_PERSONEN } from './schema.mjs';
 
-const dataDir = path.join(path.dirname(new URL(import.meta.url).pathname), 'data');
+// Datenordner = zwei Ebenen über der analysis.json (data/ für web.de, data-tonline/ für den t-online-Vergleich)
+const dataDirOf = (f) => path.resolve(path.dirname(f), '..', '..');
 const file = process.argv[2];
 if (!file) { console.error('Aufruf: node record.mjs <analysis.json>'); process.exit(1); }
 const a = JSON.parse(fs.readFileSync(file, 'utf8'));
+const dataDir = dataDirOf(file);
 // Dachzeile, Headline, URL und Zeitpunkt immer aus capture.json übernehmen, falls vorhanden
 const capFile = path.join(path.dirname(file), 'capture.json');
 if (fs.existsSync(capFile)) {

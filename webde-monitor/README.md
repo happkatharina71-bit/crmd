@@ -20,6 +20,15 @@ Geplante Aufgabe „web.de Topteaser-Erhebung“: 7, 10, 13, 17, 21 Uhr (Europe/
 Seit 21.10. mittags laufen alle Erhebungen in derselben Sitzung (eine eigene Sitzung pro Lauf konnte nicht pushen). Jeder Lauf führt diese Schritte aus und veröffentlicht danach das Online-Dashboard
 (https://claude.ai/artifact/JucmPLm9m8k9AAaCB3RbFz) mit den neuen CSV-Dateien neu.
 
+## Vergleichslauf t-online (14.–20.11.2026)
+
+Parallel zur web.de-Erhebung wird eine Woche lang (14.11., 7 Uhr, bis 20.11., 21 Uhr; 35 Erhebungen) der Hero der mobilen t-online-Startseite erfasst.
+- `node capture-tonline.mjs` → `data-tonline/runs/<run_id>/` (gleiche Dateien wie bei web.de, Bilder als `bild-N.jpg`).
+- Erfasst werden die ersten 5 Slides des Hero-Karussells. Als Anzeige gekennzeichnete Slides werden übersprungen, die nächsten rücken nach.
+- Codiert wird nur das große Teaserbild (keine Autor*innen-Fotos), streng nach CODEBUCH.md.
+- `node record.mjs data-tonline/runs/<run_id>/analysis.json` schreibt nach `data-tonline/teasers.csv` und `data-tonline/persons.csv`.
+- Netzwerk-Freigabe zusätzlich: `t-online.de`, `www.t-online.de`, `images.t-online.de`.
+
 ## Status
 
 - `capture.mjs` am 21.10.2026 gegen web.de getestet: Consent wird bestätigt, die 5 Topteaser (Aufmacher + 4 Listenteaser) werden korrekt erfasst.

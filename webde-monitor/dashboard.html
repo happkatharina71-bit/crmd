@@ -96,7 +96,7 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
 <div class="wrap">
   <header class="hero">
     <h1>Wer ist zu sehen?</h1>
-    <p class="kicker">Topnewsteaser im Hero bei WEB.DE</p>
+    <p class="kicker">Topnewsteaser im Hero bei <span id="portal-name">WEB.DE</span></p>
   </header>
   <p class="sub intro"><strong>Methodik:</strong> Abgebildete Personen in den Topteasern der mobilen Startseite, ausgewertet nach Bild, Dachzeile und Headline. Alle Merkmale sind wahrgenommen, nicht gesichert. Die Teaser werden täglich um 7, 10, 13, 17 und 21 Uhr erfasst.</p>
 
@@ -105,6 +105,11 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
   </div>
 
   <div class="filters" role="group" aria-label="Filter">
+    <label>Portal
+      <span class="seg" id="portal">
+        <button type="button" data-p="webde" aria-pressed="true">WEB.DE</button><button type="button" data-p="tonline">t-online</button>
+      </span>
+    </label>
     <label>Zeitraum
       <span class="seg" id="range">
         <button type="button" data-r="7">7 Tage</button><button type="button" data-r="30">30 Tage</button><button type="button" data-r="all" aria-pressed="true">Alle</button>
@@ -132,7 +137,7 @@ input[type="date"] { font: inherit; font-size: .88rem; padding: 5px 8px; border:
     <div class="panel" id="framing"></div>
   </section>
 
-  <section aria-labelledby="h-match">
+  <section aria-labelledby="h-match" id="sec-match">
     <h2 id="h-match">Abgleich – wer klickt, wer ist zu sehen?</h2>
     <p class="note" style="line-height:1.8">Der Abgleich zeigt die Relation der in den Hero-Bildern sichtbaren Personen mit den aktiv im Hero der mobilen Startseite von WEB.DE klickenden User*innen (Oktober 2026/interne Analytics/nur Kund*innen mit bekanntem Geschlecht bzw. Alter – bei rund 31&nbsp;% der Klicks sind diese Angaben unbekannt). Die beiden Quellen messen Unterschiedliches (wahrgenommene Bildpersonen vs. Kund*innendaten) und sind nicht deckungsgleich.</p>
     <div class="panel" id="match"></div>
@@ -177,7 +182,19 @@ const RESSORT_MAP = { politik: 'Politik', wirtschaft: 'Wirtschaft', sport: 'Spor
   panorama: 'Panorama', regio: 'Panorama', wissen: 'Wissen', gesundheit: 'Wissen',
   ratgeber: 'Ratgeber', reise: 'Ratgeber', auto: 'Ratgeber', digital: 'Ratgeber', 'liebe-partnerschaft': 'Ratgeber' };
 const RESSORTS = ['Politik', 'Wirtschaft', 'Sport', 'Entertainment', 'Panorama', 'Ratgeber', 'Wissen', 'Sonstige'];
-const ressortOf = (url) => { const m = /^https?:\/\/[^/]+\/(?:magazine\/)?([^/?#]+)/.exec(url || ''); return (m && RESSORT_MAP[m[1]]) || 'Sonstige'; };
+// t-online: /nachrichten/<bereich>/... bzw. /<ressort>/...
+const TONLINE_MAP = { sport: 'Sport', unterhaltung: 'Entertainment', finanzen: 'Wirtschaft', gesundheit: 'Wissen', wissen: 'Wissen',
+  leben: 'Ratgeber', digital: 'Ratgeber', 'heim-garten': 'Ratgeber', mobilitaet: 'Ratgeber', auto: 'Ratgeber', reisen: 'Ratgeber', ratgeber: 'Ratgeber',
+  region: 'Panorama', panorama: 'Panorama' };
+const ressortOf = (url) => {
+  const parts = (/^https?:\/\/[^/]+\/([^?#]*)/.exec(url || '') || [, ''])[1].split('/');
+  if (/t-online\.de/.test(url || '')) {
+    if (parts[0] === 'nachrichten') return parts[1] === 'panorama' ? 'Panorama' : parts[1] === 'wissen' ? 'Wissen' : 'Politik';
+    return TONLINE_MAP[parts[0]] || 'Sonstige';
+  }
+  const seg = parts[0] === 'magazine' ? parts[1] : parts[0];
+  return RESSORT_MAP[seg] || 'Sonstige';
+};
 const SLOT = ['--p1', '--p2', '--p3'];
 const colorFor = (cat, i) => (cat === 'nicht_erkennbar' || cat === 'unklar') ? 'var(--unk)' : `var(${SLOT[i] || '--s3'})`;
 
@@ -202,18 +219,34 @@ const wsum = (ps) => ps.reduce((s, q) => s + q.w, 0);
 const num = (n) => fmt(n, Number.isInteger(Math.round(n * 100) / 100) ? 0 : 1);
 
 let TEASERS = [], PERSONS = [];
-const state = { range: 'all', from: '', to: '' };
+const state = { portal: 'webde', range: 'all', from: '', to: '' };
 
+// Beide Portale einmal laden; t-online ist der Vergleichslauf 14.–20.11.2026 (data-tonline/)
+const PORTALS = { webde: { name: 'WEB.DE', dir: 'data' }, tonline: { name: 't-online', dir: 'data-tonline' } };
+const DATA = {};
 async function load() {
-  const [t, p] = await Promise.all(['data/teasers.csv', 'data/persons.csv'].map((u) => fetch(u + '?t=' + Date.now(), { cache: 'no-store' }).then((r) => r.ok ? r.text() : '')));
-  TEASERS = parseCSV(t).map((r) => ({ ...r, tag: berlinDay(r.erfasst_am), position: +r.position, personen_anzahl: +r.personen_anzahl }));
+  for (const [k, { dir }] of Object.entries(PORTALS)) {
+    const [t, p] = await Promise.all([`${dir}/teasers.csv`, `${dir}/persons.csv`].map((u) => fetch(u + '?t=' + Date.now(), { cache: 'no-store' }).then((r) => r.ok ? r.text() : '').catch(() => '')));
+    DATA[k] = prepare(t, p);
+  }
+  usePortal();
+}
+function usePortal() {
+  ({ TEASERS, PERSONS } = DATA[state.portal]);
+  document.getElementById('portal-name').textContent = PORTALS[state.portal].name;
+  // Klick-Referenz liegt nur für WEB.DE vor
+  document.getElementById('sec-match').hidden = state.portal !== 'webde';
+  render();
+}
+function prepare(t, p) {
+  const TEASERS = parseCSV(t).map((r) => ({ ...r, tag: berlinDay(r.erfasst_am), position: +r.position, personen_anzahl: +r.personen_anzahl }));
   const day = Object.fromEntries(TEASERS.map((r) => [r.run_id, r.tag]));
-  PERSONS = parseCSV(p).map((r) => ({ ...r, tag: day[r.run_id], position: +r.position }));
+  const PERSONS = parseCSV(p).map((r) => ({ ...r, tag: day[r.run_id], position: +r.position }));
   // Gewicht: jeder Teaser mit Personen zählt 1, gleichmäßig verteilt auf die codierten Personen im Bild
   const perTeaser = {};
   PERSONS.forEach((q) => { const k = q.run_id + '#' + q.position; perTeaser[k] = (perTeaser[k] || 0) + 1; });
   PERSONS.forEach((q) => { q.w = 1 / perTeaser[q.run_id + '#' + q.position]; });
-  render();
+  return { TEASERS, PERSONS };
 }
 
 function filtered() {
@@ -357,6 +390,8 @@ function renderTrend(days, teasers, persons) {
 
 // Filter
 const setPressed = (wrap, btn) => wrap.querySelectorAll('button').forEach((b) => b.setAttribute('aria-pressed', String(b === btn)));
+document.getElementById('portal').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return;
+  state.portal = b.dataset.p; setPressed(e.currentTarget, b); usePortal(); });
 document.getElementById('range').addEventListener('click', (e) => { const b = e.target.closest('button'); if (!b) return;
   state.range = b.dataset.r; state.from = state.to = ''; from.value = to.value = ''; setPressed(e.currentTarget, b); render(); });
 const from = document.getElementById('from'), to = document.getElementById('to');
