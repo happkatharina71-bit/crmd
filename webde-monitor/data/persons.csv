@@ -863,3 +863,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-11-12-18,4,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Junger Mann im blau-gelben Rennanzug mit Gewehr; Headline: Schwede warnt"
 2026-11-11-12-18,5,1,,maennlich,mittel,nicht_erkennbar,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Spieler in weißem Trikot mit Wappen läuft mit Ball; Headline: erster deutscher Superstar, Zuordnung nicht sicher"
 2026-11-11-12-18,5,2,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Gegenspieler in dunklem Trikot grätscht
+2026-11-11-16-15,1,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Dunkelhaariger Mann im dunklen Anzug spricht; Dachzeile: US-Verhandler"
+2026-11-11-16-15,1,2,,maennlich,alt,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Grauhaariger Mann im Anzug mit blauer Krawatte hört zu; Dachzeile: US-Verhandler"
+2026-11-11-16-15,2,1,Henrichmann,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit Brille im blauen Anzug wird interviewt; Headline: CDU-Politiker Henrichmann, einzige frontal gezeigte Person"
+2026-11-11-16-15,2,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person mit langen Haaren von hinten, hält Mikrofon; Gesicht nicht sichtbar"
+2026-11-11-16-15,3,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Lächelnder Mann mit Glatze und Bart im braunen Pullover
+2026-11-11-16-15,3,2,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Dunkelhaariger Mann im roten Pullover gestikuliert
+2026-11-11-16-15,5,1,,weiblich,jung,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Jugendliche mit dunklem Haar und Halsketten, Gesicht verpixelt; Headline: entführte Teenagerin"

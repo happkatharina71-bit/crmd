@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-11-16-15",
+  "erfasst_am": "2026-11-11T16:15:12.673Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "\"Wir müssen die Europäer mit am Tisch haben\"",
+      "teasertext": "US-Verhandler ändern Kurs \"Wir müssen die Europäer mit am Tisch haben\"",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/us-verhandler-aendern-kurs-europaeer-tisch-42932950",
+      "bild_url": "https://i0.web.de/image/796/42935796%2cpd=5%2cf=responsive169-w950/ukraine-gespraeche-abu-dhabi.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "US-Verhandler ändern Kurs",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "CDU-Politiker Henrichmann: \"Wir unterschätzen maßlos das Treiben der Chinesen\"",
+      "teasertext": "Nach Nvidia-Affäre CDU-Politiker Henrichmann: \"Wir unterschätzen maßlos das Treiben der Chinesen\"",
+      "url": "https://web.de/magazine/politik/inland/cdu-politiker-henrichmann-unterschaetzen-masslos-treiben-chinesen-42934560",
+      "bild_url": "https://i0.web.de/image/606/42934606%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Nach Nvidia-Affäre",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Forschende knacken den Code guter Gespräche",
+      "teasertext": "\"Rosa Rauschen\" Forschende knacken den Code guter Gespräche",
+      "url": "https://web.de/magazine/wissen/psychologie/forschende-entdecken-geheimnis-guter-gespraeche-42934184",
+      "bild_url": "https://i0.web.de/image/412/42934412%2cpd=1%2cf=responsive169-w300/maenner-angeregten-gespraech.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "\"Rosa Rauschen\"",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "El Niño so stark wie nie – was heißt das für den Winter?",
+      "teasertext": "Prognose des DWD El Niño so stark wie nie – was heißt das für den Winter?",
+      "url": "https://web.de/magazine/wissen/klima/el-nino-stark-heisst-winter-42933956",
+      "bild_url": "https://i0.web.de/image/558/42934558%2cpd=1%2cf=responsive169-w300/verschneite-landstrasse-entsprechendem-warnschild.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Prognose des DWD",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Entführte Teenagerin sendet Hilferuf über Videospiel – und wird gerettet",
+      "teasertext": "Mehr als 500 Tage vermisst Entführte Teenagerin sendet Hilferuf über Videospiel – und wird gerettet",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/entfuehrte-teenagerin-sendet-hilferuf-videospiel-gerettet-42934434",
+      "bild_url": "https://i0.web.de/image/502/42934502%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Mehr als 500 Tage vermisst",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
