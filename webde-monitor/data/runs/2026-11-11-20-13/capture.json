@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-11-20-13",
+  "erfasst_am": "2026-11-11T20:13:12.144Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Wie Eisenkot Israels neue Regierung sucht",
+      "teasertext": "Schwierige Koalitionsbildung Wie Eisenkot Israels neue Regierung sucht",
+      "url": "https://web.de/magazine/politik/nahostkonflikt/eisenkot-israels-regierung-sucht-42931944",
+      "bild_url": "https://i0.web.de/image/234/42934234%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Schwierige Koalitionsbildung",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Russischer Botschafter \"überraschend\" in den USA gestorben",
+      "teasertext": "Ursache unklar Russischer Botschafter \"überraschend\" in den USA gestorben",
+      "url": "https://web.de/magazine/politik/russischer-botschafter-ueberraschend-usa-gestorben-42936322",
+      "bild_url": "https://i0.web.de/image/460/42936460%2cpd=2%2cf=responsive169-w300/russischer-botschafter-usa-dartschijew.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Ursache unklar",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Lächeln auf Kommando: Warum zu viel Freundlichkeit unglücklich macht",
+      "teasertext": "Psychologische Studie Lächeln auf Kommando: Warum zu viel Freundlichkeit unglücklich macht",
+      "url": "https://web.de/magazine/wissen/psychologie/dauerlaecheln-job-wuetend-gluecklich-psychologe-erklaert-42935200",
+      "bild_url": "https://i0.web.de/image/276/42935276%2cpd=1%2cf=responsive169-w300/reicht-hand-laechelt-freundlich.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Psychologische Studie",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Manche wurden Superstars, andere stürzten ab",
+      "teasertext": "Galerie \"Golden Boy\"-Auszeichnung Manche wurden Superstars, andere stürzten ab",
+      "url": "https://web.de/magazine/sport/fussball/international/golden-boy-superstars-stuerzten-42933830",
+      "bild_url": "https://i0.web.de/image/936/42933936%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Galerie \"Golden Boy\"-Auszeichnung",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Polizei veröffentlicht Fotos des möglichen Tatfahrzeugs im Fall Lisa",
+      "teasertext": "Nach Tod des Tatverdächtigen Polizei veröffentlicht Fotos des möglichen Tatfahrzeugs im Fall Lisa",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/polizei-veroeffentlicht-fotos-moeglichen-tatfahrzeugs-lisa-42933696",
+      "bild_url": "https://i0.web.de/image/268/42936268%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Nach Tod des Tatverdächtigen",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

@@ -870,3 +870,14 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-11-16-15,3,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Lächelnder Mann mit Glatze und Bart im braunen Pullover
 2026-11-11-16-15,3,2,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Dunkelhaariger Mann im roten Pullover gestikuliert
 2026-11-11-16-15,5,1,,weiblich,jung,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Jugendliche mit dunklem Haar und Halsketten, Gesicht verpixelt; Headline: entführte Teenagerin"
+2026-11-11-20-13,1,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Grauhaariger Mann im Anzug, scharf im Fokus; möglicherweise der genannte Eisenkot, nicht sicher"
+2026-11-11-20-13,1,2,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Grauhaariger Mann mit blauer Krawatte unscharf im Vordergrund
+2026-11-11-20-13,1,3,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,"Mann mit Schnurrbart oben rechts, Gesicht angeschnitten"
+2026-11-11-20-13,1,4,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,"Mann im Anzug am linken Rand, Gesicht abgeschnitten"
+2026-11-11-20-13,2,1,,maennlich,alt,nicht_erkennbar,hauptperson,indirekt,passiv,reich_maechtig,ja,hoch,"Älterer Mann mit Schnurrbart im Anzug, offizielles Porträt; Headline: russischer Botschafter gestorben"
+2026-11-11-20-13,3,1,,weiblich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Lächelnde Frau mit langen roten Haaren im Blazer reicht die Hand
+2026-11-11-20-13,3,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Bärtiger Mann im hellen Sakko, von hinten/seitlich unscharf"
+2026-11-11-20-13,3,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Unscharfe Person mit dunklen Haaren am rechten Rand
+2026-11-11-20-13,4,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Junger Spieler im hellblauen Trikot jubelt, Bildmitte"
+2026-11-11-20-13,4,2,,maennlich,jung,weiss,nebenperson,indirekt,aktiv,neutral,nein,mittel,Junger Spieler mit langen Haaren im blau-roten Trikot lacht
+2026-11-11-20-13,4,3,,maennlich,jung,poc,nebenperson,indirekt,aktiv,neutral,nein,mittel,Junger Spieler mit Dreadlocks im weißen Trikot
