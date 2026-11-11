@@ -1,0 +1,114 @@
+{
+ "run_id": "2026-11-11-09-13",
+ "erfasst_am": "2026-11-11T09:13:44.788Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Uniformierter Militär mit Orden; nicht namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann in Generalsuniform mit vielen Orden und Schirmmütze; steht für Myanmars Führung im diplomatischen Eklat"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "grafik_text",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Grafik 'Eilmeldung' auf Weltkarte",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 3,
+   "menschenmenge": "nein",
+   "notiz": "Historisches Gemälde: Reiter teilt seinen roten Mantel mit einem Bettler, weiterer Reiter links; gemalte Personen",
+   "personen": [
+    {
+     "name": "Martin",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Junger Reiter in Rüstung mit Federhut zerschneidet roten Mantel; Headline: Martin teilt seinen Mantel, Figur ihm zuordenbar"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "arm_benachteiligt",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Bettler mit Kopftuch unten rechts, nimmt den Mantel"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Bärtiger Mann auf Pferd links"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Bananen auf Holztisch",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Spieler im Vancouver-Whitecaps-Trikot; Publikum unscharf nicht gezählt",
+   "personen": [
+    {
+     "name": "Thomas Müller",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Spieler mit Bart im Whitecaps-Trikot, als Thomas Müller erkennbar; Headline: Müller löst Spekulationen aus"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-11-09-13",
+  "erfasst_am": "2026-11-11T09:13:44.788Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Diplomatischer Eklat zwischen Deutschland und Myanmar",
+      "teasertext": "Geschäftsträger einbestellt Diplomatischer Eklat zwischen Deutschland und Myanmar",
+      "url": "https://web.de/magazine/politik/diplomatischer-eklat-deutschland-myanmar-42932960",
+      "bild_url": "https://i0.web.de/image/962/42932962%2cpd=3%2cf=responsive169-w950/myanmars-praesident-min-aung-hlaing.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Geschäftsträger einbestellt",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Verdächtiger im Fall Lisa ist tot",
+      "teasertext": "Eilmeldung 13-Jährige getötet Verdächtiger im Fall Lisa ist tot",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/verdaechtiger-lisa-tot-42933696",
+      "bild_url": "https://i0.web.de/image/368/35533368%2cpd=2%2cf=responsive169-w300/eilmeldung.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Eilmeldung 13-Jährige getötet",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Martin teilt seinen Mantel – was dann geschah, wird oft vergessen",
+      "teasertext": "Christlicher Heiliger Martin teilt seinen Mantel – was dann geschah, wird oft vergessen",
+      "url": "https://web.de/magazine/wissen/geschichte/martin-teilt-mantel-geschah-vergessen-35237748",
+      "bild_url": "https://i0.web.de/image/758/40318758%2cpd=2%2cf=responsive169-w300/st-martin-teilt-mantel.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Christlicher Heiliger",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Ein verbreiteter Irrtum lässt Bananen schneller braun werden",
+      "teasertext": "Galerie Küchentipps Ein verbreiteter Irrtum lässt Bananen schneller braun werden",
+      "url": "https://web.de/magazine/ratgeber/essen-trinken/verbreiteter-irrtum-laesst-bananen-schneller-braun-42869178",
+      "bild_url": "https://i0.web.de/image/104/42869104%2cpd=1%2cf=responsive169-w300/bananen-braunen-stellen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Galerie Küchentipps",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Thomas Müller löst mit Foto Liebes-Spekulationen aus",
+      "teasertext": "Neue Frau an der Seite? Thomas Müller löst mit Foto Liebes-Spekulationen aus",
+      "url": "https://web.de/magazine/unterhaltung/stars/thomas-mueller-sorgt-instagram-post-liebes-spekulationen-42933244",
+      "bild_url": "https://i0.web.de/image/246/42933246%2cpd=2%2cf=responsive169-w300/thomas-mueller.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Neue Frau an der Seite?",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

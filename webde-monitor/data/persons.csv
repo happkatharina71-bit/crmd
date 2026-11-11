@@ -850,3 +850,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-11-06-20,4,2,Steffi Graf,weiblich,mittel,weiss,nebenperson,namentlich,passiv,neutral,nein,hoch,"Blonde Frau in gemusterter Bluse, als Steffi Graf erkennbar; in der Headline gefeiert"
 2026-11-11-06-20,5,1,,maennlich,alt,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Älterer Mann mit weißem Haar im roten Shirt pflanzt; steht für Opa im Leseraufruf"
 2026-11-11-06-20,5,2,,maennlich,jung,weiss,nebenperson,indirekt,aktiv,neutral,nein,mittel,"Kleiner Junge mit Gießkanne; steht für Enkel"
+2026-11-11-09-13,1,1,,maennlich,alt,poc,hauptperson,indirekt,passiv,reich_maechtig,ja,mittel,"Mann in Generalsuniform mit vielen Orden und Schirmmütze; steht für Myanmars Führung im diplomatischen Eklat"
+2026-11-11-09-13,3,1,Martin,maennlich,jung,weiss,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Junger Reiter in Rüstung mit Federhut zerschneidet roten Mantel; Headline: Martin teilt seinen Mantel, Figur ihm zuordenbar"
+2026-11-11-09-13,3,2,,maennlich,alt,weiss,nebenperson,indirekt,passiv,arm_benachteiligt,nein,mittel,"Bettler mit Kopftuch unten rechts, nimmt den Mantel"
+2026-11-11-09-13,3,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Bärtiger Mann auf Pferd links
+2026-11-11-09-13,5,1,Thomas Müller,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Spieler mit Bart im Whitecaps-Trikot, als Thomas Müller erkennbar; Headline: Müller löst Spekulationen aus"
