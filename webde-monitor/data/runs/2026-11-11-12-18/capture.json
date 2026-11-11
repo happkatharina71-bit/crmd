@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-11-12-18",
+  "erfasst_am": "2026-11-11T12:18:49.079Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Das Problem in der Truppe ist viel größer als gedacht",
+      "teasertext": "Sexualisiertes Fehlverhalten Das Problem in der Truppe ist viel größer als gedacht",
+      "url": "https://web.de/magazine/politik/inland/sexualisiertes-fehlverhalten-pistorius-stellt-studie-42933930",
+      "bild_url": "https://i0.web.de/image/946/42933946%2cpd=8%2cf=responsive169-w950/verteidigungsausschuss-verteidigungsminister-pisto.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Sexualisiertes Fehlverhalten",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Verdächtiger im Fall Lisa ist tot",
+      "teasertext": "13-Jährige getötet Verdächtiger im Fall Lisa ist tot",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/verdaechtiger-lisa-tot-42933696",
+      "bild_url": "https://i0.web.de/image/762/42933762%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "13-Jährige getötet",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Diese Warnzeichen für Bauchspeicheldrüsenkrebs solltest du kennen",
+      "teasertext": "Symptome richtig deuten Diese Warnzeichen für Bauchspeicheldrüsenkrebs solltest du kennen",
+      "url": "https://web.de/magazine/gesundheit/warnsignale-bauchspeicheldruesenkrebs-kennen-42933702",
+      "bild_url": "https://i0.web.de/image/040/42934040%2cpd=1%2cf=responsive169-w300/ultraschall-untersucht.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Symptome richtig deuten",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Neue Biathlon-Regel sorgt für Ärger: Schwede warnt vor \"VAR-Verhältnissen\"",
+      "teasertext": "Es geht um das Gewehr Neue Biathlon-Regel sorgt für Ärger: Schwede warnt vor \"VAR-Verhältnissen\"",
+      "url": "https://web.de/magazine/sport/wintersport/biathlon/biathlon-regel-sorgt-aerger-schwede-warnt-verhaeltnissen-42933900",
+      "bild_url": "https://i0.web.de/image/932/42933932%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Es geht um das Gewehr",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Erster deutscher Superstar hat dunkle Vergangenheit – und jetzt ein Tor weniger",
+      "teasertext": "Historische DFB-Korrektur Erster deutscher Superstar hat dunkle Vergangenheit – und jetzt ein Tor weniger",
+      "url": "https://web.de/magazine/sport/fussball/deutscher-superstar-dunkle-vergangenheit-tor-42933934",
+      "bild_url": "https://i0.web.de/image/990/42933990%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Historische DFB-Korrektur",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

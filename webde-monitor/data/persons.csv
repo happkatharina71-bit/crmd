@@ -855,3 +855,11 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-11-09-13,3,2,,maennlich,alt,weiss,nebenperson,indirekt,passiv,arm_benachteiligt,nein,mittel,"Bettler mit Kopftuch unten rechts, nimmt den Mantel"
 2026-11-11-09-13,3,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Bärtiger Mann auf Pferd links
 2026-11-11-09-13,5,1,Thomas Müller,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Spieler mit Bart im Whitecaps-Trikot, als Thomas Müller erkennbar; Headline: Müller löst Spekulationen aus"
+2026-11-11-12-18,1,1,,maennlich,alt,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Grauhaariger Mann mit Brille im Anzug spricht an Mikrofonen vor Bundestag-Logo
+2026-11-11-12-18,1,2,,maennlich,alt,weiss,nebenperson,indirekt,nicht_thematisiert,reich_maechtig,ja,mittel,"Grauhaariger Mann in Generalsuniform mit Orden; steht für die Truppe"
+2026-11-11-12-18,2,1,Lisa,weiblich,jung,nicht_erkennbar,hauptperson,namentlich,passiv,neutral,nein,mittel,"Foto eines Mädchens mit langen dunklen Haaren am Gedenkort, Gesicht verpixelt; Dachzeile/Headline: 13-Jährige, Fall Lisa"
+2026-11-11-12-18,3,1,,weiblich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Liegende Frau mit langen dunklen Haaren bei Bauch-Ultraschall
+2026-11-11-12-18,3,2,,nicht_erkennbar,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person im Arztkittel mit Handschuhen, nur Arme/Oberkörper sichtbar"
+2026-11-11-12-18,4,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Junger Mann im blau-gelben Rennanzug mit Gewehr; Headline: Schwede warnt"
+2026-11-11-12-18,5,1,,maennlich,mittel,nicht_erkennbar,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Spieler in weißem Trikot mit Wappen läuft mit Ball; Headline: erster deutscher Superstar, Zuordnung nicht sicher"
+2026-11-11-12-18,5,2,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Gegenspieler in dunklem Trikot grätscht
