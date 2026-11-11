@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-11-06-20",
+  "erfasst_am": "2026-11-11T06:20:02.055Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Amtsenthebung Hegseths im US-Repräsentantenhaus gestoppt",
+      "teasertext": "US-Verteidigungsminister Amtsenthebung Hegseths im US-Repräsentantenhaus gestoppt",
+      "url": "https://web.de/magazine/politik/us-politik/amtsenthebung-hegseths-us-repraesentantenhaus-gestoppt-42932680",
+      "bild_url": "https://i0.web.de/image/088/42933088%2cpd=6%2cf=responsive169-w950/pressekonferenz-us-verteidigungsminister-hegseth.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "US-Verteidigungsminister",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Habeck zieht bitteres Fazit zu Trumps Ukraine-Kurs",
+      "teasertext": "TV-Nachlese \"Maischberger\" Habeck zieht bitteres Fazit zu Trumps Ukraine-Kurs",
+      "url": "https://web.de/magazine/politik/politische-talkshows/habeck-maischberger-trump-regierung-ukraine-42933056",
+      "bild_url": "https://i0.web.de/image/062/42933062%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "TV-Nachlese \"Maischberger\"",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Brief von Trump an Biden veröffentlicht – und der überrascht",
+      "teasertext": "Video US-Präsident Brief von Trump an Biden veröffentlicht – und der überrascht",
+      "url": "https://web.de/magazine/politik/videos/us-politik/brief-trump-biden-veroeffentlicht-ueberrascht-42932774",
+      "bild_url": "https://i0.web.de/image/776/42932776%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Video US-Präsident",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Andre Agassi feiert Ehefrau Steffi Graf",
+      "teasertext": "\"Glücklich, dich zu haben\" Andre Agassi feiert Ehefrau Steffi Graf",
+      "url": "https://web.de/magazine/unterhaltung/stars/andre-agassi-feiert-ehefrau-steffi-graf-42933182",
+      "bild_url": "https://i0.web.de/image/184/42933184%2cpd=2%2cf=responsive169-w300/steffi-graf-andre-agassi-25-jahren-verheiratet.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "\"Glücklich, dich zu haben\"",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Was wolltest du Oma und Opa schon immer mal sagen?",
+      "teasertext": "Leseraufruf Schreib uns! Was wolltest du Oma und Opa schon immer mal sagen?",
+      "url": "https://web.de/magazine/ratgeber/kind-familie/verbindest-grosseltern-42930256",
+      "bild_url": "https://i0.web.de/image/270/42930270%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Leseraufruf Schreib uns!",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
