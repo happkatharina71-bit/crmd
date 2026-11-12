@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-12-20-13",
+  "erfasst_am": "2026-11-12T20:13:27.017Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Arzt über Gaslighting: \"Komme täglich mit der Verzweiflung in Berührung\"",
+      "teasertext": "Interview In der Gynäkologie Arzt über Gaslighting: \"Komme täglich mit der Verzweiflung in Berührung\"",
+      "url": "https://web.de/magazine/gesundheit/arzt-gaslighting-taeglich-verzweiflung-beruehrung-42667356",
+      "bild_url": "https://i0.web.de/image/956/42934956%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Interview In der Gynäkologie",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Witkoff spricht nach Putin-Treffen von Fortschritten",
+      "teasertext": "Dreiseitige Verhandlungen Witkoff spricht nach Putin-Treffen von Fortschritten",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/witkoff-spricht-putin-treffen-fortschritten-42940642",
+      "bild_url": "https://i0.web.de/image/644/42940644%2cpd=2%2cf=responsive169-w300/witkoff-kushner-moskau.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Dreiseitige Verhandlungen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Afghanische Frauen können nicht mehr einfach zum Arzt",
+      "teasertext": "Weitere Einschränkungen Afghanische Frauen können nicht mehr einfach zum Arzt",
+      "url": "https://web.de/magazine/politik/afghanistan/afghanische-frauen-arzt-42939224",
+      "bild_url": "https://i0.web.de/image/808/42939808%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Weitere Einschränkungen",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Schlimmer geht's nimmer!",
+      "teasertext": "Analyse Einstiger Top-Klub am Abgrund Schlimmer geht's nimmer!",
+      "url": "https://web.de/magazine/sport/fussball/premier-league/manchester-united-krise-schlimmer-gehts-42938694",
+      "bild_url": "https://i0.web.de/image/090/42939090%2cpd=1%2cf=responsive169-w300/michael-carrick.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Analyse Einstiger Top-Klub am Abgrund",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Patrick Stewarts Witwe meldet sich erstmals nach seinem Tod",
+      "teasertext": "Trauer auf Instagram Patrick Stewarts Witwe meldet sich erstmals nach seinem Tod",
+      "url": "https://web.de/magazine/unterhaltung/stars/patrick-stewarts-witwe-meldet-erstmals-tod-42940586",
+      "bild_url": "https://i0.web.de/image/588/42940588%2cpd=1%2cf=responsive169-w300/patrick-stewart-sunny-ozell-heirateten-2013.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Trauer auf Instagram",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

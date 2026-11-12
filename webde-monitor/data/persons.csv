@@ -915,3 +915,16 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-12-16-15,4,1,Serena Williams,weiblich,mittel,poc,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Sportlerin mit Stirnband im Tennisoutfit jubelt; einzige Person im Vordergrund, Headline: Serena Williams"
 2026-11-12-16-15,5,1,,weiblich,jung,weiss,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Junge blonde Frau in schwarzem Samtoberteil; möglicherweise die genannte Tochter"
 2026-11-12-16-15,5,2,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Frau mit roten Locken in Glitzeroberteil
+2026-11-12-20-13,1,1,,weiblich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,"Frau mit langen braunen Haaren im Strickpullover, Hand auf der Brust, spricht"
+2026-11-12-20-13,1,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person mit lockigem Haar in hellblauer Praxiskleidung von hinten, Gesicht nicht sichtbar"
+2026-11-12-20-13,2,1,,maennlich,alt,weiss,hauptperson,indirekt,nicht_thematisiert,reich_maechtig,ja,niedrig,"Älterer Mann im Profil links schüttelt Hand; möglicherweise einer der Genannten"
+2026-11-12-20-13,2,2,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Dunkelhaariger Mann im Anzug rechts schüttelt Hand; möglicherweise einer der Genannten"
+2026-11-12-20-13,2,3,,maennlich,alt,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Grauhaariger Mann mit lila Krawatte in der Mitte; möglicherweise einer der Genannten"
+2026-11-12-20-13,2,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann im Anzug unscharf im Hintergrund
+2026-11-12-20-13,3,1,,weiblich,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,passiv,arm_benachteiligt,ja,mittel,"Person in grauer Burka sitzend, Kind im Arm; Headline: afghanische Frauen"
+2026-11-12-20-13,3,2,,weiblich,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,passiv,arm_benachteiligt,ja,mittel,Person in blauer Burka sitzend mit Kleinkind auf dem Schoß
+2026-11-12-20-13,3,3,,nicht_erkennbar,jung,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,arm_benachteiligt,ja,mittel,Kleinkind mit kurzem Haar steht und blickt in die Kamera
+2026-11-12-20-13,3,4,,nicht_erkennbar,jung,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,arm_benachteiligt,ja,niedrig,"Baby auf dem Schoß, Gesicht teilweise sichtbar"
+2026-11-12-20-13,4,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,"Mann mit Bart im dunklen Mantel, niedergeschlagen; Dachzeile: Top-Klub am Abgrund"
+2026-11-12-20-13,5,1,,weiblich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Frau mit hochgestecktem braunem Haar im Leopardenmantel; Headline: Witwe meldet sich"
+2026-11-12-20-13,5,2,Patrick Stewart,maennlich,alt,weiss,nebenperson,namentlich,passiv,neutral,nein,mittel,"Älterer Mann mit Glatze und Brille, einziger Mann im Bild; Headline: Patrick Stewarts Tod"
