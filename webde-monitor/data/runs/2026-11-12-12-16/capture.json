@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-12-12-16",
+  "erfasst_am": "2026-11-12T12:16:57.441Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "\"Das verstehe ich überhaupt nicht mehr\"",
+      "teasertext": "Ärger in der Union \"Das verstehe ich überhaupt nicht mehr\"",
+      "url": "https://web.de/magazine/politik/inland/verstehe-ueberhaupt-42938164",
+      "bild_url": "https://i0.web.de/image/202/42938202%2cpd=3%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Ärger in der Union",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Für den Nvidia-Chef wird die Luft ganz, ganz dünn",
+      "teasertext": "Zweite Affäre aufgeflogen Für den Nvidia-Chef wird die Luft ganz, ganz dünn",
+      "url": "https://web.de/magazine/wirtschaft/zweite-affaere-aufgeflogen-nvidia-chef-luft-duenn-42936856",
+      "bild_url": "https://i0.web.de/image/178/42937178%2cpd=4%2cf=responsive169-w300/nvidia-gtc-berlin.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Zweite Affäre aufgeflogen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Weltmeister hat mit der Nationalmannschaft abgeschlossen",
+      "teasertext": "Wieder nicht nominiert Weltmeister hat mit der Nationalmannschaft abgeschlossen",
+      "url": "https://web.de/magazine/sport/fussball/nationalmannschaft/weltmeister-nationalmannschaft-abgeschlossen-42937658",
+      "bild_url": "https://i0.web.de/image/954/42937954%2cpd=1%2cf=responsive169-w300/ginter-hummels-durm.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Wieder nicht nominiert",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Forscher sagten Weltuntergang voraus – für diesen Freitag, den 13.",
+      "teasertext": "Prognose von 1960 Forscher sagten Weltuntergang voraus – für diesen Freitag, den 13.",
+      "url": "https://web.de/magazine/wissen/wissenschaft-technik/forscher-weltuntergang-voraus-freitag-13-42937738",
+      "bild_url": "https://i0.web.de/image/740/42937740%2cpd=2%2cf=responsive169-w300/freitag-13.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Prognose von 1960",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Silberfischchen in der Wohnung? Anzeichen für ein bestimmtes Problem",
+      "teasertext": "Galerie Schädlinge im Haushalt Silberfischchen in der Wohnung? Anzeichen für ein bestimmtes Problem",
+      "url": "https://web.de/magazine/ratgeber/haus-garten/silberfischchen-wohnung-anzeichen-bestimmtes-problem-42835406",
+      "bild_url": "https://i0.web.de/image/816/42938816%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Schädlinge im Haushalt",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

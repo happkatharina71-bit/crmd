@@ -899,3 +899,9 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-12-09-13,3,2,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Blonde Frau mit schwarzem Haarband umarmt den Jungen, trauernd"
 2026-11-12-09-13,4,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Lächelnder Mann mit langen blonden Haaren, Piercing und transparentem Glitzeroberteil, frontal"
 2026-11-12-09-13,4,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Mann mit langen dunklen Locken und Bart im Profil, lacht"
+2026-11-12-12-16,1,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Mann mit nach hinten gekämmtem Haar im braunen Sakko auf Abgeordnetensitz; Headline-Zitat vermutlich von ihm"
+2026-11-12-12-16,2,1,,maennlich,alt,poc,hauptperson,indirekt,passiv,reich_maechtig,ja,mittel,"Grauhaariger Mann mit Brille in schwarzer Lederjacke auf Bühne; Headline: Nvidia-Chef"
+2026-11-12-12-16,3,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Dunkelhaariger Spieler mit Pokal in der Bildmitte; möglicherweise der genannte Weltmeister"
+2026-11-12-12-16,3,2,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Blonder junger Spieler mit Medaille rechts der Mitte
+2026-11-12-12-16,3,3,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Blonder Spieler mit Medaille am linken Rand
+2026-11-12-12-16,3,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Bärtiger Mann unscharf im Hintergrund
