@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-12-09-13",
+  "erfasst_am": "2026-11-12T09:13:30.486Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Für den Nvidia-Chef wird die Luft ganz, ganz dünn",
+      "teasertext": "Zweite Affäre aufgeflogen Für den Nvidia-Chef wird die Luft ganz, ganz dünn",
+      "url": "https://web.de/magazine/wirtschaft/nvidia-bereitet-offenbar-rauswurf-firmenchef-huang-aktie-stuerzt-42936856",
+      "bild_url": "https://i0.web.de/image/178/42937178%2cpd=4%2cf=responsive169-w950/nvidia-gtc-berlin.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Zweite Affäre aufgeflogen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Kushner und Witkoff reisen zu Putin – mit heikler Botschaft",
+      "teasertext": "Moskau hat eigene Pläne Kushner und Witkoff reisen zu Putin – mit heikler Botschaft",
+      "url": "https://web.de/magazine/politik/us-politik/trumps-abgesandte-heikler-botschaft-putin-42937256",
+      "bild_url": "https://i0.web.de/image/258/42937258%2cpd=2%2cf=responsive169-w300/ukraine-gespraeche-abu-dhabi.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Moskau hat eigene Pläne",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Ukrainischer Junge bei acht Beerdigungen",
+      "teasertext": "Faktencheck Was hinter den Fotos steckt Ukrainischer Junge bei acht Beerdigungen",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/faktencheck-ukrainischer-junge-beerdigungen-42935422",
+      "bild_url": "https://i0.web.de/image/578/42935578%2cpd=1%2cf=responsive169-w300/umarmt-sohn-beerdigung.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Faktencheck Was hinter den Fotos steckt",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Eine Tasse Tee oder: Das lebensgefährliche Leben des Bill Kaulitz",
+      "teasertext": "Satire Kaulitz Hills Eine Tasse Tee oder: Das lebensgefährliche Leben des Bill Kaulitz",
+      "url": "https://web.de/magazine/unterhaltung/stars/kaulitz-hills-lebensgefaehrliche-leben-bill-kaulitz-42935842",
+      "bild_url": "https://i0.web.de/image/020/42936020%2cpd=3%2cf=responsive169-w300/bill-kaulitz-tom-kaulitz.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Satire Kaulitz Hills",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Wo der Mensch (noch) keine Spuren hinterlassen hat",
+      "teasertext": "Neues Meeresschutzgebiet Wo der Mensch (noch) keine Spuren hinterlassen hat",
+      "url": "https://web.de/magazine/wissen/natur-umwelt/mensch-spuren-hinterlassen-42933200",
+      "bild_url": "https://i0.web.de/image/202/42933202%2cpd=1%2cf=responsive169-w300/artenvielfalt-atollen-bikar-bokak.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Neues Meeresschutzgebiet",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+ "run_id": "2026-11-12-09-13",
+ "erfasst_am": "2026-11-12T09:13:30.486Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann in Lederjacke auf dunkler Bühne mit Headset-Mikro; nur Funktion genannt, kein Name",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Grauhaariger Mann mit Brille in schwarzer Lederjacke auf Bühne; Headline: Nvidia-Chef"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Gleiches Bild wie Teaser 1 der Erhebung 2026-11-11-16-15; zwei Männer genannt (Kushner, Witkoff), aber im Bild nicht sicher zuordenbar, daher keine Namen",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Dunkelhaariger Mann im dunklen Anzug spricht; einer der beiden Genannten, Zuordnung unklar"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Grauhaariger Mann im Anzug mit blauer Krawatte; einer der beiden Genannten, Zuordnung unklar"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Trauerfeier: Junge hält gerahmtes Foto eines Soldaten, Frau umarmt ihn; weitere angeschnittene Personen ohne sichtbares Gesicht (Uniformierte, Trauernde) und Soldat im Foto nicht codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Blonder Junge mit gesenktem Blick hält Soldatenfoto; Headline: ukrainischer Junge"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Blonde Frau mit schwarzem Haarband umarmt den Jungen, trauernd"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Männer vor Glitzervorhang mit Schriftzug; Bill Kaulitz genannt, aber nicht sicher einer Person zuordenbar, daher kein Name",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Lächelnder Mann mit langen blonden Haaren, Piercing und transparentem Glitzeroberteil, frontal"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit langen dunklen Locken und Bart im Profil, lacht"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "tier",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Unterwasserbild: Korallenriff mit Fischen und Hai",
+   "personen": []
+  }
+ ]
+}
