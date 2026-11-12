@@ -905,3 +905,13 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-12-12-16,3,2,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Blonder junger Spieler mit Medaille rechts der Mitte
 2026-11-12-12-16,3,3,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Blonder Spieler mit Medaille am linken Rand
 2026-11-12-12-16,3,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Bärtiger Mann unscharf im Hintergrund
+2026-11-12-16-15,1,1,Otte,weiblich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,hoch,"Frau mit Brille und rotem Kleid am Mikrofon; einzige Person, Headline: Frau Otte"
+2026-11-12-16-15,2,1,Jensen Huang,maennlich,alt,poc,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Grauhaariger Mann mit Brille in Lederjacke; einzige Person, Dachzeile: Jensen Huang"
+2026-11-12-16-15,3,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Bärtiger Soldat in Bildmitte spricht und gestikuliert
+2026-11-12-16-15,3,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,ja,mittel,"Soldat mit kurzem Haar links, schreibt mit"
+2026-11-12-16-15,3,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,ja,mittel,Soldat mit Glatze und Bart rechts
+2026-11-12-16-15,3,4,,maennlich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,ja,niedrig,"Soldat am rechten Rand, angeschnitten"
+2026-11-12-16-15,3,5,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,"Mann in dunkler Kleidung von hinten im Vordergrund, Gesicht kaum sichtbar"
+2026-11-12-16-15,4,1,Serena Williams,weiblich,mittel,poc,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Sportlerin mit Stirnband im Tennisoutfit jubelt; einzige Person im Vordergrund, Headline: Serena Williams"
+2026-11-12-16-15,5,1,,weiblich,jung,weiss,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Junge blonde Frau in schwarzem Samtoberteil; möglicherweise die genannte Tochter"
+2026-11-12-16-15,5,2,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Frau mit roten Locken in Glitzeroberteil

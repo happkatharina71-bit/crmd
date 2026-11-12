@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-12-16-15",
+  "erfasst_am": "2026-11-12T16:15:16.519Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Wie vielen Superreichen wollen Sie ans Leder, Frau Otte?",
+      "teasertext": "Interview Grüne wollen Vermögenssteuer Wie vielen Superreichen wollen Sie ans Leder, Frau Otte?",
+      "url": "https://web.de/magazine/politik/inland/superreichen-ans-leder-otte-42937578",
+      "bild_url": "https://i0.web.de/image/072/42938072%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Interview Grüne wollen Vermögenssteuer",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Nvidia-Chef zieht nach Bekanntwerden seiner Affären persönliche Konsequenzen",
+      "teasertext": "Jensen Huang Nvidia-Chef zieht nach Bekanntwerden seiner Affären persönliche Konsequenzen",
+      "url": "https://web.de/magazine/wirtschaft/jensen-huang-nvidia-chef-bekanntwerden-affaeren-persoenliche-konsequenzen-42939486",
+      "bild_url": "https://i0.web.de/image/514/42939514%2cpd=6%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Jensen Huang",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Wie der Ukraine der größte Gegenstoß seit langem gelang",
+      "teasertext": "\"Operation Vivaldi\" Wie der Ukraine der größte Gegenstoß seit langem gelang",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/operation-vivaldi-ukraine-groesste-gegenstoss-langem-gelang-42938786",
+      "bild_url": "https://i0.web.de/image/796/42939796%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "\"Operation Vivaldi\"",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Serena Williams zeigt gnadenlos männliche Selbstüberschätzung auf",
+      "teasertext": "Lektion für Youtuber Serena Williams zeigt gnadenlos männliche Selbstüberschätzung auf",
+      "url": "https://web.de/magazine/sport/tennis/serena-williams-zeigt-gnadenlos-maennliche-selbstueberschaetzung-42937352",
+      "bild_url": "https://i0.web.de/image/572/42937572%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Lektion für Youtuber",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Rückschlag für krebskranke Diekmeier-Tochter",
+      "teasertext": "Kein neuer Therapie-Ansatz Rückschlag für krebskranke Diekmeier-Tochter",
+      "url": "https://web.de/magazine/unterhaltung/stars/rueckschlag-krebskranke-diekmeier-tochter-42939622",
+      "bild_url": "https://i0.web.de/image/802/42939802%2cpd=2%2cf=responsive169-w300/dana-diekmeier-delani.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Kein neuer Therapie-Ansatz",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
