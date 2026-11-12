@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-12-06-17",
+  "erfasst_am": "2026-11-12T06:17:19.844Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Koalition räumt große Streitpunkte ab – doch Merz’ wichtiges Ziel wackelt",
+      "teasertext": "Bundesetat 2027 Koalition räumt große Streitpunkte ab – doch Merz’ wichtiges Ziel wackelt",
+      "url": "https://web.de/magazine/politik/inland/koalition-raeumt-grosse-streitpunkte-merz-wichtiges-ziel-wackelt-42936652",
+      "bild_url": "https://i0.web.de/image/136/42937136%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Bundesetat 2027",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Demokrat sorgt für Sensation in Republikaner-Hochburg",
+      "teasertext": "Midterms-Sieg in Mississippi Demokrat sorgt für Sensation in Republikaner-Hochburg",
+      "url": "https://web.de/magazine/politik/us-politik/demokrat-sorgt-sensation-republikaner-hochburg-42937278",
+      "bild_url": "https://i0.web.de/image/284/42937284%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Midterms-Sieg in Mississippi",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Iran droht bei neuen US-Angriffen mit Gegenschlägen bis nach Europa",
+      "teasertext": "Auf US-Stützpunkte Iran droht bei neuen US-Angriffen mit Gegenschlägen bis nach Europa",
+      "url": "https://web.de/magazine/politik/nahostkonflikt/iran-droht-us-angriffen-gegenschlaegen-europa-42936824",
+      "bild_url": "https://i0.web.de/image/126/42937126%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Auf US-Stützpunkte",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Nach tödlichem Unfall von Kaylee Hottle: Schwester übernimmt Filmrolle",
+      "teasertext": "Sie starb mit 18 Jahren Nach tödlichem Unfall von Kaylee Hottle: Schwester übernimmt Filmrolle",
+      "url": "https://web.de/magazine/unterhaltung/stars/toedlichem-unfall-schwester-uebernimmt-filmrolle-kaylee-hottle-42936588",
+      "bild_url": "https://i0.web.de/image/348/42937348%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Sie starb mit 18 Jahren",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Koch-Azubi legt sich mit Coach Alexander Herrmann an - das rächt sich",
+      "teasertext": "Galerie The Taste Koch-Azubi legt sich mit Coach Alexander Herrmann an - das rächt sich",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/koch-azubi-legt-coach-alexander-herrmann-raecht-42936734",
+      "bild_url": "https://i0.web.de/image/708/42936708%2cpd=4%2cf=responsive169-w300/alexander-herrmann-team.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie The Taste",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

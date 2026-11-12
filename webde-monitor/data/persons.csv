@@ -881,3 +881,14 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-11-20-13,4,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Junger Spieler im hellblauen Trikot jubelt, Bildmitte"
 2026-11-11-20-13,4,2,,maennlich,jung,weiss,nebenperson,indirekt,aktiv,neutral,nein,mittel,Junger Spieler mit langen Haaren im blau-roten Trikot lacht
 2026-11-11-20-13,4,3,,maennlich,jung,poc,nebenperson,indirekt,aktiv,neutral,nein,mittel,Junger Spieler mit Dreadlocks im weißen Trikot
+2026-11-12-06-17,1,1,,maennlich,alt,weiss,hauptperson,indirekt,nicht_thematisiert,reich_maechtig,ja,niedrig,"Mann mit Brille und Glatze, scharf, Daumen hoch; möglicherweise der genannte Merz"
+2026-11-12-06-17,1,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Dunkelhaariger Mann im Anzug, unscharf im Hintergrund"
+2026-11-12-06-17,2,1,,maennlich,mittel,poc,hauptperson,indirekt,aktiv,reich_maechtig,ja,hoch,"Mann im blauen Sakko jubelt mit erhobenem Zeigefinger vor Senats-Wahlplakaten; Headline: Demokrat sorgt für Sensation"
+2026-11-12-06-17,2,2,,weiblich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,ja,mittel,Junge Frau in weißem Shirt klatscht im Hintergrund
+2026-11-12-06-17,2,3,,weiblich,nicht_erkennbar,poc,nebenperson,nein,nicht_thematisiert,neutral,ja,niedrig,"Frau hinter Wahlschild links, teilweise verdeckt"
+2026-11-12-06-17,2,4,,weiblich,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person in Uniform am rechten Bildrand, angeschnitten"
+2026-11-12-06-17,4,1,,weiblich,jung,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Junge Frau mit langen dunklen Haaren und Creolen, Red-Carpet-Situation; Hautton nicht eindeutig"
+2026-11-12-06-17,5,1,Alexander Herrmann,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Grauhaariger Mann in dunkler Jacke ohne Schürze gestikuliert; Headline: Coach Alexander Herrmann, Schürzen der anderen tragen seinen Teamnamen"
+2026-11-12-06-17,5,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Bärtiger Mann mit Brille und Kochschürze links
+2026-11-12-06-17,5,3,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Blonde Frau mit Brille und Kochschürze
+2026-11-12-06-17,5,4,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Junger Mann mit Locken am rechten Rand, angeschnitten"
