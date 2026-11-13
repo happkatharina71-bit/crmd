@@ -936,3 +936,7 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-13-06-14,2,5,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,ja,niedrig,Person mit roten Locken von hinten
 2026-11-13-06-14,4,1,,weiblich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Blonde Frau schläft lächelnd unter geblümter Bettdecke
 2026-11-13-06-14,5,1,Szewczenko,weiblich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Blonde Frau im Jeanshemd lächelt im Studio; einzige Person im Vordergrund, Headline: Szewczenko"
+2026-11-13-09-13,1,1,,weiblich,mittel,poc,hauptperson,nein,nicht_thematisiert,neutral,ja,niedrig,"Frau im karierten Mantel in der Bildmitte, scharf; Stellvertreterin für die Menge der Konferenzteilnehmenden"
+2026-11-13-09-13,3,1,Harry Kane,maennlich,mittel,weiss,hauptperson,namentlich,nicht_thematisiert,neutral,nein,mittel,"Gemaltes Porträt eines jubelnden Fußballers im England-Trikot auf Banner mit Schriftzug ""KANE""; Headline: Harry Kane"
+2026-11-13-09-13,3,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Kleine Person in Uniform hält das Banner am Spielfeldrand; Stellvertreterin für die Gruppe auf dem Rasen"
+2026-11-13-09-13,5,1,Barbara Schöneberger,weiblich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Frau mit langen blonden Locken im schwarzen Oberteil; einzige Person im Vordergrund, Headline: Barbara Schöneberger"

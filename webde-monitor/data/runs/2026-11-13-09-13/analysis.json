@@ -1,0 +1,101 @@
+{
+ "run_id": "2026-11-13-09-13",
+ "erfasst_am": "2026-11-13T09:13:49.244Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "ja",
+   "notiz": "Große Menschenmenge vor dem Eingang der COP31; gemischte Gruppe nach Geschlecht und Hautfarbe; eine Stellvertreterperson codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Frau im karierten Mantel in der Bildmitte, scharf; Stellvertreterin für die Menge der Konferenzteilnehmenden"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Smartphone-Display mit App-Icons (Outlook, Teams); gleiches Bild wie in der vorigen Erhebung",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "ja",
+   "notiz": "Riesiges Fan-Banner mit gemaltem Spielerporträt und Schriftzug \"KANE 126\" im Stadion; Fahnenträger und Uniformierte auf dem Rasen sowie Publikum klein im Bild, eine Stellvertreterperson codiert",
+   "personen": [
+    {
+     "name": "Harry Kane",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Gemaltes Porträt eines jubelnden Fußballers im England-Trikot auf Banner mit Schriftzug \"KANE\"; Headline: Harry Kane"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Kleine Person in Uniform hält das Banner am Spielfeldrand; Stellvertreterin für die Gruppe auf dem Rasen"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Alpenpanorama mit markantem Gipfel; einige winzige Wandernde in der Ferne, nicht codierbar",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Frau im TV-Studio; unscharfe Person im Hintergrund nicht codiert",
+   "personen": [
+    {
+     "name": "Barbara Schöneberger",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Frau mit langen blonden Locken im schwarzen Oberteil; einzige Person im Vordergrund, Headline: Barbara Schöneberger"
+    }
+   ]
+  }
+ ]
+}

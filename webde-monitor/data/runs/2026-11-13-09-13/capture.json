@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-13-09-13",
+  "erfasst_am": "2026-11-13T09:13:49.244Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Darum blickt Deutschlands Parteijugend ernüchtert auf die COP31",
+      "teasertext": "Weltklimakonferenz Darum blickt Deutschlands Parteijugend ernüchtert auf die COP31",
+      "url": "https://web.de/magazine/politik/inland/blickt-deutschlands-parteijugend-ernuechtert-cop31-42934388",
+      "bild_url": "https://i0.web.de/image/490/42938490%2cpd=3%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Weltklimakonferenz",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Massive Störung bei Microsoft Outlook",
+      "teasertext": "Weltweit sind Nutzer betroffen Massive Störung bei Microsoft Outlook",
+      "url": "https://web.de/magazine/digital/outlook-teams-betroffen-massive-stoerung-microsoft-42941334",
+      "bild_url": "https://i0.web.de/image/344/42941344%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Weltweit sind Nutzer betroffen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Harry Kanes perfekte Nacht",
+      "teasertext": "Galerie Gefeiert in Wembley Harry Kanes perfekte Nacht",
+      "url": "https://web.de/magazine/sport/fussball/nations-league/harry-kanes-perfekte-nacht-42941474",
+      "bild_url": "https://i0.web.de/image/870/42941870%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Galerie Gefeiert in Wembley",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Hochvogel bricht auseinander – Geologen sehen Felssturz bereits im Gange",
+      "teasertext": "Allgäuer Alpen Hochvogel bricht auseinander – Geologen sehen Felssturz bereits im Gange",
+      "url": "https://web.de/magazine/wissen/klima/hochvogel-bricht-auseinander-geologen-warnen-42939700",
+      "bild_url": "https://i0.web.de/image/708/42939708%2cpd=1%2cf=responsive169-w300/hochvogel.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Allgäuer Alpen",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Barbara Schöneberger muss ihren Führerschein abgeben",
+      "teasertext": "\"Auf Vorschlag aus Flensburg\" Barbara Schöneberger muss ihren Führerschein abgeben",
+      "url": "https://web.de/magazine/unterhaltung/stars/barbara-schoeneberger-fuehrerschein-abgeben-42941714",
+      "bild_url": "https://i0.web.de/image/716/42941716%2cpd=1%2cf=responsive169-w300/barbara-schoeneberger-fuehrerschein-abgeben.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "\"Auf Vorschlag aus Flensburg\"",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
