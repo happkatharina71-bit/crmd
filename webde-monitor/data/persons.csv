@@ -952,3 +952,12 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-13-16-31,3,2,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,unklar,ja,niedrig,Bärtiger Mann mit Glatze im Profil rechts
 2026-11-13-16-31,3,3,,maennlich,jung,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,unklar,ja,niedrig,"Mann mit Basecap von der Seite, Gesicht teilweise verdeckt"
 2026-11-13-16-31,4,1,,maennlich,jung,poc,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Junger Mann mit kurzem Haar und Bart im blauen Trainingsshirt, ernster Blick; Headline: Torwart"
+2026-11-13-20-13,1,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Mann im dunklen Anzug in der Bildmitte gestikuliert im Gespräch
+2026-11-13-20-13,1,2,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Großer Mann mit Brille und Glatze im blauen Anzug links
+2026-11-13-20-13,1,3,,weiblich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Lächelnde Frau mit hellem Haar im grauen Blazer
+2026-11-13-20-13,1,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,"Mann mit Glatze im Anzug am rechten Rand, angeschnitten"
+2026-11-13-20-13,2,1,,maennlich,jung,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Junger Spieler mit dunklem Haar am rechten Rand jubelt; Stellvertreter für die Mannschaft"
+2026-11-13-20-13,3,1,,weiblich,mittel,poc,hauptperson,nein,nicht_thematisiert,neutral,ja,mittel,"Frau mit kurzem grauem Haar im weinroten Oberteil, skeptischer Blick"
+2026-11-13-20-13,3,2,,maennlich,mittel,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,ja,niedrig,"Unscharfer Mann mit Glatze im Pullover schüttelt Hand; Headline: Männer"
+2026-11-13-20-13,3,3,,maennlich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,ja,niedrig,"Unscharfer Mann mit Haarknoten und Hemd schüttelt Hand; Headline: Männer"
+2026-11-13-20-13,5,1,Avril Lavigne,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Frau mit langen rosa-blonden Haaren und Ketten im Vordergrund; einzige Person im Fokus, Headline: Avril Lavigne"

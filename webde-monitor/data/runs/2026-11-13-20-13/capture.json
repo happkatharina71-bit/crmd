@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-13-20-13",
+  "erfasst_am": "2026-11-13T20:13:48.472Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "EU bestimmt diese fünf Länder für Gespräche mit Russland",
+      "teasertext": "Krieg in der Ukraine EU bestimmt diese fünf Länder für Gespräche mit Russland",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/eu-bestimmt-fuenf-laender-gespraeche-russland-42944306",
+      "bild_url": "https://i0.web.de/image/352/42944352%2cpd=2%2cf=responsive169-w950/eu-gipfel-dublin.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Krieg in der Ukraine",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Wirtz baut deutsche Führung vor Mini-Kulisse aus",
+      "teasertext": "Live-Ticker Nations League Wirtz baut deutsche Führung vor Mini-Kulisse aus",
+      "url": "https://web.de/magazine/sport/fussball/nations-league/serbien-deutschland-live-wirtz-baut-deutsche-fuehrung-mini-kulisse-41038272",
+      "bild_url": "https://i0.web.de/image/524/42944524%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Live-Ticker Nations League",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "\"Ich sehe ein riesiges Defizit bei Männern\"",
+      "teasertext": "Interview Autor über Sexismus \"Ich sehe ein riesiges Defizit bei Männern\"",
+      "url": "https://web.de/magazine/wissen/psychologie/riesiges-defizit-maennern-42902222",
+      "bild_url": "https://i0.web.de/image/248/42932248%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Interview Autor über Sexismus",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Microsoft nennt Grund für weltweiten Ausfall",
+      "teasertext": "Live-Blog Massive Störung bei Outlook Microsoft nennt Grund für weltweiten Ausfall",
+      "url": "https://web.de/magazine/digital/microsoft-nennt-grund-weltweiten-ausfall-42941334",
+      "bild_url": "https://i0.web.de/image/344/42941344%2cpd=4%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Live-Blog Massive Störung bei Outlook",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Avril Lavigne überrascht mit Baby-News",
+      "teasertext": "Wer ist der Vater? Avril Lavigne überrascht mit Baby-News",
+      "url": "https://web.de/magazine/unterhaltung/stars/avril-lavigne-ueberrascht-baby-news-42944192",
+      "bild_url": "https://i0.web.de/image/194/42944194%2cpd=1%2cf=responsive169-w300/avril-lavigne-schwebt-mutterglueck.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Wer ist der Vater?",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
