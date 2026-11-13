@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-13-16-31",
+  "erfasst_am": "2026-11-13T16:31:51.586Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Der Rockstar ist erledigt",
+      "teasertext": "Analyse Huang-Abgang bei Nvidia Der Rockstar ist erledigt",
+      "url": "https://web.de/magazine/wirtschaft/nvidia-rockstar-erledigt-42942864",
+      "bild_url": "https://i0.web.de/image/968/42943968%2cpd=1%2cf=responsive169-w950/jensen-huang.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse Huang-Abgang bei Nvidia",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Unterschied zwischen Klopp und Nagelsmann: \"Er wäre mindestens zerlegt worden\"",
+      "teasertext": "Analyse Sportwissenschaftler sicher Unterschied zwischen Klopp und Nagelsmann: \"Er wäre mindestens zerlegt worden\"",
+      "url": "https://web.de/magazine/sport/fussball/nationalmannschaft/unterschied-klopp-nagelsmann-42842988",
+      "bild_url": "https://i0.web.de/image/762/42943762%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Analyse Sportwissenschaftler sicher",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Remmo besucht Veranstaltung im EU-Parlament – Linke fordert Aufklärung",
+      "teasertext": "Clanmitglied in Brüssel Remmo besucht Veranstaltung im EU-Parlament – Linke fordert Aufklärung",
+      "url": "https://web.de/magazine/regio/berlin/remmo-besucht-veranstaltung-eu-parlament-linke-aufklaerung-42942996",
+      "bild_url": "https://i0.web.de/image/712/42943712%2cpd=6%2cf=responsive169-w300/issa-remmo.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Clanmitglied in Brüssel",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Nach Tod von Jesús de Miguel: Torwart verlässt kaum das Haus",
+      "teasertext": "Tödlicher Zusammenprall Nach Tod von Jesús de Miguel: Torwart verlässt kaum das Haus",
+      "url": "https://web.de/magazine/sport/fussball/international/tod-jesus-de-miguel-torwart-verlaesst-haus-42943820",
+      "bild_url": "https://i0.web.de/image/858/42943858%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Tödlicher Zusammenprall",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Zehnjährige Panne – Hunderte Schüler erhielten falsche Zeugnisse",
+      "teasertext": "Fehlerhafte Abschlüsse Zehnjährige Panne – Hunderte Schüler erhielten falsche Zeugnisse",
+      "url": "https://web.de/magazine/panorama/aus-aller-welt/deutschland/zehnjaehrige-panne-hunderte-schueler-falsche-zeugnisse-42942818",
+      "bild_url": "https://i0.web.de/image/448/42943448%2cpd=2%2cf=responsive169-w300/symbolbild-schulzeugnisse.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Fehlerhafte Abschlüsse",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

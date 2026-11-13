@@ -945,3 +945,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-13-12-17,3,1,Colette Kress,weiblich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,hoch,"Lächelnde Frau mit langen blonden Haaren im schwarzen Pullover; einzige Person, Headline: Colette Kress"
 2026-11-13-12-17,4,1,,weiblich,jung,poc,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Junge Frau mit zurückgebundenem dunklem Haar im senfgelben Pullover isst Pizza
 2026-11-13-12-17,5,1,,maennlich,jung,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,"Jubelnder Spieler mit Helm und Nummer 25 läuft auf dem Eis; Stellvertreter für die Mannschaft"
+2026-11-13-16-31,1,1,Huang,maennlich,alt,poc,hauptperson,namentlich,passiv,reich_maechtig,ja,hoch,"Grauhaariger Mann mit Brille in Lederjacke spricht ins Mikrofon; einzige Person, Dachzeile: Huang"
+2026-11-13-16-31,2,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Lachender Mann mit grauem Bart in dunkler Jacke links; einer der beiden Genannten"
+2026-11-13-16-31,2,2,,maennlich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Mann mit kurzem Haar und Bartstoppeln, ernster Blick, rechts; einer der beiden Genannten"
+2026-11-13-16-31,3,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,unklar,ja,niedrig,"Mann mit grauem Bart im dunklen Mantel in der Bildmitte, scharf; möglicherweise der genannte Remmo"
+2026-11-13-16-31,3,2,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,unklar,ja,niedrig,Bärtiger Mann mit Glatze im Profil rechts
+2026-11-13-16-31,3,3,,maennlich,jung,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,unklar,ja,niedrig,"Mann mit Basecap von der Seite, Gesicht teilweise verdeckt"
+2026-11-13-16-31,4,1,,maennlich,jung,poc,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Junger Mann mit kurzem Haar und Bart im blauen Trainingsshirt, ernster Blick; Headline: Torwart"
