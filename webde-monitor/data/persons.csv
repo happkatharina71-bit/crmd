@@ -928,3 +928,11 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-12-20-13,4,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,"Mann mit Bart im dunklen Mantel, niedergeschlagen; Dachzeile: Top-Klub am Abgrund"
 2026-11-12-20-13,5,1,,weiblich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Frau mit hochgestecktem braunem Haar im Leopardenmantel; Headline: Witwe meldet sich"
 2026-11-12-20-13,5,2,Patrick Stewart,maennlich,alt,weiss,nebenperson,namentlich,passiv,neutral,nein,mittel,"Älterer Mann mit Glatze und Brille, einziger Mann im Bild; Headline: Patrick Stewarts Tod"
+2026-11-13-06-14,1,1,Putin,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Älterer Mann im dunklen Anzug spricht an Tischmikrofon; einzige Person, Headline: Putin"
+2026-11-13-06-14,2,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Grauhaariger Mann mit Brille in der Mitte spricht und gestikuliert; möglicherweise der genannte Laschet"
+2026-11-13-06-14,2,2,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Blonde Frau im dunklen Blazer links
+2026-11-13-06-14,2,3,,weiblich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,reich_maechtig,ja,niedrig,"Frau mit kurzem dunklem Haar im rosa Blazer, teilweise verdeckt; möglicherweise die Moderatorin"
+2026-11-13-06-14,2,4,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,Mann mit Glatze von hinten
+2026-11-13-06-14,2,5,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,ja,niedrig,Person mit roten Locken von hinten
+2026-11-13-06-14,4,1,,weiblich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Blonde Frau schläft lächelnd unter geblümter Bettdecke
+2026-11-13-06-14,5,1,Szewczenko,weiblich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Blonde Frau im Jeanshemd lächelt im Studio; einzige Person im Vordergrund, Headline: Szewczenko"

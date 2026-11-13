@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-13-06-14",
+  "erfasst_am": "2026-11-13T06:14:32.494Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Putin will Europäer am Verhandlungstisch",
+      "teasertext": "Neue Entwicklung, neue Brisanz Putin will Europäer am Verhandlungstisch",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/usa-putin-europaeer-verhandlungstisch-42937256",
+      "bild_url": "https://i0.web.de/image/232/42941232%2cpd=2%2cf=responsive169-w950/russische-praesident-putin.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Neue Entwicklung, neue Brisanz",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Laschet gibt zu: \"Es bröckelt überall\"",
+      "teasertext": "TV-Nachlese Ukraine-Talk bei Illner Laschet gibt zu: \"Es bröckelt überall\"",
+      "url": "https://web.de/magazine/politik/politische-talkshows/laschet-raeumt-illner-ukraine-broeckelt-ueberall-42941194",
+      "bild_url": "https://i0.web.de/image/208/42941208%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "TV-Nachlese Ukraine-Talk bei Illner",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Massive Störung bei Microsoft Outlook",
+      "teasertext": "Weltweit sind Nutzer betroffen Massive Störung bei Microsoft Outlook",
+      "url": "https://web.de/magazine/digital/massive-stoerung-microsoft-outlook-zehntausende-nutzer-betroffen-42941334",
+      "bild_url": "https://i0.web.de/image/344/42941344%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Weltweit sind Nutzer betroffen",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Plötzliches Zucken beim Einschlafen – warum Forschende das Phänomen neu bewerten",
+      "teasertext": "Aktuelle Studie Plötzliches Zucken beim Einschlafen – warum Forschende das Phänomen neu bewerten",
+      "url": "https://web.de/magazine/gesundheit/ploetzliches-zucken-einschlafen-forschende-phaenomen-bewerten-42938424",
+      "bild_url": "https://i0.web.de/image/550/42938550%2cpd=3%2cf=responsive169-w300/schlaeft-nachts-bett.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Aktuelle Studie",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Szewczenko muss zurück nach Deutschland",
+      "teasertext": "Nach Neustart in Rumänien Szewczenko muss zurück nach Deutschland",
+      "url": "https://web.de/magazine/unterhaltung/stars/neustart-rumaenien-tanja-szewczenko-zurueck-deutschland-42939964",
+      "bild_url": "https://i0.web.de/image/966/42939966%2cpd=3%2cf=responsive169-w300/tanja-szewczenko-wagt-familie-neustart-rumaenien.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Nach Neustart in Rumänien",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
