@@ -940,3 +940,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-13-09-13,3,1,Harry Kane,maennlich,mittel,weiss,hauptperson,namentlich,nicht_thematisiert,neutral,nein,mittel,"Gemaltes Porträt eines jubelnden Fußballers im England-Trikot auf Banner mit Schriftzug ""KANE""; Headline: Harry Kane"
 2026-11-13-09-13,3,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Kleine Person in Uniform hält das Banner am Spielfeldrand; Stellvertreterin für die Gruppe auf dem Rasen"
 2026-11-13-09-13,5,1,Barbara Schöneberger,weiblich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Frau mit langen blonden Locken im schwarzen Oberteil; einzige Person im Vordergrund, Headline: Barbara Schöneberger"
+2026-11-13-12-17,1,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Mann mit verschränkten Armen im braunen Cardigan schaut skeptisch auf Monitor
+2026-11-13-12-17,1,2,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Blonde Frau mit Brille im Ringelshirt beugt sich zum Monitor
+2026-11-13-12-17,3,1,Colette Kress,weiblich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,hoch,"Lächelnde Frau mit langen blonden Haaren im schwarzen Pullover; einzige Person, Headline: Colette Kress"
+2026-11-13-12-17,4,1,,weiblich,jung,poc,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Junge Frau mit zurückgebundenem dunklem Haar im senfgelben Pullover isst Pizza
+2026-11-13-12-17,5,1,,maennlich,jung,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,"Jubelnder Spieler mit Helm und Nummer 25 läuft auf dem Eis; Stellvertreter für die Mannschaft"

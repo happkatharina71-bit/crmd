@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-13-12-17",
+  "erfasst_am": "2026-11-13T12:17:14.833Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Outlook-Ausfall könnte Betrüger auf den Plan rufen: Was Nutzer wissen sollten",
+      "teasertext": "Kriminaldirektor ordnet ein Outlook-Ausfall könnte Betrüger auf den Plan rufen: Was Nutzer wissen sollten",
+      "url": "https://web.de/magazine/digital/outlook-ausfall-betrueger-plan-rufen-nutzer-wissen-42942324",
+      "bild_url": "https://i0.web.de/image/372/42942372%2cpd=2%2cf=responsive169-w950/computer-genervt.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Kriminaldirektor ordnet ein",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Massive Störung bei Microsoft Outlook – doch es gibt Hoffnung",
+      "teasertext": "Live-Blog Firma arbeitet an Behebung Massive Störung bei Microsoft Outlook – doch es gibt Hoffnung",
+      "url": "https://web.de/magazine/digital/stoerung-microsoft-outlook-teams-aktuelle-status-42941334",
+      "bild_url": "https://i0.web.de/image/344/42941344%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Live-Blog Firma arbeitet an Behebung",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Wer ist Colette Kress? Die Frau, die jetzt Nvidia führen muss",
+      "teasertext": "Nach Rücktritt von Huang Wer ist Colette Kress? Die Frau, die jetzt Nvidia führen muss",
+      "url": "https://web.de/magazine/wirtschaft/colette-kress-nvidia-fuehren-42941802",
+      "bild_url": "https://i0.web.de/image/804/42941804%2cpd=3%2cf=responsive169-w300/colette-kress.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Nach Rücktritt von Huang",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Welcher Käse ist eigentlich der gesündeste?",
+      "teasertext": "Neue Podcast-Folge Welcher Käse ist eigentlich der gesündeste?",
+      "url": "https://web.de/magazine/ratgeber/essen-trinken/fehler-ernaehrung-42936026",
+      "bild_url": "https://i0.web.de/image/170/42936170%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Neue Podcast-Folge",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Eishockey-Streit eskaliert: Russland droht WM-Gastgeber Deutschland",
+      "teasertext": "Auch Putin schaltet sich ein Eishockey-Streit eskaliert: Russland droht WM-Gastgeber Deutschland",
+      "url": "https://web.de/magazine/sport/eishockey/eishockey-streit-russland-droht-wm-gastgeber-deutschland-42941590",
+      "bild_url": "https://i0.web.de/image/592/42941592%2cpd=2%2cf=responsive169-w300/russlands-eishockey-team.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Auch Putin schaltet sich ein",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
