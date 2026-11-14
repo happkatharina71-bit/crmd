@@ -965,3 +965,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-14-06-17,3,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spieler mit Nummer 10 links jubelt mit; Stellvertreter für das DFB-Team"
 2026-11-14-06-17,5,1,Owono,maennlich,jung,poc,hauptperson,namentlich,passiv,neutral,nein,mittel,"Torhüter im schwarzen Trikot mit Torwarthandschuhen; Headline: Torhüter Owono, einziger Torwart im Bild"
 2026-11-14-06-17,5,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Feldspieler mit Bart im blau-weißen Trikot Nummer 18
+2026-11-14-09-13,2,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Mann mit Kappe und grauem Bart in dunkler Daunenjacke ruft mit ausgebreiteten Armen; möglicherweise der genannte Klopp"
+2026-11-14-09-13,2,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Mann im hellblauen Trikot links, unscharf"
+2026-11-14-09-13,3,1,,maennlich,alt,weiss,hauptperson,indirekt,nicht_thematisiert,reich_maechtig,ja,niedrig,"Älterer Mann mit blondem Haar im blauen Anzug, Blick nach oben; einer der drei Genannten"
+2026-11-14-09-13,5,1,Owono,maennlich,jung,poc,hauptperson,namentlich,passiv,neutral,nein,mittel,"Torhüter im schwarzen Trikot mit Torwarthandschuhen; Headline: Torhüter Owono, einziger Torwart im Bild"
+2026-11-14-09-13,5,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Feldspieler mit Bart im blau-weißen Trikot Nummer 18

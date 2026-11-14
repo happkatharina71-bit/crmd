@@ -1,0 +1,114 @@
+{
+ "run_id": "2026-11-14-09-13",
+ "erfasst_am": "2026-11-14T09:13:10.972Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Landendes Passagierflugzeug, Flughafen mit Tower; gleiches Bild wie in der vorigen Erhebung",
+   "personen": []
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Trainer an der Seitenlinie mit ausgebreiteten Armen; Klopp genannt (Klopp-Fußball), Zuordnung nicht sicher, daher kein Name; angeschnittene Person rechts nicht codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit Kappe und grauem Bart in dunkler Daunenjacke ruft mit ausgebreiteten Armen; möglicherweise der genannte Klopp"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann im hellblauen Trikot links, unscharf"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt eines Mannes im Anzug vor dunklem Hintergrund; Headline nennt drei Personen, Zuordnung allein aus Bild und Text nicht eindeutig, daher kein Name; gleiches Bild wie in der vorigen Erhebung; Dachzeile geändert (nennt weiterhin drei Personen)",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Älterer Mann mit blondem Haar im blauen Anzug, Blick nach oben; einer der drei Genannten"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Luftbild: gekentertes Schiff am Kai, Schlepper, viele winzige Personen an Land nicht codierbar; gleiches Bild wie in der vorigen Erhebung",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Spielszene im Stadion; Torhüter im schwarzen Trikot mit Handschuhen; Zuschauende und Personen am Rand unscharf, nicht codiert; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "Owono",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Torhüter im schwarzen Trikot mit Torwarthandschuhen; Headline: Torhüter Owono, einziger Torwart im Bild"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Feldspieler mit Bart im blau-weißen Trikot Nummer 18"
+    }
+   ]
+  }
+ ]
+}

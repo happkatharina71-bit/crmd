@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-14-09-13",
+  "erfasst_am": "2026-11-14T09:13:10.972Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Nach Chaos in US-Flugbetrieb: Auch Europa betroffen",
+      "teasertext": "Folgen sind erheblich Nach Chaos in US-Flugbetrieb: Auch Europa betroffen",
+      "url": "https://web.de/magazine/panorama/aus-aller-welt/technik-panne-sorgt-tausende-flugausfaelle-usa-42945100",
+      "bild_url": "https://i0.web.de/image/126/42945126%2cpd=1%2cf=responsive169-w950/landesweiter-stopp-starts-us-flughaefen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Folgen sind erheblich",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Wieder ein Stück näher dran am Klopp-Fußball",
+      "teasertext": "Analyse DFB-Sieg gegen Serbien Wieder ein Stück näher dran am Klopp-Fußball",
+      "url": "https://web.de/magazine/sport/fussball/nations-league/stueck-naeher-dran-klopp-fussball-42945206",
+      "bild_url": "https://i0.web.de/image/208/42945208%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Analyse DFB-Sieg gegen Serbien",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Was wird bei dem historischen Treffen besprochen?",
+      "teasertext": "Trump, Xi und Putin Was wird bei dem historischen Treffen besprochen?",
+      "url": "https://web.de/magazine/politik/us-politik/weisses-haus-kuendigt-dreiertreffen-trumps-xi-putin-42944798",
+      "bild_url": "https://i0.web.de/image/182/42945182%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Trump, Xi und Putin",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Tanker kracht in Kreuzfahrtschiff - keine Toten",
+      "teasertext": "\"Wunder vom Mississippi\" Tanker kracht in Kreuzfahrtschiff - keine Toten",
+      "url": "https://web.de/magazine/panorama/tanker-kracht-kreuzfahrtschiff-mississippi-new-orleans-toten-42944744",
+      "bild_url": "https://i0.web.de/image/998/42944998%2cpd=2%2cf=responsive169-w300/zusammenstoss-zweier-schiffe-new-orleans.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "\"Wunder vom Mississippi\"",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Nach Tod von de Miguel: Strafe für Torhüter Owono steht fest",
+      "teasertext": "Höchstmögliche Sperre Nach Tod von de Miguel: Strafe für Torhüter Owono steht fest",
+      "url": "https://web.de/magazine/sport/fussball/international/tod-de-miguel-strafe-torhueter-owono-fest-42944590",
+      "bild_url": "https://i0.web.de/image/614/42944614%2cpd=1%2cf=responsive169-w300/jesus-owono.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Höchstmögliche Sperre",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
