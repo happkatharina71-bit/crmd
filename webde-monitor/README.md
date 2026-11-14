@@ -29,6 +29,13 @@ Parallel zur web.de-Erhebung wird eine Woche lang (14.11., 7 Uhr, bis 20.11., 21
 - `node record.mjs data-tonline/runs/<run_id>/analysis.json` schreibt nach `data-tonline/teasers.csv` und `data-tonline/persons.csv`.
 - Netzwerk-Freigabe zusätzlich: `t-online.de`, `www.t-online.de`, `images.t-online.de`.
 
+## Offene Aufgabe 21.11. (nach Ende der Erfassung)
+
+Die Nutzerin liefert Analytics-Zahlen (Geschlecht/Alter der Klickenden im Hero) aus WEB.DE und GMX zusammen. Dann:
+- `NUTZENDE` in `dashboard.html` durch die neuen Zahlen ersetzen.
+- Im Abgleich-Infotext „WEB.DE“ zu „WEB.DE/GMX“ ändern; Zeitraum, Quelle und Anteil unbekannter Angaben laut ihren Angaben anpassen.
+- Commit, Push, Dashboard neu veröffentlichen.
+
 ## Status
 
 - `capture.mjs` am 21.10.2026 gegen web.de getestet: Consent wird bestätigt, die 5 Topteaser (Aufmacher + 4 Listenteaser) werden korrekt erfasst.
