@@ -970,3 +970,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-14-09-13,3,1,,maennlich,alt,weiss,hauptperson,indirekt,nicht_thematisiert,reich_maechtig,ja,niedrig,"Älterer Mann mit blondem Haar im blauen Anzug, Blick nach oben; einer der drei Genannten"
 2026-11-14-09-13,5,1,Owono,maennlich,jung,poc,hauptperson,namentlich,passiv,neutral,nein,mittel,"Torhüter im schwarzen Trikot mit Torwarthandschuhen; Headline: Torhüter Owono, einziger Torwart im Bild"
 2026-11-14-09-13,5,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Feldspieler mit Bart im blau-weißen Trikot Nummer 18
+2026-11-14-12-16,1,1,Selenskyj,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit dunklem Haar und Bart spricht; einzige Person, Headline: Selenskyj"
+2026-11-14-12-16,2,1,,weiblich,mittel,poc,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Frau mit dunklem Haar in weißer Bluse trinkt aus Becher
+2026-11-14-12-16,3,1,,maennlich,jung,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Lächelnder Spieler mit Nummer 17 in der Mitte; Stellvertreter für die Nationalmannschaft"
+2026-11-14-12-16,4,1,,maennlich,alt,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Grauhaariger Mann mit Brille im weißen Hemd, unscharf rechts"
+2026-11-14-12-16,4,2,,nicht_erkennbar,alt,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Person mit grauem Haar im hellblauen Hemd von hinten
+2026-11-14-12-16,4,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit Brille links, teilweise verdeckt"
+2026-11-14-12-16,5,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Junger Mann mit Vollbart und langen Haaren im Football-Trikot; Headline: NFL-Profi"

@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-14-12-16",
+  "erfasst_am": "2026-11-14T12:16:45.549Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Selenskyj: USA schlagen Nato-Beitritt der Ukraine für Verzicht auf Donbass vor",
+      "teasertext": "Friedensverhandlungen Selenskyj: USA schlagen Nato-Beitritt der Ukraine für Verzicht auf Donbass vor",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/selenskyj-usa-thematisieren-nato-beitritt-ukraine-verzicht-donbass-42945750",
+      "bild_url": "https://i0.web.de/image/796/42945796%2cpd=2%2cf=responsive169-w950/witkoff-kushner-treffen-selenskyj-dublin.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Friedensverhandlungen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Wie viel Kaffee am Tag ist gut fürs Herz? Große Studie liefert neue Hinweise",
+      "teasertext": "Vorhofflimmern Wie viel Kaffee am Tag ist gut fürs Herz? Große Studie liefert neue Hinweise",
+      "url": "https://web.de/magazine/gesundheit/vorhofflimmern-kaffee-tag-gut-fuers-herz-grosse-studie-liefert-hinweise-42944078",
+      "bild_url": "https://i0.web.de/image/132/42944132%2cpd=2%2cf=responsive169-w300/trinkt-kaffee.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Vorhofflimmern",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Nationalmannschaft bei Auslosung für EM-Qualifikation im besten Topf",
+      "teasertext": "Nach Sieg gegen Serbien Nationalmannschaft bei Auslosung für EM-Qualifikation im besten Topf",
+      "url": "https://web.de/magazine/sport/fussball/em/deutsche-nationalmannschaft-auslosung-em-quali-besten-topf-42945012",
+      "bild_url": "https://i0.web.de/image/014/42945014%2cpd=2%2cf=responsive169-w300/serbien-deutschland.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Nach Sieg gegen Serbien",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "FIA verbannt Reporter – Betroffene Zeitung kündigt Formel-1-Boykott an",
+      "teasertext": "Nach \"Mistkerl\"-Kommentar FIA verbannt Reporter – Betroffene Zeitung kündigt Formel-1-Boykott an",
+      "url": "https://web.de/magazine/sport/formel-1/fia-verbannt-reporter-betroffene-zeitung-kuendigt-formel-1-boykott-42945408",
+      "bild_url": "https://i0.web.de/image/526/42945526%2cpd=2%2cf=responsive169-w300/fia.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Nach \"Mistkerl\"-Kommentar",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "NFL-Profi wird neuer Bachelor",
+      "teasertext": "Im US-Fernsehen NFL-Profi wird neuer Bachelor",
+      "url": "https://web.de/magazine/unterhaltung/stars/nfl-profi-sam-hartman-us-bachelor-42945674",
+      "bild_url": "https://i0.web.de/image/684/42945684%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Im US-Fernsehen",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

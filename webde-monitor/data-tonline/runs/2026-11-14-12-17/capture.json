@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-14-12-17",
+  "erfasst_am": "2026-11-14T12:17:11.050Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 9,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Minister hält Kürzungen für möglich",
+      "headline": "Pflege ist unbezahlbar – Branche hat andere Ideen",
+      "teasertext": "Minister hält Kürzungen für möglich Pflege ist unbezahlbar – Branche hat andere Ideen Von Camilla Kohrs",
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101519436/pflege-ist-unbezahlbar-die-branche-stellt-forderungen-an-linnemann.html",
+      "bild_url": "https://images.t-online.de/2025/06/-MITtX5o3MJl/470x0:3455x1944/fit-in/1920x0/carsten-linneman-generalsekretaer-der-cdu-archivbild-er-hat-das-buergergeld-auf-dem-kieker.jpg",
+      "bild_alt": "Carsten Linneman, Generalsekretär der CDU (Archivbild): Er hat das Bürgergeld auf dem Kieker.",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Tagesanbruch",
+      "headline": "Es wäre eine Zäsur in der deutschen Geschichte",
+      "teasertext": "MEINUNG|Tagesanbruch Es wäre eine Zäsur in der deutschen Geschichte Von Florian Harms",
+      "url": "https://www.t-online.de/nachrichten/tagesanbruch/id_101527716/erste-afd-regierung-weidel-und-siegmund-hoffen-auf-griff-nach-der-macht.html",
+      "bild_url": "https://images.t-online.de/2026/11/Qr22OgrM5DzI/0x219:3271x1840/fit-in/1920x0/alice-weidel-und-ulrich-siegmund-hoffen-auf-die-erste-afd-gefuehrte-regierung.jpg",
+      "bild_alt": "Alice Weidel und Ulrich Siegmund hoffen auf die erste AfD-geführte Regierung.",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Forscher warnen",
+      "headline": "Beliebte Zuckerart begünstigt Volkskrankheiten",
+      "teasertext": "Forscher warnen Beliebte Zuckerart begünstigt Volkskrankheiten Von Lydia Klöckner",
+      "url": "https://www.t-online.de/gesundheit/krankheiten-symptome/diabetes-mellitus/id_101217092/studie-so-foerdert-fructose-volkskrankheiten-wie-fettleibigkeit.html",
+      "bild_url": "https://images.t-online.de/2026/04/Dn-Zmw7OoSL5/0x209:4000x2250/fit-in/1920x0/mann-ist-marmeladenbrot-symbolbild-in-suessspeisen-steckt-weit-mehr-fructose-als-in-obst.jpg",
+      "bild_alt": "Mann isst Brot mit Marmelade",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Einzelkritik zur Klopp-Elf",
+      "headline": "Debütant überragt – Star erlebt bitteren Abend",
+      "teasertext": "MEINUNG|Einzelkritik zur Klopp-Elf Debütant überragt – Star erlebt bitteren Abend Ein Kommentar von William Laing",
+      "url": "https://www.t-online.de/sport/fussball/nationalmannschaft-deutschland/id_101528542/dfb-noten-in-der-nations-league-klopp-debuetant-mit-magischem-moment.html",
+      "bild_url": "https://images.t-online.de/2026/11/zYndNm8l9kwG/156x92:1993x1121/fit-in/1920x0/joshua-kimmich-jubelt-mit-brajan-gruda-r-der-jungstar-traf-bei-seinem-debuet.jpg",
+      "bild_alt": "Joshua Kimmich jubelt mit Brajan Gruda (r.): Der Jungstar traf bei seinem Debüt.",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Flüge aus Europa",
+      "headline": "Karibikinsel hat kaum noch Touristen",
+      "teasertext": "Flüge aus Europa Karibikinsel hat kaum noch Touristen",
+      "url": "https://www.t-online.de/leben/reisen/id_101527320/kuba-urlaub-air-europa-bleibt-warum-es-teurer-und-komplizierter-wird.html",
+      "bild_url": "https://images.t-online.de/2026/11/iFvdrMXNZOgd/0x358:6867x3863/fit-in/1920x0/blick-von-der-terrasse-eines-ehemaligen-iberostar-hotels-auf-havanna-die-grossen-hotelketten-haben-sich-auf-druck-der-usa-zurueckgezogen-treibstoff-und-medikamente-sind-auf-der-insel-mangelware.jpg",
+      "bild_alt": "Blick von der Terrasse eines ehemaligen Iberostar-Hotels auf Havanna: Die großen Hotelketten haben sich auf Druck der USA zurückgezogen. Treibstoff und Medikamente sind auf der Insel Mangelware.",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}
