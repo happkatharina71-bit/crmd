@@ -1,0 +1,167 @@
+{
+ "run_id": "2026-11-14-16-14",
+ "erfasst_am": "2026-11-14T16:14:23.549Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt eines Mannes auf Sofa in Altbauwohnung",
+   "personen": [
+    {
+     "name": "Kevin Kühnert",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "unklar",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann im dunklen Hemd sitzt auf Sofa; einzige Person, Dachzeile: Kevin Kühnert"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Flugzeuge am Gate bei Nacht",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Slalomfahrt; Gesicht durch Helm, Brille und Maske weitgehend verdeckt, Geschlecht daher nicht sicher erkennbar",
+   "personen": [
+    {
+     "name": "Aicher",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person im deutschen Rennanzug mit Helm und Brille fährt um Torstange; einzige Person, Headline: Aicher, Ski-Ass"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Sitzung mit Tischmikrofonen; Person am rechten Rand ohne Gesicht nicht codiert; niemand namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Lächelnde Frau mit kurzen hellblonden Haaren im blauen Blazer am Mikrofon"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann im dunklen Anzug links, unscharf, Blick nach unten"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 5,
+   "menschenmenge": "nein",
+   "notiz": "Trauerfeier in Kirche: großes Schwarz-Weiß-Porträt mit Trauerflor (Hautfarbe nicht erkennbar), Sarg mit bayerischer Flagge, fünf Uniformierte als Ehrenwache; Codiergrenze 5 Personen: hinterster Uniformierter nicht codiert",
+   "personen": [
+    {
+     "name": "Aiwanger",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Gerahmtes Porträtfoto eines lächelnden Mannes mit Trauerflor; Dachzeile: Nach Tod von Aiwanger"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Uniformierter mit Mütze und weißen Handschuhen am Sarg (Ehrenwache)"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Uniformierter mit Mütze am Sarg (Ehrenwache)"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Uniformierter mit Mütze am Sarg (Ehrenwache)"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Uniformierter mit Mütze am Sarg, weiter hinten (Ehrenwache)"
+    }
+   ]
+  }
+ ]
+}

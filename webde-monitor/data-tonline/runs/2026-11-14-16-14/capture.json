@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-14-16-14",
+  "erfasst_am": "2026-11-14T16:14:23.549Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Kevin Kühnert",
+      "headline": "\"Die Reichen haben sich ein Sonderregime geschaffen\"",
+      "teasertext": "INTERVIEW|Kevin Kühnert \"Die Reichen haben sich ein Sonderregime geschaffen\" Ein Interview von Amy Walker",
+      "url": "https://www.t-online.de/finanzen/ratgeber/steuern-recht/id_101527086/kevin-kuehnert-die-reichen-haben-sich-ein-sonderregime-geschaffen-.html",
+      "bild_url": "https://images.t-online.de/2026/11/RPxJLl9RuFYY/0x162:5576x3136/fit-in/1920x0/image.jpg",
+      "bild_alt": "Kevin Kühnert war einst Generalsekretär der SPD: Heute setzt er sich bei Finanzwende für gerechte Steuern ein.",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Newsblog zur US-Politik",
+      "headline": "Chaos im Luftverkehr – Minister nennt Ursache",
+      "teasertext": "Newsblog zur US-Politik Chaos im Luftverkehr – Minister nennt Ursache Von D. Schafbuch , M. Kloft , J. Seiferth",
+      "url": "https://www.t-online.de/nachrichten/ausland/usa/id_101523004/usa-news-chaos-im-luftverkehr-minister-nennt-ursache.html",
+      "bild_url": "https://images.t-online.de/2026/11/G067I33FKanX/0x287:5184x2916/fit-in/1920x0/flugzeuge-am-flughafen-von-west-palm-beach-florida-am-freitagabend.jpg",
+      "bild_alt": "imago images 0884379826",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Erster Slalom-Weltcup der Saison",
+      "headline": "Aicher ganz oben: Deutsches Ski-Ass hängt alle ab",
+      "teasertext": "Erster Slalom-Weltcup der Saison Aicher ganz oben: Deutsches Ski-Ass hängt alle ab",
+      "url": "https://www.t-online.de/sport/wintersport/ski-alpin/id_101529044/ski-alpin-emma-aicher-ganz-oben-deutsches-ski-ass-haengt-alle-ab.html",
+      "bild_url": "https://images.t-online.de/2026/11/IiVaN-i4M5lj/334x360:3473x1953/fit-in/1920x0/emma-aicher-die-deutsche-praesentierte-sich-in-levi-in-topform.jpg",
+      "bild_alt": "Emma Aicher: Die Deutsche präsentierte sich in Levi in Topform.",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Novum im Land",
+      "headline": "Mecklenburg-Vorpommern macht Weg für Regierung frei",
+      "teasertext": "Novum im Land Mecklenburg-Vorpommern macht Weg für Regierung frei",
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101529008/mecklenburg-vorpommern-alle-parteien-stimmen-fuer-rot-rot-gruen.html",
+      "bild_url": "https://images.t-online.de/2026/11/XaY9c0stNaE6/526x1:3783x2128/fit-in/1920x0/manuel-schwesig-die-ministerpraesidentin-mecklenburg-vorpommerns-formiert-die-erste-rot-rot-gruene-regierung-in-der-landesgeschichte.jpg",
+      "bild_alt": "Manuel Schwesig: Die Ministerpräsidentin Mecklenburg-Vorpommerns formiert die erste rot-rot-grüne Regierung in der Landesgeschichte.",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Nach Tod von Aiwanger",
+      "headline": "Mehr als 1.100 Trauergäste nehmen Abschied",
+      "teasertext": "Video Nach Tod von Aiwanger Mehr als 1.100 Trauergäste nehmen Abschied",
+      "url": "https://www.t-online.de/video/nachrichten/politik/id_101529030/nach-tod-von-hubert-aiwanger-mehr-als-1100-nehmen-abschied-in-muenchen.html",
+      "bild_url": "https://images.t-online.de/2026/11/kPXiCXwOTQ8k/0x0:1920x1080/fit-in/1920x0/image.png",
+      "bild_alt": null,
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

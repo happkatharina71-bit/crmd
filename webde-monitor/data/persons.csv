@@ -977,3 +977,9 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-14-12-16,4,2,,nicht_erkennbar,alt,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Person mit grauem Haar im hellblauen Hemd von hinten
 2026-11-14-12-16,4,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit Brille links, teilweise verdeckt"
 2026-11-14-12-16,5,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Junger Mann mit Vollbart und langen Haaren im Football-Trikot; Headline: NFL-Profi"
+2026-11-14-16-13,1,1,,weiblich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Frau mit langen dunklen Haaren und Pony im roten Rollkragen spricht; vermutlich Vertreterin der genannten Berliner Linken"
+2026-11-14-16-13,2,1,,weiblich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Frau mit schulterlangem braunem Haar im schwarzen Mantel, bewegter Blick; Headline: Familie nimmt Abschied"
+2026-11-14-16-13,2,2,,maennlich,jung,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Junge Person mit dunklen Locken und Brille in Anzug und Krawatte, im Profil"
+2026-11-14-16-13,4,1,,weiblich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Junge blonde Frau im schwarzen Schulterfreien Kleid; möglicherweise die genannte Tochter"
+2026-11-14-16-13,4,2,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Frau mit roten Haaren im hellen Seidenoberteil
+2026-11-14-16-13,5,1,,maennlich,jung,nicht_erkennbar,hauptperson,indirekt,aktiv,unklar,nein,mittel,"Phantombild eines jungen Mannes mit Kapuze; Headline: Mann attackiert Frau, Polizei fahndet nach ihm"

@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-14-16-13",
+  "erfasst_am": "2026-11-14T16:13:53.059Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Bricht die Berliner Linke ihr Wahlkampfversprechen?",
+      "teasertext": "Analyse Es geht um Mieten Bricht die Berliner Linke ihr Wahlkampfversprechen?",
+      "url": "https://web.de/magazine/politik/inland/bricht-berliner-linke-wahlkampfversprechen-42945560",
+      "bild_url": "https://i0.web.de/image/612/42945612%2cpd=2%2cf=responsive169-w950/elif-eralp.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse Es geht um Mieten",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Hubert Aiwangers Familie nimmt Abschied",
+      "teasertext": "Galerie Letzte Ehre in Frauenkirche Hubert Aiwangers Familie nimmt Abschied",
+      "url": "https://web.de/magazine/unterhaltung/stars/hubert-aiwangers-familie-abschied-42946034",
+      "bild_url": "https://i0.web.de/image/978/42945978%2cpd=3%2cf=responsive169-w300/pontifikalrequiem-staatsakt-aiwanger.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Galerie Letzte Ehre in Frauenkirche",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Microsoft-Störung: Experten warnen vor Abhängigkeit",
+      "teasertext": "Nach Systemausfall Microsoft-Störung: Experten warnen vor Abhängigkeit",
+      "url": "https://web.de/magazine/digital/experten-betrachten-abhaengigkeit-microsoft-risiko-42945592",
+      "bild_url": "https://i0.web.de/image/594/42945594%2cpd=2%2cf=responsive169-w300/microsoft.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Nach Systemausfall",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Diekmeier-Tochter äußert sich nach Rückschlag über ihr Leben mit Krebs",
+      "teasertext": "15-Jährige erkrankt Diekmeier-Tochter äußert sich nach Rückschlag über ihr Leben mit Krebs",
+      "url": "https://web.de/magazine/unterhaltung/stars/diekmeier-tochter-aeussert-rueckschlag-leben-krebs-42946290",
+      "bild_url": "https://i0.web.de/image/340/42946340%2cpd=2%2cf=responsive169-w300/delani-diekmeier.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "15-Jährige erkrankt",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Mann attackiert Frau in Wohnung – jetzt fahndet die Polizei öffentlich nach ihm",
+      "teasertext": "Er klopfte an die Terrassentür Mann attackiert Frau in Wohnung – jetzt fahndet die Polizei öffentlich nach ihm",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/dueren-mann-attackiert-frau-wohnung-fahndet-polizei-oeffentlich-42945774",
+      "bild_url": "https://i0.web.de/image/776/42945776%2cpd=3%2cf=responsive169-w300/polizei.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Er klopfte an die Terrassentür",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

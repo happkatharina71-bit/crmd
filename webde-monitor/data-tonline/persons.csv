@@ -19,3 +19,12 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-14-12-17,4,1,,maennlich,nicht_erkennbar,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Spieler mit Nummer 6 von hinten, legt Hand auf Kopf des Mitspielers; Gesicht nicht sichtbar"
 2026-11-14-12-17,4,2,,maennlich,nicht_erkennbar,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Spieler mit Nummer 10 von hinten, Kopf gesenkt"
 2026-11-14-12-17,4,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Spieler mit Haarband und Bart links im Profil, unscharf"
+2026-11-14-16-14,1,1,Kevin Kühnert,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,unklar,ja,hoch,"Mann im dunklen Hemd sitzt auf Sofa; einzige Person, Dachzeile: Kevin Kühnert"
+2026-11-14-16-14,3,1,Aicher,nicht_erkennbar,jung,weiss,hauptperson,namentlich,aktiv,neutral,nein,niedrig,"Person im deutschen Rennanzug mit Helm und Brille fährt um Torstange; einzige Person, Headline: Aicher, Ski-Ass"
+2026-11-14-16-14,4,1,,weiblich,mittel,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Lächelnde Frau mit kurzen hellblonden Haaren im blauen Blazer am Mikrofon
+2026-11-14-16-14,4,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Mann im dunklen Anzug links, unscharf, Blick nach unten"
+2026-11-14-16-14,5,1,Aiwanger,maennlich,mittel,nicht_erkennbar,hauptperson,namentlich,passiv,reich_maechtig,nein,mittel,"Gerahmtes Porträtfoto eines lächelnden Mannes mit Trauerflor; Dachzeile: Nach Tod von Aiwanger"
+2026-11-14-16-14,5,2,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Uniformierter mit Mütze und weißen Handschuhen am Sarg (Ehrenwache)
+2026-11-14-16-14,5,3,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Uniformierter mit Mütze am Sarg (Ehrenwache)
+2026-11-14-16-14,5,4,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Uniformierter mit Mütze am Sarg (Ehrenwache)
+2026-11-14-16-14,5,5,,maennlich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Uniformierter mit Mütze am Sarg, weiter hinten (Ehrenwache)"

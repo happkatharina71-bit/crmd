@@ -1,0 +1,128 @@
+{
+ "run_id": "2026-11-14-16-13",
+ "erfasst_am": "2026-11-14T16:13:53.059Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Frau spricht vor Kamera, unscharfe Personen im Vordergrund nicht codiert; nicht namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Frau mit langen dunklen Haaren und Pony im roten Rollkragen spricht; vermutlich Vertreterin der genannten Berliner Linken"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "ja",
+   "notiz": "Trauerfeier in Kirche, viele Trauergäste unscharf im Hintergrund; zwei Personen im Vordergrund codiert, keine Namen",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Frau mit schulterlangem braunem Haar im schwarzen Mantel, bewegter Blick; Headline: Familie nimmt Abschied"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Junge Person mit dunklen Locken und Brille in Anzug und Krawatte, im Profil"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Microsoft-Logo an Gebäudefassade",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei lächelnde Frauen vor Weihnachtsbaum und Logowand; welche die genannte Tochter ist, nicht sicher zuordenbar, daher kein Name",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Junge blonde Frau im schwarzen Schulterfreien Kleid; möglicherweise die genannte Tochter"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Frau mit roten Haaren im hellen Seidenoberteil"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Collage: Polizeiwappen auf Streifenwagen und gezeichnetes Phantombild (Schwarz-Weiß), Hautfarbe daher nicht erkennbar",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "unklar",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Phantombild eines jungen Mannes mit Kapuze; Headline: Mann attackiert Frau, Polizei fahndet nach ihm"
+    }
+   ]
+  }
+ ]
+}
