@@ -1,0 +1,101 @@
+{
+ "run_id": "2026-11-14-06-17",
+ "erfasst_am": "2026-11-14T06:17:44.952Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Landendes Passagierflugzeug, Flughafen mit Tower",
+   "personen": []
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt eines Mannes im Anzug vor dunklem Hintergrund; Headline nennt drei Personen, Zuordnung allein aus Bild und Text nicht eindeutig, daher kein Name",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Älterer Mann mit blondem Haar im blauen Anzug, Blick nach oben; einer der drei Genannten"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "ja",
+   "notiz": "Jubeltraube der Nationalmannschaft in schwarzen Trikots, Gegenspieler und Schiedsrichter im Hintergrund; Trikotnamen nicht übernommen; eine Stellvertreterperson codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Spieler mit Nummer 10 links jubelt mit; Stellvertreter für das DFB-Team"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Luftbild: gekentertes Schiff am Kai, Schlepper, viele winzige Personen an Land nicht codierbar",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Spielszene im Stadion; Torhüter im schwarzen Trikot mit Handschuhen; Zuschauende und Personen am Rand unscharf, nicht codiert",
+   "personen": [
+    {
+     "name": "Owono",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Torhüter im schwarzen Trikot mit Torwarthandschuhen; Headline: Torhüter Owono, einziger Torwart im Bild"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Feldspieler mit Bart im blau-weißen Trikot Nummer 18"
+    }
+   ]
+  }
+ ]
+}

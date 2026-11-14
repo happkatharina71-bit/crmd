@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-14-06-18",
+  "erfasst_am": "2026-11-14T06:18:22.303Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Tagesanbruch",
+      "headline": "Es wäre eine Zäsur in der deutschen Geschichte",
+      "teasertext": "MEINUNG|Tagesanbruch Es wäre eine Zäsur in der deutschen Geschichte Von Florian Harms",
+      "url": "https://www.t-online.de/nachrichten/tagesanbruch/id_101527716/griff-nach-der-macht-weidel-und-siegmund-hoffen-auf-erste-afd-regierung.html",
+      "bild_url": "https://images.t-online.de/2026/11/Qr22OgrM5DzI/0x219:3271x1840/fit-in/1920x0/alice-weidel-und-ulrich-siegmund-hoffen-auf-die-erste-afd-gefuehrte-regierung.jpg",
+      "bild_alt": "Alice Weidel und Ulrich Siegmund hoffen auf die erste AfD-geführte Regierung.",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Flüge aus Europa",
+      "headline": "Karibikinsel hat kaum noch Touristen",
+      "teasertext": "Flüge aus Europa Karibikinsel hat kaum noch Touristen",
+      "url": "https://www.t-online.de/leben/reisen/id_101527320/kuba-urlaub-air-europa-bleibt-warum-es-teurer-und-komplizierter-wird.html",
+      "bild_url": "https://images.t-online.de/2026/11/iFvdrMXNZOgd/0x358:6867x3863/fit-in/1920x0/blick-von-der-terrasse-eines-ehemaligen-iberostar-hotels-auf-havanna-die-grossen-hotelketten-haben-sich-auf-druck-der-usa-zurueckgezogen-treibstoff-und-medikamente-sind-auf-der-insel-mangelware.jpg",
+      "bild_alt": "Blick von der Terrasse eines ehemaligen Iberostar-Hotels auf Havanna: Die großen Hotelketten haben sich auf Druck der USA zurückgezogen. Treibstoff und Medikamente sind auf der Insel Mangelware.",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Wetterexpertin staunt über Phänomen",
+      "headline": "Das gab es seit Beginn der Aufzeichnung nicht",
+      "teasertext": "Video Wetterexpertin staunt über Phänomen Das gab es seit Beginn der Aufzeichnung nicht",
+      "url": "https://www.t-online.de/video/wetter/id_101528014/polarwirbel-bricht-zusammen-meteorologin-erklaert-die-folgen.html",
+      "bild_url": "https://images.t-online.de/2026/11/mbsk9OTNH9AL/9x0:1920x1080/fit-in/1920x0/image.png",
+      "bild_alt": null,
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Trennung wohl im Oktober",
+      "headline": "Ehe-Aus bei Manuel und Anika Neuer",
+      "teasertext": "Trennung wohl im Oktober Ehe-Aus bei Manuel und Anika Neuer",
+      "url": "https://www.t-online.de/unterhaltung/stars/id_101528382/anika-und-manuel-neuer-ehe-aus-kurz-nach-geburt-des-zweiten-kindes.html",
+      "bild_url": "https://images.t-online.de/2025/07/hzkSMflYaJzG/625x148:1785x1004/fit-in/1785x0/manuel-und-anika-neuer-sie-haben-das-wochenende-ueber-ihre-liebe-zelebriert.jpg",
+      "bild_alt": "Manuel und Anika Neuer: Sie haben das Wochenende über ihre Liebe zelebriert.",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Neue Ukraine-Forderungen aus Russland?",
+      "headline": "Hier stimmt etwas nicht",
+      "teasertext": "Neue Ukraine-Forderungen aus Russland? Hier stimmt etwas nicht Eine Analyse von Patrick Diekmann",
+      "url": "https://www.t-online.de/nachrichten/ukraine/id_101528056/neue-ukraine-forderungen-von-putin-die-aufregung-ist-jetzt-gross-.html",
+      "bild_url": "https://images.t-online.de/2026/11/1WZ3A4tz1EOf/360x253:3478x1956/fit-in/1920x0/wladimir-putin-der-kreml-chef-setzt-im-ukraine-krieg-vor-allem-auf-donald-trump.jpg",
+      "bild_alt": "Wladimir Putin: Der Kreml-Chef setzt im Ukraine-Krieg vor allem auf Donald Trump.",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

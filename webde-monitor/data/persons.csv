@@ -961,3 +961,7 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-13-20-13,3,2,,maennlich,mittel,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,ja,niedrig,"Unscharfer Mann mit Glatze im Pullover schüttelt Hand; Headline: Männer"
 2026-11-13-20-13,3,3,,maennlich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,ja,niedrig,"Unscharfer Mann mit Haarknoten und Hemd schüttelt Hand; Headline: Männer"
 2026-11-13-20-13,5,1,Avril Lavigne,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Frau mit langen rosa-blonden Haaren und Ketten im Vordergrund; einzige Person im Fokus, Headline: Avril Lavigne"
+2026-11-14-06-17,2,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Älterer Mann mit blondem Haar im blauen Anzug, Blick nach oben; einer der drei Genannten"
+2026-11-14-06-17,3,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spieler mit Nummer 10 links jubelt mit; Stellvertreter für das DFB-Team"
+2026-11-14-06-17,5,1,Owono,maennlich,jung,poc,hauptperson,namentlich,passiv,neutral,nein,mittel,"Torhüter im schwarzen Trikot mit Torwarthandschuhen; Headline: Torhüter Owono, einziger Torwart im Bild"
+2026-11-14-06-17,5,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Feldspieler mit Bart im blau-weißen Trikot Nummer 18

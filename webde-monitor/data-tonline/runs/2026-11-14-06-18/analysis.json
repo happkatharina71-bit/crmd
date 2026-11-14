@@ -1,0 +1,128 @@
+{
+ "run_id": "2026-11-14-06-18",
+ "erfasst_am": "2026-11-14T06:18:22.303Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Mann und Frau vor dunklem Hintergrund, weitere Personen unscharf und nicht codiert; niemand namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "unklar",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Lachender Mann mit Bart im dunklen Sakko und weißem Hemd"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "unklar",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Frau mit hellem, zurückgebundenem Haar im dunklen Blazer, unscharf links"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Leere Dachterrasse mit Blick über Stadt mit Kuppelbau",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Collage: Eisbär auf Deutschlandkarte vor Wirbel, Frau in rundem Einklinker (Teil des Teaserbilds, kein Autorinnenfoto)",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Frau mit langen rotblonden Haaren im grauen Pullover gestikuliert im Kreis-Einklinker; Dachzeile: Wetterexpertin"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Paar auf Stadiontribüne in DFB-Kleidung; Zuordnung über Headline (Manuel und Anika Neuer, einziger Mann und einzige Frau im Bild); angeschnittene Person am linken Rand nicht codiert",
+   "personen": [
+    {
+     "name": "Manuel Neuer",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann in dunkler DFB-Trainingsjacke links; Headline: Manuel und Anika Neuer"
+    },
+    {
+     "name": "Anika Neuer",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Junge Frau mit langen blonden Haaren im DFB-Trikot; Headline: Manuel und Anika Neuer"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann im Anzug am Tisch mit Mikrofonen vor russischer Flagge; nicht namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Älterer Mann im schwarzen Anzug spricht an Mikrofonen vor russischer Flagge; Headline: Forderungen aus Russland"
+    }
+   ]
+  }
+ ]
+}

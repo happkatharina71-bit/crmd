@@ -1,0 +1,7 @@
+run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,headline_aktiv,status,agenda,sicherheit,begruendung
+2026-11-14-06-18,1,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,unklar,ja,mittel,Lachender Mann mit Bart im dunklen Sakko und weißem Hemd
+2026-11-14-06-18,1,2,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,unklar,ja,mittel,"Frau mit hellem, zurückgebundenem Haar im dunklen Blazer, unscharf links"
+2026-11-14-06-18,3,1,,weiblich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Frau mit langen rotblonden Haaren im grauen Pullover gestikuliert im Kreis-Einklinker; Dachzeile: Wetterexpertin"
+2026-11-14-06-18,4,1,Manuel Neuer,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Mann in dunkler DFB-Trainingsjacke links; Headline: Manuel und Anika Neuer"
+2026-11-14-06-18,4,2,Anika Neuer,weiblich,jung,weiss,nebenperson,namentlich,passiv,neutral,nein,mittel,"Junge Frau mit langen blonden Haaren im DFB-Trikot; Headline: Manuel und Anika Neuer"
+2026-11-14-06-18,5,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Älterer Mann im schwarzen Anzug spricht an Mikrofonen vor russischer Flagge; Headline: Forderungen aus Russland"
