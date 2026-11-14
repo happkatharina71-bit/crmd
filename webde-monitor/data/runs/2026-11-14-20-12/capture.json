@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-14-20-12",
+  "erfasst_am": "2026-11-14T20:12:58.250Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Hubertus Heil will kandidieren – wer könnte ihm gefährlich werden?",
+      "teasertext": "SPD-Vorsitz Hubertus Heil will kandidieren – wer könnte ihm gefährlich werden?",
+      "url": "https://web.de/magazine/politik/inland/hubertus-heil-kandidieren-gefaehrlich-42946574",
+      "bild_url": "https://i0.web.de/image/650/42946650%2cpd=2%2cf=responsive169-w950/hubertus-heil.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "SPD-Vorsitz",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "\"Pubertät verschärft vieles\": Wie Familien mit ADHS-Teenagern umgehen können",
+      "teasertext": "Interview Was eine Betroffene rät \"Pubertät verschärft vieles\": Wie Familien mit ADHS-Teenagern umgehen können",
+      "url": "https://web.de/magazine/gesundheit/familien-adhs-teenagern-umgehen-42933764",
+      "bild_url": "https://i0.web.de/image/918/42933918%2cpd=3%2cf=responsive169-w300/mutter-redet-sohn-blickt-gelangweilt.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Interview Was eine Betroffene rät",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Im Wald vergraben, in Hallen versteckt: Orban-Minister hortete 17 Millionen Euro",
+      "teasertext": "Ermittlungen nach irrem Fund Im Wald vergraben, in Hallen versteckt: Orban-Minister hortete 17 Millionen Euro",
+      "url": "https://web.de/magazine/politik/wald-vergraben-hallen-versteckt-orban-minister-hortete-17-millionen-euro-42946440",
+      "bild_url": "https://i0.web.de/image/450/42946450%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Ermittlungen nach irrem Fund",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Mit fünf Checks Mini-Kameras in Urlaubsunterkünften finden",
+      "teasertext": "In Hotelzimmern & Co. Mit fünf Checks Mini-Kameras in Urlaubsunterkünften finden",
+      "url": "https://web.de/magazine/reise/fuenf-checks-mini-kameras-urlaubsunterkuenften-42937312",
+      "bild_url": "https://i0.web.de/image/314/42937314%2cpd=2%2cf=responsive169-w300/ferienunterkunft.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "In Hotelzimmern & Co.",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Ärgernis unter Gastronomen: \"Menüs landen in der Tonne\"",
+      "teasertext": "Immer mehr No-Shows Ärgernis unter Gastronomen: \"Menüs landen in der Tonne\"",
+      "url": "https://web.de/magazine/ratgeber/essen-trinken/aergernis-gastronomen-menues-landen-tonne-42932868",
+      "bild_url": "https://i0.web.de/image/000/42935000%2cpd=2%2cf=responsive169-w300/tisch-restaurant-reserviert-schild.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Immer mehr No-Shows",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

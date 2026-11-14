@@ -983,3 +983,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-14-16-13,4,1,,weiblich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Junge blonde Frau im schwarzen Schulterfreien Kleid; möglicherweise die genannte Tochter"
 2026-11-14-16-13,4,2,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Frau mit roten Haaren im hellen Seidenoberteil
 2026-11-14-16-13,5,1,,maennlich,jung,nicht_erkennbar,hauptperson,indirekt,aktiv,unklar,nein,mittel,"Phantombild eines jungen Mannes mit Kapuze; Headline: Mann attackiert Frau, Polizei fahndet nach ihm"
+2026-11-14-20-12,1,1,Hubertus Heil,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit grauem Haar im dunkelblauen Anzug mit blauer Krawatte; einzige Person, Headline: Hubertus Heil"
+2026-11-14-20-12,2,1,,nicht_erkennbar,jung,poc,hauptperson,indirekt,passiv,neutral,nein,mittel,"Jugendliche Person mit dunklen Locken im weinroten Hoodie, genervter Blick; Headline: Teenager"
+2026-11-14-20-12,2,2,,weiblich,mittel,poc,nebenperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Frau mit hochgestecktem Haar im gelben Pullover, Hand auf Schulter der jugendlichen Person; Headline: Familien"
+2026-11-14-20-12,3,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Grauhaariger Mann im Anzug spricht in viele Mikrofone; möglicherweise die genannte Person"
+2026-11-14-20-12,3,2,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit weißer FFP2-Maske rechts
+2026-11-14-20-12,3,3,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit Brille und blauer Maske links, teilweise verdeckt"
+2026-11-14-20-12,4,1,,maennlich,mittel,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit kurzem dunklem Haar und Bart, von hinten, grauer Pullover, Rucksack"

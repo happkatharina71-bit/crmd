@@ -28,3 +28,9 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-14-16-14,5,3,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Uniformierter mit Mütze am Sarg (Ehrenwache)
 2026-11-14-16-14,5,4,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Uniformierter mit Mütze am Sarg (Ehrenwache)
 2026-11-14-16-14,5,5,,maennlich,nicht_erkennbar,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Uniformierter mit Mütze am Sarg, weiter hinten (Ehrenwache)"
+2026-11-14-20-13,1,1,,maennlich,nicht_erkennbar,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Polizist mit Mütze von hinten, Gesicht seitlich angeschnitten mit Bartstoppeln"
+2026-11-14-20-13,1,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Polizeikraft mit Mütze vollständig von hinten
+2026-11-14-20-13,2,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Grauhaariger Mann mit Schnurrbart im dunklen Anzug; Dachzeile: fossile Giganten regieren die COP"
+2026-11-14-20-13,3,1,Florian Schroeder,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Mann mit Bart im dunklen Anzug, skeptischer Blick; einzige Person, Dachzeile: Florian Schroeder"
+2026-11-14-20-13,5,1,Tanja Schweiger,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Frau mit schulterlangem braunem Haar im schwarzen Mantel; Headline: Tanja Schweiger trauert"
+2026-11-14-20-13,5,2,,maennlich,jung,weiss,nebenperson,indirekt,aktiv,neutral,nein,mittel,"Junge Person mit dunklen Locken und Brille in Anzug und Krawatte; Headline: mit Söhnen"

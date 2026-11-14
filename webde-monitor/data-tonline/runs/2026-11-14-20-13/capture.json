@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-14-20-13",
+  "erfasst_am": "2026-11-14T20:13:33.361Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Weihnachtsmärkte im Visier des Iran?",
+      "headline": "\"Es ist unmöglich, die ganze Stadt abzuriegeln\"",
+      "teasertext": "Weihnachtsmärkte im Visier des Iran? \"Es ist unmöglich, die ganze Stadt abzuriegeln\" Von Julian Alexander Fischer",
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101525708/sicherheit-auf-weihnachtsmaerkten-wie-hoch-ist-die-anschlagsgefahr-.html",
+      "bild_url": "https://images.t-online.de/2025/11/jMrNdq-8kjRL/0x107:2048x1152/fit-in/1920x0/fuer-hessens-weihnachtsmaerkte-gibt-es-laut-innenministerium-keine-hinweise-auf-eine-konkrete-gefahr-archivbild.jpg",
+      "bild_alt": "Polizei auf dem Weihnachtsmarkt",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Zwei fossile Giganten regieren die COP ",
+      "headline": "Ein Skandal mit Ansage ",
+      "teasertext": "Zwei fossile Giganten regieren die COP Ein Skandal mit Ansage Eine Analyse von Ellen Ivits",
+      "url": "https://www.t-online.de/klima/leben-umwelt/id_101528790/cop-gastgeber-tuerkei-und-australien-fossile-giganten-regieren-klimagipfel.html",
+      "bild_url": "https://images.t-online.de/2026/11/1VdPKYQKQMxV/412x283:1728x972/fit-in/1728x0/image.jpg",
+      "bild_alt": "imago images 0882748247",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "ZDF-Star Florian Schroeder",
+      "headline": "\"Die AfD will das freiheitliche Leben abschaffen\"",
+      "teasertext": "INTERVIEW|ZDF-Star Florian Schroeder \"Die AfD will das freiheitliche Leben abschaffen\" Ein Interview von Steven Sowa",
+      "url": "https://www.t-online.de/unterhaltung/stars/id_101527484/zdf-star-florian-schroeder-ueber-afd-das-ist-nicht-opportun-.html",
+      "bild_url": "https://images.t-online.de/2026/11/uNGoiCXwf5az/0x427:3889x2187/fit-in/1920x0/florian-schroeder-der-kabarettist-und-moderator-versucht-mit-seiner-sendung-journal-deluxe-im-zdf-durchzustarten.jpg",
+      "bild_alt": "Florian Schroeder: Der Kabarettist und Moderator versucht mit seiner Sendung \"Journal Deluxe\" im ZDF durchzustarten.",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Gaspreise steigen",
+      "headline": "Diese Versorger erhöhen zum Jahreswechsel ihre Preise",
+      "teasertext": "Gaspreise steigen Diese Versorger erhöhen zum Jahreswechsel ihre Preise Von Jennifer Buchholz",
+      "url": "https://www.t-online.de/heim-garten/aktuelles/id_101525536/gaspreise-versorger-erhoehen-die-kosten-ab-januar-2027.html",
+      "bild_url": "https://images.t-online.de/2024/10/NxRmDkpHlbvt/0x0:4000x2250/fit-in/1920x0/nahaufnahme-von-eurobanknoten-auf-einer-heizung-symbolbild-mit-dem-beginn-der-heizsaison-stehen-hamburger-haushalte-vor-steigenden-gaskosten.jpg",
+      "bild_alt": "Nahaufnahme von Eurobanknoten auf einer Heizung (Symbolbild): Mit dem Beginn der Heizsaison stehen Hamburger Haushalte vor steigenden Gaskosten.",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Bei Staatsakt in München",
+      "headline": "Tanja Schweiger trauert mit Söhnen um Hubert Aiwanger",
+      "teasertext": "Bei Staatsakt in München Tanja Schweiger trauert mit Söhnen um Hubert Aiwanger",
+      "url": "https://www.t-online.de/unterhaltung/stars/id_101528864/tanja-schweiger-trauert-um-hubert-aiwanger-die-soehne-sind-an-ihrer-seite.html",
+      "bild_url": "https://images.t-online.de/2026/11/oc1DT5WdgUbk/248x198:1455x819/fit-in/1455x0/tanja-schweiger-mit-ihrem-sohn-beide-trauern-um-hubert-aiwanger.jpg",
+      "bild_alt": "Tanja Schweiger mit ihrem Sohn: Beide trauern um Hubert Aiwanger.",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}
