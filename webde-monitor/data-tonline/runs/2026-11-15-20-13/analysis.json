@@ -1,0 +1,101 @@
+{
+ "run_id": "2026-11-15-20-13",
+ "erfasst_am": "2026-11-15T20:13:54.081Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann ruft mit erhobener Hand, dunkler Hintergrund; unscharfe Personen am Rand nicht codiert; nicht namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Grauhaariger Mann mit Brille ruft laut; Headline: dieser Mann"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Männer vor SPD-Wand, einer mit Mikrofon; niemand namentlich genannt; gleiches Bild wie Teaser 4 der Erhebung 2026-11-15-06-13; Dachzeile nennt jetzt Heil, Zuordnung zu einer der zwei Personen weiterhin nicht sicher",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann im blauen Sakko spricht ins Mikrofon; möglicherweise der genannte Ex-Minister"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann im dunkelblauen Sakko daneben, hört zu"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt vor schwarzem Hintergrund; Person sitzt erkennbar im Rollstuhl (Behinderung sichtbar, im Codebuch kein eigenes Feld)",
+   "personen": [
+    {
+     "name": "Raúl Krauthausen",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit Kappe, Brille und Bart im Rollstuhl; einzige Person, Dachzeile: Raúl Krauthausen"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "grafik_text",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Kartengrafik Norddeutschland mit Überflutungsflächen und Warnschild",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Stecker auf Geldscheinen und Münzen; gleiches Bild wie in der vorigen Erhebung",
+   "personen": []
+  }
+ ]
+}

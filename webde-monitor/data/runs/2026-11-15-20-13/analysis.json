@@ -1,0 +1,128 @@
+{
+ "run_id": "2026-11-15-20-13",
+ "erfasst_am": "2026-11-15T20:13:21.054Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Symbolbild: lachende Frau im Gegenlicht",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Junge Frau mit Locken und Brille lacht in die Kamera"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Begegnung in Kirche; Zuordnung über Dachzeile (Patriarch in liturgischem Ornat) und Headline (Putin); weiterer Geistlicher im Hintergrund ohne sichtbares Gesicht nicht codiert",
+   "personen": [
+    {
+     "name": "Kirill",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Älterer Mann mit weißem Bart in rotem Patriarchenornat mit Mitra; Dachzeile: Patriarch Kirill"
+    },
+    {
+     "name": "Putin",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Älterer Mann im dunklen Anzug, dem Patriarchen zugewandt; Headline: Putin"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann spricht vor EU-Flaggen in Mikrofone; nicht namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit Bart im Anzug spricht in Mikrofone vor EU-Flaggen; vermutlich Vertreter des genannten Estland"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Mann hinter offenem, bunt bedrucktem Sarg wird mit Smartphone fotografiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Junger Mann im weißen Hemd steht hinter Sarg; Headline: Bestatter"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit langen Haaren in Lederjacke fotografiert mit Smartphone, Vordergrund"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Blumen, Kerzen und Teddy auf Gehweg als Gedenkstelle, Bus im Hintergrund; angeschnittene Beine am Rand nicht codierbar",
+   "personen": []
+  }
+ ]
+}

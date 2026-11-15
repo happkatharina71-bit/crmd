@@ -1008,3 +1008,9 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-15-16-13,5,1,,maennlich,alt,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Älterer Mann mit hellem Haar in beiger Jacke breitet Arme aus
 2026-11-15-16-13,5,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Mann mit Brille und Bart im Anzug beugt sich mit ausgestreckten Armen
 2026-11-15-16-13,5,3,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Tänzerin in grün-weißer Garde-Uniform im Hintergrund; Stellvertreterin für die Gruppe"
+2026-11-15-20-13,1,1,,weiblich,jung,poc,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Junge Frau mit Locken und Brille lacht in die Kamera
+2026-11-15-20-13,2,1,Kirill,maennlich,alt,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,mittel,"Älterer Mann mit weißem Bart in rotem Patriarchenornat mit Mitra; Dachzeile: Patriarch Kirill"
+2026-11-15-20-13,2,2,Putin,maennlich,alt,weiss,nebenperson,namentlich,nicht_thematisiert,reich_maechtig,ja,mittel,"Älterer Mann im dunklen Anzug, dem Patriarchen zugewandt; Headline: Putin"
+2026-11-15-20-13,3,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Mann mit Bart im Anzug spricht in Mikrofone vor EU-Flaggen; vermutlich Vertreter des genannten Estland"
+2026-11-15-20-13,4,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Junger Mann im weißen Hemd steht hinter Sarg; Headline: Bestatter"
+2026-11-15-20-13,4,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit langen Haaren in Lederjacke fotografiert mit Smartphone, Vordergrund"

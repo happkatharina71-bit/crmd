@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-15-20-13",
+  "erfasst_am": "2026-11-15T20:13:54.081Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "\"Alles muss sich ändern\"",
+      "headline": "Europa zittert vor diesem Mann",
+      "teasertext": "\"Alles muss sich ändern\" Europa zittert vor diesem Mann Eine Analyse von Peter Riesbeck",
+      "url": "https://www.t-online.de/nachrichten/ausland/eu/id_101521520/frankreich-praesidentschafts-kandidat-melenchon-will-raus-aus-der-nato.html",
+      "bild_url": "https://images.t-online.de/2026/05/bWJVLgrp8K29/43x89:1715x965/fit-in/1715x0/jean-luc-melenchon-heizt-der-franzoesischen-linken-ein.jpg",
+      "bild_alt": "Jean-Luc Mélenchon macht in Frankreich Druck von links. (Archivbild)",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Heils Kandidatur für den Vorsitz",
+      "headline": "Die SPD erliegt einer tödlichen Versuchung",
+      "teasertext": "MEINUNG|Heils Kandidatur für den Vorsitz Die SPD erliegt einer tödlichen Versuchung Ein Kommentar von Christoph Schwennicke",
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101529754/spd-vorsitz-schwesig-wird-das-sagen-haben-nicht-heil.html",
+      "bild_url": "https://images.t-online.de/2026/03/wnRe9v38fo7N/0x107:2048x1152/fit-in/1920x0/ex-minister-heil-l-tritt-spekulationen-entgegen-er-komme-als-nachfolger-von-spd-chef-lars-klingbeil-r-in-betracht.jpg",
+      "bild_alt": "Hubertus Heil: Die SPD braucht mehr Leidenschaft",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Raúl Krauthausen",
+      "headline": "\"Solche Verbote sprechen uns die Mündigkeit ab\"",
+      "teasertext": "INTERVIEW|Raúl Krauthausen \"Solche Verbote sprechen uns die Mündigkeit ab\" Ein Interview von Julian Alexander Fischer",
+      "url": "https://www.t-online.de/nachrichten/deutschland/gesellschaft/id_101520004/raul-krauthausen-ueber-inklusion-peter-dinklage-und-behinderung-im-tv.html",
+      "bild_url": "https://images.t-online.de/2026/11/S5W5x0540Mez/0x134:2560x1440/fit-in/1920x0/raul-krauthausen-der-aktivist-sieht-in-deutschland-nachholbedarf.jpg",
+      "bild_alt": "Raúl Krauthausen: Der Aktivist sieht in Deutschland Nachholbedarf.",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Animation zeigt",
+      "headline": "Deutsche Urlaubsregionen könnten versinken",
+      "teasertext": "Video Animation zeigt Deutsche Urlaubsregionen könnten versinken",
+      "url": "https://www.t-online.de/video/nachrichten/panorama/id_101523734/nordsee-diese-urlaubsregionen-koennten-bald-verschwunden-sein.html",
+      "bild_url": "https://images.t-online.de/2026/11/zJ5LlUqvsck8/0x0:1920x1080/fit-in/1920x0/image.png",
+      "bild_alt": null,
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Zum 1. Januar",
+      "headline": "Versorger erhöhen die Strompreise",
+      "teasertext": "Zum 1. Januar Versorger erhöhen die Strompreise Von Jennifer Buchholz",
+      "url": "https://www.t-online.de/heim-garten/aktuelles/id_101525572/strompreise-diese-versorger-erhoehen-zum-1-januar-2027-die-kosten.html",
+      "bild_url": "https://images.t-online.de/2025/03/OEOZZGrE54fn/0x208:4000x2250/fit-in/1920x0/symbolfoto-energiekosten-deu-deutschland-illustration-10-022025-symbolfoto-strompreis-und-energiekosten-ein-schuko-stecker-schutzkontakt-stecker-ist-symbolisch-zusammen-mit-muenzen-und-geldscheinen-zu-sehen-af-img-82073-jpeg.jpg",
+      "bild_alt": "imago images 0801049008",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

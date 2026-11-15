@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-15-20-13",
+  "erfasst_am": "2026-11-15T20:13:21.054Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Drei Nachrichten, die Hoffnung machen",
+      "teasertext": "Good News der Woche Drei Nachrichten, die Hoffnung machen",
+      "url": "https://web.de/magazine/wissen/psychologie/good-news-bibliotheken-begegnung-ermoeglichen-42936218",
+      "bild_url": "https://i0.web.de/image/120/42944120%2cpd=1%2cf=responsive169-w950/laechelt.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Good News der Woche",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Eine gigantische Schau für Putins wichtigen Kriegsunterstützer",
+      "teasertext": "Patriarch Kirill wird 80 Eine gigantische Schau für Putins wichtigen Kriegsunterstützer",
+      "url": "https://web.de/magazine/politik/gigantische-schau-putins-wichtigen-kriegsunterstuetzer-42948318",
+      "bild_url": "https://i0.web.de/image/320/42948320%2cpd=2%2cf=responsive169-w300/russischer-patriarch.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Patriarch Kirill wird 80",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Estland schließt nach versuchtem Anschlag alle Grenzen zu Russland",
+      "teasertext": "Rüstungsfirma war im Visier Estland schließt nach versuchtem Anschlag alle Grenzen zu Russland",
+      "url": "https://web.de/magazine/politik/estland-schliesst-versuchtem-anschlag-grenzen-russland-42948378",
+      "bild_url": "https://i0.web.de/image/414/42948414%2cpd=1%2cf=responsive169-w300/margus-tsahkna.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Rüstungsfirma war im Visier",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Bestatter zeigt, wie Humor und Tod zusammenpassen können",
+      "teasertext": "Lebens- statt Trauerfeier Bestatter zeigt, wie Humor und Tod zusammenpassen können",
+      "url": "https://web.de/magazine/wissen/psychologie/bestatter-schwarzem-humor-zeigen-42941046",
+      "bild_url": "https://i0.web.de/image/912/42943912%2cpd=2%2cf=responsive169-w300/reise-bestattungen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Lebens- statt Trauerfeier",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Achtjähriges Mädchen von Bus überfahren - Polizei ermittelt gegen Fahrer",
+      "teasertext": "Unfall in Berlin Achtjähriges Mädchen von Bus überfahren - Polizei ermittelt gegen Fahrer",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/achtjaehriges-maedchen-bus-ueberfahren-polizei-ermittelt-fahrer-42946506",
+      "bild_url": "https://i0.web.de/image/284/42948284%2cpd=2%2cf=responsive169-w300/kind-berlin-bus-ueberfahren-verstorben.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Unfall in Berlin",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

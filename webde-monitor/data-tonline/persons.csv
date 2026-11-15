@@ -61,3 +61,7 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-15-16-14,4,2,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Älterer Mann im schwarzen Anzug links, im Profil"
 2026-11-15-16-14,5,1,Trump,maennlich,alt,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,mittel,"Älterer Mann mit blondem Haar im Anzug spitzt die Lippen; Headline: Trump"
 2026-11-15-16-14,5,2,Merkel,weiblich,alt,weiss,nebenperson,namentlich,nicht_thematisiert,reich_maechtig,ja,mittel,"Ältere Frau mit kurzem rotblondem Haar im weißen Blazer lächelt; Headline: Merkels Eindruck"
+2026-11-15-20-13,1,1,,maennlich,alt,weiss,hauptperson,indirekt,passiv,reich_maechtig,ja,mittel,"Grauhaariger Mann mit Brille ruft laut; Headline: dieser Mann"
+2026-11-15-20-13,2,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Mann im blauen Sakko spricht ins Mikrofon; möglicherweise der genannte Ex-Minister"
+2026-11-15-20-13,2,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Mann im dunkelblauen Sakko daneben, hört zu"
+2026-11-15-20-13,3,1,Raúl Krauthausen,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Mann mit Kappe, Brille und Bart im Rollstuhl; einzige Person, Dachzeile: Raúl Krauthausen"
