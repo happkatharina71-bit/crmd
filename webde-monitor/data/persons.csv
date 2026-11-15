@@ -1000,3 +1000,11 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-15-12-13,2,1,Anne Fleck,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Frau mit blonden Locken in gelber Bluse am Tisch; einzige Person, Dachzeile: Anne Fleck"
 2026-11-15-12-13,3,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Mann mit grauem Bart, schwarzer Kappe und Regenjacke lacht; möglicherweise der genannte Klopp"
 2026-11-15-12-13,4,1,Mario Basler,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann mit Glatze im grünen Sakko; einzige Person, Headline: Mario Basler"
+2026-11-15-16-13,1,1,Blume,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann im dunklen Anzug spricht gestikulierend auf Bühne; einzige Person, Dachzeile: VW-Chef Blume"
+2026-11-15-16-13,2,1,Elif Eralp,weiblich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,mittel,"Lächelnde Frau mit langen dunklen Haaren in schwarzer Jacke; einzige Person, Headline: Elif Eralp"
+2026-11-15-16-13,3,1,Merkel,weiblich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,mittel,"Ältere Frau mit kurzem Haar im blauen Blazer im Sessel; Headline: wie Merkel dachte"
+2026-11-15-16-13,3,2,Trump,maennlich,alt,weiss,nebenperson,namentlich,passiv,reich_maechtig,ja,mittel,"Älterer Mann mit blondem Haar im dunklen Anzug im Sessel; Headline: von Trump"
+2026-11-15-16-13,4,1,Mario Basler,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann mit Glatze im grünen Sakko; einzige Person, Headline: Mario Basler"
+2026-11-15-16-13,5,1,,maennlich,alt,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Älterer Mann mit hellem Haar in beiger Jacke breitet Arme aus
+2026-11-15-16-13,5,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Mann mit Brille und Bart im Anzug beugt sich mit ausgestreckten Armen
+2026-11-15-16-13,5,3,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Tänzerin in grün-weißer Garde-Uniform im Hintergrund; Stellvertreterin für die Gruppe"

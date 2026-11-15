@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-15-16-13",
+  "erfasst_am": "2026-11-15T16:13:30.468Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Der Konzern steckt in der Krise – aber er hat große Ziele",
+      "teasertext": "VW-Chef Blume Der Konzern steckt in der Krise – aber er hat große Ziele",
+      "url": "https://web.de/magazine/wirtschaft/vw-chef-blume-konzern-steckt-krise-grosse-ziele-42948040",
+      "bild_url": "https://i0.web.de/image/042/42948042%2cpd=5%2cf=responsive169-w950/volkswagen-ag.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "VW-Chef Blume",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Ist Elif Eralp die richtige Bürgermeisterin für Berlin?",
+      "teasertext": "Meine Meinung Pro und Contra Ist Elif Eralp die richtige Bürgermeisterin für Berlin?",
+      "url": "https://web.de/magazine/politik/inland/contra-elif-eralp-richtige-buergermeisterin-berlin-42943028",
+      "bild_url": "https://i0.web.de/image/068/42943068%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Meine Meinung Pro und Contra",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Biden enthüllt in Memoiren, wie Merkel von Trump dachte",
+      "teasertext": "\"Sie wunderte sich, warum ...\" Biden enthüllt in Memoiren, wie Merkel von Trump dachte",
+      "url": "https://web.de/magazine/politik/angela-merkel/biden-enthuellt-memoiren-merkel-trump-dachte-42947828",
+      "bild_url": "https://i0.web.de/image/906/42947906%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "\"Sie wunderte sich, warum ...\"",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Mario Basler rettet bewusstlosem Autofahrer das Leben",
+      "teasertext": "Auf der A63 Mario Basler rettet bewusstlosem Autofahrer das Leben",
+      "url": "https://web.de/magazine/unterhaltung/stars/mario-basler-rettet-bewusstlosem-autofahrer-autobahn-leben-42947654",
+      "bild_url": "https://i0.web.de/image/682/42947682%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Auf der A63",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Lohnt sich der neue Tatort aus Münster?",
+      "teasertext": "Kritik \"Narrentanz\" Lohnt sich der neue Tatort aus Münster?",
+      "url": "https://web.de/magazine/unterhaltung/filme-serien-kino/tatort/lohnt-tatort-narrentanz-42937458",
+      "bild_url": "https://i0.web.de/image/640/42937640%2cpd=5%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Kritik \"Narrentanz\"",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

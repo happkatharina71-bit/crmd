@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-15-16-14",
+  "erfasst_am": "2026-11-15T16:14:04.611Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Fall aus Münster",
+      "headline": "Enttäuschung für \"Tatort\"-Fans",
+      "teasertext": "MEINUNG|Fall aus Münster Enttäuschung für \"Tatort\"-Fans Ein Kommentar von Janna Halbroth",
+      "url": "https://www.t-online.de/unterhaltung/tv/id_101525968/-tatort-narrentanz-aus-muenster-eine-echte-enttaeuschung-kritik.html",
+      "bild_url": "https://images.t-online.de/2026/11/QLRrKZXuO-e7/4x288:3239x1822/fit-in/1920x0/prof-boerne-jan-josef-liefers-l-kommissar-thiel-axel-prahl-m-und-silke-haller-christine-urspruch-die-drei-arbeiten-an-einem-kuriosen-fall.jpg",
+      "bild_alt": "Prof. Boerne (Jan Josef Liefers, l.), Kommissar Thiel (Axel Prahl, M.) und Silke Haller (ChrisTine Urspruch): Die Drei arbeiten an einem kuriosen Fall.",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Zum 1. Januar",
+      "headline": "Versorger erhöhen die Strompreise",
+      "teasertext": "Zum 1. Januar Versorger erhöhen die Strompreise Von Jennifer Buchholz",
+      "url": "https://www.t-online.de/heim-garten/aktuelles/id_101525572/strompreise-diese-versorger-erhoehen-zum-1-januar-2027-die-kosten.html",
+      "bild_url": "https://images.t-online.de/2025/03/OEOZZGrE54fn/0x208:4000x2250/fit-in/1920x0/symbolfoto-energiekosten-deu-deutschland-illustration-10-022025-symbolfoto-strompreis-und-energiekosten-ein-schuko-stecker-schutzkontakt-stecker-ist-symbolisch-zusammen-mit-muenzen-und-geldscheinen-zu-sehen-af-img-82073-jpeg.jpg",
+      "bild_alt": "imago images 0801049008",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Brisantes Dokument aufgetaucht",
+      "headline": "Russland gibt wohl erstmals ein Problem zu",
+      "teasertext": "Brisantes Dokument aufgetaucht Russland gibt wohl erstmals ein Problem zu",
+      "url": "https://www.t-online.de/nachrichten/ukraine/id_101529720/ukraine-krieg-russland-raeumt-probleme-bei-rekrutierung-von-soldaten-ein.html",
+      "bild_url": "https://images.t-online.de/2026/07/UTnBRhuE-k2W/0x241:4620x2599/fit-in/1920x0/russische-soldaten-in-moskau-die-armee-des-kreml-erleidet-in-der-ukraine-massive-verluste.jpg",
+      "bild_alt": "Russische Soldaten in Moskau: Die Armee des Kreml erleidet in der Ukraine massive Verluste.",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Kolumne \"Russendisko\"",
+      "headline": "Was stimmt nicht mit Trump?",
+      "teasertext": "MEINUNG|Kolumne \"Russendisko\" Was stimmt nicht mit Trump? Eine Kolumne von Wladimir Kaminer",
+      "url": "https://www.t-online.de/nachrichten/ausland/krisen/id_101489278/russland-und-die-usa-im-ukraine-krieg-das-hat-trump-von-putin-gelernt.html",
+      "bild_url": "https://images.t-online.de/2026/11/tbwpXuquvC0Z/0x0:6500x3656/fit-in/1920x0/wladimir-putin-und-donald-trump-der-us-praesident-verhaelt-dem-russischen-praesidenten-gegenueber-geradezu-devot-meint-wladimir-kaminer.jpg",
+      "bild_alt": "Wladimir Putin und Donald Trump: Der US-Präsident verhält dem russischen Präsidenten gegenüber geradezu devot, meint Wladimir Kaminer.",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Vertrauliche Gespräche",
+      "headline": "Biden enthüllt Merkels Eindruck von Trump",
+      "teasertext": "Vertrauliche Gespräche Biden enthüllt Merkels Eindruck von Trump",
+      "url": "https://www.t-online.de/nachrichten/deutschland/id_101529490/joe-biden-verraet-das-dachte-angela-merkel-ueber-donald-trump.html",
+      "bild_url": "https://images.t-online.de/2026/10/x9YzdT2GXufu/941x239:1381x778/fit-in/1381x0/vom-winde-verweht-bei-einer-begegnung-von-donald-trump-und-angela-merkel-ging-es-2019-stuermisch-zu.jpg",
+      "bild_alt": "Vom Winde verweht: Bei einer Begegnung von Donald Trump und Angela Merkel ging es 2019 stürmisch zu.",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}
