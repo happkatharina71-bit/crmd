@@ -1,0 +1,102 @@
+{
+ "run_id": "2026-11-15-06-13",
+ "erfasst_am": "2026-11-15T06:13:24.127Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Frau am Holztisch mit Zitronen",
+   "personen": [
+    {
+     "name": "Anne Fleck",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Frau mit blonden Locken in gelber Bluse am Tisch; einzige Person, Dachzeile: Anne Fleck"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann im Anzug vor moderner Glasarchitektur; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "Hubertus Heil",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit grauem Haar im dunkelblauen Anzug mit blauer Krawatte; einzige Person, Headline: Hubertus Heil"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Trainer an der Seitenlinie zeigt und ruft; Klopp genannt, Zuordnung nicht sicher, daher kein Name; unscharfe Personen auf der Bank nicht codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit Kappe und grauem Bart in Daunenjacke ruft und zeigt; möglicherweise der genannte Klopp"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Gesundheitskarte, Münzen, Geldscheine, Tablette",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Videostandbild: Mann am Rednerpult einer Parteikonferenz",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit Brille im dunklen Anzug spricht am Pult; Headline: britischer Premier"
+    }
+   ]
+  }
+ ]
+}

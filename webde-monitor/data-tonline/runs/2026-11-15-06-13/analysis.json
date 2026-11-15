@@ -1,0 +1,128 @@
+{
+ "run_id": "2026-11-15-06-13",
+ "erfasst_am": "2026-11-15T06:13:56.722Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Unterwasserdrohne an der Meeresoberfläche",
+   "personen": []
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt eines Mannes auf Sofa in Altbauwohnung; gleiches Bild wie in Erhebung 2026-11-14-16-14, Headline neu (weiterhin Zitat)",
+   "personen": [
+    {
+     "name": "Kevin Kühnert",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "unklar",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann im dunklen Hemd sitzt auf Sofa; einzige Person, Dachzeile: Kevin Kühnert"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt eines älteren Mannes vor rot-blauem Hintergrund; nicht namentlich genannt; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Grauhaariger Mann mit Schnurrbart im dunklen Anzug; Dachzeile: fossile Giganten regieren die COP"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Männer vor SPD-Wand, einer mit Mikrofon; niemand namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann im blauen Sakko spricht ins Mikrofon; möglicherweise der genannte Ex-Minister"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann im dunkelblauen Sakko daneben, hört zu"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "ja",
+   "notiz": "Trauerfeier in Kirche, Trauergäste unscharf im Hintergrund; Zuordnung über Headline (Tanja Schweiger mit Söhnen, einzige Frau im Vordergrund); gleiche Szene wie web.de-Teaser 2 der Erhebung 2026-11-14-16-13; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "Tanja Schweiger",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Frau mit schulterlangem braunem Haar im schwarzen Mantel; Headline: Tanja Schweiger trauert"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Junge Person mit dunklen Locken und Brille in Anzug und Krawatte; Headline: mit Söhnen"
+    }
+   ]
+  }
+ ]
+}

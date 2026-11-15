@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-15-06-13",
+  "erfasst_am": "2026-11-15T06:13:56.722Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Saluschnyj über Marine-Wandel",
+      "headline": "\"Der Krieg auf hoher See wird bereits morgen beginnen\"",
+      "teasertext": "Saluschnyj über Marine-Wandel \"Der Krieg auf hoher See wird bereits morgen beginnen\"",
+      "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101529378/saluschnyj-ueber-wandel-der-krieg-auf-see-wird-bereits-morgen-beginnen-.html",
+      "bild_url": "https://images.t-online.de/2026/11/an9-0Gr2zOU8/0x0:677x381/fit-in/677x0/may-14-2024-usa-corporation-completed-assembly-of-a-full-size-uncrewed-underwater-vehicle-uuv-prototype-known-as-manta-ray-engineers-have-assembled-an-autonomous-underwater-drone-that-the-u-s-defense-advanced-research-projects-agency-darpa-plans-to-use-for-long-range-missions-in-the-ocean-pictures-show-dubbed-manta-ray-the-drone-is-modeled-after-filter-feeding-fish-of-the-same-name-with-diamond-shaped-bodies-and-wing-like-fins-the-prototype-designed-and-built-by-the-aerospace-and-defense-comp.jpg",
+      "bild_alt": "imago images 0476290321",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Kevin Kühnert",
+      "headline": "\"Die schlauen Leute in der Union wussten das\"",
+      "teasertext": "INTERVIEW|Kevin Kühnert \"Die schlauen Leute in der Union wussten das\" Ein Interview von Amy Walker",
+      "url": "https://www.t-online.de/finanzen/ratgeber/steuern-recht/id_101527086/kevin-kuehnert-warnt-die-reichen-haben-sich-ein-sonderregime-geschaffen-.html",
+      "bild_url": "https://images.t-online.de/2026/11/RPxJLl9RuFYY/0x162:5576x3136/fit-in/1920x0/image.jpg",
+      "bild_alt": "Kevin Kühnert war einst Generalsekretär der SPD: Heute setzt er sich bei Finanzwende für gerechte Steuern ein.",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Zwei fossile Giganten regieren die COP",
+      "headline": "Ein Skandal mit Ansage ",
+      "teasertext": "Zwei fossile Giganten regieren die COP Ein Skandal mit Ansage Eine Analyse von Ellen Ivits",
+      "url": "https://www.t-online.de/klima/leben-umwelt/id_101528790/cop-gastgeber-tuerkei-und-australien-fossile-giganten-regieren-klima-gipfel.html",
+      "bild_url": "https://images.t-online.de/2026/11/1VdPKYQKQMxV/412x283:1728x972/fit-in/1728x0/image.jpg",
+      "bild_alt": "imago images 0882748247",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Ex-Minister bewirbt sich",
+      "headline": "Machtkampf in der SPD",
+      "teasertext": "Ex-Minister bewirbt sich Machtkampf in der SPD",
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101529262/hubertus-heil-bewirbt-sich-auf-spd-parteivorsitz.html",
+      "bild_url": "https://images.t-online.de/2026/03/wnRe9v38fo7N/0x107:2048x1152/fit-in/1920x0/ex-minister-heil-l-tritt-spekulationen-entgegen-er-komme-als-nachfolger-von-spd-chef-lars-klingbeil-r-in-betracht.jpg",
+      "bild_alt": "Hubertus Heil: Die SPD braucht mehr Leidenschaft",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Bei Staatsakt in München",
+      "headline": "Tanja Schweiger trauert mit Söhnen um Hubert Aiwanger",
+      "teasertext": "Bei Staatsakt in München Tanja Schweiger trauert mit Söhnen um Hubert Aiwanger",
+      "url": "https://www.t-online.de/unterhaltung/stars/id_101528864/tanja-schweiger-trauert-um-hubert-aiwanger-soehne-sind-an-ihrer-seite.html",
+      "bild_url": "https://images.t-online.de/2026/11/oc1DT5WdgUbk/248x198:1455x819/fit-in/1455x0/tanja-schweiger-mit-ihrem-sohn-beide-trauern-um-hubert-aiwanger.jpg",
+      "bild_alt": "Tanja Schweiger mit ihrem Sohn: Beide trauern um Hubert Aiwanger.",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-15-06-13",
+  "erfasst_am": "2026-11-15T06:13:24.127Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "\"Es fängt schon bei der Frühstückroutine an\" – Welche Fehler einige machen",
+      "teasertext": "Interview Anne Fleck über Ernährung \"Es fängt schon bei der Frühstückroutine an\" – Welche Fehler einige machen",
+      "url": "https://web.de/magazine/gesundheit/lebensmittel-dr-anne-fleck-hause-42935600",
+      "bild_url": "https://i0.web.de/image/794/42935794%2cpd=1%2cf=responsive169-w950/dr-anne-fleck.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Interview Anne Fleck über Ernährung",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Hubertus Heil will kandidieren – wer könnte ihm gefährlich werden?",
+      "teasertext": "SPD-Vorsitz Hubertus Heil will kandidieren – wer könnte ihm gefährlich werden?",
+      "url": "https://web.de/magazine/politik/inland/hubertus-heil-kandidieren-gefaehrlich-42946574",
+      "bild_url": "https://i0.web.de/image/650/42946650%2cpd=2%2cf=responsive169-w300/hubertus-heil.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "SPD-Vorsitz",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Keine Portugal-Hilfe für Klopp – Abstieg weiter möglich",
+      "teasertext": "Rechenspiele vor Montag Keine Portugal-Hilfe für Klopp – Abstieg weiter möglich",
+      "url": "https://web.de/magazine/sport/fussball/nations-league/portugal-hilfe-klopp-abstieg-moeglich-42946732",
+      "bild_url": "https://i0.web.de/image/752/42946752%2cpd=3%2cf=responsive169-w300/serbien-deutschland.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Rechenspiele vor Montag",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Selbstzahler-Angebote in Arztpraxen: Grüne warnen vor Drei-Klassen-Versorgung",
+      "teasertext": "Video \"Paywall-Medizin\" Selbstzahler-Angebote in Arztpraxen: Grüne warnen vor Drei-Klassen-Versorgung",
+      "url": "https://web.de/magazine/gesundheit/videos/selbstzahler-angebote-gruene-warnen-paywall-medizin-42946844",
+      "bild_url": "https://i0.web.de/image/846/42946846%2cpd=5%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Video \"Paywall-Medizin\"",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Britischer Premier zieht bittere Brexit-Bilanz",
+      "teasertext": "Video Vor dem EU-Gipfel Britischer Premier zieht bittere Brexit-Bilanz",
+      "url": "https://web.de/magazine/politik/videos/britischer-premier-bittere-brexit-bilanz-42946788",
+      "bild_url": "https://i0.web.de/image/790/42946790%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Video Vor dem EU-Gipfel",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

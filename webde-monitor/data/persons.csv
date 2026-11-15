@@ -990,3 +990,7 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-14-20-12,3,2,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit weißer FFP2-Maske rechts
 2026-11-14-20-12,3,3,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit Brille und blauer Maske links, teilweise verdeckt"
 2026-11-14-20-12,4,1,,maennlich,mittel,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit kurzem dunklem Haar und Bart, von hinten, grauer Pullover, Rucksack"
+2026-11-15-06-13,1,1,Anne Fleck,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Frau mit blonden Locken in gelber Bluse am Tisch; einzige Person, Dachzeile: Anne Fleck"
+2026-11-15-06-13,2,1,Hubertus Heil,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit grauem Haar im dunkelblauen Anzug mit blauer Krawatte; einzige Person, Headline: Hubertus Heil"
+2026-11-15-06-13,3,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Mann mit Kappe und grauem Bart in Daunenjacke ruft und zeigt; möglicherweise der genannte Klopp"
+2026-11-15-06-13,5,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Mann mit Brille im dunklen Anzug spricht am Pult; Headline: britischer Premier"
