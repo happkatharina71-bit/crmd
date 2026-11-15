@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-15-09-14",
+  "erfasst_am": "2026-11-15T09:14:04.358Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Kolumne \"Russendisko\"",
+      "headline": "Was stimmt nicht mit Trump?",
+      "teasertext": "MEINUNG|Kolumne \"Russendisko\" Was stimmt nicht mit Trump? Eine Kolumne von Wladimir Kaminer",
+      "url": "https://www.t-online.de/nachrichten/ausland/krisen/id_101489278/russland-und-die-usa-im-ukraine-krieg-das-hat-trump-von-putin-gelernt.html",
+      "bild_url": "https://images.t-online.de/2026/11/tbwpXuquvC0Z/0x0:6500x3656/fit-in/1920x0/wladimir-putin-und-donald-trump-der-us-praesident-verhaelt-dem-russischen-praesidenten-gegenueber-geradezu-devot-meint-wladimir-kaminer.jpg",
+      "bild_alt": "Wladimir Putin und Donald Trump: Der US-Präsident verhält dem russischen Präsidenten gegenüber geradezu devot, meint Wladimir Kaminer.",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Kevin Kühnert",
+      "headline": "\"Die schlauen Leute in der Union wussten das\"",
+      "teasertext": "INTERVIEW|Kevin Kühnert \"Die schlauen Leute in der Union wussten das\" Ein Interview von Amy Walker",
+      "url": "https://www.t-online.de/finanzen/ratgeber/steuern-recht/id_101527086/kevin-kuehnert-warnt-die-reichen-haben-sich-ein-sonderregime-geschaffen-.html",
+      "bild_url": "https://images.t-online.de/2026/11/RPxJLl9RuFYY/0x162:5576x3136/fit-in/1920x0/image.jpg",
+      "bild_alt": "Kevin Kühnert war einst Generalsekretär der SPD: Heute setzt er sich bei Finanzwende für gerechte Steuern ein.",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "SPD und Jugendliche",
+      "headline": "\"Eine schallende Ohrfeige\"",
+      "teasertext": "SPD und Jugendliche \"Eine schallende Ohrfeige\"",
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101529382/nur-wenige-junge-vertrauen-der-spd-miersch-reagiert.html",
+      "bild_url": "https://images.t-online.de/2026/11/1TC2dVpPLHJj/29x131:1197x674/fit-in/1197x0/der-spd-fraktionsvorsitzende-matthias-miersch-gibt-ein-statement-im-bundestag-auf-der-fraktionsebene-ab-zu-dpa-miersch-spd-umfragewerte-bei-juengeren-schallende-ohrfeige.jpg",
+      "bild_alt": "Matthias Miersch",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Raumschiff kehrt zurück",
+      "headline": "SpaceX gelingt historisches Manöver",
+      "teasertext": "Raumschiff kehrt zurück SpaceX gelingt historisches Manöver",
+      "url": "https://www.t-online.de/digital/aktuelles/id_101529354/spacex-faengt-erstmals-starship-auf-startrampe-ein.html",
+      "bild_url": "https://images.t-online.de/2026/11/duiW1j6EhFIy/0x0:2048x1152/fit-in/1920x0/starship-43-kehrte-zur-startrampe-zurueck-und-wurde-erfolgreich-eingefangen.jpg",
+      "bild_alt": "\"Starship 43\" kehrte zur Startrampe zurück und wurde erfolgreich eingefangen.",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Nations League",
+      "headline": "Erstes Spiel nach Ronaldo: Portugal erlebt Debakel",
+      "teasertext": "Nations League Erstes Spiel nach Ronaldo: Portugal erlebt Debakel",
+      "url": "https://www.t-online.de/sport/fussball/nations-league/id_101529346/nations-league-erstes-spiel-nach-ronaldo-portugal-erlebt-debakel.html",
+      "bild_url": "https://images.t-online.de/2026/11/JNM5v2pMLmgI/0x181:2048x1152/fit-in/1920x0/chancenlos-portugals-torwart-diogo-costa-im-spiel-gegen-daenemark.jpg",
+      "bild_alt": "Chancenlos: Portugals Torwart Diogo Costa im Spiel gegen Dänemark.",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

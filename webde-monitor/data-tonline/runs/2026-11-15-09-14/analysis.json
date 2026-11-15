@@ -1,0 +1,141 @@
+{
+ "run_id": "2026-11-15-09-14",
+ "erfasst_am": "2026-11-15T09:14:04.358Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Händedruck zweier Männer vor blauer Wand; Trump genannt, aber nicht sicher einer Person zuordenbar, daher kein Name",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Älterer Mann mit blondem Haar und roter Krawatte rechts; möglicherweise der genannte Trump"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Älterer Mann im schwarzen Anzug links, im Profil"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt eines Mannes auf Sofa in Altbauwohnung; gleiches Bild wie in Erhebung 2026-11-14-16-14, Headline neu (weiterhin Zitat)",
+   "personen": [
+    {
+     "name": "Kevin Kühnert",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "unklar",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann im dunklen Hemd sitzt auf Sofa; einzige Person, Dachzeile: Kevin Kühnert"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann spricht vor SPD-Wand; nicht namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit runder Brille spricht; Dachzeile: SPD, Headline-Zitat vermutlich von ihm"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Rakete am Startturm",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 3,
+   "menschenmenge": "nein",
+   "notiz": "Torwart im Sprung vor dem Netz, zwei Kinder hinter dem Tor; genannter Ronaldo nicht im Bild",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Torwart im türkisen Trikot mit Portugal-Wappen streckt sich vergeblich; Headline: Portugal erlebt Debakel"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Kind in dunkler Jacke hinter dem Netz, links"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Kind in dunkler Jacke hinter dem Netz, rechts daneben"
+    }
+   ]
+  }
+ ]
+}

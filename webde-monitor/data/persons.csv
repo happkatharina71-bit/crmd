@@ -994,3 +994,6 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-15-06-13,2,1,Hubertus Heil,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit grauem Haar im dunkelblauen Anzug mit blauer Krawatte; einzige Person, Headline: Hubertus Heil"
 2026-11-15-06-13,3,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Mann mit Kappe und grauem Bart in Daunenjacke ruft und zeigt; möglicherweise der genannte Klopp"
 2026-11-15-06-13,5,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Mann mit Brille im dunklen Anzug spricht am Pult; Headline: britischer Premier"
+2026-11-15-09-13,1,1,Anne Fleck,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Frau mit blonden Locken in gelber Bluse am Tisch; einzige Person, Dachzeile: Anne Fleck"
+2026-11-15-09-13,3,1,Christian Streich,maennlich,alt,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Grauhaariger Mann im dunklen Pullover spricht mit Headset; einzige Person, Headline: Christian Streich"
+2026-11-15-09-13,4,1,Sabalenka,weiblich,jung,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Sportlerin im lila Tenniskleid mit Schläger, empört gestikulierend; einzige Person, Headline: Tennisstar Sabalenka"

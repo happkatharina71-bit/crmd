@@ -1,0 +1,88 @@
+{
+ "run_id": "2026-11-15-09-13",
+ "erfasst_am": "2026-11-15T09:13:31.824Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Frau am Holztisch mit Zitronen; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "Anne Fleck",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Frau mit blonden Locken in gelber Bluse am Tisch; einzige Person, Dachzeile: Anne Fleck"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Gesundheitskarte, Münzen, Geldscheine, Tablette; gleiches Bild wie in der vorigen Erhebung",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann mit Headset-Mikrofon auf Bühne",
+   "personen": [
+    {
+     "name": "Christian Streich",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Grauhaariger Mann im dunklen Pullover spricht mit Headset; einzige Person, Headline: Christian Streich"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Tennisspielerin gestikuliert auf dem Platz",
+   "personen": [
+    {
+     "name": "Sabalenka",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Sportlerin im lila Tenniskleid mit Schläger, empört gestikulierend; einzige Person, Headline: Tennisstar Sabalenka"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Auto in zerstörtem Schaufenster, Polizeiabsperrband",
+   "personen": []
+  }
+ ]
+}
