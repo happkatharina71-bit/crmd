@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-15-12-13",
+  "erfasst_am": "2026-11-15T12:13:48.474Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Abschiebepolitik",
+      "headline": "Dieser neue Schlachtruf wird auch der AfD gefährlich",
+      "teasertext": "Abschiebepolitik Dieser neue Schlachtruf wird auch der AfD gefährlich Von Annika Leister",
+      "url": "https://www.t-online.de/nachrichten/deutschland/parteien/id_101527804/-millionenfache-remigration-die-afd-begibt-sich-auf-gefaehrliches-terrain.html",
+      "bild_url": "https://images.t-online.de/2026/11/OCzLrfPiQ54F/0x144:2772x1559/fit-in/1920x0/alice-weidel-bundesvorsitzende-afd-waehrend-der-bundespressekonferenz-bundespressekonferenz-in-berlin-wahlnachlese-nach-den-landtagswahlen-in-mecklenburg-vorpommern-und-berlin-berlin-berlin-deutschland-haus-der-bundespressekonferenz-alice-weidel-federal-chairwoman-of-the-afd-during-the-federal-press-conference-in-berlin-a-post-election-analysis-following-the-state-elections-in-mecklenburg-western-pomerania-and-berlin-berlin-germany-house-of-the-federal-press-conference.jpg",
+      "bild_alt": "imago images 0867493771",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Kolumne \"Russendisko\"",
+      "headline": "Was stimmt nicht mit Trump?",
+      "teasertext": "MEINUNG|Kolumne \"Russendisko\" Was stimmt nicht mit Trump? Eine Kolumne von Wladimir Kaminer",
+      "url": "https://www.t-online.de/nachrichten/ausland/krisen/id_101489278/russland-und-die-usa-im-ukraine-krieg-das-hat-trump-von-putin-gelernt.html",
+      "bild_url": "https://images.t-online.de/2026/11/tbwpXuquvC0Z/0x0:6500x3656/fit-in/1920x0/wladimir-putin-und-donald-trump-der-us-praesident-verhaelt-dem-russischen-praesidenten-gegenueber-geradezu-devot-meint-wladimir-kaminer.jpg",
+      "bild_alt": "Wladimir Putin und Donald Trump: Der US-Präsident verhält dem russischen Präsidenten gegenüber geradezu devot, meint Wladimir Kaminer.",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Vertrauliche Gespräche",
+      "headline": "Biden enthüllt Merkels Eindruck von Trump",
+      "teasertext": "Vertrauliche Gespräche Biden enthüllt Merkels Eindruck von Trump",
+      "url": "https://www.t-online.de/nachrichten/deutschland/id_101529490/joe-biden-verraet-das-dachte-angela-merkel-ueber-donald-trump.html",
+      "bild_url": "https://images.t-online.de/2026/10/x9YzdT2GXufu/559x86:1851x1042/fit-in/1851x0/vom-winde-verweht-bei-einer-begegnung-von-donald-trump-und-angela-merkel-ging-es-2019-stuermisch-zu.jpg",
+      "bild_alt": "Vom Winde verweht: Bei einer Begegnung von Donald Trump und Angela Merkel ging es 2019 stürmisch zu.",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Ukraine greift Industrieanlagen an",
+      "headline": "Großbrand in Russland",
+      "teasertext": "Video Ukraine greift Industrieanlagen an Großbrand in Russland",
+      "url": "https://www.t-online.de/video/nachrichten/politik/id_101529564/ukraine-krieg-grossbrand-in-russlands-industriestadt.html",
+      "bild_url": "https://images.t-online.de/2026/11/woW6fn7E5Z8e/8x37:1504x846/fit-in/1504x0/image.png",
+      "bild_alt": null,
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Schon 100 Jahre alt",
+      "headline": "Diese Uralt-Methode hilft beim Sparen",
+      "teasertext": "Schon 100 Jahre alt Diese Uralt-Methode hilft beim Sparen",
+      "url": "https://www.t-online.de/finanzen/ratgeber/banking/id_100178336/geld-einfach-sparen-diese-uralt-methode-hilft-ihnen-dabei.html",
+      "bild_url": "https://images.t-online.de/2023/05/iaDpmCbZu0xY/0x156:3000x1688/fit-in/1920x0/mehrere-geldscheine-liegen-aufeinander-eine-einfache-und-alte-methode-hilft-effektiv-beim-sparen.jpg",
+      "bild_alt": "Mehrere Geldscheine liegen aufeinander: Eine einfache und alte Methode hilft effektiv beim Sparen.",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

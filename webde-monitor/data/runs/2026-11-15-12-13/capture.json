@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-15-12-13",
+  "erfasst_am": "2026-11-15T12:13:16.297Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "In weitgehend geheimen Labors entwickelt Deutschland eine Hyperschallwaffe",
+      "teasertext": "Soll Abschreckung stärken In weitgehend geheimen Labors entwickelt Deutschland eine Hyperschallwaffe",
+      "url": "https://web.de/magazine/politik/inland/weitgehend-geheimen-labors-entwickelt-deutschland-hyperschallwaffe-42947048",
+      "bild_url": "https://i0.web.de/image/050/42947050%2cpd=4%2cf=responsive169-w950/hyperschallgleitvehikel-weitreichende-praezisionsa.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Soll Abschreckung stärken",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "\"Es fängt schon bei der Frühstückroutine an\" – Welche Fehler einige machen",
+      "teasertext": "Interview Anne Fleck über Ernährung \"Es fängt schon bei der Frühstückroutine an\" – Welche Fehler einige machen",
+      "url": "https://web.de/magazine/gesundheit/lebensmittel-dr-anne-fleck-hause-42935600",
+      "bild_url": "https://i0.web.de/image/794/42935794%2cpd=1%2cf=responsive169-w300/dr-anne-fleck.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Interview Anne Fleck über Ernährung",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Klopp wie einst Kaiser Franz und Klinsi",
+      "teasertext": "Kolumne Reformen beim DFB Klopp wie einst Kaiser Franz und Klinsi",
+      "url": "https://web.de/magazine/sport/fussball/nationalmannschaft/klopp-kaiser-franz-klinsi-42947406",
+      "bild_url": "https://i0.web.de/image/422/42947422%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Kolumne Reformen beim DFB",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Mario Basler rettet bewusstlosem Autofahrer das Leben",
+      "teasertext": "Auf der A63 Mario Basler rettet bewusstlosem Autofahrer das Leben",
+      "url": "https://web.de/magazine/unterhaltung/stars/mario-basler-rettet-bewusstlosem-autofahrer-autobahn-leben-42947654",
+      "bild_url": "https://i0.web.de/image/682/42947682%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Auf der A63",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Einbrecher rammen Goldgeschäft mit Auto – Großfahndung läuft",
+      "teasertext": "Bayreuth Einbrecher rammen Goldgeschäft mit Auto – Großfahndung läuft",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/einbrecher-rammen-goldgeschaeft-auto-grossfahndung-laeuft-42947286",
+      "bild_url": "https://i0.web.de/image/624/42947624%2cpd=1%2cf=responsive169-w300/einbrecher-rammen-goldgeschaeft-auto.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Bayreuth",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

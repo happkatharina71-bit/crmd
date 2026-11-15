@@ -997,3 +997,6 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-15-09-13,1,1,Anne Fleck,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Frau mit blonden Locken in gelber Bluse am Tisch; einzige Person, Dachzeile: Anne Fleck"
 2026-11-15-09-13,3,1,Christian Streich,maennlich,alt,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Grauhaariger Mann im dunklen Pullover spricht mit Headset; einzige Person, Headline: Christian Streich"
 2026-11-15-09-13,4,1,Sabalenka,weiblich,jung,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Sportlerin im lila Tenniskleid mit Schläger, empört gestikulierend; einzige Person, Headline: Tennisstar Sabalenka"
+2026-11-15-12-13,2,1,Anne Fleck,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Frau mit blonden Locken in gelber Bluse am Tisch; einzige Person, Dachzeile: Anne Fleck"
+2026-11-15-12-13,3,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Mann mit grauem Bart, schwarzer Kappe und Regenjacke lacht; möglicherweise der genannte Klopp"
+2026-11-15-12-13,4,1,Mario Basler,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann mit Glatze im grünen Sakko; einzige Person, Headline: Mario Basler"
