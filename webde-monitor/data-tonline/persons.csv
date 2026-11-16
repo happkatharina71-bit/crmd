@@ -79,3 +79,6 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-16-09-17,5,1,,maennlich,alt,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Älterer Mann mit hellem Haar in beiger Jacke breitet Arme aus
 2026-11-16-09-17,5,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Mann mit Brille und Bart im Anzug beugt sich mit ausgestreckten Armen
 2026-11-16-09-17,5,3,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Tänzerin in grün-weißer Garde-Uniform im Hintergrund; Stellvertreterin für die Gruppe"
+2026-11-16-12-19,3,1,Schmidt,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Mann mit Bart im beigen Sakko vor Reichstag; einzige Person, Dachzeile: Hauptstadtchef Schmidt"
+2026-11-16-12-19,4,1,Trump,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,mittel,"Älterer Mann mit blondem Haar, roter Krawatte unter Schirm; einzige Person, Headline: Trump"
+2026-11-16-12-19,5,1,,maennlich,alt,weiss,hauptperson,indirekt,passiv,reich_maechtig,ja,mittel,"Grauhaariger Mann mit Brille ruft laut; Headline: dieser Mann"

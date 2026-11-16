@@ -1,0 +1,88 @@
+{
+ "run_id": "2026-11-16-12-19",
+ "erfasst_am": "2026-11-16T12:19:16.142Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "grafik_text",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Wetterkarte mit Niederschlagswerten",
+   "personen": []
+  },
+  {
+   "position": 2,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Flugzeugträger mit Kampfjets, Luftaufnahme; winzige Personen an Deck nicht codierbar",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Videostandbild: Mann vor Reichstagsgebäude; genannter Heil nicht im Bild",
+   "personen": [
+    {
+     "name": "Schmidt",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit Bart im beigen Sakko vor Reichstag; einzige Person, Dachzeile: Hauptstadtchef Schmidt"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt eines Mannes unter Regenschirm",
+   "personen": [
+    {
+     "name": "Trump",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Älterer Mann mit blondem Haar, roter Krawatte unter Schirm; einzige Person, Headline: Trump"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann ruft mit erhobener Hand, dunkler Hintergrund; unscharfe Personen am Rand nicht codiert; nicht namentlich genannt; gleiches Bild wie Teaser 1 der Erhebung 2026-11-15-20-13",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Grauhaariger Mann mit Brille ruft laut; Headline: dieser Mann"
+    }
+   ]
+  }
+ ]
+}

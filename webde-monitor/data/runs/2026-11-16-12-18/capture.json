@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-16-12-18",
+  "erfasst_am": "2026-11-16T12:18:41.599Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Wer führt die SPD ab Januar? Diese Namen fallen in der Partei",
+      "teasertext": "Machtkampf ist eröffnet Wer führt die SPD ab Januar? Diese Namen fallen in der Partei",
+      "url": "https://web.de/magazine/politik/inland/fuehrt-spd-januar-namen-fallen-partei-42947088",
+      "bild_url": "https://i0.web.de/image/954/42949954%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Machtkampf ist eröffnet",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Andy Burnham erklärt Johnsons Brexit für gescheitert",
+      "teasertext": "Britischer Premier Andy Burnham erklärt Johnsons Brexit für gescheitert",
+      "url": "https://web.de/magazine/politik/grossbritannien-brexit/andy-burnham-erklaert-johnsons-brexit-gescheitert-42949714",
+      "bild_url": "https://i0.web.de/image/716/42949716%2cpd=8%2cf=responsive169-w300/andy-burnham.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Britischer Premier",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Deutschland steht vor einem Wetter-Spagat",
+      "teasertext": "Prognose des DWD Deutschland steht vor einem Wetter-Spagat",
+      "url": "https://web.de/magazine/panorama/wetter/deutschland-wetter-spagat-42947720",
+      "bild_url": "https://i0.web.de/image/696/42949696%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Prognose des DWD",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "\"Das ist nicht mehr der Münster-'Tatort', den ich so mochte\"",
+      "teasertext": "Leserstimmen Neuer Fall \"Narrentanz\" \"Das ist nicht mehr der Münster-'Tatort', den ich so mochte\"",
+      "url": "https://web.de/magazine/unterhaltung/filme-serien-kino/tatort/muenster-tatort-42949814",
+      "bild_url": "https://i0.web.de/image/882/42949882%2cpd=7%2cf=responsive169-w300/jan-josef-liefers-axel-prahl-christine-urspruch.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Leserstimmen Neuer Fall \"Narrentanz\"",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Hunziker über Geständnis ihrer Tochter: \"Mutterherz gebrochen\"",
+      "teasertext": "Aurora spricht über Bulimie Hunziker über Geständnis ihrer Tochter: \"Mutterherz gebrochen\"",
+      "url": "https://web.de/magazine/unterhaltung/stars/aurora-ramazzottis-bulimie-gestaendnis-trifft-michelle-hunziker-42950016",
+      "bild_url": "https://i0.web.de/image/284/42950284%2cpd=5%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Aurora spricht über Bulimie",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

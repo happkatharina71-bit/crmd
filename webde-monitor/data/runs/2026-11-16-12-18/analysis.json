@@ -1,0 +1,154 @@
+{
+ "run_id": "2026-11-16-12-18",
+ "erfasst_am": "2026-11-16T12:18:41.599Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Männer vor SPD-Wand, einer mit Mikrofon; niemand namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann im blauen Sakko spricht ins Mikrofon; Headline: wer führt die SPD, Namen fallen"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann im dunkelblauen Sakko daneben, hört zu"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann mit Brille vor britischer Flagge",
+   "personen": [
+    {
+     "name": "Andy Burnham",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit Brille im dunklen Anzug, ernster Blick; einzige Person, Headline: Andy Burnham"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Herbstlicher Weg mit Laub unter dunklen Wolken",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 3,
+   "menschenmenge": "nein",
+   "notiz": "Filmszene: Frau im Vordergrund, zwei Männer unscharf dahinter; niemand namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Ältere Frau mit hellem Haar in gelber Lederjacke, hält Fläschchen"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit Brille im schwarzen Pullover, unscharf"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit hellem Haar in Jacke und Totenkopf-Shirt, unscharf"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Frauen posieren auf Bühne; Hunziker und Tochter Aurora genannt, Zuordnung nicht sicher, daher keine Namen",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Frau mit hochgestecktem blondem Haar im Glitzerkleid links; möglicherweise die genannte Hunziker"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Junge Frau mit dunklem Zopf im dunklen Kleid rechts; möglicherweise die genannte Tochter"
+    }
+   ]
+  }
+ ]
+}
