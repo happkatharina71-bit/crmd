@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-16-09-16",
+  "erfasst_am": "2026-11-16T09:16:49.535Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "USA verstärken Militärpräsenz im Nahen Osten",
+      "teasertext": "Dritter Flugzeugträger USA verstärken Militärpräsenz im Nahen Osten",
+      "url": "https://web.de/magazine/politik/nahostkonflikt/usa-verstaerken-militaerpraesenz-nahen-osten-42948824",
+      "bild_url": "https://i0.web.de/image/232/42949232%2cpd=2%2cf=responsive169-w950/uss-theodore-roosevelt.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Dritter Flugzeugträger",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Was will Heil – und wer könnte noch als Parteivorsitz antreten?",
+      "teasertext": "SPD-Machtkampf ist eröffnet Was will Heil – und wer könnte noch als Parteivorsitz antreten?",
+      "url": "https://web.de/magazine/politik/inland/heil-parteivorsitz-antreten-42947088",
+      "bild_url": "https://i0.web.de/image/704/42949704%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "SPD-Machtkampf ist eröffnet",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Sparen wird für viele zum Problem",
+      "teasertext": "Umfrage zeigt Sparen wird für viele zum Problem",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/sparen-problem-42949174",
+      "bild_url": "https://i0.web.de/image/176/42949176%2cpd=1%2cf=responsive169-w300/sparen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Umfrage zeigt",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Bayern-Star Davies offenbart: \"Ich bin in der Umkleide ausgetickt\"",
+      "teasertext": "Nach erneuter Verletzung Bayern-Star Davies offenbart: \"Ich bin in der Umkleide ausgetickt\"",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/fc-bayern/bayern-star-davies-offenbart-umkleide-ausgetickt-42949436",
+      "bild_url": "https://i0.web.de/image/438/42949438%2cpd=2%2cf=responsive169-w300/alphonso-davies.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Nach erneuter Verletzung",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Aiwangers Lebensgefährtin lädt zu seiner Beisetzung ein",
+      "teasertext": "Post von Tanja Schweiger Aiwangers Lebensgefährtin lädt zu seiner Beisetzung ein",
+      "url": "https://web.de/magazine/politik/inland/aiwangers-lebensgefaehrtin-laedt-beisetzung-42949254",
+      "bild_url": "https://i0.web.de/image/256/42949256%2cpd=5%2cf=responsive169-w300/tanja-schweiger.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Post von Tanja Schweiger",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

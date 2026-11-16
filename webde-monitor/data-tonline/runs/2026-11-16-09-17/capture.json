@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-16-09-17",
+  "erfasst_am": "2026-11-16T09:17:15.930Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 9,
+  "anzeigen_uebersprungen": 1,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Kritische Mineralien",
+      "headline": "Wer greift sich das Lithium-Dreieck?",
+      "teasertext": "Kritische Mineralien Wer greift sich das Lithium-Dreieck? Eine Analyse von Marc Pfitzenmaier",
+      "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101528020/rohstoffe-in-lateinamerika-washington-geht-da-beinhart-vor-.html",
+      "bild_url": "https://images.t-online.de/2026/11/M0h-JZ1WvV3q/0x244:6000x3375/fit-in/1920x0/image.jpg",
+      "bild_alt": "imago images 0863595134",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "\"Alles muss sich ändern\"",
+      "headline": "Europa zittert vor diesem Mann",
+      "teasertext": "\"Alles muss sich ändern\" Europa zittert vor diesem Mann Eine Analyse von Peter Riesbeck",
+      "url": "https://www.t-online.de/nachrichten/ausland/eu/id_101521520/frankreich-praesidentschafts-kandidat-melenchon-will-raus-aus-der-nato.html",
+      "bild_url": "https://images.t-online.de/2026/05/bWJVLgrp8K29/43x89:1715x965/fit-in/1715x0/jean-luc-melenchon-heizt-der-franzoesischen-linken-ein.jpg",
+      "bild_alt": "Jean-Luc Mélenchon macht in Frankreich Druck von links. (Archivbild)",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Klopp wettert gegen Infantino",
+      "headline": "\"Nicht gedacht, dass es schlimmer kommen könnte\"",
+      "teasertext": "Klopp wettert gegen Infantino \"Nicht gedacht, dass es schlimmer kommen könnte\" Von William Laing",
+      "url": "https://www.t-online.de/sport/fussball/nationalmannschaft-deutschland/id_101529964/juergen-klopp-bundestrainer-attackiert-fifa-boss-infantino.html",
+      "bild_url": "https://images.t-online.de/2026/11/4v8t8RaBZFm0/325x250:3171x1784/fit-in/1920x0/juergen-klopp-deutschland-chef-trainer-16-112026-deutschland-vs-niederlande-fussball-nations-league-olympiastadion-berlin-dfl-regulations-prohibit-any-use-of-photographs-as-image-sequences-and-or-quasi-video-juergen-klopp-germany-head-coach-november-16-2026-germany-vs-the-netherlands-soccer-nations-league-olympic-stadium-berlin-dfl-regulations-prohibit-any-use-of-photographs-as-image-sequences-and-or-quasi-video-copyright-hmbxmedia-xfinnxweidmann.jpg",
+      "bild_alt": "imago images 1085982256",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Spektakuläre Aufnahmen",
+      "headline": "Ort wegen Monsterwellen evakuiert",
+      "teasertext": "Video Spektakuläre Aufnahmen Ort wegen Monsterwellen evakuiert",
+      "url": "https://www.t-online.de/video/nachrichten/panorama/id_101529916/kalifornien-hohe-wellen-treffen-auf-kueste-straende-gesperrt.html",
+      "bild_url": "https://images.t-online.de/2026/11/2sXXWPZl4XId/0x0:1920x1080/fit-in/1920x0/image.jpg",
+      "bild_alt": null,
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 6,
+      "anzeige": false,
+      "dachzeile": "TV-Zeugnis",
+      "headline": "Wie fanden Sie den \"Tatort: Narrentanz\"?",
+      "teasertext": "DEBATTE|TV-Zeugnis Wie fanden Sie den \"Tatort: Narrentanz\"?",
+      "url": "https://debatte.t-online.de/debatte/unterhaltung/id_101527468/ard-krimi-wie-fanden-sie-den-tatort-narrentanz-mit-thiel-und-boerne-.html",
+      "bild_url": "https://images.t-online.de/2026/10/VuJb1SBPx08z/36x0:1975x1111/fit-in/1920x0/kriminalhauptkommissar-frank-thiel-rechts-axel-prahl-und-rechtsmediziner-professor-karl-friedrich-boerne-jan-josef-liefers-werden-im-tatort-narrentanz-15-11-im-ersten-in-die-welt-des-westfaelischen-karnevals-katapultiert-wdr-handout.jpg",
+      "bild_alt": "\"Tatort: Narrentanz\" mit Jan Josef Liefers und Axel Prahl",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

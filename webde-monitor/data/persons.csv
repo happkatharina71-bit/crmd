@@ -1019,3 +1019,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-16-06-14,4,1,Kretschmann,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,mittel,"Weißhaariger Mann mit Brille im grauen Sakko gestikuliert im Gespräch; Headline: Kretschmann"
 2026-11-16-06-14,4,2,Caren Miosga,weiblich,nicht_erkennbar,weiss,nebenperson,namentlich,nicht_thematisiert,neutral,nein,niedrig,"Person mit blonden Locken in hellblauer Bluse von hinten; Headline: bei Caren Miosga (Gastgeberin)"
 2026-11-16-06-14,5,1,Kebekus,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Frau mit zurückgebundenem dunklem Haar im pinken Kleid am Buzzerpult; einzige Person, Headline: Kebekus"
+2026-11-16-09-16,2,1,Heil,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann im blauen Sakko zeigt beim Reden am Pult; einzige Person, Headline: Heil"
+2026-11-16-09-16,4,1,Davies,maennlich,jung,poc,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Junger Mann mit Bart im roten Hoodie, nachdenklicher Blick; einzige Person, Headline: Bayern-Star Davies"
+2026-11-16-09-16,5,1,,weiblich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Frau mit braunem Haar in der Bildmitte, ernster Blick; möglicherweise die genannte Lebensgefährtin"
+2026-11-16-09-16,5,2,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Frau mit dunklem Haar links, angeschnitten"
+2026-11-16-09-16,5,3,,nicht_erkennbar,jung,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person mit dunklen Locken rechts, unscharf und abgewandt"

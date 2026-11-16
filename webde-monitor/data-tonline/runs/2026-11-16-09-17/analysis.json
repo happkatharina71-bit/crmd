@@ -1,0 +1,128 @@
+{
+ "run_id": "2026-11-16-09-17",
+ "erfasst_am": "2026-11-16T09:17:15.930Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Bergarbeiter mit Helm und Lore in Mine",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "arm_benachteiligt",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Junger Mann mit Grubenhelm, verschmutzter Kleidung und Handschuhen schiebt Erzlore"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann ruft mit erhobener Hand, dunkler Hintergrund; unscharfe Personen am Rand nicht codiert; nicht namentlich genannt; gleiches Bild wie Teaser 1 der Erhebung 2026-11-15-20-13",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Grauhaariger Mann mit Brille ruft laut; Headline: dieser Mann"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann mit Kappe bei Pressekonferenz vor Sponsorenwand",
+   "personen": [
+    {
+     "name": "Klopp",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit grauem Bart und Kappe spricht; einzige Person, Dachzeile: Klopp wettert (genannter Infantino nicht im Bild)"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Monsterwelle schlägt über Uferpromenade; viele kleine Schaulustige, nicht einzeln codierbar",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 3,
+   "menschenmenge": "ja",
+   "notiz": "Inszeniertes Pressefoto: zwei Männer posieren vor Gruppe von Tänzerinnen in Garde-Uniform; Tänzerinnen mit einer Stellvertreterin codiert; gleiches Bild wie web.de-Teaser 5 der Erhebung 2026-11-15-16-13",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Älterer Mann mit hellem Haar in beiger Jacke breitet Arme aus"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit Brille und Bart im Anzug beugt sich mit ausgestreckten Armen"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Tänzerin in grün-weißer Garde-Uniform im Hintergrund; Stellvertreterin für die Gruppe"
+    }
+   ]
+  }
+ ]
+}
