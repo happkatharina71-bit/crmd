@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-16-16-18",
+  "erfasst_am": "2026-11-16T16:18:00.096Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Wahl zum Fifa-Präsidenten",
+      "headline": "Uefa schickt Kandidaten gegen Infantino ins Rennen",
+      "teasertext": "Wahl zum Fifa-Präsidenten Uefa schickt Kandidaten gegen Infantino ins Rennen",
+      "url": "https://www.t-online.de/sport/fussball/international/id_101531512/philippe-diallo-uefa-schickt-gegenkandidaten-fuer-infantino-ins-rennen.html",
+      "bild_url": "https://images.t-online.de/2026/11/ZhewgR-DB55f/336x115:2191x1232/fit-in/1920x0/gegner-bei-der-wahl-zum-fifa-praesidenten-im-maerz-amtsinhaber-infantino-li-und-uefa-kandidat-diallo.jpg",
+      "bild_alt": "Gegner bei der Wahl zum Fifa-Präsidenten im März: Amtsinhaber Infantino (li.) und Uefa-Kandidat Diallo.",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Mit vier EU-Partnern",
+      "headline": "Deutschland plant Abschiebezentrum in Ruanda",
+      "teasertext": "Mit vier EU-Partnern Deutschland plant Abschiebezentrum in Ruanda",
+      "url": "https://www.t-online.de/nachrichten/ausland/eu/id_101531488/ruanda-deutschland-und-vier-eu-partner-wollen-abschiebezentrum-einrichten.html",
+      "bild_url": "https://images.t-online.de/2026/11/o6kiyVuazeKi/51x352:1769x995/fit-in/1769x0/migrationsgipfel-in-wien-fuenf-eu-staaten-beabsichtigen-kuenftig-nach-ruanda-abzuschieben.jpg",
+      "bild_alt": "urn:newsml:dpa.com:20090101:261116-99-296280",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Dauerregen, Gewitter, Orkanböen",
+      "headline": "Wetterdienst ruft Warnstufe Rot aus – mit Fokus im Süden",
+      "teasertext": "Dauerregen, Gewitter, Orkanböen Wetterdienst ruft Warnstufe Rot aus – mit Fokus im Süden",
+      "url": "https://www.t-online.de/nachrichten/panorama/wetter/id_101530276/unwetter-in-deutschland-dwd-warnt-vor-dauerregen-und-orkanboeen.html",
+      "bild_url": "https://images.t-online.de/2026/11/tYu6cqEbgC1s/0x101:959x539/fit-in/959x0/niederschlagssummen-laut-dem-icon-wettermodell-besonders-im-suedwesten-wird-es-nass.png",
+      "bild_alt": "Niederschlagssummen laut dem Icon-Wettermodell: Besonders im Südwesten wird es nass.",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Debatte um \"Tatort\"",
+      "headline": "Vielleicht bedarf es einer Münster-Reform",
+      "teasertext": "PRO & KONTRA|Debatte um \"Tatort\" Vielleicht bedarf es einer Münster-Reform Von Christoph Schwennicke , Janna Halbroth",
+      "url": "https://www.t-online.de/unterhaltung/tv/id_101530566/kritik-an-narrentanz-sollte-die-ard-den-muenster-tatort-abschaffen-.html",
+      "bild_url": "https://images.t-online.de/2026/11/oXJ6JdhJ4mqd/623x294:2394x1347/fit-in/1920x0/das-team-aus-muenster-der-pathologe-professor-karl-friedrich-boerne-jan-josef-liefers-l-und-hauptkommissar-frank-thiel-axel-prahl-ermitteln-zusammen-im-tatort.jpg",
+      "bild_alt": "Das Team aus Münster: Der Pathologe Professor Karl-Friedrich Boerne (Jan Josef Liefers, l) und Hauptkommissar Frank Thiel (Axel Prahl) ermitteln zusammen im \"Tatort\".",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Stromsteuerdebakel droht",
+      "headline": "Dieser Trick kann die Regierung jetzt retten",
+      "teasertext": "Stromsteuerdebakel droht Dieser Trick kann die Regierung jetzt retten Von Amy Walker",
+      "url": "https://www.t-online.de/finanzen/energie/id_101530964/senkung-der-stromsteuer-geld-ist-da-merz-kann-versprechen-einloesen.html",
+      "bild_url": "https://images.t-online.de/2026/11/RJU-NrJDOVm7/0x66:2048x1152/fit-in/1920x0/merz-und-soeder-sehen-keinen-anlass-fuer-eine-nachverhandlung-des-koalitionsvertrages-mit-der-spd.jpg",
+      "bild_alt": "Friedrich Merz und Markus Söder",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-16-16-17",
+  "erfasst_am": "2026-11-16T16:17:26.259Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Nachfolger von Daniel Craig als James Bond steht fest",
+      "teasertext": "Produktionsstudio bestätigt Nachfolger von Daniel Craig als James Bond steht fest",
+      "url": "https://web.de/magazine/unterhaltung/filme-serien-kino/james-bond/nachfolger-daniel-craig-james-bond-fest-42951466",
+      "bild_url": "https://i0.web.de/image/694/42951694%2cpd=3%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Produktionsstudio bestätigt",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Fünf EU-Staaten planen gemeinsames Abschiebezentrum",
+      "teasertext": "In Ruanda Fünf EU-Staaten planen gemeinsames Abschiebezentrum",
+      "url": "https://web.de/magazine/politik/inland/fuenf-eu-staaten-planen-gemeinsames-abschiebezentrum-ruanda-42950290",
+      "bild_url": "https://i0.web.de/image/562/42951562%2cpd=3%2cf=responsive169-w300/oesterreichische-migrationskonferenz.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "In Ruanda",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "UEFA stellt Überraschungskandidaten als Infantino-Gegner auf",
+      "teasertext": "FIFA-Präsidentschaftswahl UEFA stellt Überraschungskandidaten als Infantino-Gegner auf",
+      "url": "https://web.de/magazine/sport/fussball/international/uefa-stellt-ueberraschungskandidaten-infantino-gegner-42950778",
+      "bild_url": "https://i0.web.de/image/814/42950814%2cpd=7%2cf=responsive169-w300/philippe-diallo.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "FIFA-Präsidentschaftswahl",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Wegen Grenzschließungen: Moskau schickt Warnung an Estland",
+      "teasertext": "Russische Sabotage Wegen Grenzschließungen: Moskau schickt Warnung an Estland",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/grenzschliessungen-moskau-schickt-warnung-estland-42950444",
+      "bild_url": "https://i0.web.de/image/542/42950542%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Russische Sabotage",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Nur 120 Sekunden bis zum Aufprall – wie die Tanker-Crew Schlimmeres verhinderte",
+      "teasertext": "Havarie in New Orleans Nur 120 Sekunden bis zum Aufprall – wie die Tanker-Crew Schlimmeres verhinderte",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/havarie-new-orleans-tanker-crew-schlimmeres-verhinderte-42949010",
+      "bild_url": "https://i0.web.de/image/014/42949014%2cpd=2%2cf=responsive169-w300/zusammenstoss-zweier-schiffe.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Havarie in New Orleans",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

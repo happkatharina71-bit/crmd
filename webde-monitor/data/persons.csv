@@ -1032,3 +1032,13 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-16-12-18,4,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit hellem Haar in Jacke und Totenkopf-Shirt, unscharf"
 2026-11-16-12-18,5,1,,weiblich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Frau mit hochgestecktem blondem Haar im Glitzerkleid links; möglicherweise die genannte Hunziker"
 2026-11-16-12-18,5,2,,weiblich,jung,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Junge Frau mit dunklem Zopf im dunklen Kleid rechts; möglicherweise die genannte Tochter"
+2026-11-16-16-17,1,1,Daniel Craig,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Mann im Smoking mit Fliege zielt mit Pistole; Headline: Nachfolger von Daniel Craig"
+2026-11-16-16-17,2,1,,maennlich,alt,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Mann mit Glatze im dunklen Anzug spricht in der Mitte
+2026-11-16-16-17,2,2,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Frau mit zurückgebundenem Haar im rosa Blazer
+2026-11-16-16-17,2,3,,maennlich,mittel,poc,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Mann mit Brille und Kopfhörer im dunklen Anzug, Blick nach unten"
+2026-11-16-16-17,2,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Mann mit dunklem Haar im Anzug mit blauer Krawatte
+2026-11-16-16-17,2,5,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Mann mit Brille im grauen Anzug rechts, liest"
+2026-11-16-16-17,3,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,reich_maechtig,ja,niedrig,"Mann mit Glatze im dunkelblauen Anzug mit FIFA-Abzeichen links; einer der beiden Genannten"
+2026-11-16-16-17,3,2,,maennlich,mittel,poc,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Mann mit Glatze und Brille im Zweireiher rechts; einer der beiden Genannten"
+2026-11-16-16-17,3,3,,maennlich,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann im Hintergrund zwischen beiden, teilweise verdeckt"
+2026-11-16-16-17,4,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Grauhaariger Mann mit Schnurrbart im dunklen Anzug; Headline: Moskau schickt Warnung"
