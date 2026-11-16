@@ -1014,3 +1014,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-15-20-13,3,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Mann mit Bart im Anzug spricht in Mikrofone vor EU-Flaggen; vermutlich Vertreter des genannten Estland"
 2026-11-15-20-13,4,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Junger Mann im weißen Hemd steht hinter Sarg; Headline: Bestatter"
 2026-11-15-20-13,4,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit langen Haaren in Lederjacke fotografiert mit Smartphone, Vordergrund"
+2026-11-16-06-14,2,1,Huang,maennlich,alt,poc,hauptperson,namentlich,passiv,reich_maechtig,ja,hoch,"Grauhaariger Mann mit Brille in Lederjacke hält Chip hoch; einzige Person, Headline: Huang"
+2026-11-16-06-14,3,1,Klopp,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Mann mit grauem Bart und Kappe spricht am Mikrofon; einzige Person, Headline-Zitat von Klopp, Dachzeile: Trainer erklärt"
+2026-11-16-06-14,4,1,Kretschmann,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,mittel,"Weißhaariger Mann mit Brille im grauen Sakko gestikuliert im Gespräch; Headline: Kretschmann"
+2026-11-16-06-14,4,2,Caren Miosga,weiblich,nicht_erkennbar,weiss,nebenperson,namentlich,nicht_thematisiert,neutral,nein,niedrig,"Person mit blonden Locken in hellblauer Bluse von hinten; Headline: bei Caren Miosga (Gastgeberin)"
+2026-11-16-06-14,5,1,Kebekus,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Frau mit zurückgebundenem dunklem Haar im pinken Kleid am Buzzerpult; einzige Person, Headline: Kebekus"

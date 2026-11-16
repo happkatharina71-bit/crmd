@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-16-06-15",
+  "erfasst_am": "2026-11-16T06:15:13.762Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 9,
+  "anzeigen_uebersprungen": 1,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Tagesanbruch",
+      "headline": "Die Heuchelei erreicht ihren Gipfel",
+      "teasertext": "MEINUNG|Tagesanbruch Die Heuchelei erreicht ihren Gipfel Von Ellen Ivits",
+      "url": "https://www.t-online.de/nachrichten/tagesanbruch/id_101529646/klimagipfel-in-antalya-die-heuchelei-erreicht-ihren-gipfel-.html",
+      "bild_url": "https://images.t-online.de/2026/11/0IFYZBVfSaSr/0x430:8256x4644/fit-in/1920x0/der-australische-premierminister-anthony-albanese-trifft-am-flughafen-antalya-ein-um-am-un-klimagipfel-cop31-in-antalya-tuerkei-teilzunehmen.jpg",
+      "bild_alt": "Der australische Premierminister Anthony Albanese trifft am Mittwoch, dem 11. November 2026, am Flughafen Antalya ein, um am UN-Klimagipfel COP31 in Antalya, Türkei, teilzunehmen.",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "TV-Zeugnis",
+      "headline": "Wie fanden Sie den \"Tatort: Narrentanz\"?",
+      "teasertext": "DEBATTE|TV-Zeugnis Wie fanden Sie den \"Tatort: Narrentanz\"?",
+      "url": "https://debatte.t-online.de/debatte/unterhaltung/id_101527468/ard-krimi-wie-fanden-sie-den-tatort-narrentanz-mit-thiel-und-boerne-.html",
+      "bild_url": "https://images.t-online.de/2026/10/VuJb1SBPx08z/36x0:1975x1111/fit-in/1920x0/kriminalhauptkommissar-frank-thiel-rechts-axel-prahl-und-rechtsmediziner-professor-karl-friedrich-boerne-jan-josef-liefers-werden-im-tatort-narrentanz-15-11-im-ersten-in-die-welt-des-westfaelischen-karnevals-katapultiert-wdr-handout.jpg",
+      "bild_alt": "\"Tatort: Narrentanz\" mit Jan Josef Liefers und Axel Prahl",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Opel-Chef Huettl",
+      "headline": "\"Dann können wir Fahrzeuge deutlich günstiger anbieten\"",
+      "teasertext": "INTERVIEW|Opel-Chef Huettl \"Dann können wir Fahrzeuge deutlich günstiger anbieten\" Ein Interview von Jakob Hartung , Mauritius Kloft",
+      "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101529656/opel-iran-krieg-treibt-e-auto-nachfrage-corsa-schwaechelt-weiter.html",
+      "bild_url": "https://images.t-online.de/2026/05/Cuv280BtGwfa/0x126:2048x1152/fit-in/1920x0/opel-ceo-florian-huettl-auf-der-iaa-in-muenchen-2025-archivbild.jpg",
+      "bild_alt": "Opel-CEO Florian Huettl auf der IAA in München 2025. (Archivbild)",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Heils Kandidatur für den Vorsitz",
+      "headline": "Die SPD erliegt einer tödlichen Versuchung",
+      "teasertext": "MEINUNG|Heils Kandidatur für den Vorsitz Die SPD erliegt einer tödlichen Versuchung Ein Kommentar von Christoph Schwennicke",
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101529754/spd-vorsitz-schwesig-wird-das-sagen-haben-nicht-heil.html",
+      "bild_url": "https://images.t-online.de/2026/03/wnRe9v38fo7N/0x107:2048x1152/fit-in/1920x0/ex-minister-heil-l-tritt-spekulationen-entgegen-er-komme-als-nachfolger-von-spd-chef-lars-klingbeil-r-in-betracht.jpg",
+      "bild_alt": "Hubertus Heil: Die SPD braucht mehr Leidenschaft",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 6,
+      "anzeige": false,
+      "dachzeile": "Football-Stars in München",
+      "headline": "NFL-Spektakel: Das war bei RTL nicht zu sehen",
+      "teasertext": "Football-Stars in München NFL-Spektakel: Das war bei RTL nicht zu sehen Von Lukas Grybowski , Andreas Becker",
+      "url": "https://www.t-online.de/sport/mehr-sport/football/id_101529902/nfl-in-muenchen-das-war-im-tv-nicht-zu-sehen.html",
+      "bild_url": "https://images.t-online.de/2026/11/Dqu8UYWGjlTd/445x1858:1385x779/fit-in/1385x0/image.jpg",
+      "bild_alt": "NFL: Dieser Mann ist im TV nie zu sehen.",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

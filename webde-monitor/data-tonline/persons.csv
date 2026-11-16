@@ -65,3 +65,11 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-15-20-13,2,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Mann im blauen Sakko spricht ins Mikrofon; möglicherweise der genannte Ex-Minister"
 2026-11-15-20-13,2,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Mann im dunkelblauen Sakko daneben, hört zu"
 2026-11-15-20-13,3,1,Raúl Krauthausen,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,ja,hoch,"Mann mit Kappe, Brille und Bart im Rollstuhl; einzige Person, Dachzeile: Raúl Krauthausen"
+2026-11-16-06-15,1,1,,maennlich,alt,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Grauhaariger Mann mit Brille im dunklen Anzug auf Flugzeugtreppe
+2026-11-16-06-15,2,1,,maennlich,alt,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Älterer Mann mit hellem Haar in beiger Jacke breitet Arme aus
+2026-11-16-06-15,2,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Mann mit Brille und Bart im Anzug beugt sich mit ausgestreckten Armen
+2026-11-16-06-15,2,3,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Tänzerin in grün-weißer Garde-Uniform im Hintergrund; Stellvertreterin für die Gruppe"
+2026-11-16-06-15,3,1,Huettl,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit dunklem Haar im Anzug spricht; einzige Person, Dachzeile: Opel-Chef Huettl"
+2026-11-16-06-15,4,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Mann im blauen Sakko spricht ins Mikrofon; möglicherweise der genannte Ex-Minister"
+2026-11-16-06-15,4,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Mann im dunkelblauen Sakko daneben, hört zu"
+2026-11-16-06-15,5,1,,nicht_erkennbar,nicht_erkennbar,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person in blauer Jacke mit grüner Mütze und Headset steht auf dem Rasen, Gesicht im Profil abgewandt"

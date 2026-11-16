@@ -1,0 +1,115 @@
+{
+ "run_id": "2026-11-16-06-14",
+ "erfasst_am": "2026-11-16T06:14:38.636Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Flugzeugträger und Versorgungsschiff auf See, Luftaufnahme",
+   "personen": []
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann präsentiert Chip auf Bühne neben Serverhardware",
+   "personen": [
+    {
+     "name": "Huang",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Grauhaariger Mann mit Brille in Lederjacke hält Chip hoch; einzige Person, Headline: Huang"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann mit Kappe bei Pressekonferenz am Mikrofon",
+   "personen": [
+    {
+     "name": "Klopp",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit grauem Bart und Kappe spricht am Mikrofon; einzige Person, Headline-Zitat von Klopp, Dachzeile: Trainer erklärt"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "TV-Talk: Mann im Gespräch mit Frau (von hinten) am Tisch; Zuordnung über Headline (Kretschmann bei Caren Miosga); genannter Merz nicht im Bild",
+   "personen": [
+    {
+     "name": "Kretschmann",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Weißhaariger Mann mit Brille im grauen Sakko gestikuliert im Gespräch; Headline: Kretschmann"
+    },
+    {
+     "name": "Caren Miosga",
+     "geschlecht": "weiblich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person mit blonden Locken in hellblauer Bluse von hinten; Headline: bei Caren Miosga (Gastgeberin)"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Frau im pinken Kleid mit Headset in TV-Show-Kulisse",
+   "personen": [
+    {
+     "name": "Kebekus",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Frau mit zurückgebundenem dunklem Haar im pinken Kleid am Buzzerpult; einzige Person, Headline: Kebekus"
+    }
+   ]
+  }
+ ]
+}

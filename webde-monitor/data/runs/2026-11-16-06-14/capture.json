@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-16-06-14",
+  "erfasst_am": "2026-11-16T06:14:38.636Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "USA verstärken Militärpräsenz im Nahen Osten",
+      "teasertext": "Dritter Flugzeugträger USA verstärken Militärpräsenz im Nahen Osten",
+      "url": "https://web.de/magazine/politik/nahostkonflikt/usa-verstaerken-militaerpraesenz-nahen-osten-42948824",
+      "bild_url": "https://i0.web.de/image/232/42949232%2cpd=2%2cf=responsive169-w950/uss-theodore-roosevelt.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Dritter Flugzeugträger",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Bericht: \"Krisenraum\" für Rückkehr von Huang an Nvidia-Spitze",
+      "teasertext": "Rücktritt vor wenigen Tagen Bericht: \"Krisenraum\" für Rückkehr von Huang an Nvidia-Spitze",
+      "url": "https://web.de/magazine/wirtschaft/bericht-krisenraum-rueckkehr-huang-nvidia-spitze-42948728",
+      "bild_url": "https://i0.web.de/image/730/42948730%2cpd=1%2cf=responsive169-w300/nvidia-ki-konferenz.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Rücktritt vor wenigen Tagen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Klopp: \"Ihr denkt, ich habe nicht alle Latten am Zaun\"",
+      "teasertext": "Trainer erklärt sein Vorgehen Klopp: \"Ihr denkt, ich habe nicht alle Latten am Zaun\"",
+      "url": "https://web.de/magazine/sport/fussball/nationalmannschaft/klopp-denkt-latten-zaun-42949018",
+      "bild_url": "https://i0.web.de/image/230/42949230%2cpd=1%2cf=responsive169-w300/juergen-klopp.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Trainer erklärt sein Vorgehen",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Kretschmann bei \"Caren Miosga\": \"So ein Versprechen darf man nicht machen\"",
+      "teasertext": "TV-Nachlese Kritik an Merz Kretschmann bei \"Caren Miosga\": \"So ein Versprechen darf man nicht machen\"",
+      "url": "https://web.de/magazine/politik/politische-talkshows/kretschmann-caren-miosga-versprechen-42949048",
+      "bild_url": "https://i0.web.de/image/070/42949070%2cpd=1%2cf=responsive169-w300/miosga.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "TV-Nachlese Kritik an Merz",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Kebekus tobt sich aus: \"Kann ich alles bei der ARD nicht machen\"",
+      "teasertext": "Galerie Wer stiehlt mir die Show? Kebekus tobt sich aus: \"Kann ich alles bei der ARD nicht machen\"",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/stiehlt-show-carolin-kebekus-tobt-42942860",
+      "bild_url": "https://i0.web.de/image/844/42942844%2cpd=2%2cf=responsive169-w300/carolin-kebekus.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Wer stiehlt mir die Show?",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
