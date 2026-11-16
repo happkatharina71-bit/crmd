@@ -1,0 +1,87 @@
+{
+ "run_id": "2026-11-16-20-13",
+ "erfasst_am": "2026-11-16T20:13:33.449Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Protestroboter \"Campaign to stop Killer Robots\" vor Brandenburger Tor; winzige Passanten im Hintergrund nicht codierbar",
+   "personen": []
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zweikampf: Spieler im Oranje-Trikot und deutscher Nationalspieler; niemand namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Spieler im schwarzen DFB-Trikot hält Gegenspieler mit ausgestrecktem Arm; Headline: Deutschland"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Spieler mit Bart im weiß-orangen Niederlande-Trikot am Ball"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann im Anzug vor Festivalwand",
+   "personen": [
+    {
+     "name": "Robert Pattinson",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit dunklem Haar im schwarzen Anzug; einzige Person, Dachzeile: Robert Pattinson"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "sonstiges",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Skelettreste in geöffnetem Massengrab; menschliche Überreste, nach Codebuch nicht als Personen codierbar (keine Merkmale erkennbar)",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "tier",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Seeelefant/Robbe an Land",
+   "personen": []
+  }
+ ]
+}

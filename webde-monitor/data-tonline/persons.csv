@@ -94,3 +94,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-16-16-18,4,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Mann mit hellem Haar und Bart in grauer Jacke
 2026-11-16-16-18,5,1,,maennlich,alt,weiss,hauptperson,indirekt,nicht_thematisiert,reich_maechtig,ja,niedrig,"Mann mit Brille und Glatze im Anzug links; Headline: Regierung"
 2026-11-16-16-18,5,2,,maennlich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,reich_maechtig,ja,niedrig,"Mann mit grauem Haar im Sakko gestikuliert rechts; Headline: Regierung"
+2026-11-16-20-13,1,1,,maennlich,jung,poc,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Spieler mit Zöpfen im weiß-orangen Trikot am Ball; möglicherweise der genannte Ex-BVB-Star"
+2026-11-16-20-13,1,2,,maennlich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Spieler mit Dreadlocks im schwarzen DFB-Trikot
+2026-11-16-20-13,2,1,Robert Pattinson,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Mann in beigem Sakko fährt sich durchs Haar; einzige Person, Headline: Robert Pattinson"
+2026-11-16-20-13,3,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Älterer Mann mit roter Krawatte sitzt, hört zu; Headline: Kreml macht Rückzieher"
+2026-11-16-20-13,3,2,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Grauhaariger Mann mit lila Krawatte beugt sich flüsternd vor
+2026-11-16-20-13,3,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit Brille unscharf im Hintergrund
+2026-11-16-20-13,4,1,Dobrindt,maennlich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,hoch,"Mann mit Brille spricht nach oben blickend in Mikrofone; einzige Person, Headline: Dobrindt"

@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-16-20-13",
+  "erfasst_am": "2026-11-16T20:13:33.449Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Killerroboter ohne Kontrolle?",
+      "teasertext": "Staaten ringen um Schranken Killerroboter ohne Kontrolle?",
+      "url": "https://web.de/magazine/politik/inland/killerroboter-kontrolle-42949918",
+      "bild_url": "https://i0.web.de/image/976/42949976%2cpd=3%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Staaten ringen um Schranken",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Deutschland macht das Spiel – aber hat hinten zum ersten Mal richtig Glück",
+      "teasertext": "Live-Ticker Nations League Deutschland macht das Spiel – aber hat hinten zum ersten Mal richtig Glück",
+      "url": "https://web.de/magazine/sport/fussball/nations-league/deutschland-niederlande-dfb-team-klopps-endspiel-gefordert-41038272",
+      "bild_url": "https://i0.web.de/image/226/42952226%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Live-Ticker Nations League",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Vom Kult-Vampir Bis(s) zu James Bond",
+      "teasertext": "Galerie Robert Pattinson, der neue 007 Vom Kult-Vampir Bis(s) zu James Bond",
+      "url": "https://web.de/magazine/unterhaltung/filme-serien-kino/robert-pattinson-007-kult-vampir-biss-james-bond-42245592",
+      "bild_url": "https://i0.web.de/image/614/42951614%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Galerie Robert Pattinson, der neue 007",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Kollektiver Suizid 1945: Archäologen bergen Opfer der \"Nacht von Wildenhagen\"",
+      "teasertext": "Massengrab wird geöffnet Kollektiver Suizid 1945: Archäologen bergen Opfer der \"Nacht von Wildenhagen\"",
+      "url": "https://web.de/magazine/wissen/geschichte/kollektiver-suizid-1945-archaeologen-bergen-opfer-nacht-wildenhagen-42949104",
+      "bild_url": "https://i0.web.de/image/106/42949106%2cpd=1%2cf=responsive169-w300/exhumierung-toten-wildenhagen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Massengrab wird geöffnet",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Er zerlegt Zäune und kaut auf Verkehrshütchen – nun greift die Behörde ein",
+      "teasertext": "Internetstar \"Neil the Seal\" Er zerlegt Zäune und kaut auf Verkehrshütchen – nun greift die Behörde ein",
+      "url": "https://web.de/magazine/wissen/tiere/zerlegt-zaeune-kaut-verkehrshuetchen-greift-behoerde-42949058",
+      "bild_url": "https://i0.web.de/image/186/42950186%2cpd=2%2cf=responsive169-w300/see-elefant-neil-the-seal.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Internetstar \"Neil the Seal\"",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

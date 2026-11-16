@@ -1042,3 +1042,6 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-16-16-17,3,2,,maennlich,mittel,poc,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Mann mit Glatze und Brille im Zweireiher rechts; einer der beiden Genannten"
 2026-11-16-16-17,3,3,,maennlich,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann im Hintergrund zwischen beiden, teilweise verdeckt"
 2026-11-16-16-17,4,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Grauhaariger Mann mit Schnurrbart im dunklen Anzug; Headline: Moskau schickt Warnung"
+2026-11-16-20-13,2,1,,maennlich,jung,poc,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spieler im schwarzen DFB-Trikot hält Gegenspieler mit ausgestrecktem Arm; Headline: Deutschland"
+2026-11-16-20-13,2,2,,maennlich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Spieler mit Bart im weiß-orangen Niederlande-Trikot am Ball
+2026-11-16-20-13,3,1,Robert Pattinson,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Mann mit dunklem Haar im schwarzen Anzug; einzige Person, Dachzeile: Robert Pattinson"

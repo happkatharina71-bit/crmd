@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-16-20-13",
+  "erfasst_am": "2026-11-16T20:13:58.679Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 7,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Nations League",
+      "headline": "Ex-BVB-Star vergibt die nächste \"Oranje\"-Chance",
+      "teasertext": "LIVE|Nations League Ex-BVB-Star vergibt die nächste \"Oranje\"-Chance",
+      "url": "https://www.t-online.de/sport/live-ticker/fussball/nations-league/sdc_fm-57014/deutschland-niederlande-nations-league-liveticker.html",
+      "bild_url": "https://images.t-online.de/2026/11/-JjzYS7ZCz8J/741x167:2321x1305/fit-in/1920x0/image.jpg",
+      "bild_alt": "imago images 1086019831",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Neuer James Bond",
+      "headline": "Ist Robert Pattinson eine gute oder schlechte Wahl?",
+      "teasertext": "DEBATTE|Neuer James Bond Ist Robert Pattinson eine gute oder schlechte Wahl?",
+      "url": "https://debatte.t-online.de/debatte/unterhaltung/id_101531554/robert-pattinson-als-neuer-james-bond-gute-oder-schlechte-wahl-.html",
+      "bild_url": "https://images.t-online.de/2026/11/njGEAvSe6SkJ/0x316:3500x1969/fit-in/1920x0/sein-name-ist-pattinson-robert-pattinson.jpg",
+      "bild_alt": "Sein Name ist Pattinson, Robert Pattinson.",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Newsblog zum Krieg in der Ukraine",
+      "headline": "EU bei Ukraine-Gesprächen? Kreml macht Rückzieher",
+      "teasertext": "Newsblog zum Krieg in der Ukraine EU bei Ukraine-Gesprächen? Kreml macht Rückzieher Von P. Armbruster , J. Fischer , S. Cleven",
+      "url": "https://www.t-online.de/nachrichten/ukraine/id_101530410/ukraine-news-aktuell-eu-bei-ukraine-gespraechen-kreml-macht-rueckzieher.html",
+      "bild_url": "https://images.t-online.de/2026/11/4MmVI6GND1Rm/0x169:4882x2746/fit-in/1920x0/russia-africa-summit-plenary-session-9276484-29-102026-russian-president-vladimir-putin-at-the-plenary-session-of-the-3rd-russia-africa-summit-in-moscow-left-presidential-aide-yury-ushakov-yuri-kochetkov-sputnik-crediting-the-source-in-the-following-order-photographer-s-name-russia-africa-summit-and-economic-and-humanitarian-forum-host-naehoto-agency-is-mandatory-when-using-the-photo-moscow-russia-publicationxinxgerxsuixautxestxltuxlatxnorxswexdenxnedxpolxukxausxonly-copyright-xyurixkochetkovx.jpg",
+      "bild_alt": "imago images 0871177743",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Abschiebezentren in Ruanda",
+      "headline": "Dann hätte Dobrindt Millionen verbrannt",
+      "teasertext": "MEINUNG|Abschiebezentren in Ruanda Dann hätte Dobrindt Millionen verbrannt Ein Kommentar von Julia Naue",
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101530448/abschiebezentren-in-ruanda-dobrindts-plan-ist-teure-symbolpolitik.html",
+      "bild_url": "https://images.t-online.de/2026/09/mtWxeAbKWzqM/171x124:3413x1920/fit-in/1920x0/statement-bundesinnenminister-dobrindt-pressekonferenz-zum-aktionsplan-sozialleistungsmissbrauch-mit-bundesinnenminister-alexander-dobrindt-und-staatssekretaerin-leonie-gebers-spd-am-23-092026-in-berlin-alexander-dobrindt-spricht-zu-den-anwesenden-berlin-berlin-deutschland-bundes-innenministerium-statement-by-federal-minister-of-the-interior-dobrindt-at-a-press-conference-on-the-action-plan-to-combat-social-benefits-fraud-featuring-federal-minister-of-the-interior-alexander-dobrindt-and-state-secre.jpg",
+      "bild_alt": "imago images 0867626927",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Dauerregen, Gewitter, Orkanböen",
+      "headline": "Wetterdienst ruft Warnstufe Rot aus – mit Fokus im Süden",
+      "teasertext": "Dauerregen, Gewitter, Orkanböen Wetterdienst ruft Warnstufe Rot aus – mit Fokus im Süden",
+      "url": "https://www.t-online.de/nachrichten/panorama/wetter/id_101530276/unwetter-in-deutschland-dwd-warnt-vor-dauerregen-und-orkanboeen.html",
+      "bild_url": "https://images.t-online.de/2026/11/tYu6cqEbgC1s/0x101:959x539/fit-in/959x0/niederschlagssummen-laut-dem-icon-wettermodell-besonders-im-suedwesten-wird-es-nass.png",
+      "bild_alt": "Niederschlagssummen laut dem Icon-Wettermodell: Besonders im Südwesten wird es nass.",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}
