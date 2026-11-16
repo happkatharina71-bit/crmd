@@ -53,4 +53,10 @@ Geplante zusätzliche Felder je Teaser:
 
 Auswertung: Kreuzung dieser Felder mit den vorhandenen Bild-Codierungen; die inhaltliche Analyse übernimmt die Projektverantwortliche.
 
+Weitere geplante Auswertungen (mit der Projektverantwortlichen abgestimmt):
+- **Frau allein vs. Frau mit Mann:** Bei Teasern mit Frauen im Bild prüfen, wie oft zusätzlich ein Mann zu sehen ist (und umgekehrt).
+- **Aufmacher vs. Listenplätze:** Verteilung auf Position 1 im Vergleich zu Position 2–5; genaue Methode noch offen.
+- **Vergleich web.de/GMX und t-online:** Gleiche Themen im Vergleichszeitraum gegenüberstellen – Unterschiede bei Bebilderung und Zuspitzung.
+- **Klickzahlen (optional, Daten liefert die Projektverantwortliche):** Klicks bzw. Click-Through-Rate je Teaser, immer getrennt nach Position. Ggf. nur für eine Auswahl (z. B. eine Woche), um den Aufwand zu begrenzen. Ergebnisse als Zusammenhang, nicht als Ursache darstellen.
+
 **Vorgehen:** Nach Abschluss der Erhebung NICHT selbstständig starten. Erst aktiv nachfragen, ob die Nachcodierung beginnen soll, und auf ein ausdrückliches Go warten.
