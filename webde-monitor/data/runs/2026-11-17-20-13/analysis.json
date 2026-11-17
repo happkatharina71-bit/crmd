@@ -1,0 +1,115 @@
+{
+ "run_id": "2026-11-17-20-13",
+ "erfasst_am": "2026-11-17T20:13:37.195Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Kampfjet landet auf Flugzeugträger, Deckpersonal mit Helm von hinten im Vordergrund",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Person mit Helm und Gehörschutz von hinten, hält Signaltafel; Gesicht nicht sichtbar"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Personen mit Hunden von hinten im sonnigen Wald",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person mit langen Haaren in grüner Jacke von hinten; Headline: Bevölkerungsgruppen"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person mit kurzem Haar von hinten, fotografiert mit Tablet"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Salami wird mit Messer geschnitten; nur Hände sichtbar",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt eines Mannes im Stadion",
+   "personen": [
+    {
+     "name": "Effenberg",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit hellgrauem Haar im schwarzen Shirt, ernster Blick; einzige Person, Headline: Effenberg"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Videostandbild eines älteren Mannes; Meghan genannt, aber nicht im Bild",
+   "personen": [
+    {
+     "name": "Thomas Markle",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Älterer Mann mit weißem Bart und Brille im hellblauen Hemd spricht; einzige Person, Headline: Thomas Markle angeklagt"
+    }
+   ]
+  }
+ ]
+}

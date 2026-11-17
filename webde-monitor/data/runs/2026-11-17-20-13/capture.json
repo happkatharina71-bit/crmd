@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-17-20-13",
+  "erfasst_am": "2026-11-17T20:13:37.195Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Baut Washington eine Drohkulisse auf – oder bereitet es eine Eskalation vor?",
+      "teasertext": "Analyse Neuer Flugzeugträger vor Iran Baut Washington eine Drohkulisse auf – oder bereitet es eine Eskalation vor?",
+      "url": "https://web.de/magazine/politik/nahostkonflikt/baut-washington-drohkulisse-bereitet-eskalation-42955358",
+      "bild_url": "https://i0.web.de/image/412/42955412%2cpd=2%2cf=responsive169-w950/us-flugzeugtraeger.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse Neuer Flugzeugträger vor Iran",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Welche Bevölkerungsgruppen am unglücklichsten sind",
+      "teasertext": "Auswertung des SKL Glücksatlas Welche Bevölkerungsgruppen am unglücklichsten sind",
+      "url": "https://web.de/magazine/wissen/psychologie/bevoelkerungsgruppen-ungluecklichsten-42953070",
+      "bild_url": "https://i0.web.de/image/464/42953464%2cpd=2%2cf=responsive169-w300/gluecksatlas.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Auswertung des SKL Glücksatlas",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Lebensmittelrückruf wird auf TikTok stark übertrieben dargestellt",
+      "teasertext": "Faktencheck E.-coli-Bakterien in Salami? Lebensmittelrückruf wird auf TikTok stark übertrieben dargestellt",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/lebensmittelrueckruf-tiktok-stark-uebertrieben-dargestellt-42951706",
+      "bild_url": "https://i0.web.de/image/768/42951768%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Faktencheck E.-coli-Bakterien in Salami?",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Nach Kantersieg gegen Holland tritt Effenberg auf die Euphoriebremse",
+      "teasertext": "DFB-Gala unter Klopp Nach Kantersieg gegen Holland tritt Effenberg auf die Euphoriebremse",
+      "url": "https://web.de/magazine/sport/fussball/nationalmannschaft/kantersieg-holland-tritt-effenberg-euphoriebremse-42955956",
+      "bild_url": "https://i0.web.de/image/960/42955960%2cpd=3%2cf=responsive169-w300/stefan-effenberg.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "DFB-Gala unter Klopp",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Meghans Vater Thomas Markle nun auch auf den Philippinen angeklagt",
+      "teasertext": "Nach US-Verfahren Meghans Vater Thomas Markle nun auch auf den Philippinen angeklagt",
+      "url": "https://web.de/magazine/unterhaltung/stars/meghans-vater-thomas-markle-philippinen-angeklagt-42956012",
+      "bild_url": "https://i0.web.de/image/240/42902240%2cpd=2%2cf=responsive169-w300/thomas-markle-laufen-fbi-ermittlungen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Nach US-Verfahren",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

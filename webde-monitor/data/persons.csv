@@ -1075,3 +1075,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-17-16-15,4,2,,weiblich,jung,poc,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Lachende Frau links, angeschnitten und unscharf"
 2026-11-17-16-15,4,3,,maennlich,jung,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Junger Mann mit Locken rechts, unscharf"
 2026-11-17-16-15,5,1,Robert Pattinson,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann mit dunklem Haar im Anzug lächelt; einzige Person im Fokus, Headline: Robert Pattinson"
+2026-11-17-20-13,1,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,ja,niedrig,"Person mit Helm und Gehörschutz von hinten, hält Signaltafel; Gesicht nicht sichtbar"
+2026-11-17-20-13,2,1,,weiblich,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Person mit langen Haaren in grüner Jacke von hinten; Headline: Bevölkerungsgruppen"
+2026-11-17-20-13,2,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,passiv,neutral,nein,niedrig,"Person mit kurzem Haar von hinten, fotografiert mit Tablet"
+2026-11-17-20-13,4,1,Effenberg,maennlich,alt,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann mit hellgrauem Haar im schwarzen Shirt, ernster Blick; einzige Person, Headline: Effenberg"
+2026-11-17-20-13,5,1,Thomas Markle,maennlich,alt,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Älterer Mann mit weißem Bart und Brille im hellblauen Hemd spricht; einzige Person, Headline: Thomas Markle angeklagt"

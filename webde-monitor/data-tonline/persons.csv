@@ -126,3 +126,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-17-16-16,3,2,,maennlich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Junger Mann im Trainingsanzug rechts, unscharf"
 2026-11-17-16-16,3,3,,maennlich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Spieler im hellblauen Trikot in der Mitte, unscharf"
 2026-11-17-16-16,5,1,,maennlich,jung,poc,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Spieler im gelben Trikot kniet mit ausgebreiteten Händen; Dachzeile: Kronenjubel-Geste"
+2026-11-17-20-14,1,1,,maennlich,alt,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Mann mit Brille und Glatzenansatz, rote Krawatte, Ordner unterm Arm"
+2026-11-17-20-14,1,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Mann im dunklen Anzug links, Blick nach unten"
+2026-11-17-20-14,2,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Mann mit grauem Bart und Kappe jubelt in der Mitte; möglicherweise der genannte Klopp"
+2026-11-17-20-14,2,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Lächelnder Mann mit kurzem Haar in DFB-Jacke links
+2026-11-17-20-14,2,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Jubelnder Mann mit Bart in DFB-Jacke rechts
+2026-11-17-20-14,2,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Applaudierender Mann am rechten Rand, angeschnitten"
+2026-11-17-20-14,4,1,,weiblich,mittel,weiss,hauptperson,indirekt,passiv,reich_maechtig,ja,niedrig,"Frau mit dunklem Haar im beigen Blazer gestikuliert am Pult; Dachzeile: Energiepläne der Regierung"

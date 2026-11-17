@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-17-20-14",
+  "erfasst_am": "2026-11-17T20:14:07.356Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Möglicher Kompromiss",
+      "headline": "\"Rente mit 63\" könnte bleiben – aber nicht für alle",
+      "teasertext": "Möglicher Kompromiss \"Rente mit 63\" könnte bleiben – aber nicht für alle Von Camilla Kohrs",
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101523070/koalition-ringt-um-rentenreform-dieser-kompromiss-zeichnet-sich-jetzt-ab.html",
+      "bild_url": "https://images.t-online.de/2026/11/jGmGo2wsHN4O/0x354:6804x3827/fit-in/1920x0/lars-klingbeil-friedrich-merz-kabinett-deu-deutschland-germany-berlin-29-042026-lars-klingbeil-bundesfinanzminister-und-vizekanzler-spd-und-bundeskanzler-friedrich-merz-cdu-rechts-vor-der-kabinettssitzung-im-berliner-kanzleramt-bundeskanzleramt-in-berlin-deutschland-en-lars-klingbeil-federal-finance-minister-and-vice-chancellor-spd-and-chancellor-friedrich-merz-cdu-right-during-the-cabinet-meeting-in-the-berlin-chancellery-federal-chancellery-in-berlin-germany-lars-klingbeil-fried.jpg",
+      "bild_alt": "imago images 0855615019",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Höchster DFB-Sieg unter Klopp",
+      "headline": "Ein entscheidender Kniff",
+      "teasertext": "MEINUNG|Höchster DFB-Sieg unter Klopp Ein entscheidender Kniff Ein Kommentar von Stefan Effenberg",
+      "url": "https://www.t-online.de/sport/fussball/kolumne-stefan-effenberg/id_101531872/dfb-elf-nach-5-0-sieg-gegen-niederlande-wer-haette-das-gedacht-.html",
+      "bild_url": "https://images.t-online.de/2026/11/2h1Gn1G4zhtT/0x88:2742x1543/fit-in/1920x0/hoehenflug-bundestrainer-juergen-klopp-jubelt-im-spiel-gegen-die-niederlande-mit-seinen-assistenten-sven-bender-li-und-mads-buttgereit.jpg",
+      "bild_alt": "Höhenflug: Bundestrainer Jürgen Klopp jubelt im Spiel gegen die Niederlande mit seinen Assistenten Sven Bender (li.) und Mads Buttgereit.",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Hoffnung bei Volkskrankheit",
+      "headline": "Neues Medikament vor der Zulassung",
+      "teasertext": "Hoffnung bei Volkskrankheit Neues Medikament vor der Zulassung Von Lynn Zimmermann",
+      "url": "https://www.t-online.de/gesundheit/aktuelles/id_101533124/bluthochdruck-neues-medikament-baxdrostat-vor-zulassung.html",
+      "bild_url": "https://images.t-online.de/2026/11/gqlgxfUhPEdY/0x269:5000x2812/fit-in/1920x0/gefahr-fuers-herz-symbolbild-bluthochdruck-ist-der-staerkste-risikofaktor-fuer-herz-kreislauf-erkrankungen.jpg",
+      "bild_alt": "Gefahr fürs Herz (Symbolbild): Bluthochdruck ist der stärkste Risikofaktor für Herz-Kreislauf-Erkrankungen.",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Energiepläne der Regierung",
+      "headline": "\"Das hört sich nach einem schlechten Witz an\"",
+      "teasertext": "Energiepläne der Regierung \"Das hört sich nach einem schlechten Witz an\" Von Amy Walker",
+      "url": "https://www.t-online.de/finanzen/energie/id_101532668/eeg-foerderung-bleibt-experten-laufen-sturm-gegen-einspeiseverguetung.html",
+      "bild_url": "https://images.t-online.de/2026/11/evju5VFAesc-/159x39:1913x1075/fit-in/1913x0/nationaler-stahlgipfel-2026-rede-katherina-reiche-cdu-bundesministerin-fuer-wirtschaft-und-energie-salzgitter-salzgitter-flachstahl-werk-niedersachsen-stadt-salzgitter-germany-2026-national-steel-summit-speech-by-katherina-reiche-cdu-federal-minister-for-economic-affairs-and-energy-salzgitter-flat-steel-plant-lower-saxony-city-of-salzgitter-germany.jpg",
+      "bild_alt": "imago images 0884874643",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Xiaomi 18 Pro und 18 Pro Max",
+      "headline": "Diese Smartphones fordern Apple, Samsung und Google heraus",
+      "teasertext": "Xiaomi 18 Pro und 18 Pro Max Diese Smartphones fordern Apple, Samsung und Google heraus",
+      "url": "https://www.t-online.de/digital/aktuelles/id_101533044/xiaomi-18-pro-und-18-pro-max-preise-akku-und-back-display-im-ueberblick.html",
+      "bild_url": "https://images.t-online.de/2026/11/Pmin5K3-PAj6/0x135:1233x694/fit-in/1233x0/image.png",
+      "bild_alt": "Xiaomi 18 Pro und 18 Pro Max: Der Bildschirm auf der Rückseite bietet vielseitige Funktionen.",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}
