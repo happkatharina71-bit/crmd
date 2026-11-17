@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-17-16-16",
+  "erfasst_am": "2026-11-17T16:16:00.412Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Französische Soldaten in der Ukraine",
+      "headline": "Ein einziger Angriff könnte alles verändern",
+      "teasertext": "Französische Soldaten in der Ukraine Ein einziger Angriff könnte alles verändern Eine Analyse von Patrick Diekmann",
+      "url": "https://www.t-online.de/nachrichten/ukraine/id_101532842/mission-volia-franzoesische-soldaten-auf-geheimer-mission-im-ukraine-krieg.html",
+      "bild_url": "https://images.t-online.de/2026/11/DKJBwzM96Ln1/0x55:5000x2812/fit-in/1920x0/ein-franzoesischer-soldat-bei-einem-manoever-frankreichs-militaer-ist-auch-fuer-wartungs-und-ausbildungsmissionen-in-der-ukraine-im-einsatz.jpg",
+      "bild_alt": "Ein französischer Soldat bei einem Manöver: Frankreichs Militär ist auch für Wartungs- und Ausbildungsmissionen in der Ukraine im Einsatz.",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Stromsteuer",
+      "headline": "Jetzt also doch?",
+      "teasertext": "Stromsteuer Jetzt also doch? Eine Analyse von Florian Schmidt",
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101531150/stromsteuer-koalitionsausschuss-geht-in-nachverhandlungen.html",
+      "bild_url": "https://images.t-online.de/2026/11/JHGdNygPoMEZ/213x103:1605x903/fit-in/1605x0/image.jpg",
+      "bild_alt": "urn:newsml:dpa.com:20090101:261116-935-1746996",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Bundestrainer löst Begeisterung aus",
+      "headline": "Was Klopps Erfolg mit seiner Vergangenheit zu tun hat",
+      "teasertext": "Bundestrainer löst Begeisterung aus Was Klopps Erfolg mit seiner Vergangenheit zu tun hat Von Constantin Eckner",
+      "url": "https://www.t-online.de/sport/fussball/nationalmannschaft-deutschland/id_101532802/juergen-klopp-die-dfb-elf-und-seine-vergangenheit-beim-bvb-und-liverpool.html",
+      "bild_url": "https://images.t-online.de/2026/11/21k83Y10Er87/2722x595:2908x1635/fit-in/1920x0/fussball-berlin-16-112026-uefa-nations-league-deutschland-ger-niederlande-ned-juergen-klopp-deutschland-bundestrainer-jubel-florian-wirtz-deutschland-no-17-soccer-berlin-november-16-2026-uefa-nations-league-germany-ger-netherlands-ned-juergen-klopp-germany-s-national-team-coach-celebrates-florian-wirtz-germany-no-17.jpg",
+      "bild_alt": "imago images 1086034218",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Oligarchen, Trump und Epstein",
+      "headline": "Insider packen über die Deutsche Bank aus",
+      "teasertext": "Oligarchen, Trump und Epstein Insider packen über die Deutsche Bank aus Von Jakob Hartung",
+      "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101532290/deutsche-bank-groesstes-bankenleak-der-welt-enthuellt-brisante-details.html",
+      "bild_url": "https://images.t-online.de/2026/11/41sm5q-H18gN/0x182:3500x1969/fit-in/1920x0/29-112018-xmhx-wirtschaft-razzia-bei-deutsche-bank-in-frankfurt-emspor-v-l-die-polizei-und-staatsanwaltschaft-durchsucht-die-deutsche-bank-zentrale-in-frankfurt-wegen-des-verdachts-auf-geldwaesche-die-ermittlungen-stehen-im-zusammenhang-mit-den-panama-papers-und-den-offshore-leaks-wirtschaft-razzia-bei-deutsche-bank-in-frankfurt-29-11-2018-xmhx-economy-raid-at-deutsche-bank-in-frankfurt-emspor-v-l-the-police-and-public-prosecutors-office-searches-deutsche-bank-headquarters-in-frankfurt-on.jpg",
+      "bild_alt": "imago 87145537",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Kronenjubel-Geste",
+      "headline": "Brüder in Christus?",
+      "teasertext": "MEINUNG|Kronenjubel-Geste Brüder in Christus? Eine Kolumne von Uwe Vorkötter",
+      "url": "https://www.t-online.de/nachrichten/kolumne-uwe-vorkoetter/id_101532162/glaube-im-fussball-darf-felix-nmecha-seine-religion-zeigen-.html",
+      "bild_url": "https://images.t-online.de/2026/11/czJ24ASDTHGj/0x86:2048x1152/fit-in/1920x0/felix-nmecha-legt-bei-seinem-torjubel-eine-imaginaere-krone-ab-die-geste-wird-seit-dem-vergangenen-bundesligawochenende-heftig-diskutiert.jpg",
+      "bild_alt": "imago images 1085774068",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

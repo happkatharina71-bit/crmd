@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-17-16-15",
+  "erfasst_am": "2026-11-17T16:15:26.682Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Hells-Angels-Aussteiger: \"Das ist wie geistige Inzucht\"",
+      "teasertext": "Interview Vom Zuhälter zum Aufklärer Hells-Angels-Aussteiger: \"Das ist wie geistige Inzucht\"",
+      "url": "https://web.de/magazine/panorama/menschen-schicksale/hells-angels-aussteiger-kassra-zargaran-geistige-inzucht-42939412",
+      "bild_url": "https://i0.web.de/image/772/42939772%2cpd=5%2cf=responsive169-w950/ehemalige-hells-angel-kassra-zargaran.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Interview Vom Zuhälter zum Aufklärer",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Ukraine zerstört mit Krim-Brücke russische Lebensader zur Halbinsel",
+      "teasertext": "Putins Prestigeobjekt Ukraine zerstört mit Krim-Brücke russische Lebensader zur Halbinsel",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/ukraine-zerstoert-krim-bruecke-russische-lebensader-halbinsel-42954966",
+      "bild_url": "https://i0.web.de/image/340/42955340%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Putins Prestigeobjekt",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Wie schlägt man einen Unantastbaren?",
+      "teasertext": "Analyse Diallos schwierige Mission Wie schlägt man einen Unantastbaren?",
+      "url": "https://web.de/magazine/sport/fussball/international/schlaegt-unantastbaren-42953382",
+      "bild_url": "https://i0.web.de/image/770/42953770%2cpd=5%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Analyse Diallos schwierige Mission",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Wer zahlt was? Junge Menschen handhaben es anders als ältere",
+      "teasertext": "Rechnung im Restaurant Wer zahlt was? Junge Menschen handhaben es anders als ältere",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/zahlt-junge-menschen-handhaben-aeltere-42951632",
+      "bild_url": "https://i0.web.de/image/704/42951704%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Rechnung im Restaurant",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Wie Robert Pattinson James Bond verändern könnte",
+      "teasertext": "Video Twilight-Star ist neuer 007 Wie Robert Pattinson James Bond verändern könnte",
+      "url": "https://web.de/magazine/unterhaltung/videos/filme-serien-kino/james-bond/robert-pattinson-james-bond-veraendern-42955364",
+      "bild_url": "https://i0.web.de/image/366/42955366%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Video Twilight-Star ist neuer 007",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

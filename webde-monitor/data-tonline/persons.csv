@@ -118,3 +118,11 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-17-12-17,3,1,Epstein,maennlich,alt,nicht_erkennbar,hauptperson,namentlich,passiv,reich_maechtig,nein,mittel,"Grauhaariger Mann mit Brille sitzt mit gefalteten Händen; einzige Person, Headline: Epstein-Geschäfte"
 2026-11-17-12-17,4,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Grauhaariger Mann mit Brille und roter Krawatte; Dachzeile: Experte macht Vorschlag"
 2026-11-17-12-17,5,1,Jürgen Klopp,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Lachender Mann mit grauem Bart, Kappe und DFB-Jacke; einzige Person, Headline: Jürgen Klopp reagiert"
+2026-11-17-16-16,1,1,,maennlich,nicht_erkennbar,weiss,hauptperson,indirekt,aktiv,neutral,ja,niedrig,"Soldat mit Helm, Gesichtstuch und Sturmgewehr, nur Augen sichtbar; Dachzeile: französische Soldaten"
+2026-11-17-16-16,2,1,,maennlich,alt,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Mann mit Glatze und Brille in der Mitte spricht, zeigt auf Uhr"
+2026-11-17-16-16,2,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Mann mit grauem Bart in dunkler Trachtenjacke links
+2026-11-17-16-16,2,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Mann im blauen Anzug rechts, Blick zur Mitte"
+2026-11-17-16-16,3,1,Klopp,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Lachender Mann mit grauem Bart und Kappe applaudiert; Headline: Klopps Erfolg, Dachzeile: Bundestrainer"
+2026-11-17-16-16,3,2,,maennlich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Junger Mann im Trainingsanzug rechts, unscharf"
+2026-11-17-16-16,3,3,,maennlich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Spieler im hellblauen Trikot in der Mitte, unscharf"
+2026-11-17-16-16,5,1,,maennlich,jung,poc,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Spieler im gelben Trikot kniet mit ausgebreiteten Händen; Dachzeile: Kronenjubel-Geste"
