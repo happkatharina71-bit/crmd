@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-17-12-17",
+  "erfasst_am": "2026-11-17T12:17:17.356Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Stromsteuer",
+      "headline": "Jetzt also doch?",
+      "teasertext": "Stromsteuer Jetzt also doch? Eine Analyse von Florian Schmidt",
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101531150/stromsteuer-koalitionsausschuss-geht-in-nachverhandlungen.html",
+      "bild_url": "https://images.t-online.de/2026/11/JHGdNygPoMEZ/213x103:1605x903/fit-in/1605x0/image.jpg",
+      "bild_alt": "urn:newsml:dpa.com:20090101:261116-935-1746996",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Einzelkritik zur Nations League",
+      "headline": "DFB-Elf zerlegt \"Oranje\": Bestnote für zwei Stars",
+      "teasertext": "MEINUNG|Einzelkritik zur Nations League DFB-Elf zerlegt \"Oranje\": Bestnote für zwei Stars Ein Kommentar von Benjamin Zurmühl",
+      "url": "https://www.t-online.de/sport/fussball/nationalmannschaft-deutschland/id_101531852/nationalmannschaft-dfb-elf-zerlegt-oranje-bestnote-fuer-zwei-stars.html",
+      "bild_url": "https://images.t-online.de/2026/11/VGDuL6Occ7fQ/0x60:4210x2368/fit-in/1920x0/glaenzend-aufgelegt-florian-wirtz-jubelt-im-spiel-gegen-die-niederlande.jpg",
+      "bild_alt": "Glänzend aufgelegt: Florian Wirtz jubelt im Spiel gegen die Niederlande.",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Deutsche Bank",
+      "headline": "Brisante Details zu Epstein-Geschäften aufgetaucht",
+      "teasertext": "Deutsche Bank Brisante Details zu Epstein-Geschäften aufgetaucht",
+      "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101532314/deutsche-bank-datenleck-akten-enthuellen-neue-details-zum-epstein-ausmass.html",
+      "bild_url": "https://images.t-online.de/2021/05/88165690v4/0x0:1920x1080/fit-in/1920x0/jeffrey-epstein-der-us-amerikanische-investmentbanker-wurde-2019-angeklagt-ein-netzwerk-zur-sexuellen-ausbeutung-von-minderjaehrigen-unterhalten-zu-haben.jpg",
+      "bild_alt": "Dokumentation über Jeffrey Epstein:",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Experte macht Vorschlag",
+      "headline": "Die nächste Rentenreform kann kommen",
+      "teasertext": "Experte macht Vorschlag Die nächste Rentenreform kann kommen Von Amy Walker",
+      "url": "https://www.t-online.de/finanzen/ratgeber/altersvorsorge/betrieblichealtersvorsorge/id_101531162/reform-der-betriebsrente-hunderte-euro-extra-rente-sind-moeglich.html",
+      "bild_url": "https://images.t-online.de/2026/11/7sTsamyMDYHm/0x313:6000x3375/fit-in/1920x0/wirtschaftsweise-stellen-jahresgutachten-2026-vor-2026-11-11-deutschland-berlin-bundespressekonferenz-der-sachverstaendigenrat-zur-begutachtung-der-gesamtwirtschlichen-enwicklung-stellt-sein-jahresgutachten-2026-vor-im-bild-prof-dr-martin-werding-economic-experts-present-2026-annual-report-november-11-2026-berlin-germany-federal-press-conference-the-german-council-of-economic-experts-presents-its-2026-annual-report-pictured-prof-dr-martin-werding.jpg",
+      "bild_alt": "imago images 0882460074",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Nach 5:0-Sieg gegen die Niederlande",
+      "headline": "Jürgen Klopp reagiert auf Scherhants Kartenkauf",
+      "teasertext": "Video Nach 5:0-Sieg gegen die Niederlande Jürgen Klopp reagiert auf Scherhants Kartenkauf",
+      "url": "https://www.t-online.de/video/sport/id_101532058/dfb-sieg-in-der-nations-league-juergen-klopp-scherzt-ueber-derry-scherhant-.html",
+      "bild_url": "https://images.t-online.de/2026/11/I0-FYbvHnz2Z/0x299:5730x3223/fit-in/1920x0/17-112026-ger-fussball-laenderspiel-2026-2027-olympiastadion-deutschland-vs-niederlande-ger-ned-trainer-juergen-klopp-deutschland-nordphoto-gmbh-engler-berlin-berliner-olympiastadion-berlin-deutschland-november-17-2026-ger-soccer-international-match-2026-2027-olympic-stadium-germany-vs-netherlands-ger-ned-coach-juergen-klopp-germany-nordphoto-gmbh-engler-berlin-berlin-olympic-stadium-berlin-germany-copyright-xnordphotox-xenglerx.jpg",
+      "bild_alt": "imago images 1086027046",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

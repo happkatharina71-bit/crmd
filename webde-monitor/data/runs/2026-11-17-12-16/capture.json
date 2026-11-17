@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-17-12-16",
+  "erfasst_am": "2026-11-17T12:16:49.124Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Krim-Brücke nach ukrainischem Angriff teilweise eingestürzt",
+      "teasertext": "Attacke in der Nacht Krim-Brücke nach ukrainischem Angriff teilweise eingestürzt",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/krim-bruecke-ukrainischem-angriff-teilweise-eingestuerzt-42953700",
+      "bild_url": "https://i0.web.de/image/240/42954240%2cpd=3%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Attacke in der Nacht",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Industrie ächzt: Stromnetzausbau verzögert sich \"mindestens zehn Jahre\"",
+      "teasertext": "Am Limit Industrie ächzt: Stromnetzausbau verzögert sich \"mindestens zehn Jahre\"",
+      "url": "https://web.de/magazine/wirtschaft/industrie-aechzt-stromnetzausbau-verzoegert-jahre-42953834",
+      "bild_url": "https://i0.web.de/image/062/42954062%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Am Limit",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "\"Für mich eine absolute Fehlbesetzung!\"",
+      "teasertext": "Leserstimmen Pattinson als neuer Bond \"Für mich eine absolute Fehlbesetzung!\"",
+      "url": "https://web.de/magazine/unterhaltung/filme-serien-kino/james-bond/absolute-fehlbesetzung-42953586",
+      "bild_url": "https://i0.web.de/image/928/42953928%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Leserstimmen Pattinson als neuer Bond",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Vor allem eine Gruppe ist vom Phänomen der Telefonangst betroffen",
+      "teasertext": "\"Ein wachsendes Problem\" Vor allem eine Gruppe ist vom Phänomen der Telefonangst betroffen",
+      "url": "https://web.de/magazine/wissen/psychologie/gruppe-phaenomen-telefonangst-betroffen-42939100",
+      "bild_url": "https://i0.web.de/image/976/42953976%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "\"Ein wachsendes Problem\"",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Carolin Schmidt spurlos verschwunden – Polizei schließt ein Szenario aus",
+      "teasertext": "Seit September vermisst Carolin Schmidt spurlos verschwunden – Polizei schließt ein Szenario aus",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/carolin-schmidt-spurlos-verschwunden-polizei-schliesst-szenario-42779072",
+      "bild_url": "https://i0.web.de/image/568/42779568%2cpd=7%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Seit September vermisst",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

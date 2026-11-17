@@ -110,3 +110,11 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-17-09-14,1,2,,maennlich,mittel,poc,nebenperson,indirekt,aktiv,neutral,nein,mittel,Spieler mit Nummer 4 jubelt dahinter
 2026-11-17-09-14,3,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Grauhaariger Mann mit Brille und roter Krawatte; Dachzeile: Experte macht Vorschlag"
 2026-11-17-09-14,5,1,,weiblich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Frau mit hochgestecktem blondem Haar im blauen Oberteil; Headline: Ex-Ministerin postet Fotos"
+2026-11-17-12-17,1,1,,maennlich,alt,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Mann mit Glatze und Brille in der Mitte spricht, zeigt auf Uhr"
+2026-11-17-12-17,1,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Mann mit grauem Bart in dunkler Trachtenjacke links
+2026-11-17-12-17,1,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Mann im blauen Anzug rechts, Blick zur Mitte"
+2026-11-17-12-17,2,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Lächelnder Spieler mit Nummer 17 im DFB-Trikot; Headline: Bestnote für zwei Stars"
+2026-11-17-12-17,2,2,,maennlich,mittel,poc,nebenperson,indirekt,aktiv,neutral,nein,mittel,Spieler mit Nummer 4 dahinter
+2026-11-17-12-17,3,1,Epstein,maennlich,alt,nicht_erkennbar,hauptperson,namentlich,passiv,reich_maechtig,nein,mittel,"Grauhaariger Mann mit Brille sitzt mit gefalteten Händen; einzige Person, Headline: Epstein-Geschäfte"
+2026-11-17-12-17,4,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Grauhaariger Mann mit Brille und roter Krawatte; Dachzeile: Experte macht Vorschlag"
+2026-11-17-12-17,5,1,Jürgen Klopp,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Lachender Mann mit grauem Bart, Kappe und DFB-Jacke; einzige Person, Headline: Jürgen Klopp reagiert"
