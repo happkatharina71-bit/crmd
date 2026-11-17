@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-17-06-16",
+  "erfasst_am": "2026-11-17T06:16:19.301Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Tagesanbruch",
+      "headline": "Verkehrte Verhältnisse ",
+      "teasertext": "MEINUNG|Tagesanbruch Verkehrte Verhältnisse Von Annika Leister",
+      "url": "https://www.t-online.de/nachrichten/tagesanbruch/id_101531636/schwesig-eralp-wittig-spd-linke-und-bsw-stehen-vor-einer-entscheidung.html",
+      "bild_url": "https://images.t-online.de/2026/11/5jc1bdGzgUX9/39x0:1829x1029/fit-in/1829x0/elif-eralp-linke-manuela-schwesig-spd-claudia-wittig-bsw-von-links-nach-rechts-werden-sie-den-kurs-ihrer-parteien-veraendern.png",
+      "bild_alt": "Elif Eralp (Linke), Manuela Schwesig (SPD), Claudia Wittig (BSW, von links nach rechts): Werden sie den Kurs ihrer Parteien verändern?",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "\"Unverständlich\"",
+      "headline": "Deutliche Kritik an Berthold wegen AfD-Entscheidung",
+      "teasertext": "\"Unverständlich\" Deutliche Kritik an Berthold wegen AfD-Entscheidung Von Benjamin Zurmühl",
+      "url": "https://www.t-online.de/sport/fussball/nationalmannschaft-deutschland/id_101531750/afd-naehe-deutliche-kritik-an-thomas-berthold.html",
+      "bild_url": "https://images.t-online.de/2026/11/hKOrVU34IOO9/637x250:3868x2176/fit-in/1920x0/thomas-berthold-sein-afd-engagement-wird-von-vielen-seiten-aus-kritisch-betrachtet.jpg",
+      "bild_alt": "Thomas Berthold: Sein AfD-Engagement wird von vielen Seiten aus kritisch betrachtet.",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Gipfel in China",
+      "headline": "Ein rätselhaftes Treffen von Trump, Putin und Xi",
+      "teasertext": "Gipfel in China Ein rätselhaftes Treffen von Trump, Putin und Xi Eine Analyse von Bastian Brauns",
+      "url": "https://www.t-online.de/nachrichten/ausland/usa/id_101530234/trump-trifft-xi-und-putin-was-das-treffen-fuer-europa-bedeutet.html",
+      "bild_url": "https://images.t-online.de/2026/11/7vSEqQawULDq/0x287:5500x3094/fit-in/1920x0/us-praesident-donald-trump-in-washington-vor-seiner-abreise-nach-asien-die-sorge-in-europa-ist-gross.jpg",
+      "bild_alt": "US-Präsident Donald Trump in Washington vor seiner Abreise nach Asien: Die Sorge in Europa ist groß.",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Experte gibt Prognose ab",
+      "headline": "Sturm erwartet – und es gibt eine \"zweite Gefahr\"",
+      "teasertext": "Experte gibt Prognose ab Sturm erwartet – und es gibt eine \"zweite Gefahr\" Von Leon Pollok",
+      "url": "https://www.t-online.de/nachrichten/panorama/wetter/id_101530560/wetter-deutschland-dwd-sturmwarnung-experte-befuerchtet-200-liter-regen.html",
+      "bild_url": "https://images.t-online.de/2026/11/PKzqKNCfmujg/0x0:1920x1080/fit-in/1920x0/akkumulierte-regenmengen-bis-freitag-in-den-staulagen-drohen-deutlich-mehr-als-100-liter-pro-quadratmeter.png",
+      "bild_alt": "Akkumulierte Regenmengen bis Freitag: In den Staulagen drohen deutlich mehr als 100 Liter pro Quadratmeter.",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Heftige Explosionen",
+      "headline": "Ukraine löst schwere Kettenreaktion aus",
+      "teasertext": "Video Heftige Explosionen Ukraine löst schwere Kettenreaktion aus",
+      "url": "https://www.t-online.de/video/nachrichten/politik/id_101531310/achtubinsk-ukraine-meldet-angriff-auf-flugplatz-in-russland.html",
+      "bild_url": "https://images.t-online.de/2026/11/syj2-sGh8lap/551x153:838x471/fit-in/838x0/image.png",
+      "bild_alt": null,
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

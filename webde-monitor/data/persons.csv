@@ -1045,3 +1045,14 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-16-20-13,2,1,,maennlich,jung,poc,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spieler im schwarzen DFB-Trikot hält Gegenspieler mit ausgestrecktem Arm; Headline: Deutschland"
 2026-11-16-20-13,2,2,,maennlich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Spieler mit Bart im weiß-orangen Niederlande-Trikot am Ball
 2026-11-16-20-13,3,1,Robert Pattinson,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Mann mit dunklem Haar im schwarzen Anzug; einzige Person, Dachzeile: Robert Pattinson"
+2026-11-17-06-15,1,1,Jürgen Klopp,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Mann mit grauem Bart und Kappe jubelt laut; einzige Person im Vordergrund, Headline: Jürgen Klopp"
+2026-11-17-06-15,2,1,,maennlich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Lachender Mann mit grauem Bart und Kappe umarmt Spieler; möglicherweise der genannte Klopp"
+2026-11-17-06-15,2,2,,maennlich,jung,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Spieler mit Nummer 19 und Dreadlocks von hinten; Dachzeile: DFB-Team"
+2026-11-17-06-15,2,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Betreuer mit Bart in DFB-Trainingsjacke links
+2026-11-17-06-15,2,4,,maennlich,jung,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,Blonder Spieler im Trikot hinter dem Betreuer
+2026-11-17-06-15,2,5,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann hinter dem Trainer, teilweise verdeckt"
+2026-11-17-06-15,4,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Einsatzkraft in Feuerwehrkleidung mit Helm vorne, Gesicht abgewandt"
+2026-11-17-06-15,4,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Einsatzkraft mit Helm links dahinter
+2026-11-17-06-15,5,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Mann mit Bart im gestreiften Hemd sitzt in der Mitte
+2026-11-17-06-15,5,2,,weiblich,jung,weiss,nebenperson,indirekt,passiv,neutral,nein,mittel,"Blonde Frau im Leopardenrock links; Headline: Hofdamen kalt erwischt"
+2026-11-17-06-15,5,3,,weiblich,jung,weiss,nebenperson,indirekt,passiv,neutral,nein,mittel,"Frau mit dunklem Haar im dunklen Overall rechts; Headline: Hofdamen kalt erwischt"

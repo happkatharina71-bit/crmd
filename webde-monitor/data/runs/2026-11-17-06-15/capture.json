@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-17-06-15",
+  "erfasst_am": "2026-11-17T06:15:45.663Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Jürgen Klopp hat seine erste Mission erfüllt",
+      "teasertext": "Analyse DFB-Gala gegen Holland Jürgen Klopp hat seine erste Mission erfüllt",
+      "url": "https://web.de/magazine/sport/fussball/nations-league/juergen-klopp-mission-erfuellt-42952804",
+      "bild_url": "https://i0.web.de/image/844/42952844%2cpd=2%2cf=responsive169-w950/juergen-klopp.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse DFB-Gala gegen Holland",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Eine Baustelle bleibt Klopp erhalten",
+      "teasertext": "Galerie DFB-Team in der Einzelkritik Eine Baustelle bleibt Klopp erhalten",
+      "url": "https://web.de/magazine/sport/fussball/nations-league/baustelle-bleibt-klopp-42952336",
+      "bild_url": "https://i0.web.de/image/374/42952374%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Galerie DFB-Team in der Einzelkritik",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "USA warnen Reisende in Europa",
+      "teasertext": "Video In der Weihnachtszeit USA warnen Reisende in Europa",
+      "url": "https://web.de/magazine/politik/videos/us-politik/usa-warnen-reisende-europa-42952578",
+      "bild_url": "https://i0.web.de/image/580/42952580%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Video In der Weihnachtszeit",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Autofahrer flieht vor Polizei und erfasst 13-Jährige tödlich",
+      "teasertext": "Tragödie in Bayern Autofahrer flieht vor Polizei und erfasst 13-Jährige tödlich",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/sailauf-aschaffenburg-autofahrer-flieht-polizei-maedchen-tot-42952514",
+      "bild_url": "https://i0.web.de/image/516/42952516%2cpd=4%2cf=responsive169-w300/toedliches-verfolgungsfahrt.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Tragödie in Bayern",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Eine solche Kehrtwende gab es bei \"Bauer sucht Frau\" noch nie",
+      "teasertext": "Galerie Hofdamen werden kalt erwischt Eine solche Kehrtwende gab es bei \"Bauer sucht Frau\" noch nie",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/bauer-sucht-frau/kehrtwende-bauer-sucht-42951286",
+      "bild_url": "https://i0.web.de/image/226/42951226%2cpd=3%2cf=responsive169-w300/bauer-andi-chiara-johanna.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Hofdamen werden kalt erwischt",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
