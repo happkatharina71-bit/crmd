@@ -1,0 +1,101 @@
+{
+ "run_id": "2026-11-17-09-14",
+ "erfasst_am": "2026-11-17T09:14:04.019Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei jubelnde Nationalspieler; Klopp-Elf genannt, keine Einzelnamen; Trikotnummern nicht übernommen",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Jubelnder Spieler im DFB-Trikot zeigt auf Wappen"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "poc",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Spieler mit Nummer 4 jubelt dahinter"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "grafik_text",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Wetterkarte mit Niederschlagsmengen; gleiches Bild wie in der vorigen Erhebung",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt eines älteren Mannes vor blauer Wand; nicht namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Grauhaariger Mann mit Brille und roter Krawatte; Dachzeile: Experte macht Vorschlag"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Nächtliche Explosion, Videostandbild; gleiches Bild wie in der vorigen Erhebung",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt einer lächelnden Frau; nicht namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Frau mit hochgestecktem blondem Haar im blauen Oberteil; Headline: Ex-Ministerin postet Fotos"
+    }
+   ]
+  }
+ ]
+}

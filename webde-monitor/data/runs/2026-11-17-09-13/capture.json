@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-17-09-13",
+  "erfasst_am": "2026-11-17T09:13:33.675Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Besteht die Regierung den heutigen Test?",
+      "teasertext": "Enormer Druck auf Kanzler Merz Besteht die Regierung den heutigen Test?",
+      "url": "https://web.de/magazine/politik/inland/koalitionsausschuss-regierung-glaubwuerdigkeitstest-42950572",
+      "bild_url": "https://i0.web.de/image/600/42950600%2cpd=3%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Enormer Druck auf Kanzler Merz",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "\"Gewaltsame Erniedrigung: Deutschland zerstört die Niederlande\"",
+      "teasertext": "Galerie Reaktionen auf die DFB-Gala \"Gewaltsame Erniedrigung: Deutschland zerstört die Niederlande\"",
+      "url": "https://web.de/magazine/sport/fussball/nations-league/gewaltsame-erniedrigung-deutschland-zerstoert-niederlande-42952390",
+      "bild_url": "https://i0.web.de/image/478/42952478%2cpd=5%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Galerie Reaktionen auf die DFB-Gala",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "\"Zyklopenkind\" auf Nazca-Friedhof entdeckt",
+      "teasertext": "Archäologischer Sensationsfund \"Zyklopenkind\" auf Nazca-Friedhof entdeckt",
+      "url": "https://web.de/magazine/wissen/geschichte/zyklopenkind-nazca-friedhof-entdeckt-42950462",
+      "bild_url": "https://i0.web.de/image/906/42950906%2cpd=2%2cf=responsive169-w300/ausgrabungen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Archäologischer Sensationsfund",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "\"Viele kannten das Kind\" – Einsatzkräfte nach Tod einer 13-Jährigen betroffen",
+      "teasertext": "Fahrerflucht endet tödlich \"Viele kannten das Kind\" – Einsatzkräfte nach Tod einer 13-Jährigen betroffen",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/kannten-kind-einsatzkraefte-tod-13-jaehrigen-betroffen-42953294",
+      "bild_url": "https://i0.web.de/image/296/42953296%2cpd=1%2cf=responsive169-w300/unfall-sailauf.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Fahrerflucht endet tödlich",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Erster \"Wetten, dass..?\"-Gast soll feststehen",
+      "teasertext": "Bericht über prominenten Namen Erster \"Wetten, dass..?\"-Gast soll feststehen",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/wetten-gast-feststehen-42952198",
+      "bild_url": "https://i0.web.de/image/944/42952944%2cpd=1%2cf=responsive169-w300/bill-kaulitz.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Bericht über prominenten Namen",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

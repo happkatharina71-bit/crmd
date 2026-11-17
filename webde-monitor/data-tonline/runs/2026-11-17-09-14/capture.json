@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-17-09-14",
+  "erfasst_am": "2026-11-17T09:14:04.019Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Gala-Auftritt der Klopp-Elf",
+      "headline": "Das Ende der Bräsigkeit",
+      "teasertext": "Gala-Auftritt der Klopp-Elf Das Ende der Bräsigkeit Von Andreas Becker",
+      "url": "https://www.t-online.de/sport/fussball/nationalmannschaft-deutschland/id_101530850/juergen-klopp-dfb-elf-nach-erfolg-auf-neuem-kurs-.html",
+      "bild_url": "https://images.t-online.de/2026/11/DtpwT81I7UYu/889x254:2622x1475/fit-in/1920x0/16-112026-fussball-laenderspiel-deutschland-niederlande-uefa-nations-league-6-spieltag-olympiastadion-berlin-saison-2026-27-torjubel-nach-dem-tor-zum-3-0-durch-torschuetze-nico-schlotterbeck-germany-15-zusammen-mit-jonathan-tah-germany-04-dfb-regulations-prohibit-any-use-of-photographs-as-image-sequences-and-or-quasi-video-berlin-deutschland-november-16-2026-soccer-international-match-germany-vs-netherlands-uefa-nations-league-matchday-6-olympic-stadium-berlin-2026-27-season-goa.jpg",
+      "bild_alt": "imago images 1086028664",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Experte gibt Prognose ab",
+      "headline": "Sturm erwartet – und es gibt eine \"zweite Gefahr\"",
+      "teasertext": "Experte gibt Prognose ab Sturm erwartet – und es gibt eine \"zweite Gefahr\" Von Leon Pollok",
+      "url": "https://www.t-online.de/nachrichten/panorama/wetter/id_101530560/wetter-in-deutschland-dwd-sturmwarnung-experte-sieht-grosse-gefahr-.html",
+      "bild_url": "https://images.t-online.de/2026/11/PKzqKNCfmujg/0x0:1920x1080/fit-in/1920x0/akkumulierte-regenmengen-bis-freitag-in-den-staulagen-drohen-deutlich-mehr-als-100-liter-pro-quadratmeter.png",
+      "bild_alt": "Akkumulierte Regenmengen bis Freitag: In den Staulagen drohen deutlich mehr als 100 Liter pro Quadratmeter.",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Experte macht Vorschlag",
+      "headline": "Die nächste Rentenreform kann kommen",
+      "teasertext": "Experte macht Vorschlag Die nächste Rentenreform kann kommen Von Amy Walker",
+      "url": "https://www.t-online.de/finanzen/ratgeber/altersvorsorge/betrieblichealtersvorsorge/id_101531162/reform-der-betriebsrente-hunderte-euro-extra-rente-sind-moeglich.html",
+      "bild_url": "https://images.t-online.de/2026/11/7sTsamyMDYHm/0x313:6000x3375/fit-in/1920x0/wirtschaftsweise-stellen-jahresgutachten-2026-vor-2026-11-11-deutschland-berlin-bundespressekonferenz-der-sachverstaendigenrat-zur-begutachtung-der-gesamtwirtschlichen-enwicklung-stellt-sein-jahresgutachten-2026-vor-im-bild-prof-dr-martin-werding-economic-experts-present-2026-annual-report-november-11-2026-berlin-germany-federal-press-conference-the-german-council-of-economic-experts-presents-its-2026-annual-report-pictured-prof-dr-martin-werding.jpg",
+      "bild_alt": "imago images 0882460074",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Heftige Explosionen",
+      "headline": "Ukraine löst schwere Kettenreaktion aus",
+      "teasertext": "Video Heftige Explosionen Ukraine löst schwere Kettenreaktion aus",
+      "url": "https://www.t-online.de/video/nachrichten/politik/id_101531310/achtubinsk-ukraine-meldet-angriff-auf-flugplatz-in-russland.html",
+      "bild_url": "https://images.t-online.de/2026/11/syj2-sGh8lap/551x153:838x471/fit-in/838x0/image.png",
+      "bild_alt": null,
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "SPD-Mann kandidiert",
+      "headline": "Plötzlich postet Ex-Ministerin auffällige Fotos",
+      "teasertext": "SPD-Mann kandidiert Plötzlich postet Ex-Ministerin auffällige Fotos",
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101531884/spd-franziska-giffey-postet-auffaellige-fotos.html",
+      "bild_url": "https://images.t-online.de/2026/11/oLcvJnuUTELS/0x423:5057x2845/fit-in/1920x0/franziska-giffey-sie-war-von-2021-bis-2023-regierende-buergermeisterin-in-berlin.jpg",
+      "bild_alt": "Franziska Giffey: Sie war von 2021 bis 2023 Regierende Bürgermeisterin in Berlin.",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

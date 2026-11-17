@@ -1056,3 +1056,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-17-06-15,5,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Mann mit Bart im gestreiften Hemd sitzt in der Mitte
 2026-11-17-06-15,5,2,,weiblich,jung,weiss,nebenperson,indirekt,passiv,neutral,nein,mittel,"Blonde Frau im Leopardenrock links; Headline: Hofdamen kalt erwischt"
 2026-11-17-06-15,5,3,,weiblich,jung,weiss,nebenperson,indirekt,passiv,neutral,nein,mittel,"Frau mit dunklem Haar im dunklen Overall rechts; Headline: Hofdamen kalt erwischt"
+2026-11-17-09-13,1,1,,maennlich,alt,weiss,hauptperson,indirekt,passiv,reich_maechtig,ja,niedrig,"Mann mit Glatze und Brille, Arme verschränkt; möglicherweise der genannte Merz"
+2026-11-17-09-13,1,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Mann mit Hand an der Wange, nachdenklich, links"
+2026-11-17-09-13,2,1,,maennlich,jung,poc,hauptperson,indirekt,passiv,neutral,nein,mittel,"Spieler im weiß-orangen Trikot mit gesenktem Blick; Headline: Deutschland zerstört die Niederlande"
+2026-11-17-09-13,5,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Lachender Mann mit langen blonden Haaren, Piercings und Tattoos; Headline: prominenter Gast"
+2026-11-17-09-13,5,2,,maennlich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,Lachender Mann mit langen dunklen Locken und Bart

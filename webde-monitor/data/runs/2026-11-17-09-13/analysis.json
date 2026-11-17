@@ -1,0 +1,114 @@
+{
+ "run_id": "2026-11-17-09-13",
+ "erfasst_am": "2026-11-17T09:13:33.675Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Männer auf Regierungsbank im Plenarsaal; Merz genannt, aber nicht sicher einer Person zuordenbar, daher kein Name; angeschnittene Person im Hintergrund nicht codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit Glatze und Brille, Arme verschränkt; möglicherweise der genannte Merz"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit Hand an der Wange, nachdenklich, links"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "ja",
+   "notiz": "Niederländischer Spieler geht enttäuscht, dahinter jubelnde deutsche Spieler und Publikum unscharf; Trikotnamen nicht übernommen",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Spieler im weiß-orangen Trikot mit gesenktem Blick; Headline: Deutschland zerstört die Niederlande"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "sonstiges",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Ausgrabung: Hände mit Pinsel an Tonscherbe; nur Hände sichtbar, nicht als Person codiert",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Nächtliche Unfallstelle mit Polizeiauto, Feuerwehr und beschädigten Autos; keine Personen erkennbar",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Männer vor Glitzervorhang; niemand namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Lachender Mann mit langen blonden Haaren, Piercings und Tattoos; Headline: prominenter Gast"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Lachender Mann mit langen dunklen Locken und Bart"
+    }
+   ]
+  }
+ ]
+}
