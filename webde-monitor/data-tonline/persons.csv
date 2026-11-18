@@ -149,3 +149,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-18-12-19,3,2,,maennlich,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit Glatze im dunklen Mantel steht am Auto
 2026-11-18-12-19,4,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Mann mit Brille und gestreifter Krawatte erklärt mit offener Hand; Dachzeile: t-online-Kolumnist"
 2026-11-18-12-19,5,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person mit Mütze in türkiser Jacke von hinten, hält kaputten Schirm"
+2026-11-18-16-16,1,1,Donald Trump,maennlich,alt,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,hoch,"Älterer Mann mit blondem Haar und roter Krawatte zeigt mit dem Finger; einzige Person, Headline: Donald Trump"
+2026-11-18-16-16,3,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Grauhaariger Mann mit randloser Brille gestikuliert; Dachzeile: Bayern-Präsident"
+2026-11-18-16-16,4,1,,maennlich,alt,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Mann mit dunklem Haar im hellgrünen Sakko; Dachzeile: Serienhit der Achtziger"
+2026-11-18-16-16,5,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,Mann im Sakko mit Akte geht im Regen
+2026-11-18-16-16,5,2,,maennlich,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit Glatze im dunklen Mantel steht am Auto

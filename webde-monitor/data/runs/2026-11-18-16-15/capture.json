@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-18-16-15",
+  "erfasst_am": "2026-11-18T16:15:57.002Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Handschlag für Putin, Umarmung von Xi",
+      "teasertext": "Trump in China empfangen Handschlag für Putin, Umarmung von Xi",
+      "url": "https://web.de/magazine/politik/handschlag-putin-umarmung-xi-42958380",
+      "bild_url": "https://i0.web.de/image/438/42958438%2cpd=6%2cf=responsive169-w950/trump-xi-putin.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Trump in China empfangen",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Russland plante offenbar Anschlag an polnischer Grenze",
+      "teasertext": "Zeitungsbericht aus Polen Russland plante offenbar Anschlag an polnischer Grenze",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/russland-plante-offenbar-anschlag-polnischer-grenze-42958878",
+      "bild_url": "https://i0.web.de/image/880/42958880%2cpd=2%2cf=responsive169-w300/bundeswehr-hilft-befestigung-polens-ostgrenze.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Zeitungsbericht aus Polen",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Wo ist Larisa Bender?",
+      "teasertext": "\"Aktenzeichen XY... Ungelöst\" Wo ist Larisa Bender?",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/aktenzeichen-xy-ungeloest-larisa-bender-42951008",
+      "bild_url": "https://i0.web.de/image/994/42950994%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "\"Aktenzeichen XY... Ungelöst\"",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "\"An Grausamkeit nicht mehr zu überbieten\"",
+      "teasertext": "Leserstimmen Mögliches DFB-Trikot geleakt \"An Grausamkeit nicht mehr zu überbieten\"",
+      "url": "https://web.de/magazine/sport/fussball/nationalmannschaft/grausamkeit-ueberbieten-42957988",
+      "bild_url": "https://i0.web.de/image/552/42957552%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Leserstimmen Mögliches DFB-Trikot geleakt",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "William und Kate bekommen zum Abschied ein besonderes Geschenk",
+      "teasertext": "Galerie Royale Indien-Reise William und Kate bekommen zum Abschied ein besonderes Geschenk",
+      "url": "https://web.de/magazine/unterhaltung/adel/william-kate-bekommen-abschied-besonderes-geschenk-37054342",
+      "bild_url": "https://i0.web.de/image/536/42957536%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Royale Indien-Reise",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
