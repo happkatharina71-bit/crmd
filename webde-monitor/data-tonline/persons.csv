@@ -133,3 +133,9 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-17-20-14,2,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Jubelnder Mann mit Bart in DFB-Jacke rechts
 2026-11-17-20-14,2,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Applaudierender Mann am rechten Rand, angeschnitten"
 2026-11-17-20-14,4,1,,weiblich,mittel,weiss,hauptperson,indirekt,passiv,reich_maechtig,ja,niedrig,"Frau mit dunklem Haar im beigen Blazer gestikuliert am Pult; Dachzeile: Energiepläne der Regierung"
+2026-11-18-06-16,2,1,,maennlich,alt,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,"Weißhaariger Mann im Anzug vor Mikrofon, skeptischer Blick; Dachzeile: Sportverband"
+2026-11-18-06-16,4,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Mann mit grauem Bart und Kappe jubelt in der Mitte; möglicherweise der genannte Klopp"
+2026-11-18-06-16,4,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Lächelnder Mann mit kurzem Haar in DFB-Jacke links
+2026-11-18-06-16,4,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Jubelnder Mann mit Bart in DFB-Jacke rechts
+2026-11-18-06-16,4,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Applaudierender Mann am rechten Rand, angeschnitten"
+2026-11-18-06-16,5,1,,weiblich,mittel,weiss,hauptperson,indirekt,passiv,reich_maechtig,ja,niedrig,"Frau mit dunklem Haar im beigen Blazer gestikuliert am Pult; Dachzeile: Energiepläne der Regierung"

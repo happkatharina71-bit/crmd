@@ -1080,3 +1080,15 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-17-20-13,2,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,passiv,neutral,nein,niedrig,"Person mit kurzem Haar von hinten, fotografiert mit Tablet"
 2026-11-17-20-13,4,1,Effenberg,maennlich,alt,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann mit hellgrauem Haar im schwarzen Shirt, ernster Blick; einzige Person, Headline: Effenberg"
 2026-11-17-20-13,5,1,Thomas Markle,maennlich,alt,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Älterer Mann mit weißem Bart und Brille im hellblauen Hemd spricht; einzige Person, Headline: Thomas Markle angeklagt"
+2026-11-18-06-15,1,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,"Person hinter der Windschutzscheibe, hält Hand vors Gesicht, kaum erkennbar"
+2026-11-18-06-15,1,2,,weiblich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Silhouette mit langen Haaren links an offener Autotür
+2026-11-18-06-15,1,3,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Dunkle Silhouette rechts neben dem Auto
+2026-11-18-06-15,2,1,,weiblich,mittel,poc,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Frau mit langen dunklen Haaren in grauer Jacke jubelt mit geballten Fäusten; Headline: Wahlsieg"
+2026-11-18-06-15,3,1,Steinbrück,maennlich,alt,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,mittel,"Älterer Mann mit Brille und roter Krawatte, verärgerter Blick; Headline: bringt Steinbrück auf die Palme"
+2026-11-18-06-15,3,2,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Blonde Frau im grünen Blazer im Hintergrund
+2026-11-18-06-15,3,3,Markus Lanz,maennlich,nicht_erkennbar,weiss,nebenperson,namentlich,nicht_thematisiert,neutral,nein,niedrig,"Grauhaariger Mann von hinten; Dachzeile: Markus Lanz (Gastgeber)"
+2026-11-18-06-15,4,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Blonder Spieler mit nacktem Oberkörper schreit jubelnd in der Mitte; möglicherweise der genannte Haaland"
+2026-11-18-06-15,4,2,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Jubelnder Spieler mit kurzem Haar links
+2026-11-18-06-15,4,3,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Blonder Spieler zweiter von links, teilweise verdeckt"
+2026-11-18-06-15,4,4,,maennlich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Jubelnder Spieler mit Locken rechts
+2026-11-18-06-15,5,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,unklar,nein,niedrig,"Person mit Kapuze von hinten, hält Smartphone und Kreditkarte; Gesicht nicht sichtbar"

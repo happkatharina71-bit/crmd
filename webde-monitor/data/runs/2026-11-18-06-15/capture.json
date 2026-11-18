@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-18-06-15",
+  "erfasst_am": "2026-11-18T06:15:37.563Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Koalition verhandelt bis tief in die Nacht",
+      "teasertext": "Rente, Sprit, Steuern Koalition verhandelt bis tief in die Nacht",
+      "url": "https://web.de/magazine/politik/inland/koalition-verhandelt-tief-nacht-42956400",
+      "bild_url": "https://i0.web.de/image/402/42956402%2cpd=4%2cf=responsive169-w950/koalitionsausschuss.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Rente, Sprit, Steuern",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Dieser Wahlsieg ist gleich in mehrfacher Hinsicht historisch",
+      "teasertext": "Umbruch in Alaska Dieser Wahlsieg ist gleich in mehrfacher Hinsicht historisch",
+      "url": "https://web.de/magazine/politik/us-politik/wahlsieg-mehrfacher-hinsicht-historisch-42956596",
+      "bild_url": "https://i0.web.de/image/728/42956728%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Umbruch in Alaska",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Debatte über SPD-Vorsitz bringt Steinbrück auf die Palme",
+      "teasertext": "TV-Nachlese \"Markus Lanz\" Debatte über SPD-Vorsitz bringt Steinbrück auf die Palme",
+      "url": "https://web.de/magazine/politik/politische-talkshows/lanz-debatte-spd-vorsitz-bringt-steinbrueck-palme-42956768",
+      "bild_url": "https://i0.web.de/image/776/42956776%2cpd=2%2cf=responsive169-w300/peer-steinbrueck-kerstin-muenstermann-markus-lanz.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "TV-Nachlese \"Markus Lanz\"",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Ekstase in der Nachspielzeit bei möglichem DFB-Gegner",
+      "teasertext": "Immer wieder Haaland Ekstase in der Nachspielzeit bei möglichem DFB-Gegner",
+      "url": "https://web.de/magazine/sport/fussball/nations-league/ekstase-nachspielzeit-moeglichem-dfb-gegner-42956738",
+      "bild_url": "https://i0.web.de/image/754/42956754%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Immer wieder Haaland",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Cyberangriff trifft fast 200 wichtige Websites – Finanzdaten im Visier",
+      "teasertext": "Video Ikea, BBC und Co. Cyberangriff trifft fast 200 wichtige Websites – Finanzdaten im Visier",
+      "url": "https://web.de/magazine/panorama/videos/verbrechen-vermisste/cyberangriff-trifft-200-wichtige-websites-finanzdaten-visier-42956556",
+      "bild_url": "https://i0.web.de/image/834/42956834%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Video Ikea, BBC und Co.",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
