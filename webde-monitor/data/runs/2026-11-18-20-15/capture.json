@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-18-20-15",
+  "erfasst_am": "2026-11-18T20:15:16.440Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Hat Erdogan Angst vor der \"Liste\"?",
+      "teasertext": "Börsenskandal in der Türkei Hat Erdogan Angst vor der \"Liste\"?",
+      "url": "https://web.de/magazine/politik/boersenskandal-tuerkei-erdogan-angst-liste-42958280",
+      "bild_url": "https://i0.web.de/image/276/42958276%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Börsenskandal in der Türkei",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Entlastungen bei Strom und Sprit: Was bringt das meinem Konto?",
+      "teasertext": "Koalition ist sich einig Entlastungen bei Strom und Sprit: Was bringt das meinem Konto?",
+      "url": "https://web.de/magazine/politik/inland/entlastungen-strom-sprit-bringt-konto-42959002",
+      "bild_url": "https://i0.web.de/image/298/42959298%2cpd=2%2cf=responsive169-w300/stromsteuer-diskussion.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Koalition ist sich einig",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Wie die neuen DFB-Stars durchs Raster fielen",
+      "teasertext": "Lieber spät als nie? Wie die neuen DFB-Stars durchs Raster fielen",
+      "url": "https://web.de/magazine/sport/fussball/nationalmannschaft/dfb-stars-durchs-raster-fielen-42954242",
+      "bild_url": "https://i0.web.de/image/708/42955708%2cpd=4%2cf=responsive169-w300/philipp-treu.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Lieber spät als nie?",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Kretschmann über Internatszeit: Prügelorgien und Übergriffe",
+      "teasertext": "Schwere Vorwürfe Kretschmann über Internatszeit: Prügelorgien und Übergriffe",
+      "url": "https://web.de/magazine/panorama/menschen-schicksale/kretschmann-internatszeit-pruegelorgien-uebergriffe-42959734",
+      "bild_url": "https://i0.web.de/image/754/42959754%2cpd=4%2cf=responsive169-w300/winfried-kretschmann.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Schwere Vorwürfe",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Perez Hilton wurde offenbar aus dem Krankenhaus entlassen",
+      "teasertext": "Update zur Genesung Perez Hilton wurde offenbar aus dem Krankenhaus entlassen",
+      "url": "https://web.de/magazine/unterhaltung/stars/perez-hilton-offenbar-krankenhaus-entlassen-42959890",
+      "bild_url": "https://i0.web.de/image/892/42959892%2cpd=1%2cf=responsive169-w300/perez-hilton-sorgte-august-schockierenden-livestre.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Update zur Genesung",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

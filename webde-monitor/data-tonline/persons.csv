@@ -154,3 +154,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-18-16-16,4,1,,maennlich,alt,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Mann mit dunklem Haar im hellgrünen Sakko; Dachzeile: Serienhit der Achtziger"
 2026-11-18-16-16,5,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,Mann im Sakko mit Akte geht im Regen
 2026-11-18-16-16,5,2,,maennlich,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit Glatze im dunklen Mantel steht am Auto
+2026-11-18-20-15,1,1,Putin,maennlich,alt,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,hoch,"Älterer Mann im dunklen Anzug im Profil; einzige Person, Headline: Putin"
+2026-11-18-20-15,2,1,,weiblich,mittel,weiss,hauptperson,indirekt,passiv,neutral,nein,niedrig,"Lächelnde Frau mit hochgesteckten dunklen Haaren in gemusterter Bluse; eine der beiden Genannten"
+2026-11-18-20-15,3,1,,maennlich,alt,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Lachender grauhaariger Mann im orangen Pullover; Headline: Rentner"
+2026-11-18-20-15,3,2,,weiblich,mittel,weiss,nebenperson,indirekt,passiv,neutral,nein,mittel,"Frau mit kurzem dunklem Haar im rosa Pullover; Headline: Rentner"
+2026-11-18-20-15,4,1,,weiblich,mittel,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Lächelnde Frau mit Brille streicht sich durchs Haar; Kontext Ministerium"
+2026-11-18-20-15,5,1,,maennlich,alt,weiss,hauptperson,indirekt,passiv,reich_maechtig,ja,niedrig,"Älterer Mann mit blondem Haar wird umarmt, Gesicht sichtbar; einer der Genannten"
+2026-11-18-20-15,5,2,,maennlich,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Mann mit dunklem Haar von hinten, umarmt; einer der Genannten"
