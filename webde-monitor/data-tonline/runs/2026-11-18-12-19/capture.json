@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-18-12-19",
+  "erfasst_am": "2026-11-18T12:19:15.893Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Angriff auf Putins Krim-Brücke",
+      "headline": "\"Wir zahlen es ihnen heim\"",
+      "teasertext": "Angriff auf Putins Krim-Brücke \"Wir zahlen es ihnen heim\" Von Anna von Stefenelli",
+      "url": "https://www.t-online.de/nachrichten/ukraine/id_101533994/russlands-angriffskrieg-krim-bruecke-teils-zerstoert-kiew-enthuellt-details.html",
+      "bild_url": "https://images.t-online.de/2022/10/92444896v2/0x38:1920x1080/fit-in/1920x0/brennende-krim-bruecke-archivbild-erneut-soll-es-angriffe-nahe-der-wichtigen-verbindung-zum-festland-gegeben-haben.jpg",
+      "bild_alt": "Brennende Krim-Brücke (Archivbild): Erneut soll es Angriffe nahe der wichtigen Verbindung zum Festland gegeben haben.",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Bayern-Präsident exklusiv",
+      "headline": "\"Haben den nächsten Ballon-d'Or-Favoriten\"",
+      "teasertext": "INTERVIEW|Bayern-Präsident exklusiv \"Haben den nächsten Ballon-d'Or-Favoriten\" Ein Interview von Julian Buhl",
+      "url": "https://www.t-online.de/sport/fussball/id_101525686/fc-bayern-praesident-hainer-erklaert-olise-fuer-unverkaeuflich.html",
+      "bild_url": "https://images.t-online.de/2026/11/RJFKDdBtIz3z/0x560:5692x3202/fit-in/1920x0/herbert-hainer-der-72-jaehrige-ist-seit-november-2019-praesident-des-fc-bayern.jpg",
+      "bild_alt": "Herbert Hainer: Der 72-Jährige ist seit November 2019 Präsident des FC Bayern.",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Einigung bei Stromsteuer",
+      "headline": "Doch Versorger müssen die Senkung nicht weitergeben",
+      "teasertext": "Einigung bei Stromsteuer Doch Versorger müssen die Senkung nicht weitergeben Von Amy Walker",
+      "url": "https://www.t-online.de/finanzen/energie/id_101532442/stromsteuer-sinkt-diese-verbraucher-profitieren-von-der-senkung.html",
+      "bild_url": "https://images.t-online.de/2026/11/kDosEvXJC054/517x334:1320x743/fit-in/1320x0/vizekanzler-lars-klingbeil-spd-betritt-den-koalitionsgipfel-bis-tief-in-die-nacht-verhandelten-die-spitzen-der-schwarz-roten-koalition-ueber-verschiedene-haushaltsthemen.jpg",
+      "bild_alt": "Vizekanzler Lars Klingbeil (SPD) betritt den Koalitionsgipfel: Bis tief in die Nacht verhandelten die Spitzen der schwarz-roten Koalition über verschiedene Haushaltsthemen.",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "t-online-Kolumnist über Sozialdemokraten",
+      "headline": "\"Dieser Satz ist fürchterlich\"",
+      "teasertext": "Video t-online-Kolumnist über Sozialdemokraten \"Dieser Satz ist fürchterlich\"",
+      "url": "https://www.t-online.de/video/nachrichten/politik/id_101534496/spd-christoph-schwennicke-spricht-bei-phoenix-ueber-sozialdemokraten.html",
+      "bild_url": "https://images.t-online.de/2026/11/JbXEwWfK1UVj/0x126:1504x846/fit-in/1504x0/image.jpg",
+      "bild_alt": null,
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Wetterlage verschärft sich",
+      "headline": "Meteorologen: fast ganz Deutschland im Warnbereich",
+      "teasertext": "Wetterlage verschärft sich Meteorologen: fast ganz Deutschland im Warnbereich",
+      "url": "https://www.t-online.de/nachrichten/panorama/wetter/id_101533978/wetterprognose-fast-ganz-deutschland-im-warnbereich.html",
+      "bild_url": "https://images.t-online.de/2026/11/erFj1ZBHoIiP/0x107:2048x1152/fit-in/1920x0/ein-mann-haelt-auf-dem-steg-seinen-regenschirm-fest-symbolbild-der-dwd-warnt-vor-orkanartigen-boeen.jpg",
+      "bild_alt": "Ein Mann hält auf dem Steg seinen Regenschirm fest (Symbolbild): Der DWD warnt vor orkanartigen Böen.",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

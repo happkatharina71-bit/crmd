@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-18-12-18",
+  "erfasst_am": "2026-11-18T12:18:43.078Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Neue Studie zeigt Schattenseiten der KI",
+      "teasertext": "Aktuelle Klimanews Neue Studie zeigt Schattenseiten der KI",
+      "url": "https://web.de/magazine/wissen/klima/studie-zeigt-schattenseiten-ki-fuers-klima-42954378",
+      "bild_url": "https://i0.web.de/image/590/42957590%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Aktuelle Klimanews",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Joachim Sauer: \"Angela und ich haben versucht, genau das zu leben\"",
+      "teasertext": "Angela Merkels Ehemann Joachim Sauer: \"Angela und ich haben versucht, genau das zu leben\"",
+      "url": "https://web.de/magazine/politik/inland/joachim-sauer-angela-versucht-genau-leben-42957062",
+      "bild_url": "https://i0.web.de/image/064/42957064%2cpd=2%2cf=responsive169-w300/joachim-sauer.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Angela Merkels Ehemann",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Bill Kaulitz stellt Leipziger Beamten bloß – Stadt reagiert",
+      "teasertext": "Ärger um Pyroshow Bill Kaulitz stellt Leipziger Beamten bloß – Stadt reagiert",
+      "url": "https://web.de/magazine/unterhaltung/musik/bill-kaulitz-stellt-leipziger-beamten-stadt-42957778",
+      "bild_url": "https://i0.web.de/image/596/42957596%2cpd=5%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Ärger um Pyroshow",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Der Student, der für immer in einer Höhle feststeckt",
+      "teasertext": "Kopfüber in der Felsspalte Der Student, der für immer in einer Höhle feststeckt",
+      "url": "https://web.de/magazine/panorama/unfaelle-ungluecke/student-hoehle-feststeckt-42867660",
+      "bild_url": "https://i0.web.de/image/772/42953772%2cpd=7%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Kopfüber in der Felsspalte",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Biathlet droht nach Jagdunfall das Karriereende",
+      "teasertext": "Fall für Obersten Gerichtshof Biathlet droht nach Jagdunfall das Karriereende",
+      "url": "https://web.de/magazine/sport/wintersport/biathlon/biathlet-arttu-heikkinen-droht-jagdunfall-karriereende-42957872",
+      "bild_url": "https://i0.web.de/image/902/42957902%2cpd=3%2cf=responsive169-w300/arttu-heikkinen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Fall für Obersten Gerichtshof",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

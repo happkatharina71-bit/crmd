@@ -144,3 +144,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-18-09-14,4,1,,weiblich,mittel,weiss,hauptperson,indirekt,passiv,reich_maechtig,ja,niedrig,"Frau mit dunklem Haar im beigen Blazer gestikuliert am Pult; Dachzeile: Energiepläne der Regierung"
 2026-11-18-09-14,5,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Mann mit Locken und Bart im weißen Bayern-Trikot vorne; möglicherweise Teil des genannten Weltmeisterduos"
 2026-11-18-09-14,5,2,,maennlich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Mann im roten Bayern-Hoodie legt Arm um den anderen; möglicherweise Teil des Weltmeisterduos"
+2026-11-18-12-19,2,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Grauhaariger Mann mit randloser Brille gestikuliert; Dachzeile: Bayern-Präsident"
+2026-11-18-12-19,3,1,,maennlich,mittel,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,Mann im Sakko mit Akte geht im Regen
+2026-11-18-12-19,3,2,,maennlich,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann mit Glatze im dunklen Mantel steht am Auto
+2026-11-18-12-19,4,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,ja,mittel,"Mann mit Brille und gestreifter Krawatte erklärt mit offener Hand; Dachzeile: t-online-Kolumnist"
+2026-11-18-12-19,5,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Person mit Mütze in türkiser Jacke von hinten, hält kaputten Schirm"

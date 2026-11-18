@@ -1,0 +1,140 @@
+{
+ "run_id": "2026-11-18-12-18",
+ "erfasst_am": "2026-11-18T12:18:43.078Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "grafik_text",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Montage: Wald von oben mit leuchtendem KI-Chip",
+   "personen": []
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 4,
+   "menschenmenge": "nein",
+   "notiz": "Älterer Mann im Gespräch zwischen anderen Männern; Joachim Sauer als einzige Person im Fokus zuordenbar; genannte Angela Merkel nicht im Bild; unscharfe Personen im Vordergrund/Hintergrund teils nicht codiert",
+   "personen": [
+    {
+     "name": "Joachim Sauer",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Älterer Mann mit Brille im hellblauen Hemd spricht, scharf in der Bildmitte; Headline: Joachim Sauer"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit Bart im weißen Hemd links"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Junger Mann im Anzug rechts hinten"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Unscharfe Person im Vordergrund links"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Bühnenshow mit Feuerfontänen; Geschlecht der Performer-Person aus der Distanz nicht sicher erkennbar; Gitarrist im Dunkel",
+   "personen": [
+    {
+     "name": "Bill Kaulitz",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person mit langen blonden Haaren in Glitzeroutfit am Mikrofon, Arme erhoben; einzige Person im Vordergrund, Headline: Bill Kaulitz"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Gitarrist im Dunkel rechts hinten"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "grafik_text",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Felsspalte mit grafisch eingezeichneter Silhouette einer Person (Schemadarstellung), nicht als Person codiert",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Biathlet mit Gewehr und Startnummer",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Junger Mann mit Stirnband und Sportbrille, Gewehr auf dem Rücken, blickt über die Schulter; Headline: Biathlet"
+    }
+   ]
+  }
+ ]
+}
