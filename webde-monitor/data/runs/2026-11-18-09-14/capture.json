@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-18-09-14",
+  "erfasst_am": "2026-11-18T09:14:10.668Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Regierung einigt sich bei Spritpreisdeckel und Stromsteuer-Senkung",
+      "teasertext": "Nach acht Stunden Verhandlung Regierung einigt sich bei Spritpreisdeckel und Stromsteuer-Senkung",
+      "url": "https://web.de/magazine/politik/inland/regierung-einigt-spritpreisdeckel-stromsteuer-senkung-42957008",
+      "bild_url": "https://i0.web.de/image/044/42957044%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Nach acht Stunden Verhandlung",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "\"Besteuerung von großem Vermögen ist nicht schädlich, sondern notwendig\"",
+      "teasertext": "Interview DIW-Chef Fratzscher \"Besteuerung von großem Vermögen ist nicht schädlich, sondern notwendig\"",
+      "url": "https://web.de/magazine/wirtschaft/besteuerung-grossem-vermoegen-schaedlich-notwendig-42942292",
+      "bild_url": "https://i0.web.de/image/402/42942402%2cpd=5%2cf=responsive169-w300/marcel-fratzscher-praesident-deutschen-instituts-w.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Interview DIW-Chef Fratzscher",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Luftqualität in Europa: So schneiden deutsche Städte im Vergleich ab",
+      "teasertext": "Europäisches Städte-Ranking Luftqualität in Europa: So schneiden deutsche Städte im Vergleich ab",
+      "url": "https://web.de/magazine/wissen/klima/luftqualitaet-europa-schneiden-deutsche-staedte-vergleich-42953972",
+      "bild_url": "https://i0.web.de/image/338/42954338%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Europäisches Städte-Ranking",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Ekstase in der Nachspielzeit bei möglichem DFB-Gegner",
+      "teasertext": "Immer wieder Haaland Ekstase in der Nachspielzeit bei möglichem DFB-Gegner",
+      "url": "https://web.de/magazine/sport/fussball/nations-league/ekstase-nachspielzeit-moeglichem-dfb-gegner-42956738",
+      "bild_url": "https://i0.web.de/image/754/42956754%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Immer wieder Haaland",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Isoliert lebendes Volk taucht plötzlich in Dorf auf – Video zeigt Begegnung",
+      "teasertext": "\"Beunruhigendes Zeichen\" Isoliert lebendes Volk taucht plötzlich in Dorf auf – Video zeigt Begegnung",
+      "url": "https://web.de/magazine/panorama/aus-aller-welt/isoliert-lebendes-volk-taucht-dorf-video-zeigt-begegnung-42956844",
+      "bild_url": "https://i0.web.de/image/880/42956880%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "\"Beunruhigendes Zeichen\"",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+ "run_id": "2026-11-18-09-14",
+ "erfasst_am": "2026-11-18T09:14:10.668Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei lächelnde Männer in Anzügen vor oranger Wand; niemand namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit Brille und grünblauer Krawatte lacht und gestikuliert; Headline: Regierung einigt sich"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Lachender Mann im dunklen Anzug, unscharf links"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann im Sakko vor Treppe",
+   "personen": [
+    {
+     "name": "Fratzscher",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Lächelnder Mann mit Glatze im grauen Sakko; einzige Person, Dachzeile: DIW-Chef Fratzscher"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Stadtpanorama mit Weinbergen und Stadion",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 4,
+   "menschenmenge": "nein",
+   "notiz": "Jubelnde Fußballer in weißen Trikots; Haaland genannt, nicht sicher zuordenbar, daher kein Name; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Blonder Spieler mit nacktem Oberkörper schreit jubelnd in der Mitte; möglicherweise der genannte Haaland"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Jubelnder Spieler mit kurzem Haar links"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Blonder Spieler zweiter von links, teilweise verdeckt"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "poc",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Jubelnder Spieler mit Locken rechts"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Strohgedeckte Hütten im Regenwald, keine Personen",
+   "personen": []
+  }
+ ]
+}

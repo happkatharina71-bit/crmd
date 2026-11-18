@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-18-09-14",
+  "erfasst_am": "2026-11-18T09:14:41.435Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Bayern-Präsident exklusiv",
+      "headline": "Rüffel für Klopp-Kritik an Bayern? \"Das sage ich ihm persönlich\"",
+      "teasertext": "INTERVIEW|Bayern-Präsident exklusiv Rüffel für Klopp-Kritik an Bayern? \"Das sage ich ihm persönlich\" Ein Interview von Julian Buhl",
+      "url": "https://www.t-online.de/sport/fussball/id_101525686/fc-bayern-praesident-hainer-erklaert-olise-fuer-unverkaeuflich.html",
+      "bild_url": "https://images.t-online.de/2026/11/SfBCNh7N54Os/0x243:4808x2704/fit-in/1920x0/herbert-hainer-der-72-jaehrige-ist-seit-november-2019-praesident-des-fc-bayern.jpg",
+      "bild_alt": "Herbert Hainer: Der 72-Jährige ist seit November 2019 Präsident des FC Bayern.",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Gastronomie in der Krise",
+      "headline": "Besorgt Sie das Restaurantsterben?",
+      "teasertext": "DEBATTE|Gastronomie in der Krise Besorgt Sie das Restaurantsterben?",
+      "url": "https://debatte.t-online.de/debatte/leben/id_101533450/restaurantsterben-in-deutschland-ihre-meinung-zur-gastro-krise-umfrage.html",
+      "bild_url": "https://images.t-online.de/2026/05/1kLoYgpav1v5/0x106:2048x1152/fit-in/1920x0/kellner-im-restaurant-die-preise-fuer-dienstleistungen-ziehen-an.jpg",
+      "bild_alt": "Gastronomie",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Tagesanbruch",
+      "headline": "Es ist ein Drama für jeden deutschen Ort",
+      "teasertext": "MEINUNG|Tagesanbruch Es ist ein Drama für jeden deutschen Ort Von Florian Harms",
+      "url": "https://www.t-online.de/nachrichten/tagesanbruch/id_101533782/gastronomie-krise-lokal-sterben-in-deutschland-tagesanbruch.html",
+      "bild_url": "https://images.t-online.de/2026/11/iM9riKygqLXY/0x378:4032x2268/fit-in/1920x0/die-kochenbas-zaehlt-zu-stuttgarts-traditionslokalen.jpg",
+      "bild_alt": "Die \"Kochenbas\" zählt zu Stuttgarts Traditionslokalen.",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Energiepläne der Regierung",
+      "headline": "\"Das hört sich nach einem schlechten Witz an\"",
+      "teasertext": "Energiepläne der Regierung \"Das hört sich nach einem schlechten Witz an\" Von Amy Walker",
+      "url": "https://www.t-online.de/finanzen/energie/id_101532668/eeg-foerderung-bleibt-experten-laufen-sturm-gegen-die-einspeiseverguetung.html",
+      "bild_url": "https://images.t-online.de/2026/11/evju5VFAesc-/159x39:1913x1075/fit-in/1913x0/nationaler-stahlgipfel-2026-rede-katherina-reiche-cdu-bundesministerin-fuer-wirtschaft-und-energie-salzgitter-salzgitter-flachstahl-werk-niedersachsen-stadt-salzgitter-germany-2026-national-steel-summit-speech-by-katherina-reiche-cdu-federal-minister-for-economic-affairs-and-energy-salzgitter-flat-steel-plant-lower-saxony-city-of-salzgitter-germany.jpg",
+      "bild_alt": "imago images 0884874643",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "\"Die Tür steht offen\"",
+      "headline": "Hainer lockt Weltmeisterduo – auch Schweinsteiger Thema",
+      "teasertext": "\"Die Tür steht offen\" Hainer lockt Weltmeisterduo – auch Schweinsteiger Thema Von Julian Buhl",
+      "url": "https://www.t-online.de/sport/fussball/id_101531540/fc-bayern-hainer-lockt-mueller-und-neuer-die-tuer-steht-offen-.html",
+      "bild_url": "https://images.t-online.de/2026/11/QJaCCSdfY2Df/371x134:3702x2082/fit-in/1920x0/16-042025-inter-mailand-vs-fc-bayern-muenchen-uefa-champions-league-viertelfinale-rueckspiel-thomas-mueller-fc-bayern-muenchen-25-unzufrieden-ungluecklich-genervt-sauer-traurig-mimik-gestik-hier-mit-manuel-neuer-fc-bayern-muenchen-1-16-04-2025-inter-milan-vs-fc-bayern-munich-uefa-champions-league-quarter-final-second-leg-thomas-mueller-fc-bayern-munich-25-dissatisfied-unhappy-annoyed-angry-sad-facial-expressions-gestures-here-with-manuel-neuer-fc-bayern-munich-1-copyright-xbahhoxkarax.jpg",
+      "bild_alt": "imago images 1061041523",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

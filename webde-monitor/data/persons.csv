@@ -1092,3 +1092,10 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-18-06-15,4,3,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Blonder Spieler zweiter von links, teilweise verdeckt"
 2026-11-18-06-15,4,4,,maennlich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Jubelnder Spieler mit Locken rechts
 2026-11-18-06-15,5,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,unklar,nein,niedrig,"Person mit Kapuze von hinten, hält Smartphone und Kreditkarte; Gesicht nicht sichtbar"
+2026-11-18-09-14,1,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Mann mit Brille und grünblauer Krawatte lacht und gestikuliert; Headline: Regierung einigt sich"
+2026-11-18-09-14,1,2,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,mittel,"Lachender Mann im dunklen Anzug, unscharf links"
+2026-11-18-09-14,2,1,Fratzscher,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Lächelnder Mann mit Glatze im grauen Sakko; einzige Person, Dachzeile: DIW-Chef Fratzscher"
+2026-11-18-09-14,4,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Blonder Spieler mit nacktem Oberkörper schreit jubelnd in der Mitte; möglicherweise der genannte Haaland"
+2026-11-18-09-14,4,2,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Jubelnder Spieler mit kurzem Haar links
+2026-11-18-09-14,4,3,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Blonder Spieler zweiter von links, teilweise verdeckt"
+2026-11-18-09-14,4,4,,maennlich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Jubelnder Spieler mit Locken rechts
