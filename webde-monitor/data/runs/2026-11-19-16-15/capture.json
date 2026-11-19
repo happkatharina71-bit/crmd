@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-19-16-15",
+  "erfasst_am": "2026-11-19T16:15:35.633Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Warum Zucker nicht gleich Zucker ist",
+      "teasertext": "Ernährung und Gesundheit Warum Zucker nicht gleich Zucker ist",
+      "url": "https://web.de/magazine/gesundheit/zucker-zucker-42957760",
+      "bild_url": "https://i0.web.de/image/456/42959456%2cpd=7%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Ernährung und Gesundheit",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "AfD in Sachsen-Anhalt plant vorgezogene Wahl des Ministerpräsidenten",
+      "teasertext": "Taktisches Kalkül AfD in Sachsen-Anhalt plant vorgezogene Wahl des Ministerpräsidenten",
+      "url": "https://web.de/magazine/politik/wahlen/landtagswahlen/sachsen-anhalt/afd-sachsen-anhalt-plant-vorgezogene-wahl-ministerpraesidenten-42963066",
+      "bild_url": "https://i0.web.de/image/282/42963282%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Taktisches Kalkül",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Das ändert sich ab Freitag für Verbraucher",
+      "teasertext": "Neue Kreditrichtlinie Das ändert sich ab Freitag für Verbraucher",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/aendert-freitag-verbraucher-42959108",
+      "bild_url": "https://i0.web.de/image/110/42959110%2cpd=1%2cf=responsive169-w300/junge-frauen-schauen-smartphone.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Neue Kreditrichtlinie",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Wer wird die Frau an James Bonds Seite?",
+      "teasertext": "Galerie Die heißesten Kandidatinnen Wer wird die Frau an James Bonds Seite?",
+      "url": "https://web.de/magazine/unterhaltung/filme-serien-kino/james-bond/superstar-newcomerin-james-bonds-42961922",
+      "bild_url": "https://i0.web.de/image/960/42961960%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Galerie Die heißesten Kandidatinnen",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Elfjähriges Tischtennis-Wunderkind stirbt nur fünf Wochen nach Krebsdiagnose",
+      "teasertext": "Trauer um Ausnahmetalent Elfjähriges Tischtennis-Wunderkind stirbt nur fünf Wochen nach Krebsdiagnose",
+      "url": "https://web.de/magazine/sport/mehr-sport/elfjaehriges-tischtennis-wunderkind-stirbt-fuenf-wochen-krebsdiagnose-42962614",
+      "bild_url": "https://i0.web.de/image/730/42962730%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Trauer um Ausnahmetalent",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

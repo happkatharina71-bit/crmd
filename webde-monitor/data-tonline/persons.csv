@@ -183,3 +183,13 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-19-12-16,2,2,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Älterer Mann mit blondem Haar im Anzug rechts, spricht"
 2026-11-19-12-16,4,1,,maennlich,alt,weiss,hauptperson,indirekt,passiv,reich_maechtig,ja,niedrig,"Älterer Mann mit lichtem Haar und grauer Krawatte, Blick gesenkt; einer der Genannten"
 2026-11-19-12-16,5,1,Kompany,maennlich,mittel,poc,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann mit Bart, Kappe und Lederjacke; einzige Person im Fokus, Dachzeile: Kompany"
+2026-11-19-16-15,1,1,,maennlich,alt,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Älterer Mann mit lichtem Haar und roter Krawatte rechts, lächelt"
+2026-11-19-16-15,1,2,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Älterer Mann mit blondem Haar im blauen Anzug links
+2026-11-19-16-15,2,1,Merkel,weiblich,alt,weiss,hauptperson,namentlich,passiv,reich_maechtig,nein,mittel,"Lächelnde Frau mit kurzem blondem Haar und Perlenkette im hellen Blazer; Dachzeile: Merkel"
+2026-11-19-16-15,2,2,Joachim Sauer,maennlich,alt,weiss,nebenperson,namentlich,aktiv,neutral,nein,mittel,"Mann mit kurzem grauem Haar im dunklen Anzug; Headline: Joachim Sauer"
+2026-11-19-16-15,3,1,Dobrindt,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit Brille im dunklen Anzug gestikuliert; einzige Person, Headline: Dobrindt"
+2026-11-19-16-15,4,1,,weiblich,jung,poc,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,Gezeichnete junge Frau mit dunklem Pferdeschwanz
+2026-11-19-16-15,4,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Gezeichneter Mann mit Bart im Unterhemd mit Pistole
+2026-11-19-16-15,5,1,,maennlich,alt,poc,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Älterer Mann mit dunklem Haar und roter Krawatte in der Mitte; einer der drei Genannten"
+2026-11-19-16-15,5,2,,maennlich,alt,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Älterer Mann mit lichtem Haar links; einer der drei Genannten"
+2026-11-19-16-15,5,3,,maennlich,alt,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Älterer Mann mit blondem Haar und blauer Krawatte rechts; einer der drei Genannten"
