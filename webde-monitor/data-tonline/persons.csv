@@ -193,3 +193,11 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-19-16-15,5,1,,maennlich,alt,poc,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Älterer Mann mit dunklem Haar und roter Krawatte in der Mitte; einer der drei Genannten"
 2026-11-19-16-15,5,2,,maennlich,alt,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Älterer Mann mit lichtem Haar links; einer der drei Genannten"
 2026-11-19-16-15,5,3,,maennlich,alt,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Älterer Mann mit blondem Haar und blauer Krawatte rechts; einer der drei Genannten"
+2026-11-19-20-14,1,1,,maennlich,alt,weiss,hauptperson,indirekt,passiv,reich_maechtig,ja,niedrig,"Älterer Mann mit lichtem Haar und roter Krawatte am Mikrofon; einer der Genannten"
+2026-11-19-20-14,1,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,Mann im Anzug unscharf im Hintergrund
+2026-11-19-20-14,3,1,Putin,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,mittel,"Älterer Mann mit lichtem Haar spricht am Mikrofon, scharf im Fokus; Headline: Putin lädt ein"
+2026-11-19-20-14,3,2,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,"Grauhaariger Mann links hinten, unscharf"
+2026-11-19-20-14,3,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,"Mann mit Bart rechts hinten, unscharf"
+2026-11-19-20-14,4,1,,maennlich,mittel,poc,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Mann mit Bart und Kappe in beiger Jacke umarmt Spieler
+2026-11-19-20-14,4,2,,maennlich,jung,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Spieler im roten Bayern-Trikot von hinten
+2026-11-19-20-14,5,1,Merz,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,mittel,"Lächelnder Mann mit Brille und Glatze im blauen Anzug; einzige Person mit Gesicht, Headline: Merz"

@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-19-20-14",
+  "erfasst_am": "2026-11-19T20:14:25.576Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Gipfeltreffen in China",
+      "headline": "Xi verpasst Putin mehrere Ohrfeigen",
+      "teasertext": "Gipfeltreffen in China Xi verpasst Putin mehrere Ohrfeigen Eine Analyse von Patrick Diekmann",
+      "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101536972/apec-gipfel-in-shenzhen-xi-gibt-putin-gleich-mehrere-ohrfeigen.html",
+      "bild_url": "https://images.t-online.de/2026/11/dVRgLTzsDy35/0x412:6521x3668/fit-in/1920x0/wladimir-putin-beim-apec-gipfel-in-shenzhen-russland-ist-mittlerweile-ein-juniorpartner-von-china.jpg",
+      "bild_alt": "Wladimir Putin beim Apec-Gipfel in Shenzhen: Russland ist mittlerweile ein Juniorpartner von China.",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "\"Katalog des Grauens\"",
+      "headline": "VW plant drastische Einschnitte für Beschäftigte",
+      "teasertext": "\"Katalog des Grauens\" VW plant drastische Einschnitte für Beschäftigte",
+      "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101537284/vw-verlangt-nullrunden-und-einschnitte-bei-35-stunden-woche.html",
+      "bild_url": "https://images.t-online.de/2026/11/NYrUZFK7rbec/287x77:1455x819/fit-in/1455x0/image.jpg",
+      "bild_alt": "urn:newsml:dpa.com:20090101:261029-936-131511",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Gipfeltreffen in China",
+      "headline": "Putin lädt Europäer ein – und droht Kiew mit Vergeltung",
+      "teasertext": "Gipfeltreffen in China Putin lädt Europäer ein – und droht Kiew mit Vergeltung",
+      "url": "https://www.t-online.de/nachrichten/ukraine/id_101537060/gipfel-mit-trump-und-xi-in-china-putin-laedt-europaeer-ein-und-droht-kiew.html",
+      "bild_url": "https://images.t-online.de/2026/11/xL5Zt5bvYOpl/0x407:3911x2200/fit-in/1920x0/261119-shenzhen-nov-19-2026-russian-president-vladimir-putin-speaks-during-the-33rd-asia-pacific-economic-cooperation-apec-economic-leaders-meeting-in-shenzhen-south-china-s-guangdong-province-nov-19-2026-china-guangdong-shenzhen-apec-economic-leaders-meeting-cn-yinxbogu-publicationxnotxinxchn.jpg",
+      "bild_alt": "imago images 0885267856",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Brisante Debatte beim FC Bayern",
+      "headline": "Der Fall ist längst zum Politikum geworden",
+      "teasertext": "Brisante Debatte beim FC Bayern Der Fall ist längst zum Politikum geworden Von Julian Buhl",
+      "url": "https://www.t-online.de/sport/fussball/id_101537082/fc-bayern-er-braucht-kompany-brisante-debatte-um-jamal-musiala.html",
+      "bild_url": "https://images.t-online.de/2026/04/lF1u3k--gR46/574x52:2578x1450/fit-in/1920x0/behutsamer-aufbau-bayern-trainer-kompany-r-herzt-seinen-spieler-jamal-musiala-nach-der-partie-gegen-real-madrid.jpg",
+      "bild_alt": "Behutsamer Aufbau: Bayern-Trainer Kompany (r.) herzt seinen Spieler Jamal Musiala nach der Partie gegen Real Madrid.",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Bei Treffen in Berlin",
+      "headline": "Merz lässt Hand von Präsident nicht los",
+      "teasertext": "Video Bei Treffen in Berlin Merz lässt Hand von Präsident nicht los",
+      "url": "https://www.t-online.de/video/nachrichten/politik/id_101537394/berlin-merz-laesst-hand-von-macron-nicht-los.html",
+      "bild_url": "https://images.t-online.de/2026/11/-okytL4CLGoZ/377x597:1389x781/fit-in/1389x0/bundeskanzler-friedrich-merz-bei-der-begruessung-seiner-gaeste-im-kanzleramt-koalition-der-willigen-coalition-of-the-willing-meeting-in-berlin-berlin-berlin-deutschland-bundeskanzleramt-chancellor-friedrich-merz-welcoming-his-guests-at-the-chancellery-coalition-of-the-willing-meeting-in-berlin-berlin-germany-federal-chancellery.jpg",
+      "bild_alt": "imago images 0885273884",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

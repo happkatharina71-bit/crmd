@@ -1144,3 +1144,12 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-19-16-15,2,2,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,Grauhaariger Mann unscharf vorne links
 2026-11-19-16-15,2,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,Mann im Profil unscharf rechts
 2026-11-19-16-15,4,1,,weiblich,jung,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Junge Frau mit langen blonden Haaren im Paillettenkleid posiert; Headline: Kandidatinnen"
+2026-11-19-20-13,1,1,,maennlich,alt,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Mann mit Brille und Glatze im blauen Anzug in der Bildmitte; Stellvertreter für die Gruppe"
+2026-11-19-20-13,3,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Lächelnder Mann mit grauem Haar und Bart im dunklen Sakko, scharf; möglicherweise der genannte Siegmund"
+2026-11-19-20-13,3,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,"Mann rechts daneben, unscharf"
+2026-11-19-20-13,3,3,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,"Frau mit hellem Haar links hinten, unscharf"
+2026-11-19-20-13,3,4,,maennlich,mittel,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,"Mann mit Brille im Hintergrund, unscharf"
+2026-11-19-20-13,4,1,,weiblich,jung,weiss,hauptperson,indirekt,passiv,neutral,nein,mittel,"Junge Frau mit langen blonden Haaren im Paillettenkleid posiert; Headline: Kandidatinnen"
+2026-11-19-20-13,5,1,,weiblich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spielerin im weißen Bayern-Trikot im Zweikampf; Headline: Bayern-Frauen"
+2026-11-19-20-13,5,2,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Spielerin mit Kapitänsbinde im lila Trikot
+2026-11-19-20-13,5,3,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Spielerin im lila Trikot unscharf rechts
