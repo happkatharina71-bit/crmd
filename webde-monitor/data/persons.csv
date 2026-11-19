@@ -1131,3 +1131,7 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-19-06-13,5,3,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,Mann mit roter Krawatte hinten
 2026-11-19-06-13,5,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,Mann im blauen Anzug hinten Mitte
 2026-11-19-06-13,5,5,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,Grauhaariger Mann rechts hinten
+2026-11-19-09-15,1,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Älterer Mann mit lichtem Haar und roter Krawatte rechts, lächelt; einer der Genannten"
+2026-11-19-09-15,1,2,,maennlich,alt,weiss,nebenperson,indirekt,nicht_thematisiert,reich_maechtig,ja,niedrig,"Älterer Mann mit blondem Haar im blauen Anzug links; einer der Genannten"
+2026-11-19-09-15,5,1,Meg Ryan,weiblich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Frau mit blonden Locken im grauen Top; Dachzeile: Meg Ryan"
+2026-11-19-09-15,5,2,Russell Crowe,maennlich,mittel,weiss,nebenperson,namentlich,aktiv,neutral,nein,mittel,"Mann mit kurzem dunklem Haar im dunklen Sakko; Headline: Russell Crowe"

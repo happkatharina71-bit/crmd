@@ -168,3 +168,11 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-19-06-14,2,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Gezeichneter Mann mit Bart im Unterhemd, Pistole in der Hand"
 2026-11-19-06-14,3,1,Putin,maennlich,alt,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,hoch,"Älterer Mann im dunklen Anzug im Profil; einzige Person, Headline: Putin"
 2026-11-19-06-14,4,1,,weiblich,mittel,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Frau mit langen dunklen Haaren im olivgrünen Blazer am Mikrofon; Kontext Energie-Streit der Koalition"
+2026-11-19-09-16,1,1,Kompany,maennlich,mittel,poc,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann mit Glatze und Bart im blauen Kapuzenpulli; einzige Person, Headline: Kompany"
+2026-11-19-09-16,2,1,,maennlich,alt,weiss,hauptperson,indirekt,passiv,reich_maechtig,ja,niedrig,"Älterer Mann mit lichtem Haar und grauer Krawatte, Blick gesenkt; einer der Genannten"
+2026-11-19-09-16,3,1,,maennlich,alt,poc,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Lächelnder Mann mit dunklem Haar in der Mitte, frontal; Dachzeile/Headline: China"
+2026-11-19-09-16,3,2,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,Älterer Mann mit blondem Haar und roter Krawatte links
+2026-11-19-09-16,3,3,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Älterer Mann mit lichtem Haar im schwarzen Anzug rechts, im Profil"
+2026-11-19-09-16,4,1,Brantner,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Lächelnde Frau mit blondem Haar und roter Brille in grauer Lederjacke; einzige Person im Fokus, Dachzeile: Brantner"
+2026-11-19-09-16,5,1,,weiblich,jung,poc,hauptperson,nein,nicht_thematisiert,neutral,nein,niedrig,Gezeichnete junge Frau mit dunklem Pferdeschwanz und Creolen
+2026-11-19-09-16,5,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Gezeichneter Mann mit Bart im Unterhemd, Pistole in der Hand"

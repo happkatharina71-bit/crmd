@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-19-09-15",
+  "erfasst_am": "2026-11-19T09:15:42.477Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Ein Erfolg für Putin noch vor dem Start",
+      "teasertext": "Dreiergipfel mit Trump und Xi Ein Erfolg für Putin noch vor dem Start",
+      "url": "https://web.de/magazine/politik/erfolg-putin-start-42960822",
+      "bild_url": "https://i0.web.de/image/824/42960824%2cpd=3%2cf=responsive169-w950/apec-gipfel-china.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Dreiergipfel mit Trump und Xi",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Amerikas Presse kämpft um ihre Freiheit",
+      "teasertext": "Analyse Angriff auf Medien Amerikas Presse kämpft um ihre Freiheit",
+      "url": "https://web.de/magazine/politik/us-politik/angriff-medien-amerikas-presse-kaempft-freiheit-42957512",
+      "bild_url": "https://i0.web.de/image/788/42957788%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Analyse Angriff auf Medien",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Russland meldet dritten Angriff auf Krim-Brücke in dieser Woche",
+      "teasertext": "Zugverkehr unterbrochen Russland meldet dritten Angriff auf Krim-Brücke in dieser Woche",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/russland-meldet-dritten-angriff-krim-bruecke-woche-42960042",
+      "bild_url": "https://i0.web.de/image/632/42960632%2cpd=2%2cf=responsive169-w300/ukraine-krieg-krim-bruecke.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Zugverkehr unterbrochen",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Leicester City zieht nach Aufregung um Erotikdarstellerin Konsequenzen",
+      "teasertext": "Umstrittener Trikotsponsor Leicester City zieht nach Aufregung um Erotikdarstellerin Konsequenzen",
+      "url": "https://web.de/magazine/sport/fussball/premier-league/leicester-city-aufregung-erotikdarstellerin-konsequenzen-42960960",
+      "bild_url": "https://i0.web.de/image/098/42961098%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Umstrittener Trikotsponsor",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Mit Russell Crowe kam der Anfang vom Ende",
+      "teasertext": "Meg Ryan wird 65 Mit Russell Crowe kam der Anfang vom Ende",
+      "url": "https://web.de/magazine/unterhaltung/stars/russell-crowe-meg-ryan-anfang-42960534",
+      "bild_url": "https://i0.web.de/image/536/42960536%2cpd=1%2cf=responsive169-w300/russell-crowe-meg-ryan-gemeinsamen-film-proof-of-l.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Meg Ryan wird 65",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-19-09-16",
+  "erfasst_am": "2026-11-19T09:16:17.085Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Trainer feiert Comeback",
+      "headline": "\"Es war ein Schock\" – Kompany zum Zusammenbruch",
+      "teasertext": "LIVE|Trainer feiert Comeback \"Es war ein Schock\" – Kompany zum Zusammenbruch Von Andreas Becker",
+      "url": "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101535338/vincent-kompany-wieder-da-das-sagt-der-bayern-trainer-zu-seinem-comeback.html",
+      "bild_url": "https://images.t-online.de/2026/11/PMujtsJ5teQn/340x62:1685x948/fit-in/1685x0/das-comeback-von-trainer-vincent-kompany-rueckt-naeher.jpg",
+      "bild_alt": "Vincent Kompany",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Besondere Details",
+      "headline": "Xi winkt Putin von Trump weg",
+      "teasertext": "Video Besondere Details Xi winkt Putin von Trump weg",
+      "url": "https://www.t-online.de/video/nachrichten/politik/id_101535942/kuriose-szenen-bei-dreiergipfel-xi-winkt-putin-von-trump-weg.html",
+      "bild_url": "https://images.t-online.de/2026/11/aA-H9PFzCze2/735x165:1018x573/fit-in/1018x0/image.png",
+      "bild_alt": null,
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Tagesanbruch",
+      "headline": "Drei Chefs, ein Gewinner",
+      "teasertext": "MEINUNG|Tagesanbruch Drei Chefs, ein Gewinner Von Florian Harms",
+      "url": "https://www.t-online.de/nachrichten/tagesanbruch/id_101535614/xi-jinping-empfaengt-trump-und-putin-china-spielt-die-starke-rolle.html",
+      "bild_url": "https://images.t-online.de/2026/11/iIYjDcEEmZ-8/0x33:2048x1152/fit-in/1920x0/alphatiere-trump-xi-putin-in-shenzhen.jpg",
+      "bild_alt": "Alphatiere Trump, Xi, Putin in Shenzhen",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Grüne Brantner bei \"Maischberger\"",
+      "headline": "\"Wir zahlen alle die Zeche dafür\"",
+      "teasertext": "Grüne Brantner bei \"Maischberger\" \"Wir zahlen alle die Zeche dafür\" Von Markus Brandstetter",
+      "url": "https://www.t-online.de/nachrichten/deutschland/gesellschaft/id_101535632/gruene-brandtner-wirft-regierung-mangelnde-seriositaet-vor.html",
+      "bild_url": "https://images.t-online.de/2026/10/eG-EJAiPkNYP/0x340:6518x3666/fit-in/1920x0/im-bild-v-l-franziska-brantner-buendnis-90-die-gruenen-parteivorsitzende-ger-berlin-studio-zu-gast-bei-maischberger-politische-talkshow-tv-format-mit-moderatorin-sandra-maischberger-das-erste-aus-adlershof-am-studio-20-13-102026-pictured-from-left-franziska-brantner-alliance-90-the-greens-party-chair-ger-berlin-studio-guest-on-maischberger-political-talk-show-tv-program-with-host-sandra-maischberger-das-erste-from-adlershof-studio-20-october-13-2026-copyright-hmbxmedi.jpg",
+      "bild_alt": "imago images 0869339327",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "13 Jahre Wartezeit",
+      "headline": "Warum \"GTA 6\" die Welt in den Ausnahmezustand versetzt",
+      "teasertext": "13 Jahre Wartezeit Warum \"GTA 6\" die Welt in den Ausnahmezustand versetzt Von Nedžad Hurabašić",
+      "url": "https://www.t-online.de/digital/aktuelles/id_101531452/was-ist-gta-6-der-hype-um-das-lang-ersehnte-spiel-erklaert.html",
+      "bild_url": "https://images.t-online.de/2026/11/hoXkp79H6Aw4/809x426:4699x2643/fit-in/1920x0/image.jpg",
+      "bild_alt": "imago images 0884412359",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

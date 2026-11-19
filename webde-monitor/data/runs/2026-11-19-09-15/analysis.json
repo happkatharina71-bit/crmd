@@ -1,0 +1,100 @@
+{
+ "run_id": "2026-11-19-09-15",
+ "erfasst_am": "2026-11-19T09:15:42.477Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Händedruck zweier Männer vor Wandgemälde; drei Personen genannt (Trump, Xi, Putin), Zuordnung nicht eindeutig, daher keine Namen",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Älterer Mann mit lichtem Haar und roter Krawatte rechts, lächelt; einer der Genannten"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Älterer Mann mit blondem Haar im blauen Anzug links; einer der Genannten"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Weißes Haus mit US-Flagge",
+   "personen": []
+  },
+  {
+   "position": 3,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Luftbild der Brücke über Wasser",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "grafik_text",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Vereinswappen auf Eckfahne",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Älteres Filmstandbild: Mann und Frau im Freien; Zuordnung über Headline (Meg Ryan einzige Frau, Russell Crowe einziger Mann im Fokus); unscharfe Personen im Hintergrund nicht codiert",
+   "personen": [
+    {
+     "name": "Meg Ryan",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Frau mit blonden Locken im grauen Top; Dachzeile: Meg Ryan"
+    },
+    {
+     "name": "Russell Crowe",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit kurzem dunklem Haar im dunklen Sakko; Headline: Russell Crowe"
+    }
+   ]
+  }
+ ]
+}
