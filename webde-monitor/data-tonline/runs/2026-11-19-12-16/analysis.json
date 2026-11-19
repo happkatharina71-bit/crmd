@@ -1,0 +1,141 @@
+{
+ "run_id": "2026-11-19-12-16",
+ "erfasst_am": "2026-11-19T12:16:07.896Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 3,
+   "menschenmenge": "nein",
+   "notiz": "Drei Männer im Profil vor Flaggen; drei Personen genannt (Xi, Putin, Trump), Zuordnung allein aus Bild und Text nicht eindeutig, daher keine Namen",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Älterer Mann mit dunklem Haar und roter Krawatte in der Mitte; einer der drei Genannten"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Älterer Mann mit lichtem Haar links; einer der drei Genannten"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Älterer Mann mit blondem Haar und blauer Krawatte rechts; einer der drei Genannten"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Zwei Männer im Gespräch im prunkvollen Raum; genannte Angela Merkel nicht im Bild; niemand im Bild namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Älterer Mann mit Brille und Glatzenansatz im blauen Anzug links"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Älterer Mann mit blondem Haar im Anzug rechts, spricht"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Raketenstart aus dem Meer",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Videostandbild: älterer Mann im Anzug, daneben zwei Personen ohne sichtbares Gesicht (nicht codiert); drei Personen genannt (Xi, Putin, Trump), Zuordnung nicht eindeutig, daher kein Name; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Älterer Mann mit lichtem Haar und grauer Krawatte, Blick gesenkt; einer der Genannten"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann mit Kappe im Stadion; Publikum unscharf nicht codiert",
+   "personen": [
+    {
+     "name": "Kompany",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit Bart, Kappe und Lederjacke; einzige Person im Fokus, Dachzeile: Kompany"
+    }
+   ]
+  }
+ ]
+}

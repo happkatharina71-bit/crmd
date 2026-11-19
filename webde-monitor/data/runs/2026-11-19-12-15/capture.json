@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-19-12-15",
+  "erfasst_am": "2026-11-19T12:15:35.982Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Xi: Treffen von \"bahnbrechender Bedeutung\"",
+      "teasertext": "Gipfel mit Putin und Trump Xi: Treffen von \"bahnbrechender Bedeutung\"",
+      "url": "https://web.de/magazine/politik/us-politik/xi-treffen-bahnbrechender-bedeutung-42960270",
+      "bild_url": "https://i0.web.de/image/910/42961910%2cpd=1%2cf=responsive169-w950/treffen-form-staatschefs.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Gipfel mit Putin und Trump",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Söhne gegen Lösegeld im \"Herbst der Entführungen\"",
+      "teasertext": "Vor 50 Jahren in Deutschland Söhne gegen Lösegeld im \"Herbst der Entführungen\"",
+      "url": "https://web.de/magazine/panorama/true-crime/soehne-loesegeld-herbst-entfuehrungen-42960756",
+      "bild_url": "https://i0.web.de/image/848/42960848%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Vor 50 Jahren in Deutschland",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Neue Recherche: Wie die private Rettungsaktion zum Desaster wurde",
+      "teasertext": "Tierquälerei? Neue Recherche: Wie die private Rettungsaktion zum Desaster wurde",
+      "url": "https://web.de/magazine/wissen/tiere/tod-buckelwal-recherche-belastet-private-rettungsaktion-schwer-42961156",
+      "bild_url": "https://i0.web.de/image/384/42961384%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Tierquälerei?",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "ZDF nimmt Lanz-Show aus dem Programm",
+      "teasertext": "Jahresrückblick entfällt ZDF nimmt Lanz-Show aus dem Programm",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/zdf-streicht-jahresrueckblick-markus-lanz-42961126",
+      "bild_url": "https://i0.web.de/image/222/42961222%2cpd=1%2cf=responsive169-w300/markus-lanz.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Jahresrückblick entfällt",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Erkennst du, wessen Silhouette jetzt den Verkehr in Gronau regelt?",
+      "teasertext": "Galerie Die schönsten Ampelmännchen Erkennst du, wessen Silhouette jetzt den Verkehr in Gronau regelt?",
+      "url": "https://web.de/magazine/reise/erkennst-silhouette-verkehr-gronau-regelt-40086492",
+      "bild_url": "https://i0.web.de/image/962/42960962%2cpd=4%2cf=responsive169-w300/fussgaengerampel-gronau-zeigt-udo-lindenberg.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Die schönsten Ampelmännchen",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

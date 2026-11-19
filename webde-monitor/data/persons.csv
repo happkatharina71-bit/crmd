@@ -1135,3 +1135,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-19-09-15,1,2,,maennlich,alt,weiss,nebenperson,indirekt,nicht_thematisiert,reich_maechtig,ja,niedrig,"Älterer Mann mit blondem Haar im blauen Anzug links; einer der Genannten"
 2026-11-19-09-15,5,1,Meg Ryan,weiblich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,mittel,"Frau mit blonden Locken im grauen Top; Dachzeile: Meg Ryan"
 2026-11-19-09-15,5,2,Russell Crowe,maennlich,mittel,weiss,nebenperson,namentlich,aktiv,neutral,nein,mittel,"Mann mit kurzem dunklem Haar im dunklen Sakko; Headline: Russell Crowe"
+2026-11-19-12-15,1,1,,maennlich,alt,poc,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Älterer Mann mit dunklem Haar und roter Krawatte in der Mitte; einer der drei Genannten"
+2026-11-19-12-15,1,2,,maennlich,alt,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Älterer Mann mit lichtem Haar links; einer der drei Genannten"
+2026-11-19-12-15,1,3,,maennlich,alt,weiss,nebenperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Älterer Mann mit blondem Haar und blauer Krawatte rechts; einer der drei Genannten"
+2026-11-19-12-15,2,1,,maennlich,mittel,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,"Polizist mit Mütze, Brille und Funkgerät im Vordergrund rechts"
+2026-11-19-12-15,4,1,Lanz,maennlich,mittel,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Mann mit grauem Haar im dunklen Anzug im Studio; einzige Person, Headline: Lanz-Show"

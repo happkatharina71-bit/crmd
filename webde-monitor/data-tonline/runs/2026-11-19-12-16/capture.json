@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-19-12-16",
+  "erfasst_am": "2026-11-19T12:16:07.896Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "\"Friedenserklärung\" aus China",
+      "headline": "Xi, Putin und Trump einigen sich auf Vier-Punkte-Plan",
+      "teasertext": "\"Friedenserklärung\" aus China Xi, Putin und Trump einigen sich auf Vier-Punkte-Plan",
+      "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101536654/dreiertreffen-in-china-xi-putin-und-trump-besiegeln-vier-punkte-plan.html",
+      "bild_url": "https://images.t-online.de/2026/11/2s5S4mJ3c4Zf/0x289:5119x2879/fit-in/1920x0/china-russia-us-9353715-19-112026-russian-president-vladimir-putin-chinese-president-xi-jinping-and-u-s-president-donald-trump-pose-for-a-group-photo-before-a-trilateral-meeting-on-the-sidelines-of-the-asia-pacific-economic-cooperation-apec-summit-at-the-qilin-shanzhuang-state-residence-in-shenzhen-china-vyacheslav-prokofiev-sputnik-shenzhen-china-publicationxinxgerxsuixautxestxltuxlatxnorxswexdenxnedxpolxukxausxonly-copyright-xvyacheslavxprokofievx.jpg",
+      "bild_alt": "imago images 0885251729",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Europas Ukraine-Verhandler",
+      "headline": "Angela Merkel? Warum nicht!",
+      "teasertext": "MEINUNG|Europas Ukraine-Verhandler Angela Merkel? Warum nicht! Eine Kolumne von Christoph Schwennicke",
+      "url": "https://www.t-online.de/nachrichten/kolumne-christoph-schwennicke/id_101532340/ukraine-gespraeche-europa-braucht-jetzt-dringend-eine-stimme.html",
+      "bild_url": "https://images.t-online.de/2026/11/Q6qaXhJ7S2Xz/139x133:1858x1045/fit-in/1858x0/kanzler-merz-praesident-trump-wer-kann-wen-ueberzeugen-archivbild.jpg",
+      "bild_alt": "Kanzler Merz, Präsident Trump: Wer kann wen überzeugen? (Archivbild)",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Neue Analyse zur Atomstrategie",
+      "headline": "Was China mit seinen Atomwaffen vorhat",
+      "teasertext": "Neue Analyse zur Atomstrategie Was China mit seinen Atomwaffen vorhat",
+      "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101535944/china-und-seine-atomwaffen-experte-erklaert-pekings-strategie.html",
+      "bild_url": "https://images.t-online.de/2026/11/vcpKemZJVC1A/84x173:2125x1195/fit-in/1920x0/260706-beijing-july-6-2026-this-photo-taken-on-july-6-2026-shows-the-moment-of-a-strategic-missile-launched-by-a-strategic-nuclear-submarine-of-the-chinese-people-s-liberation-army-pla-navy-bursting-out-of-the-water-surface-the-chinese-people-s-liberation-army-pla-navy-on-monday-successfully-conducted-the-test-launch-of-a-strategic-missile-by-a-submarine-the-pla-navy-said-that-one-strategic-nuclear-submarine-of-the-navy-successfully-launched-a-strategic-missile-carrying-a-dummy-warhead-towa.jpg",
+      "bild_alt": "imago images 0860884273",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Besondere Details",
+      "headline": "Xi winkt Putin von Trump weg",
+      "teasertext": "Video Besondere Details Xi winkt Putin von Trump weg",
+      "url": "https://www.t-online.de/video/nachrichten/politik/id_101535942/kuriose-szenen-bei-dreiergipfel-xi-winkt-putin-von-trump-weg.html",
+      "bild_url": "https://images.t-online.de/2026/11/aA-H9PFzCze2/735x165:1018x573/fit-in/1018x0/image.png",
+      "bild_alt": null,
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Kompany emotional",
+      "headline": "\"Will es nicht kleinreden – es war ein Schock\"",
+      "teasertext": "Kompany emotional \"Will es nicht kleinreden – es war ein Schock\" Von Andreas Becker",
+      "url": "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101535338/bayern-trainer-vincent-kompany-wieder-da-zusammenbruch-war-ein-schock-.html",
+      "bild_url": "https://images.t-online.de/2026/10/kIFGNuPeIV1y/567x395:2985x1679/fit-in/1920x0/vincent-kompany-er-trainiert-die-muenchner-seit-der-saison-2024-25.jpg",
+      "bild_alt": "Vincent Kompany: Er trainiert die Münchner seit der Saison 2024/25.",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}
