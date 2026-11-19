@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-19-06-14",
+  "erfasst_am": "2026-11-19T06:14:10.621Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Tagesanbruch",
+      "headline": "China hat einen Plan",
+      "teasertext": "MEINUNG|Tagesanbruch China hat einen Plan Von Florian Harms",
+      "url": "https://www.t-online.de/nachrichten/tagesanbruch/id_101535614/xi-jinping-empfaengt-trump-und-putin-china-spielt-die-starke-rolle.html",
+      "bild_url": "https://images.t-online.de/2026/11/iIYjDcEEmZ-8/0x33:2048x1152/fit-in/1920x0/alphatiere-trump-xi-putin-in-shenzhen.jpg",
+      "bild_alt": "Alphatiere Trump, Xi, Putin in Shenzhen",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "13 Jahre Wartezeit",
+      "headline": "Warum \"GTA 6\" die Welt in den Ausnahmezustand versetzt",
+      "teasertext": "13 Jahre Wartezeit Warum \"GTA 6\" die Welt in den Ausnahmezustand versetzt Von Nedžad Hurabašić",
+      "url": "https://www.t-online.de/digital/aktuelles/id_101531452/was-ist-gta-6-das-unterhaltungs-produkt-der-superlative-erklaert.html",
+      "bild_url": "https://images.t-online.de/2026/11/hoXkp79H6Aw4/809x426:4699x2643/fit-in/1920x0/image.jpg",
+      "bild_alt": "imago images 0884412359",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Angriff auf die Krim-Brücke",
+      "headline": "Putin verliert die Kontrolle",
+      "teasertext": "MEINUNG|Angriff auf die Krim-Brücke Putin verliert die Kontrolle Ein Kommentar von Simon Cleven",
+      "url": "https://www.t-online.de/nachrichten/ukraine/id_101534200/ukraine-krieg-angriff-auf-krim-bruecke-putin-verliert-die-kontrolle.html",
+      "bild_url": "https://images.t-online.de/2026/11/4wHdGfq0c2mc/185x154:1685x948/fit-in/1685x0/russian-president-vladimir-putin-addresses-students-as-he-visits-shenzhen-msu-bit-university-a-joint-university-established-by-moscow-state-university-and-beijing-institute-of-technology-in-shenzhen-guangdong-province-china-november-18-2026-sputnik-vyacheslav-prokofyev-pool-via-reuters-attention-editors-this-image-was-provided-by-a-third-party.jpg",
+      "bild_alt": "APEC-SUMMIT/PUTIN",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Energie-Streit eskaliert",
+      "headline": "Jetzt droht der Koalition der nächste Knall",
+      "teasertext": "Energie-Streit eskaliert Jetzt droht der Koalition der nächste Knall Von Amy Walker",
+      "url": "https://www.t-online.de/finanzen/energie/id_101535224/katherina-reiche-macht-druck-streit-um-eeg-eskaliert.html",
+      "bild_url": "https://images.t-online.de/2026/11/8Ohmc5o2IHAd/0x313:6000x3375/fit-in/1920x0/bundesministerin-fuer-wirtschaft-und-energie-katherina-reiche-berlin-bundesministerium-fuer-wirtschaft-und-energie-bundesministerin-fuer-wirtschaft-und-energie-katherina-reiche-gesetz-zur-einfuehrung-einer-gasreserve-zur-krisenvorsorge-berlin-berlin-ger-federal-minister-for-economic-affairs-and-energy-katherina-reiche-berlin-federal-ministry-for-economic-affairs-and-energy-federal-minister-for-economic-affairs-and-energy-katherina-reiche-act-on-the-establishment-of-a-gas-reserve-for-crisis-prepar.jpg",
+      "bild_alt": "imago images 0882430089",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Verheerender Großbrand",
+      "headline": "Mülldeponie geht in Flammen auf",
+      "teasertext": "Video Verheerender Großbrand Mülldeponie geht in Flammen auf",
+      "url": "https://www.t-online.de/video/nachrichten/panorama/id_101534676/deer-park-in-texas-muelldeponie-geht-in-flammen-auf.html",
+      "bild_url": "https://images.t-online.de/2026/11/9Kx-Uq3hgXu3/597x227:724x407/fit-in/724x0/image.png",
+      "bild_alt": null,
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

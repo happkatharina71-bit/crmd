@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-19-06-13",
+  "erfasst_am": "2026-11-19T06:13:36.635Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "\"Es gibt ein Missverständnis über den Begriff Freiheit\"",
+      "teasertext": "Interview FDP-Politikerin Svenja Hahn \"Es gibt ein Missverständnis über den Begriff Freiheit\"",
+      "url": "https://web.de/magazine/politik/inland/missverstaendnis-begriff-freiheit-42957368",
+      "bild_url": "https://i0.web.de/image/428/42957428%2cpd=4%2cf=responsive169-w950/svenja-hahn-stellvertretende-bundesvorsitzende-fdp.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Interview FDP-Politikerin Svenja Hahn",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Eine Nacht mit \"GTA 6\": Ist das wirklich das beste Videospiel aller Zeiten?",
+      "teasertext": "Kritik Nun auch bei uns verfügbar Eine Nacht mit \"GTA 6\": Ist das wirklich das beste Videospiel aller Zeiten?",
+      "url": "https://web.de/magazine/unterhaltung/gaming/nacht-gta-6-beste-videospiel-zeiten-42960434",
+      "bild_url": "https://i0.web.de/image/458/42960458%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Kritik Nun auch bei uns verfügbar",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "KI-Firma Anthropic schafft Rekord-Börsengang",
+      "teasertext": "SpaceX übertrumpft KI-Firma Anthropic schafft Rekord-Börsengang",
+      "url": "https://web.de/magazine/wirtschaft/ki-unternehmen-anthropic-gelingt-rekord-boersengang-42960052",
+      "bild_url": "https://i0.web.de/image/090/42960090%2cpd=1%2cf=responsive169-w300/ki-firma-anthropic.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "SpaceX übertrumpft",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Franziska Brantner: \"Ich bin hier in keinem Inquisitorium!\"",
+      "teasertext": "TV-Nachlese Maischberger Franziska Brantner: \"Ich bin hier in keinem Inquisitorium!\"",
+      "url": "https://web.de/magazine/politik/politische-talkshows/franziska-brantner-inquisitorium-42960368",
+      "bild_url": "https://i0.web.de/image/410/42960410%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "TV-Nachlese Maischberger",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Musk zu Riesen-Wahlkampfspenden: \"Komme mir dumm vor\"",
+      "teasertext": "Für Trumps Republikaner Musk zu Riesen-Wahlkampfspenden: \"Komme mir dumm vor\"",
+      "url": "https://web.de/magazine/politik/us-politik/musk-riesen-wahlkampfspenden-dumm-42960266",
+      "bild_url": "https://i0.web.de/image/532/42960532%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Für Trumps Republikaner",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
