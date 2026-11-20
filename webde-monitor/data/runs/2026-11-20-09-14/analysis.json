@@ -1,0 +1,115 @@
+{
+ "run_id": "2026-11-20-09-14",
+ "erfasst_am": "2026-11-20T09:14:12.707Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "ja",
+   "notiz": "Demonstration mit Schildern \"Bildung statt Zwang\"; überwiegend junge Menschen, gemischte Gruppe; eine Stellvertreterperson codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Junge Frau mit langen dunklen Haaren hält Protestschild hoch, Bildmitte; Stellvertreterin, Headline: junge Menschen"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "TV-Talk zu zweit; Lanz (Dachzeile) und ZDF-Experte, beide Männer, Zuordnung nicht sicher, daher keine Namen",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit Glatze, Brille und Bart im rosa Pullover gestikuliert; vermutlich der zitierte Experte"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit grauem Haar im dunklen Anzug mit Moderationskarten"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Fußballer im Stadion",
+   "personen": [
+    {
+     "name": "Thomas Müller",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Mann mit Bart im weißen MLS-Trikot; einzige Person, Headline: Thomas Müller"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "tier",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Nilpferd im Zoogehege; gleiches Bild wie in der vorigen Erhebung",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Interview mit Mikrofon; unscharfe Person im Hintergrund und Hand mit Mikro nicht codiert",
+   "personen": [
+    {
+     "name": "Bill Kaulitz",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Person mit langen blonden Haaren, Sonnenbrille, Piercings und Bartstoppeln spricht ins Mikro; einzige Person im Fokus, Headline: Bill Kaulitz"
+    }
+   ]
+  }
+ ]
+}

@@ -206,3 +206,12 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-20-06-15,2,3,,weiblich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Person mit Dutt in schwarzer Jacke von hinten
 2026-11-20-06-15,5,1,,maennlich,mittel,poc,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Mann mit Bart und Kappe in beiger Jacke umarmt Spieler
 2026-11-20-06-15,5,2,,maennlich,jung,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Spieler im roten Bayern-Trikot von hinten
+2026-11-20-09-14,2,1,,maennlich,alt,weiss,hauptperson,indirekt,passiv,reich_maechtig,ja,niedrig,"Älterer Mann mit lichtem Haar und roter Krawatte am Mikrofon; einer der Genannten"
+2026-11-20-09-14,2,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,Mann im Anzug unscharf im Hintergrund
+2026-11-20-09-14,3,1,,nicht_erkennbar,alt,weiss,hauptperson,nein,nicht_thematisiert,unklar,ja,niedrig,"Ältere Person mit langen grauen Haaren im blauen Pullover, Hände hinter dem Rücken"
+2026-11-20-09-14,3,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Polizist mit Bart und Kappe links
+2026-11-20-09-14,3,3,,weiblich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,"Polizistin mit Brille und Kappe rechts, zeigt"
+2026-11-20-09-14,4,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,reich_maechtig,ja,niedrig,"Grauhaariger Mann mit Brille und roter Krawatte; einer der beiden Genannten"
+2026-11-20-09-14,5,1,,weiblich,mittel,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,Frau mit Brille im roten Poloshirt wirft Packungen in Container
+2026-11-20-09-14,5,2,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Mann im roten Shirt links hinten
+2026-11-20-09-14,5,3,,weiblich,nicht_erkennbar,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Person mit Dutt in schwarzer Jacke von hinten

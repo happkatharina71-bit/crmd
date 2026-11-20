@@ -1158,3 +1158,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-20-06-14,5,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Älterer Mann mit Brille im grauen Anzug steht neben Kandidatin; einer der beiden Genannten"
 2026-11-20-06-14,5,2,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Lächelnder Mann auf großer Videoleinwand (Telefonjoker); einer der beiden Genannten"
 2026-11-20-06-14,5,3,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Frau mit langen Haaren im schwarzen Kleid sitzt auf Kandidatenstuhl
+2026-11-20-09-14,1,1,,weiblich,jung,weiss,hauptperson,indirekt,passiv,neutral,ja,mittel,"Junge Frau mit langen dunklen Haaren hält Protestschild hoch, Bildmitte; Stellvertreterin, Headline: junge Menschen"
+2026-11-20-09-14,2,1,,maennlich,mittel,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Mann mit Glatze, Brille und Bart im rosa Pullover gestikuliert; vermutlich der zitierte Experte"
+2026-11-20-09-14,2,2,,maennlich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,Mann mit grauem Haar im dunklen Anzug mit Moderationskarten
+2026-11-20-09-14,3,1,Thomas Müller,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann mit Bart im weißen MLS-Trikot; einzige Person, Headline: Thomas Müller"
+2026-11-20-09-14,5,1,Bill Kaulitz,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Person mit langen blonden Haaren, Sonnenbrille, Piercings und Bartstoppeln spricht ins Mikro; einzige Person im Fokus, Headline: Bill Kaulitz"

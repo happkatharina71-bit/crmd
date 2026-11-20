@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-20-09-14",
+  "erfasst_am": "2026-11-20T09:14:45.820Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "\"Es passiert etwas Ungewöhnliches\"",
+      "headline": "Prognose verheißt bis zu 15 Zentimeter Schnee",
+      "teasertext": "\"Es passiert etwas Ungewöhnliches\" Prognose verheißt bis zu 15 Zentimeter Schnee Von Ellen Ivits",
+      "url": "https://www.t-online.de/nachrichten/panorama/wetter/id_101536384/wetter-in-deutschland-15-zentimeter-schnee-meteorologe-macht-prognose-.html",
+      "bild_url": "https://images.t-online.de/2026/11/s7ezx2mViyLZ/339x273:784x441/fit-in/784x0/wetter-in-deutschland-die-prognostizierte-temperatur-liegt-am-24-november-verbreitet-unter-0-grad.png",
+      "bild_alt": "Wetter in Deutschland: Die prognostizierte Temperatur liegt am 24. November verbreitet unter 0 Grad. Dann ist auch Schnee möglich.",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Gipfeltreffen in China",
+      "headline": "Xi verpasst Putin mehrere Ohrfeigen",
+      "teasertext": "Gipfeltreffen in China Xi verpasst Putin mehrere Ohrfeigen Eine Analyse von Patrick Diekmann",
+      "url": "https://www.t-online.de/nachrichten/ausland/internationale-politik/id_101536972/apec-gipfel-in-shenzhen-xi-gibt-putin-gleich-mehrere-ohrfeigen.html",
+      "bild_url": "https://images.t-online.de/2026/11/dVRgLTzsDy35/0x412:6521x3668/fit-in/1920x0/wladimir-putin-beim-apec-gipfel-in-shenzhen-russland-ist-mittlerweile-ein-juniorpartner-von-china.jpg",
+      "bild_alt": "Wladimir Putin beim Apec-Gipfel in Shenzhen: Russland ist mittlerweile ein Juniorpartner von China.",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Tagesanbruch",
+      "headline": "Das größte Geschäft der Welt ist hochriskant",
+      "teasertext": "MEINUNG|Tagesanbruch Das größte Geschäft der Welt ist hochriskant Von Florian Harms",
+      "url": "https://www.t-online.de/nachrichten/tagesanbruch/id_101537736/anthropic-an-der-boerse-lohnt-sich-die-wette-auf-ki-.html",
+      "bild_url": "https://images.t-online.de/2026/11/JgOEzG1EIx8y/0x214:2048x1152/fit-in/1920x0/festnahme-eines-demonstranten-vor-der-anthropic-zentrale-in-san-francisco.jpg",
+      "bild_alt": "Festnahme eines Demonstranten vor der Anthropic-Zentrale in San Francisco.",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Gabriel über Merz bei \"Illner\"",
+      "headline": "\"Das war undenkbar in Deutschland\"",
+      "teasertext": "Gabriel über Merz bei \"Illner\" \"Das war undenkbar in Deutschland\" Von Nina Jerzy",
+      "url": "https://www.t-online.de/nachrichten/deutschland/gesellschaft/id_101537746/-undenkbar-sigmar-gabriel-lobt-bei-illner-merz.html",
+      "bild_url": "https://images.t-online.de/2026/11/v6I4VyVNOkrb/0x345:6630x3729/fit-in/1920x0/v-l-sigmar-gabriel-spd-ehemaliger-bundesaussenminister-und-parteivorsitzender-eine-woche-vor-den-wahlen-in-sachsen-anhalt-ger-berlin-im-park-am-abend-01-092026-from-left-sigmar-gabriel-spd-former-federal-foreign-minister-and-party-chairman-one-week-before-the-elections-in-saxony-anhalt-ger-berlin-in-the-park-in-the-evening-september-1-2026-copyright-hmbxmedia-uwexkoch.jpg",
+      "bild_alt": "imago images 0865921018",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Saugroboter und Kühlschränke",
+      "headline": "Die Gefahr lauert in den eigenen vier Wänden",
+      "teasertext": "Saugroboter und Kühlschränke Die Gefahr lauert in den eigenen vier Wänden Von Julia Naue",
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101535426/neuer-bericht-zur-cybersicherheit-ki-befeuert-hackerangriffe-bsi-warnt.html",
+      "bild_url": "https://images.t-online.de/2026/11/WCaqAeGTPBH3/649x28:4701x2644/fit-in/1920x0/image.jpg",
+      "bild_alt": "Attacke auf Kühltruhen",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-20-09-14",
+  "erfasst_am": "2026-11-20T09:14:12.707Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Immer mehr junge Menschen überschuldet: Was hinter der Lage der GenZ steckt",
+      "teasertext": "Interview Jung und arm? Immer mehr junge Menschen überschuldet: Was hinter der Lage der GenZ steckt",
+      "url": "https://web.de/magazine/wirtschaft/junge-menschen-ueberschuldet-lage-genz-steckt-42963188",
+      "bild_url": "https://i0.web.de/image/354/42963354%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Interview Jung und arm?",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "ZDF-Experte: \"Zwei wandelnde Honigtöpfe, in die Trump voll hereingefallen ist\"",
+      "teasertext": "TV-Nachlese \"Markus Lanz\" ZDF-Experte: \"Zwei wandelnde Honigtöpfe, in die Trump voll hereingefallen ist\"",
+      "url": "https://web.de/magazine/politik/politische-talkshows/markus-lanz-zdf-experte-wandelnde-honigtoepfe-trump-voll-hereingefallen-42964846",
+      "bild_url": "https://i0.web.de/image/834/42964834%2cpd=1%2cf=responsive169-w300/markus-lanz-ulf-roeller.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "TV-Nachlese \"Markus Lanz\"",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Was kommt nach dem Fußball? Thomas Müller hält sich alle Türen offen",
+      "teasertext": "Entscheidung im Frühjahr Was kommt nach dem Fußball? Thomas Müller hält sich alle Türen offen",
+      "url": "https://web.de/magazine/sport/fussball/international/thomas-mueller-zukunft-offen-42965132",
+      "bild_url": "https://i0.web.de/image/160/42965160%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Entscheidung im Frühjahr",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Mütze von Besucher vertilgt: Berühmtes Nilpferd Fiona gestorben",
+      "teasertext": "US-Zoo \"im Schockzustand\" Mütze von Besucher vertilgt: Berühmtes Nilpferd Fiona gestorben",
+      "url": "https://web.de/magazine/panorama/aus-aller-welt/nilpferd-fiona-tot-muetze-besucher-vertilgt-gestorben-42964434",
+      "bild_url": "https://i0.web.de/image/704/42964704%2cpd=2%2cf=responsive169-w300/nilpferd-fiona.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "US-Zoo \"im Schockzustand\"",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Bill Kaulitz verrät, wie viel er mit seinem größten Hit verdient",
+      "teasertext": "Song \"Durch den Monsun\" Bill Kaulitz verrät, wie viel er mit seinem größten Hit verdient",
+      "url": "https://web.de/magazine/unterhaltung/stars/bill-kaulitz-verraet-groessten-hit-verdient-42965174",
+      "bild_url": "https://i0.web.de/image/310/42965310%2cpd=1%2cf=responsive169-w300/bill-kaulitz.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Song \"Durch den Monsun\"",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
