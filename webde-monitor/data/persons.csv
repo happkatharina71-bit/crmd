@@ -1172,3 +1172,7 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-20-16-15,3,1,Wellinger,maennlich,jung,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Junger Mann mit Helm und Skibrille, Ski über der Schulter; einzige Person im Fokus, Headline: Wellinger"
 2026-11-20-16-15,4,1,,weiblich,jung,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Junge Frau mit zurückgebundenem dunklem Haar stützt Kopf, gelangweilt; Headline: Singles"
 2026-11-20-16-15,4,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Person von hinten im Vordergrund, unscharf"
+2026-11-20-20-12,2,1,Manuela Schwesig,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Frau mit kurzem blondem Haar im blauen Blazer spricht in Mikrofone; einzige Person, Headline: Manuela Schwesig"
+2026-11-20-20-12,3,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Spieler im roten Bayern-Trikot köpft/spielt Ball links; Headline: FC Bayern"
+2026-11-20-20-12,3,2,,maennlich,jung,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Spieler im dunkelblauen Trikot in der Mitte
+2026-11-20-20-12,3,3,,maennlich,jung,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,nein,mittel,Spieler im roten Bayern-Trikot rechts

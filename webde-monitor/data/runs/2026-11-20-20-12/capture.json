@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-20-20-12",
+  "erfasst_am": "2026-11-20T20:12:59.768Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "\"Giftige Flutwelle\": Wenn Alltagsprodukte zum Gesundheitsrisiko werden",
+      "teasertext": "Hormonstörende Chemikalien \"Giftige Flutwelle\": Wenn Alltagsprodukte zum Gesundheitsrisiko werden",
+      "url": "https://web.de/magazine/wissen/wissenschaft-technik/giftige-flutwelle-alltagsprodukte-gesundheitsrisiko-42965768",
+      "bild_url": "https://i0.web.de/image/074/42967074%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Hormonstörende Chemikalien",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Manuela Schwesig sagt alle Termine ab – Operation steht an",
+      "teasertext": "Kurz nach Wiederwahl Manuela Schwesig sagt alle Termine ab – Operation steht an",
+      "url": "https://web.de/magazine/unterhaltung/stars/manuela-schwesig-termine-operation-42967820",
+      "bild_url": "https://i0.web.de/image/822/42967822%2cpd=1%2cf=responsive169-w300/manuela-schwesig-freitag-operiert.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Kurz nach Wiederwahl",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Trotz Kane-Aus: FC Bayern mit dem Ausgleich",
+      "teasertext": "Live-Ticker Bundesliga Trotz Kane-Aus: FC Bayern mit dem Ausgleich",
+      "url": "https://web.de/magazine/sport/fussball/bundesliga/bundesliga-live-ticker-bayern-koeln-41292002",
+      "bild_url": "https://i0.web.de/image/130/42968130%2cpd=2%2cf=responsive169-w300/bayern-muenchen-1-fc-koeln.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Live-Ticker Bundesliga",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Hilfe, mein Hund hasst Autofahren! Was kann ich tun?",
+      "teasertext": "Tipps vom Experten Hilfe, mein Hund hasst Autofahren! Was kann ich tun?",
+      "url": "https://web.de/magazine/ratgeber/haustiere/hilfe-hund-hasst-autofahren-42966450",
+      "bild_url": "https://i0.web.de/image/588/42966588%2cpd=4%2cf=responsive169-w300/hund-auto.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Tipps vom Experten",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "\"Es funktioniert nicht\" – Häftling schreit bei Hinrichtung minutenlang",
+      "teasertext": "Todesstrafe in den USA \"Es funktioniert nicht\" – Häftling schreit bei Hinrichtung minutenlang",
+      "url": "https://web.de/magazine/panorama/verbrechen-vermisste/funktioniert-haeftling-schreit-hinrichtung-minutenlang-42967086",
+      "bild_url": "https://i0.web.de/image/436/42967436%2cpd=2%2cf=responsive169-w300/pentobarbital.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Todesstrafe in den USA",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

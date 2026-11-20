@@ -226,3 +226,15 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-20-16-15,3,1,,maennlich,alt,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,Älterer Mann mit blondem Haar und roter Krawatte unter Schirm
 2026-11-20-16-15,4,1,,maennlich,jung,weiss,hauptperson,nein,nicht_thematisiert,neutral,nein,mittel,"Junger Mann mit Locken, Fahne vor dem Gesicht, Arm erhoben; Stellvertreter für die Fans"
 2026-11-20-16-15,5,1,Klingbeil,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Mann mit braunem Haar im dunkelblauen Anzug blinzelt; einzige Person, Headline: Klingbeil-Reform"
+2026-11-20-20-13,1,1,,maennlich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spieler im roten Bayern-Trikot Nr. 44 am Ball; Headline: Bayern"
+2026-11-20-20-13,1,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Schiedsrichter im gelben Trikot
+2026-11-20-20-13,1,3,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Spieler im dunkelblauen Trikot hinten rechts
+2026-11-20-20-13,1,4,,maennlich,jung,poc,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Spieler mit Bart im dunkelblauen Trikot rechts; möglicherweise der genannte Brown"
+2026-11-20-20-13,1,5,,maennlich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Spieler im dunkelblauen Trikot links hinten
+2026-11-20-20-13,2,1,Kompany,maennlich,mittel,poc,hauptperson,namentlich,passiv,neutral,nein,hoch,"Mann mit Bart, Mütze und Armschlinge; Headline: Kompany trägt Armschlinge"
+2026-11-20-20-13,2,2,,maennlich,mittel,poc,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,"Mann mit Kappe im Trainingsanzug links, unscharf"
+2026-11-20-20-13,3,1,Siegmund,maennlich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,mittel,"Mann mit grauem Haar und Bart im Anzug spricht; einzige Person, Headline: Siegmunds Pläne"
+2026-11-20-20-13,4,1,Manuela Schwesig,weiblich,mittel,weiss,hauptperson,namentlich,passiv,reich_maechtig,ja,mittel,"Frau mit kurzem blondem Haar im blauen Blazer blickt zur Kamera; Headline: Manuela Schwesig"
+2026-11-20-20-13,4,2,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,"Mann mit Brille und Bart hinter ihr, teilweise verdeckt"
+2026-11-20-20-13,4,3,,maennlich,alt,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,Mann mit Glatze und roter Krawatte
+2026-11-20-20-13,4,4,,maennlich,mittel,weiss,nebenperson,nein,nicht_thematisiert,reich_maechtig,ja,niedrig,Mann mit Brille ganz rechts

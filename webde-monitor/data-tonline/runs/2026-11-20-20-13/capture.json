@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-20-20-13",
+  "erfasst_am": "2026-11-20T20:13:23.559Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Bundesliga am Freitag",
+      "headline": "Bayern eiskalt – Brown gleicht aus",
+      "teasertext": "LIVE|Bundesliga am Freitag Bayern eiskalt – Brown gleicht aus",
+      "url": "https://www.t-online.de/sport/live-ticker/fussball/bundesliga/sdc_fm-59370/bayern-koeln-bundesliga-im-liveticker.html",
+      "bild_url": "https://images.t-online.de/2026/11/lp92SAr6wXVD/331x164:1386x780/fit-in/1386x0/image.jpg",
+      "bild_alt": "SOCCER-GERMANY-FCB-KOE/",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Bayern-Coach feiert Comeback",
+      "headline": "Darum trägt Kompany eine Armschlinge",
+      "teasertext": "Bayern-Coach feiert Comeback Darum trägt Kompany eine Armschlinge",
+      "url": "https://www.t-online.de/sport/fussball/bundesliga/id_101539378/fc-bayern-vincent-kompany-mit-armschlinge-gegen-den-1-fc-koeln.html",
+      "bild_url": "https://images.t-online.de/2026/11/TDO9982OPNZz/779x134:2121x1193/fit-in/1920x0/munich-germany-november-20-vincent-kompany-head-coach-fc-bayern-muenchen-during-pitch-check-before-the-bundesliga-match-between-fc-bayern-muenchen-vs-1-fc-koeln-at-allianz-arena-on-matchday-10-of-the-1-bundesliga-on-november-20-2026-in-munich-germany-dfl-regulations-prohibit-any-use-of-photographs-as-image-sequences-and-or-quasi-video-bavaria-germany-copyright-xsteffiexwunderlx.jpg",
+      "bild_alt": "imago images 1086121772",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Die AfD und die TV-Sender",
+      "headline": "ARD-Anstalt kontert Siegmunds Pläne",
+      "teasertext": "Die AfD und die TV-Sender ARD-Anstalt kontert Siegmunds Pläne Von Steven Sowa",
+      "url": "https://www.t-online.de/unterhaltung/tv/id_101538926/afd-in-sachsen-anhalt-zdf-mdr-und-co-droht-das-aus-und-jetzt-.html",
+      "bild_url": "https://images.t-online.de/2026/11/KcaB6GzofmgH/25x100:4477x2518/fit-in/1920x0/ulrich-siegmund-der-afd-politiker-moechte-ministerpraesident-in-sachsen-anhalt-werden.jpg",
+      "bild_alt": "Ulrich Siegmund: Der AfD-Politiker möchte Ministerpräsident in Sachsen-Anhalt werden.",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Eingriff an der Galle",
+      "headline": "Manuela Schwesig muss sich Operation unterziehen",
+      "teasertext": "Eingriff an der Galle Manuela Schwesig muss sich Operation unterziehen",
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101539168/spd-ministerpraesidentin-schwesig-muss-sich-operation-unterziehen.html",
+      "bild_url": "https://images.t-online.de/2026/11/ND-Eb6pALtX6/0x107:1858x1045/fit-in/1858x0/manuela-schwesig-bei-der-ersten-sitzung-ihres-neuen-kabinetts-die-zweite-sitzung-wird-ihre-stellvertreterin-leiten-muessen-archivbild.jpg",
+      "bild_alt": "Manuela Schwesig",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Zum Wochenende",
+      "headline": "\"Jetzt stellt sich die Wetterlage um\"",
+      "teasertext": "Video Zum Wochenende \"Jetzt stellt sich die Wetterlage um\"",
+      "url": "https://www.t-online.de/video/wetter/id_101539244/wetter-am-wochenende-in-deutschland-schnee-und-unwetter-in-diesen-regionen.html",
+      "bild_url": "https://images.t-online.de/2026/11/G1zySOwVf22i/0x0:1920x1080/fit-in/1920x0/image.png",
+      "bild_alt": null,
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}
