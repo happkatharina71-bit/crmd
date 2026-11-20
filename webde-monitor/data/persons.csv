@@ -1153,3 +1153,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-19-20-13,5,1,,weiblich,jung,weiss,hauptperson,indirekt,aktiv,neutral,nein,mittel,"Spielerin im weißen Bayern-Trikot im Zweikampf; Headline: Bayern-Frauen"
 2026-11-19-20-13,5,2,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Spielerin mit Kapitänsbinde im lila Trikot
 2026-11-19-20-13,5,3,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Spielerin im lila Trikot unscharf rechts
+2026-11-20-06-14,1,1,,maennlich,alt,weiss,hauptperson,nein,nicht_thematisiert,reich_maechtig,ja,mittel,"Mann mit Brille und Glatze im blauen Anzug in der Bildmitte; Stellvertreter für die Gruppe"
+2026-11-20-06-14,2,1,Sigmar Gabriel,maennlich,alt,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Grauhaariger Mann mit Brille und roter Krawatte gestikuliert; einzige Person, Headline: Sigmar Gabriel"
+2026-11-20-06-14,5,1,,maennlich,alt,weiss,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Älterer Mann mit Brille im grauen Anzug steht neben Kandidatin; einer der beiden Genannten"
+2026-11-20-06-14,5,2,,maennlich,mittel,weiss,nebenperson,indirekt,aktiv,neutral,nein,niedrig,"Lächelnder Mann auf großer Videoleinwand (Telefonjoker); einer der beiden Genannten"
+2026-11-20-06-14,5,3,,weiblich,jung,weiss,nebenperson,nein,nicht_thematisiert,neutral,nein,mittel,Frau mit langen Haaren im schwarzen Kleid sitzt auf Kandidatenstuhl

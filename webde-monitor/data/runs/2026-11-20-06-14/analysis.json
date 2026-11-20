@@ -1,0 +1,114 @@
+{
+ "run_id": "2026-11-20-06-14",
+ "erfasst_am": "2026-11-20T06:14:34.723Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "ja",
+   "notiz": "Gruppenfoto von rund 20 Staats- und Regierungsvertreter*innen vor Wand \"Koalition der Willigen\"; überwiegend Männer, wenige Frauen; niemand namentlich genannt; eine Stellvertreterperson codiert; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit Brille und Glatze im blauen Anzug in der Bildmitte; Stellvertreter für die Gruppe"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Mann in TV-Talkrunde; angeschnittene Hände anderer Gäste nicht codiert",
+   "personen": [
+    {
+     "name": "Sigmar Gabriel",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Grauhaariger Mann mit Brille und roter Krawatte gestikuliert; einzige Person, Headline: Sigmar Gabriel"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Blick aus der Raumstation auf Meerenge; gleiches Bild wie in der vorigen Erhebung",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "tier",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Nilpferd im Zoogehege",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 3,
+   "menschenmenge": "ja",
+   "notiz": "Quizshow-Studio: Moderator steht, Kandidatin sitzt, Mann auf Videoleinwand (Telefonjoker, als Person codiert); Jauch und Zverev genannt, Zuordnung aus dem Bild nicht sicher, daher keine Namen; Publikum nicht einzeln codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Älterer Mann mit Brille im grauen Anzug steht neben Kandidatin; einer der beiden Genannten"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Lächelnder Mann auf großer Videoleinwand (Telefonjoker); einer der beiden Genannten"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Frau mit langen Haaren im schwarzen Kleid sitzt auf Kandidatenstuhl"
+    }
+   ]
+  }
+ ]
+}

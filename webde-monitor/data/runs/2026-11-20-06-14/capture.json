@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-20-06-14",
+  "erfasst_am": "2026-11-20T06:14:34.723Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "Europa will es Russland nicht allzu leicht machen",
+      "teasertext": "Analyse \"Koalition der Willigen\" Europa will es Russland nicht allzu leicht machen",
+      "url": "https://web.de/magazine/politik/russland-krieg-ukraine/koalition-willigen-europa-russland-42963700",
+      "bild_url": "https://i0.web.de/image/694/42963694%2cpd=4%2cf=responsive169-w950/gipfeltreffen-koalition-willigen.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Analyse \"Koalition der Willigen\"",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Sigmar Gabriel: \"Können wir nicht ein Mal sagen: 'Wir haben was gut gemacht'?\"",
+      "teasertext": "TV-Nachlese Debatte bei Illner Sigmar Gabriel: \"Können wir nicht ein Mal sagen: 'Wir haben was gut gemacht'?\"",
+      "url": "https://web.de/magazine/politik/politische-talkshows/sigmar-gabriel-gut-42964792",
+      "bild_url": "https://i0.web.de/image/864/42964864%2cpd=1%2cf=responsive169-w300/sigmar-gabriel.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "TV-Nachlese Debatte bei Illner",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Hormus-Krise \"erschüttert das System\" – Historische Wende auf dem Energiemarkt",
+      "teasertext": "Globale Versorgung Hormus-Krise \"erschüttert das System\" – Historische Wende auf dem Energiemarkt",
+      "url": "https://web.de/magazine/politik/hormus-krise-erschuettert-system-historische-wende-energiemarkt-42961842",
+      "bild_url": "https://i0.web.de/image/036/42962036%2cpd=1%2cf=responsive169-w300/strasse-hormus-all.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Globale Versorgung",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Mütze von Besucher vertilgt: Berühmtes Nilpferd Fiona gestorben",
+      "teasertext": "US-Zoo \"im Schockzustand\" Mütze von Besucher vertilgt: Berühmtes Nilpferd Fiona gestorben",
+      "url": "https://web.de/magazine/panorama/aus-aller-welt/nilpferd-fiona-tot-muetze-besucher-vertilgt-gestorben-42964434",
+      "bild_url": "https://i0.web.de/image/704/42964704%2cpd=2%2cf=responsive169-w300/nilpferd-fiona.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "US-Zoo \"im Schockzustand\"",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Jauch telefoniert mit Zverev – der findet Frage \"gemein\"",
+      "teasertext": "Galerie Wer wird Millionär? Jauch telefoniert mit Zverev – der findet Frage \"gemein\"",
+      "url": "https://web.de/magazine/unterhaltung/tv-shows/wwm/millionaer-jauch-telefoniert-wwm-zverev-frage-gemein-42963054",
+      "bild_url": "https://i0.web.de/image/004/42963004%2cpd=2%2cf=responsive169-w300/guenther-jauch-sophia-thomalla-alexander-zverev.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Galerie Wer wird Millionär?",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

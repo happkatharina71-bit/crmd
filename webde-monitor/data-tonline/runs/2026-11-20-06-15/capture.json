@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-20-06-15",
+  "erfasst_am": "2026-11-20T06:15:05.242Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Tagesanbruch",
+      "headline": "Das größte Geschäft der Welt",
+      "teasertext": "MEINUNG|Tagesanbruch Das größte Geschäft der Welt Von Florian Harms",
+      "url": "https://www.t-online.de/nachrichten/tagesanbruch/id_101537736/anthropic-an-der-boerse-lohnt-sich-die-wette-auf-ki-.html",
+      "bild_url": "https://images.t-online.de/2026/11/Mc2aVWn9TR8B/0x107:2048x1152/fit-in/1920x0/anthropic-werbung-am-times-square-in-new-york.jpg",
+      "bild_alt": "Anthropic-Werbung am Times Square in New York.",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Saugroboter und Kühlschränke",
+      "headline": "Die Gefahr lauert in den eigenen vier Wänden",
+      "teasertext": "Saugroboter und Kühlschränke Die Gefahr lauert in den eigenen vier Wänden Von Julia Naue",
+      "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101535426/neuer-bericht-zur-cybersicherheit-ki-befeuert-hackerangriffe-bsi-warnt.html",
+      "bild_url": "https://images.t-online.de/2026/11/WCaqAeGTPBH3/649x28:4701x2644/fit-in/1920x0/image.jpg",
+      "bild_alt": "Attacke auf Kühltruhen",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "\"Katalog des Grauens\"",
+      "headline": "VW plant drastische Einschnitte für Beschäftigte",
+      "teasertext": "\"Katalog des Grauens\" VW plant drastische Einschnitte für Beschäftigte",
+      "url": "https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_101537284/vw-verlangt-nullrunden-und-einschnitte-bei-35-stunden-woche.html",
+      "bild_url": "https://images.t-online.de/2026/11/NYrUZFK7rbec/287x77:1455x819/fit-in/1455x0/image.jpg",
+      "bild_alt": "urn:newsml:dpa.com:20090101:261029-936-131511",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "\"Potenziell katastrophales\" Regenereignis ",
+      "headline": "Starkregen flutet Metropolregion",
+      "teasertext": "Video \"Potenziell katastrophales\" Regenereignis Starkregen flutet Metropolregion",
+      "url": "https://www.t-online.de/video/nachrichten/panorama/id_101537274/florida-starkregen-flutet-teile-des-bundesstaats-behoerde-warnt.html",
+      "bild_url": "https://images.t-online.de/2026/11/xHTzYkKnVfFe/0x413:990x557/fit-in/990x0/image.png",
+      "bild_alt": null,
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "Brisante Debatte beim FC Bayern",
+      "headline": "Der Fall ist längst zum Politikum geworden",
+      "teasertext": "Brisante Debatte beim FC Bayern Der Fall ist längst zum Politikum geworden Von Julian Buhl",
+      "url": "https://www.t-online.de/sport/fussball/id_101537082/fc-bayern-er-braucht-kompany-brisante-debatte-um-jamal-musiala.html",
+      "bild_url": "https://images.t-online.de/2026/04/lF1u3k--gR46/574x52:2578x1450/fit-in/1920x0/behutsamer-aufbau-bayern-trainer-kompany-r-herzt-seinen-spieler-jamal-musiala-nach-der-partie-gegen-real-madrid.jpg",
+      "bild_alt": "Behutsamer Aufbau: Bayern-Trainer Kompany (r.) herzt seinen Spieler Jamal Musiala nach der Partie gegen Real Madrid.",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

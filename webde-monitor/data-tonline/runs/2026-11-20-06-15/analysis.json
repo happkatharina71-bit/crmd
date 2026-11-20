@@ -1,0 +1,113 @@
+{
+ "run_id": "2026-11-20-06-15",
+ "erfasst_am": "2026-11-20T06:15:05.242Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "ja",
+   "notiz": "Times Square mit Werbebildschirmen; viele winzige Passanten, nicht einzeln codierbar",
+   "personen": []
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 3,
+   "menschenmenge": "nein",
+   "notiz": "Mitarbeitende werfen Lebensmittel in Container; niemand namentlich genannt",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Frau mit Brille im roten Poloshirt wirft Packungen in Container"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann im roten Shirt links hinten"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person mit Dutt in schwarzer Jacke von hinten"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Werksgelände mit VW-Turm in der Dämmerung; gleiches Bild wie in der vorigen Erhebung",
+   "personen": []
+  },
+  {
+   "position": 4,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Überflutete Tiefgarage, Videostandbild",
+   "personen": []
+  },
+  {
+   "position": 5,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Umarmung auf dem Platz: Trainer mit Kappe und Spieler von hinten; Trikotname nicht übernommen; niemand namentlich genannt; gleiches Bild wie in der vorigen Erhebung",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "poc",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Mann mit Bart und Kappe in beiger Jacke umarmt Spieler"
+    },
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Spieler im roten Bayern-Trikot von hinten"
+    }
+   ]
+  }
+ ]
+}
