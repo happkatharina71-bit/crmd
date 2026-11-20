@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-20-16-15",
+  "erfasst_am": "2026-11-20T16:15:24.718Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "\"Giftige Flutwelle\": Wenn Alltagsprodukte zum Gesundheitsrisiko werden",
+      "teasertext": "Hormonstörende Chemikalien \"Giftige Flutwelle\": Wenn Alltagsprodukte zum Gesundheitsrisiko werden",
+      "url": "https://web.de/magazine/wissen/wissenschaft-technik/hormonstoerende-chemikalien-alltagsprodukte-gefahr-42965768",
+      "bild_url": "https://i0.web.de/image/074/42967074%2cpd=1%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Hormonstörende Chemikalien",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Mehrheit der Befragten gegen Vergesellschaftung",
+      "teasertext": "Spiegel-Politikmonitor Mehrheit der Befragten gegen Vergesellschaftung",
+      "url": "https://web.de/magazine/politik/inland/mehrheit-vergesellschaftung-42967364",
+      "bild_url": "https://i0.web.de/image/380/42967380%2cpd=1%2cf=responsive169-w300/demonstrant-mietwucher.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Spiegel-Politikmonitor",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Wellinger erlebt Debakel zum Weltcup-Auftakt",
+      "teasertext": "Skispringen in Lillehammer Wellinger erlebt Debakel zum Weltcup-Auftakt",
+      "url": "https://web.de/magazine/sport/wintersport/skispringen/skispringen-wellinger-erlebt-debakel-weltcup-auftakt-42967304",
+      "bild_url": "https://i0.web.de/image/314/42967314%2cpd=1%2cf=responsive169-w300/andreas-wellinger-weltcup-auftakt-start-vergessen-.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Skispringen in Lillehammer",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Das sind die größten Dealbreaker für Singles",
+      "teasertext": "Aktuelle Umfrage Das sind die größten Dealbreaker für Singles",
+      "url": "https://web.de/magazine/liebe-partnerschaft/groessten-dealbreaker-singles-42965632",
+      "bild_url": "https://i0.web.de/image/680/42965680%2cpd=2%2cf=responsive169-w300/gelangweilt-skeptisch-date.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Aktuelle Umfrage",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Jäger entdeckt Leiche im Wald – Name in Socke eingenäht",
+      "teasertext": "Detail hilft Ermittlern Jäger entdeckt Leiche im Wald – Name in Socke eingenäht",
+      "url": "https://web.de/magazine/panorama/menschen-schicksale/jaeger-entdeckt-leiche-wald-name-socke-eingenaeht-42967132",
+      "bild_url": "https://i0.web.de/image/230/42967230%2cpd=1%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Detail hilft Ermittlern",
+      "bild": "bild-5.webp"
+    }
+  ]
+}

@@ -1168,3 +1168,7 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-20-12-17,2,1,Prien,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Frau mit rötlichem Haar und Halstuch stützt Kinn auf Hände; einzige Person mit Gesicht, Headline: Familienministerin Prien"
 2026-11-20-12-17,3,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Mann mit grauem Bart und Kappe in Daunenjacke klatscht lachend; Kontext DFB"
 2026-11-20-12-17,4,1,Königin Margrethe,weiblich,alt,weiss,hauptperson,namentlich,passiv,reich_maechtig,nein,hoch,"Ältere Frau mit grauem Haar und Brille in rotem Blazer; einzige Person, Headline: Königin Margrethe"
+2026-11-20-16-15,2,1,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,hauptperson,nein,nicht_thematisiert,neutral,ja,niedrig,Person im Astronautenanzug mit verspiegeltem Visier hält Protestschild
+2026-11-20-16-15,3,1,Wellinger,maennlich,jung,weiss,hauptperson,namentlich,passiv,neutral,nein,hoch,"Junger Mann mit Helm und Skibrille, Ski über der Schulter; einzige Person im Fokus, Headline: Wellinger"
+2026-11-20-16-15,4,1,,weiblich,jung,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,mittel,"Junge Frau mit zurückgebundenem dunklem Haar stützt Kopf, gelangweilt; Headline: Singles"
+2026-11-20-16-15,4,2,,nicht_erkennbar,nicht_erkennbar,nicht_erkennbar,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Person von hinten im Vordergrund, unscharf"

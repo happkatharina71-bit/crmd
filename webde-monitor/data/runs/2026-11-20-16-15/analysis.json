@@ -1,0 +1,101 @@
+{
+ "run_id": "2026-11-20-16-15",
+ "erfasst_am": "2026-11-20T16:15:24.718Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "In Plastik verpackte Paprika",
+   "personen": []
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "ja",
+   "notiz": "Mietendemo vor Fernsehturm: Person im Astronautenkostüm mit Schild, Demonstrierende im Hintergrund; Gesicht hinter Visier nicht erkennbar; eine Stellvertreterperson codiert",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "ja",
+     "sicherheit": "niedrig",
+     "begruendung": "Person im Astronautenanzug mit verspiegeltem Visier hält Protestschild"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Skispringer mit Helm und Ski auf der Schulter; unscharfe Personen im Hintergrund nicht codiert",
+   "personen": [
+    {
+     "name": "Wellinger",
+     "geschlecht": "maennlich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Junger Mann mit Helm und Skibrille, Ski über der Schulter; einzige Person im Fokus, Headline: Wellinger"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Symbolbild: gelangweilte Frau beim Date, Gegenüber von hinten unscharf",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "jung",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "mittel",
+     "begruendung": "Junge Frau mit zurückgebundenem dunklem Haar stützt Kopf, gelangweilt; Headline: Singles"
+    },
+    {
+     "name": "",
+     "geschlecht": "nicht_erkennbar",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person von hinten im Vordergrund, unscharf"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "landschaft_ort",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Waldhügel mit Aussichtsturm",
+   "personen": []
+  }
+ ]
+}
