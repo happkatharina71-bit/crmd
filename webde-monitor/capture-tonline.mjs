@@ -12,7 +12,7 @@ const runId = now.toISOString().slice(0, 16).replace(/[:T]/g, '-');
 const outDir = path.join(path.dirname(new URL(import.meta.url).pathname), 'data-tonline', 'runs', runId);
 fs.mkdirSync(outDir, { recursive: true });
 
-const browser = await chromium.launch();
+const browser = await chromium.launch().catch(() => chromium.launch({ executablePath: '/opt/pw-browsers/chromium' }));
 const context = await browser.newContext({ ...devices['iPhone 13'], locale: 'de-DE', timezoneId: 'Europe/Berlin' });
 const page = await context.newPage();
 await page.goto(START_URL, { waitUntil: 'domcontentloaded', timeout: 60000 });

@@ -1163,3 +1163,8 @@ run_id,position,person_nr,name,geschlecht,alter,hautfarbe,bildrolle,in_headline,
 2026-11-20-09-14,2,2,,maennlich,mittel,weiss,nebenperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,Mann mit grauem Haar im dunklen Anzug mit Moderationskarten
 2026-11-20-09-14,3,1,Thomas Müller,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,hoch,"Mann mit Bart im weißen MLS-Trikot; einzige Person, Headline: Thomas Müller"
 2026-11-20-09-14,5,1,Bill Kaulitz,maennlich,mittel,weiss,hauptperson,namentlich,aktiv,neutral,nein,mittel,"Person mit langen blonden Haaren, Sonnenbrille, Piercings und Bartstoppeln spricht ins Mikro; einzige Person im Fokus, Headline: Bill Kaulitz"
+2026-11-20-12-17,1,1,,weiblich,nicht_erkennbar,nicht_erkennbar,hauptperson,indirekt,aktiv,neutral,nein,niedrig,"Person mit blondem Flechtzopf im dunklen Mantel von hinten, legt Arm um die andere; Headline: ich (Trauernde)"
+2026-11-20-12-17,1,2,,weiblich,alt,nicht_erkennbar,nebenperson,nein,nicht_thematisiert,neutral,nein,niedrig,Person mit weißem Bob im dunklen Mantel von hinten
+2026-11-20-12-17,2,1,Prien,weiblich,mittel,weiss,hauptperson,namentlich,aktiv,reich_maechtig,ja,hoch,"Frau mit rötlichem Haar und Halstuch stützt Kinn auf Hände; einzige Person mit Gesicht, Headline: Familienministerin Prien"
+2026-11-20-12-17,3,1,,maennlich,mittel,weiss,hauptperson,indirekt,nicht_thematisiert,neutral,nein,niedrig,"Mann mit grauem Bart und Kappe in Daunenjacke klatscht lachend; Kontext DFB"
+2026-11-20-12-17,4,1,Königin Margrethe,weiblich,alt,weiss,hauptperson,namentlich,passiv,reich_maechtig,nein,hoch,"Ältere Frau mit grauem Haar und Brille in rotem Blazer; einzige Person, Headline: Königin Margrethe"

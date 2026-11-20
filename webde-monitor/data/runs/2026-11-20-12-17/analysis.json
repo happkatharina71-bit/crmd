@@ -1,0 +1,115 @@
+{
+ "run_id": "2026-11-20-12-17",
+ "erfasst_am": "2026-11-20T12:17:23.470Z",
+ "teaser": [
+  {
+   "position": 1,
+   "bild_typ": "personen",
+   "personen_anzahl": 2,
+   "menschenmenge": "nein",
+   "notiz": "Symbolbild: zwei Frauen von hinten am Grab, Arm umeinander",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "nicht_erkennbar",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "aktiv",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person mit blondem Flechtzopf im dunklen Mantel von hinten, legt Arm um die andere; Headline: ich (Trauernde)"
+    },
+    {
+     "name": "",
+     "geschlecht": "weiblich",
+     "alter": "alt",
+     "hautfarbe": "nicht_erkennbar",
+     "bildrolle": "nebenperson",
+     "in_headline": "nein",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Person mit weißem Bob im dunklen Mantel von hinten"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Frau auf Abgeordnetenbank im Bundestag; angeschnittene Person in Pink links ohne Gesicht nicht codiert",
+   "personen": [
+    {
+     "name": "Prien",
+     "geschlecht": "weiblich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "aktiv",
+     "status": "reich_maechtig",
+     "agenda": "ja",
+     "sicherheit": "hoch",
+     "begruendung": "Frau mit rötlichem Haar und Halstuch stützt Kinn auf Hände; einzige Person mit Gesicht, Headline: Familienministerin Prien"
+    }
+   ]
+  },
+  {
+   "position": 3,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Trainer mit Kappe applaudiert; nicht namentlich genannt; Publikum unscharf",
+   "personen": [
+    {
+     "name": "",
+     "geschlecht": "maennlich",
+     "alter": "mittel",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "indirekt",
+     "headline_aktiv": "nicht_thematisiert",
+     "status": "neutral",
+     "agenda": "nein",
+     "sicherheit": "niedrig",
+     "begruendung": "Mann mit grauem Bart und Kappe in Daunenjacke klatscht lachend; Kontext DFB"
+    }
+   ]
+  },
+  {
+   "position": 4,
+   "bild_typ": "personen",
+   "personen_anzahl": 1,
+   "menschenmenge": "nein",
+   "notiz": "Porträt einer älteren Frau vor schwarzem Hintergrund",
+   "personen": [
+    {
+     "name": "Königin Margrethe",
+     "geschlecht": "weiblich",
+     "alter": "alt",
+     "hautfarbe": "weiss",
+     "bildrolle": "hauptperson",
+     "in_headline": "namentlich",
+     "headline_aktiv": "passiv",
+     "status": "reich_maechtig",
+     "agenda": "nein",
+     "sicherheit": "hoch",
+     "begruendung": "Ältere Frau mit grauem Haar und Brille in rotem Blazer; einzige Person, Headline: Königin Margrethe"
+    }
+   ]
+  },
+  {
+   "position": 5,
+   "bild_typ": "objekt",
+   "personen_anzahl": 0,
+   "menschenmenge": "nein",
+   "notiz": "Getränkedosen",
+   "personen": []
+  }
+ ]
+}

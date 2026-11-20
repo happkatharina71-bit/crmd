@@ -1,0 +1,75 @@
+{
+  "run_id": "2026-11-20-12-17",
+  "erfasst_am": "2026-11-20T12:17:42.840Z",
+  "quelle": "https://www.t-online.de/",
+  "ansicht": "mobil (iPhone 13), Hero-Karussell",
+  "slides_gesamt": 8,
+  "anzeigen_uebersprungen": 0,
+  "teaser": [
+    {
+      "position": 1,
+      "slide": 1,
+      "anzeige": false,
+      "dachzeile": "Herausforderung für Klopp-Elf",
+      "headline": "Nations League: Deutscher Viertelfinalgegner steht fest",
+      "teasertext": "Herausforderung für Klopp-Elf Nations League: Deutscher Viertelfinalgegner steht fest",
+      "url": "https://www.t-online.de/sport/fussball/nationalmannschaft-deutschland/id_101538192/nations-league-viertelfinalgegner-der-dfb-elf-steht-fest.html",
+      "bild_url": "https://images.t-online.de/2026/11/KQSRizeMGuT4/0x7:1780x1001/fit-in/1780x0/juergen-klopp-dem-bundestrainer-ist-mit-seiner-mannschaft-der-einzug-in-die-naechste-runde-der-nations-league-gelungen.jpg",
+      "bild_alt": "Jürgen Klopp: Dem Bundestrainer ist mit seiner Mannschaft der Einzug in die nächste Runde der Nations League gelungen.",
+      "bild": "bild-1.jpg",
+      "screenshot": "teaser-1.png"
+    },
+    {
+      "position": 2,
+      "slide": 2,
+      "anzeige": false,
+      "dachzeile": "Erste Erkenntnisse nach Protesten",
+      "headline": "Das waren die Täter bei den Gen-Z-Krawallen",
+      "teasertext": "Erste Erkenntnisse nach Protesten Das waren die Täter bei den Gen-Z-Krawallen",
+      "url": "https://www.t-online.de/nachrichten/deutschland/gesellschaft/id_101538152/gen-z-protest-krawalle-in-frankfurt-hamburg-berlin-das-waren-die-taeter.html",
+      "bild_url": "https://images.t-online.de/2026/11/SUGJrFd03R24/0x296:5682x3196/fit-in/1920x0/31-102026-gen-z-demo-die-generation-z-demonstriert-in-zahlreichen-buendnissen-gegen-sozialabbau-militarisierung-rentenkuerzungen-und-viele-probleme-die-nachteile-fuer-ihre-generation-bedeuten-an-der-demo-in-frankfurt-nahmen-nach-ersten-angaben-ca-4500-personen-teil-am-abend-eskalierte-die-situation-barrikaden-wurden-errichtet-muelltonnen-in-brend-gesetzt-und-schaufensterscheiben-eingeschlagen-hier-wurde-ein-waffengeschaeft-teilweise-gepluendert-einige-waffen-wurden-durch-die-eingeschlagene-scheibe-entwen.jpg",
+      "bild_alt": "imago images 0871433034",
+      "bild": "bild-2.jpg",
+      "screenshot": "teaser-2.png"
+    },
+    {
+      "position": 3,
+      "slide": 3,
+      "anzeige": false,
+      "dachzeile": "Überraschung an der Spitze",
+      "headline": "In der Türkei passiert Historisches",
+      "teasertext": "Überraschung an der Spitze In der Türkei passiert Historisches Von Constantin Eckner",
+      "url": "https://www.t-online.de/sport/fussball/international/id_101535336/-klub-der-anderen-in-der-sueper-lig-amed-sk-mischt-die-tuerkei-auf-.html",
+      "bild_url": "https://images.t-online.de/2026/11/v9E7vMDWfcck/0x460:5751x3235/fit-in/1920x0/szenen-der-aufstiegsfeier-von-amedspor-der-aufsteiger-mischt-die-sueper-lig-auf.jpg",
+      "bild_alt": "Szenen der Aufstiegsfeier von Amedspor: Der Aufsteiger mischt die Süper Lig auf.",
+      "bild": "bild-3.jpg",
+      "screenshot": "teaser-3.png"
+    },
+    {
+      "position": 4,
+      "slide": 4,
+      "anzeige": false,
+      "dachzeile": "Wieder deutschlandweite Demos",
+      "headline": "Halten Sie die Gen-Z-Proteste für gerechtfertigt?",
+      "teasertext": "DEBATTE|Wieder deutschlandweite Demos Halten Sie die Gen-Z-Proteste für gerechtfertigt?",
+      "url": "https://debatte.t-online.de/debatte/politik/id_101538630/gen-z-proteste-halten-sie-die-demos-fuer-gerechtfertigt-umfrage.html",
+      "bild_url": "https://images.t-online.de/2026/11/Mx2RTf8OgtFl/0x107:2048x1152/fit-in/1920x0/ende-oktober-ging-das-buendnis-gen-z-regelt-auch-in-hannover-auf-die-strasse-archivbild.jpg",
+      "bild_alt": "Demonstrationen \"Gen Z regelt\" – Hannover",
+      "bild": "bild-4.jpg",
+      "screenshot": "teaser-4.png"
+    },
+    {
+      "position": 5,
+      "slide": 5,
+      "anzeige": false,
+      "dachzeile": "3.000 Euro extra sind möglich",
+      "headline": "So viel mehr Rente gibt es durch die Klingbeil-Reform",
+      "teasertext": "3.000 Euro extra sind möglich So viel mehr Rente gibt es durch die Klingbeil-Reform Von Amy Walker",
+      "url": "https://www.t-online.de/finanzen/ratgeber/altersvorsorge/altersvorsorgedepot/id_101356106/fruehstartrente-beschlossen-ueber-3000-euro-extra-rente-kommen-zusammen.html",
+      "bild_url": "https://images.t-online.de/2026/07/6fijVdas1-Sz/0x419:8051x4529/fit-in/1920x0/26-deutsch-franzoesischen-ministerrat-auf-schloss-augustusburg-aktuell-17-072026-bruehl-lars-klingbeil-bundesminister-der-finanzen-vizekanzler-im-portrait-im-vorfeld-der-militaerischen-ehren-zu-beginn-des-26-deutsch-franzoesischen-ministerrat-auf-schloss-augustusburg-bruehl-nordrhein-westfalen-deutschland-26th-german-french-council-of-ministers-at-augustusburg-palace-latest-news-july-17-2026-bruehl-lars-klingbeil-federal-minister-of-finance-and-vice-chancellor-profiled-ahead-of-the-milita.jpg",
+      "bild_alt": "imago images 0862014305",
+      "bild": "bild-5.jpg",
+      "screenshot": "teaser-5.png"
+    }
+  ]
+}

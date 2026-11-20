@@ -1,0 +1,63 @@
+{
+  "run_id": "2026-11-20-12-17",
+  "erfasst_am": "2026-11-20T12:17:23.470Z",
+  "quelle": "https://web.de/",
+  "ansicht": "mobil (iPhone 13)",
+  "teaser": [
+    {
+      "position": 1,
+      "headline": "\"Ich hatte das Gefühl, meine Trauer verstecken zu müssen\"",
+      "teasertext": "Tabuthema Tod \"Ich hatte das Gefühl, meine Trauer verstecken zu müssen\"",
+      "url": "https://web.de/magazine/wissen/psychologie/platz-trauer-gesellschaft-42958762",
+      "bild_url": "https://i0.web.de/image/340/42966340%2cpd=2%2cf=responsive169-w950.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-1.png",
+      "dachzeile": "Tabuthema Tod",
+      "bild": "bild-1.webp"
+    },
+    {
+      "position": 2,
+      "headline": "Familienministerin Prien will junge Männer nicht mit \"Problemstempel\" versehen",
+      "teasertext": "Warnung vor Pauschalkritik Familienministerin Prien will junge Männer nicht mit \"Problemstempel\" versehen",
+      "url": "https://web.de/magazine/politik/inland/ministerin-prien-warnt-pauschalkritik-jungen-maennern-42965658",
+      "bild_url": "https://i0.web.de/image/728/42965728%2cpd=2%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-2.png",
+      "dachzeile": "Warnung vor Pauschalkritik",
+      "bild": "bild-2.webp"
+    },
+    {
+      "position": 3,
+      "headline": "Kein Weltmeister, kein Haaland: DFB-Gegner steht fest",
+      "teasertext": "Nations League Kein Weltmeister, kein Haaland: DFB-Gegner steht fest",
+      "url": "https://web.de/magazine/sport/fussball/nations-league/dfb-gegner-nations-league-weltmeister-haaland-42966254",
+      "bild_url": "https://i0.web.de/image/338/42966338%2cpd=1%2cf=responsive169-w300/juergen-klopp.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-3.png",
+      "dachzeile": "Nations League",
+      "bild": "bild-3.webp"
+    },
+    {
+      "position": 4,
+      "headline": "Dänischer Sender erklärte Königin Margrethe für tot",
+      "teasertext": "Für drei Tage Dänischer Sender erklärte Königin Margrethe für tot",
+      "url": "https://web.de/magazine/unterhaltung/adel/daenischer-sender-erklaerte-koenigin-margrethe-tot-42954968",
+      "bild_url": "https://i0.web.de/image/236/42966236%2cpd=3%2cf=responsive169-w300.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-4.png",
+      "dachzeile": "Für drei Tage",
+      "bild": "bild-4.webp"
+    },
+    {
+      "position": 5,
+      "headline": "Coca-Cola ruft Sprite zurück – weil kein Zucker drin ist",
+      "teasertext": "Aktuelle Rückrufe Coca-Cola ruft Sprite zurück – weil kein Zucker drin ist",
+      "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/coca-cola-ruft-sprite-zurueck-zucker-42893628",
+      "bild_url": "https://i0.web.de/image/464/42965464%2cpd=2%2cf=responsive169-w300/coca-cola-fanta-sprite.webp",
+      "bild_alt": null,
+      "screenshot": "teaser-5.png",
+      "dachzeile": "Aktuelle Rückrufe",
+      "bild": "bild-5.webp"
+    }
+  ]
+}
