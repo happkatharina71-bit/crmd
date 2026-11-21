@@ -9,7 +9,7 @@ FACHLATEIN = ["Quadrat", "Trigon", "Sextil", "Opposition", "Konjunktion", "Trans
               "Aspekt", "Haus", "Häuser", "Ingress", "Aszendent", "Ekliptik"]
 ANNAHMEN = [r"\b(dein|deine|deinen|deinem|deiner) (Mann|Frau|Ehemann|Ehefrau|Freund|Freundin|Chef|Chefin|Kinder?)\b",
             r"\b(deinem|deinen|dein) Partner\b(?!\*)", r"\bals (Mann|Frau)\b"]
-LAENGE = (90, 160)  # Wörter für Tageshoroskop
+LAENGE = (200, 290)  # Wörter für Tageshoroskop (Teaser + 3 Abschnitte à ~65 + Tipp ~30)
 
 
 def trigramme(t):
@@ -24,7 +24,8 @@ def pruefe(text, b):
         if f.lower() in tl:
             fehler.append(f"Verbotene Floskel: '{f}'")
     for f in FACHLATEIN:
-        if re.search(rf"\b{f}\w*", text):
+        muster = r"\b(Haus|Häuser[n]?)\b" if f in ("Haus", "Häuser") else rf"\b{f}\w*"  # "zu Hause" ist erlaubt
+        if re.search(muster, text):
             fehler.append(f"Fachbegriff: '{f}'")
     for r in ANNAHMEN:
         for m in re.finditer(r, text):
@@ -32,6 +33,11 @@ def pruefe(text, b):
     for p in KOERPER:
         if re.search(rf"\b{p}\b", text) and p not in b["erlaubte_planeten"]:
             fehler.append(f"Planet nicht im Briefing: {p}")
+    koerper = "\n".join(z for z in text.splitlines() if not z.startswith("#"))
+    if re.search(r"\b(der|die|den|dem|des) Skorpions?\b|\bSkorpione\b", koerper, re.I):
+        fehler.append("Dritte Person ('der Skorpion'/'Skorpione') – bitte direkt duzen")
+    if len(re.findall(r"^### ", text, re.M)) != 4 or "### Tipp des Tages" not in text:
+        fehler.append("Struktur: 3 Abschnitte mit ### Zwischenüberschrift + '### Tipp des Tages' erwartet")
     n = len(re.findall(r"\w+", re.sub(r"^#.*$", "", text, flags=re.M)))
     if not LAENGE[0] <= n <= LAENGE[1]:
         fehler.append(f"Länge {n} Wörter (Soll {LAENGE[0]}–{LAENGE[1]})")
@@ -41,8 +47,8 @@ def pruefe(text, b):
         ueberlapp = len(tri & trigramme(alt)) / max(1, len(tri))
         if ueberlapp > 0.08:
             fehler.append(f"Zu ähnlich zu {v['datei']} ({ueberlapp:.0%} gleiche Wortfolgen)")
-        a1 = re.findall(r"\w+", alt.split("\n", 2)[-1].strip())[:3]
-        a2 = re.findall(r"\w+", text.split("\n", 2)[-1].strip())[:3]
+        a1 = re.findall(r"\w+", re.sub(r"^#.*$", "", alt, flags=re.M).strip())[:3]
+        a2 = re.findall(r"\w+", re.sub(r"^#.*$", "", text, flags=re.M).strip())[:3]
         for muster in re.findall(r"(?:^|[.!?:–]\s+)((?:\w+\s+){2}\w+)", alt):
             if len(muster) > 12 and re.search(rf"(?:^|[.!?:–]\s+){re.escape(muster)}\b", text):
                 fehler.append(f"Gleicher Satzanfang wie in {v['datei']}: '{muster}'")
