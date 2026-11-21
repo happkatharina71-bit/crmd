@@ -1,0 +1,77 @@
+# Skorpion (24.10.–22.11.) – Andockpunkte für Horoskope
+# Keine Eigenschaftsliste, sondern: Wie reagieren Skorpion-Menschen typischerweise, wenn ein Lebensthema
+# durch die Tageskonstellation angesprochen wird? Daraus entsteht das Konkrete im Text.
+# "bereiche"/"planeten" verknüpfen jeden Punkt automatisch mit dem Briefing.
+
+grundzug: "Tiefe statt Oberfläche, Beständigkeit, feines Gespür für Zwischentöne, Kraft zur Erneuerung"
+hintergrund: {element: Wasser, qualitaet: fix, herrscher: [Mars, Pluto]}  # nur intern
+
+andockpunkte:
+  - thema: Gespräche und Gedanken
+    bereiche: [3, 9]
+    planeten: [Merkur]
+    staerke: "stellt die Frage hinter der Frage, hört genau zu, merkt, was ungesagt bleibt"
+    verhakt_sich: "schweigt lieber, als etwas Halbgares zu sagen"
+    was_wirkt: "ein klarer Satz statt langer Erklärungen; nachfragen; zuhören und spiegeln"
+
+  - thema: Nähe und Vertrauen
+    bereiche: [7, 8]
+    planeten: [Venus, Mond]
+    staerke: "verlässlich, echtes Interesse, bleibt, wenn es schwierig wird"
+    verhakt_sich: "Vertrauen braucht Zeit; zeigt Gefühle erst, wenn es sicher ist"
+    was_wirkt: "kleine Zeichen von Verbindlichkeit; sich ein Stück weit zeigen; Absprachen ehrlich prüfen"
+
+  - thema: Antrieb und Mut
+    bereiche: [1]
+    planeten: [Mars, Sonne]
+    staerke: "enorme Ausdauer, wenn ein Ziel Sinn ergibt"
+    verhakt_sich: "Alles-oder-nichts: lieber gar nicht als halb"
+    was_wirkt: "den ersten kleinen Schritt machen statt auf den perfekten Moment zu warten"
+
+  - thema: Selbstwert und Besitz
+    bereiche: [2]
+    planeten: [Venus, Sonne]
+    staerke: "weiß genau, was wichtig ist; Qualität vor Menge"
+    verhakt_sich: "will alles im Griff behalten"
+    was_wirkt: "bewusst wählen, was einem guttut; sich selbst etwas zutrauen (ohne Geld vorauszusetzen)"
+
+  - thema: Aufgaben und Ziele
+    bereiche: [6, 10]
+    planeten: [Saturn, Jupiter, Mars]
+    staerke: "Gründlichkeit, Fokus, Dranbleiben, Diskretion"
+    verhakt_sich: "macht zu viel allein, wartet, bis etwas perfekt ist"
+    was_wirkt: "um Unterstützung bitten; eigene Arbeit sichtbar machen; sich etwas trauen"
+
+  - thema: Wandel und Neubeginn
+    bereiche: [1, 8, 12]
+    planeten: [Pluto, Uranus]
+    staerke: "kann loslassen und neu anfangen, wenn es Sinn hat"
+    verhakt_sich: "hält an Vertrautem fest, länger als nötig"
+    was_wirkt: "eine Kleinigkeit bewusst beenden oder ändern; Neues im Kleinen ausprobieren"
+
+  - thema: Rückzug und Auftanken
+    bereiche: [12, 4]
+    planeten: [Neptun, Mond]
+    staerke: "tankt in Ruhe und Tiefe auf, hat starke Intuition"
+    verhakt_sich: "Rückzug kippt in Abschottung"
+    was_wirkt: "Rückzug mit Absicht – und danach bewusst wieder auf Menschen zugehen"
+
+  - thema: Freude und Neugier
+    bereiche: [5, 9]
+    planeten: [Sonne, Jupiter, Venus]
+    staerke: "kann sich mit Hingabe in ein Thema vertiefen"
+    verhakt_sich: "nimmt sich Freude erst, wenn alles erledigt ist"
+    was_wirkt: "einer Neugier sofort nachgehen; etwas genießen, ohne es sich verdienen zu müssen"
+
+  - thema: Freundschaft und Gemeinschaft
+    bereiche: [11, 3]
+    planeten: [Jupiter, Venus]
+    staerke: "wenige, dafür tiefe Verbindungen; sehr loyal"
+    verhakt_sich: "meldet sich selten von sich aus"
+    was_wirkt: "einen Kontakt gezielt pflegen; jemandem etwas Gutes tun"
+
+nicht_verwenden:
+  - "gefährlich, rachsüchtig, nachtragend, giftig, Stachel, geheimnisvoll, düster"
+  - "Reduktion auf Sexualität oder Dauerformel 'Leidenschaft'"
+  - "Jahreszeiten-Klischees (Herbst, fallendes Laub) als Charakterbeschreibung"
+  - "Annahmen über Geschlecht, Beziehungsstatus, Orientierung, Familienform, Beruf, Einkommen"

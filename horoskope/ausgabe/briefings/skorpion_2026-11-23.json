@@ -15,6 +15,36 @@
       "planeten": [
         "Sonne",
         "Neptun"
+      ],
+      "andockpunkte": [
+        {
+          "thema": "Selbstwert und Besitz",
+          "bereiche": [
+            2
+          ],
+          "planeten": [
+            "Venus",
+            "Sonne"
+          ],
+          "staerke": "weiß genau, was wichtig ist; Qualität vor Menge",
+          "verhakt_sich": "will alles im Griff behalten",
+          "was_wirkt": "bewusst wählen, was einem guttut; sich selbst etwas zutrauen (ohne Geld vorauszusetzen)"
+        },
+        {
+          "thema": "Aufgaben und Ziele",
+          "bereiche": [
+            6,
+            10
+          ],
+          "planeten": [
+            "Saturn",
+            "Jupiter",
+            "Mars"
+          ],
+          "staerke": "Gründlichkeit, Fokus, Dranbleiben, Diskretion",
+          "verhakt_sich": "macht zu viel allein, wartet, bis etwas perfekt ist",
+          "was_wirkt": "um Unterstützung bitten; eigene Arbeit sichtbar machen; sich etwas trauen"
+        }
       ]
     },
     {
@@ -29,6 +59,38 @@
       "planeten": [
         "Venus",
         "Jupiter"
+      ],
+      "andockpunkte": [
+        {
+          "thema": "Aufgaben und Ziele",
+          "bereiche": [
+            6,
+            10
+          ],
+          "planeten": [
+            "Saturn",
+            "Jupiter",
+            "Mars"
+          ],
+          "staerke": "Gründlichkeit, Fokus, Dranbleiben, Diskretion",
+          "verhakt_sich": "macht zu viel allein, wartet, bis etwas perfekt ist",
+          "was_wirkt": "um Unterstützung bitten; eigene Arbeit sichtbar machen; sich etwas trauen"
+        },
+        {
+          "thema": "Wandel und Neubeginn",
+          "bereiche": [
+            1,
+            8,
+            12
+          ],
+          "planeten": [
+            "Pluto",
+            "Uranus"
+          ],
+          "staerke": "kann loslassen und neu anfangen, wenn es Sinn hat",
+          "verhakt_sich": "hält an Vertrautem fest, länger als nötig",
+          "was_wirkt": "eine Kleinigkeit bewusst beenden oder ändern; Neues im Kleinen ausprobieren"
+        }
       ]
     },
     {
@@ -43,6 +105,35 @@
       "planeten": [
         "Sonne",
         "Pluto"
+      ],
+      "andockpunkte": [
+        {
+          "thema": "Selbstwert und Besitz",
+          "bereiche": [
+            2
+          ],
+          "planeten": [
+            "Venus",
+            "Sonne"
+          ],
+          "staerke": "weiß genau, was wichtig ist; Qualität vor Menge",
+          "verhakt_sich": "will alles im Griff behalten",
+          "was_wirkt": "bewusst wählen, was einem guttut; sich selbst etwas zutrauen (ohne Geld vorauszusetzen)"
+        },
+        {
+          "thema": "Rückzug und Auftanken",
+          "bereiche": [
+            12,
+            4
+          ],
+          "planeten": [
+            "Neptun",
+            "Mond"
+          ],
+          "staerke": "tankt in Ruhe und Tiefe auf, hat starke Intuition",
+          "verhakt_sich": "Rückzug kippt in Abschottung",
+          "was_wirkt": "Rückzug mit Absicht – und danach bewusst wieder auf Menschen zugehen"
+        }
       ]
     }
   ],
@@ -161,8 +252,18 @@
     "Venus"
   ],
   "einstieg": "kurze, klare Aussage zum Tag",
-  "schluss": "kleines Ritual",
+  "schluss": "kleine Geste für andere",
   "letzte_texte": [
     "tag/skorpion_2026-11-22.md"
+  ],
+  "motive_zuletzt": [
+    "Frage"
+  ],
+  "grundzug": "Tiefe statt Oberfläche, Beständigkeit, feines Gespür für Zwischentöne, Kraft zur Erneuerung",
+  "nicht_verwenden": [
+    "gefährlich, rachsüchtig, nachtragend, giftig, Stachel, geheimnisvoll, düster",
+    "Reduktion auf Sexualität oder Dauerformel 'Leidenschaft'",
+    "Jahreszeiten-Klischees (Herbst, fallendes Laub) als Charakterbeschreibung",
+    "Annahmen über Geschlecht, Beziehungsstatus, Orientierung, Familienform, Beruf, Einkommen"
   ]
 }

@@ -10,6 +10,34 @@
       "bereich": 2,
       "planeten": [
         "Sonne"
+      ],
+      "andockpunkte": [
+        {
+          "thema": "Selbstwert und Besitz",
+          "bereiche": [
+            2
+          ],
+          "planeten": [
+            "Venus",
+            "Sonne"
+          ],
+          "staerke": "weiß genau, was wichtig ist; Qualität vor Menge",
+          "verhakt_sich": "will alles im Griff behalten",
+          "was_wirkt": "bewusst wählen, was einem guttut; sich selbst etwas zutrauen (ohne Geld vorauszusetzen)"
+        },
+        {
+          "thema": "Antrieb und Mut",
+          "bereiche": [
+            1
+          ],
+          "planeten": [
+            "Mars",
+            "Sonne"
+          ],
+          "staerke": "enorme Ausdauer, wenn ein Ziel Sinn ergibt",
+          "verhakt_sich": "Alles-oder-nichts: lieber gar nicht als halb",
+          "was_wirkt": "den ersten kleinen Schritt machen statt auf den perfekten Moment zu warten"
+        }
       ]
     },
     {
@@ -24,6 +52,36 @@
       "planeten": [
         "Sonne",
         "Mars"
+      ],
+      "andockpunkte": [
+        {
+          "thema": "Selbstwert und Besitz",
+          "bereiche": [
+            2
+          ],
+          "planeten": [
+            "Venus",
+            "Sonne"
+          ],
+          "staerke": "weiß genau, was wichtig ist; Qualität vor Menge",
+          "verhakt_sich": "will alles im Griff behalten",
+          "was_wirkt": "bewusst wählen, was einem guttut; sich selbst etwas zutrauen (ohne Geld vorauszusetzen)"
+        },
+        {
+          "thema": "Aufgaben und Ziele",
+          "bereiche": [
+            6,
+            10
+          ],
+          "planeten": [
+            "Saturn",
+            "Jupiter",
+            "Mars"
+          ],
+          "staerke": "Gründlichkeit, Fokus, Dranbleiben, Diskretion",
+          "verhakt_sich": "macht zu viel allein, wartet, bis etwas perfekt ist",
+          "was_wirkt": "um Unterstützung bitten; eigene Arbeit sichtbar machen; sich etwas trauen"
+        }
       ]
     },
     {
@@ -33,6 +91,34 @@
       "bereich": 1,
       "planeten": [
         "Merkur"
+      ],
+      "andockpunkte": [
+        {
+          "thema": "Gespräche und Gedanken",
+          "bereiche": [
+            3,
+            9
+          ],
+          "planeten": [
+            "Merkur"
+          ],
+          "staerke": "stellt die Frage hinter der Frage, hört genau zu, merkt, was ungesagt bleibt",
+          "verhakt_sich": "schweigt lieber, als etwas Halbgares zu sagen",
+          "was_wirkt": "ein klarer Satz statt langer Erklärungen; nachfragen; zuhören und spiegeln"
+        },
+        {
+          "thema": "Antrieb und Mut",
+          "bereiche": [
+            1
+          ],
+          "planeten": [
+            "Mars",
+            "Sonne"
+          ],
+          "staerke": "enorme Ausdauer, wenn ein Ziel Sinn ergibt",
+          "verhakt_sich": "Alles-oder-nichts: lieber gar nicht als halb",
+          "was_wirkt": "den ersten kleinen Schritt machen statt auf den perfekten Moment zu warten"
+        }
       ]
     }
   ],
@@ -127,6 +213,14 @@
     "Sonne"
   ],
   "einstieg": "Gegensatz (nicht X, sondern Y)",
-  "schluss": "ermutigender Satz",
-  "letzte_texte": []
+  "schluss": "ermutigender Satz mit Handlung",
+  "letzte_texte": [],
+  "motive_zuletzt": [],
+  "grundzug": "Tiefe statt Oberfläche, Beständigkeit, feines Gespür für Zwischentöne, Kraft zur Erneuerung",
+  "nicht_verwenden": [
+    "gefährlich, rachsüchtig, nachtragend, giftig, Stachel, geheimnisvoll, düster",
+    "Reduktion auf Sexualität oder Dauerformel 'Leidenschaft'",
+    "Jahreszeiten-Klischees (Herbst, fallendes Laub) als Charakterbeschreibung",
+    "Annahmen über Geschlecht, Beziehungsstatus, Orientierung, Familienform, Beruf, Einkommen"
+  ]
 }

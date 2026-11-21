@@ -17,6 +17,11 @@ def trigramme(t):
     return {tuple(w[i:i + 3]) for i in range(len(w) - 2)}
 
 
+def motive(text):
+    t = text.split("### Tipp des Tages")[-1].lower()
+    return [m for m, r in STIL["motive"].items() if re.search(r, t)]
+
+
 def pruefe(text, b):
     fehler, hinweise = [], []
     tl = text.lower()
@@ -30,9 +35,20 @@ def pruefe(text, b):
     for r in ANNAHMEN:
         for m in re.finditer(r, text):
             fehler.append(f"Annahme über Lebensform: '{m.group(0)}'")
-    for p in KOERPER:
-        if re.search(rf"\b{p}\b", text) and p not in b["erlaubte_planeten"]:
+    genannt = [p for p in KOERPER if re.search(rf"\b{p}\b", text)]
+    for p in genannt:
+        if p not in b["erlaubte_planeten"]:
             fehler.append(f"Planet nicht im Briefing: {p}")
+    weitere = [p for p in genannt if p not in ("Sonne", "Mond")]
+    if len(weitere) > 2:
+        fehler.append(f"Zu viele Planeten genannt ({', '.join(weitere)}) – höchstens 2 außer Sonne/Mond")
+    for w in STIL["negativ"]:
+        if re.search(rf"\b{w}", tl):
+            fehler.append(f"Negative/drohende Sprache: '{w}'")
+    tipp = text.split("### Tipp des Tages")[-1].lower()
+    for m in motive(text):
+        if m in b.get("motive_zuletzt", []) and re.search(STIL["motive"][m], tipp):
+            fehler.append(f"Tipp-Motiv '{m}' kam in den letzten Texten schon vor")
     koerper = "\n".join(z for z in text.splitlines() if not z.startswith("#"))
     if re.search(r"\b(der|die|den|dem|des) Skorpions?\b|\bSkorpione\b", koerper, re.I):
         fehler.append("Dritte Person ('der Skorpion'/'Skorpione') – bitte direkt duzen")
@@ -68,7 +84,7 @@ if __name__ == "__main__":
         v = [x for x in v if not (x["zeichen"] == b["zeichen"] and x["datum"] == b["datum"] and x["format"] == b["format"])]
         v.append({"zeichen": b["zeichen"], "datum": b["datum"], "format": b["format"],
                   "faktoren": [f["key"] for f in b["hauptfaktoren"]], "einstieg": b["einstieg"],
-                  "schluss": b["schluss"], "datei": os.path.relpath(tp, AUS)})
+                  "schluss": b["schluss"], "motive": motive(text), "datei": os.path.relpath(tp, AUS)})
         json.dump(sorted(v, key=lambda x: x["datum"]), open(VERLAUF, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
         print("Im Verlauf gespeichert.")
     sys.exit(1 if fehler else 0)

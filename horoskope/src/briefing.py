@@ -104,9 +104,24 @@ def waehle(liste, benutzt, tag):
     return frei[tag.toordinal() % len(frei)]
 
 
+def andocken(f, portrait):
+    """Ordnet einem Faktor die passenden Andockpunkte des Zeichen-Porträts zu."""
+    bs = set(f.get("bereiche", [f.get("bereich")]))
+    treffer = []
+    for a in portrait["andockpunkte"]:
+        pw = 3 if len(f["planeten"]) == 1 else 1  # Einzelplanet: Planet prägt das Thema stärker
+        s = 2 * len(bs & set(a["bereiche"])) + pw * len(set(f["planeten"]) & set(a["planeten"]))
+        if s:
+            treffer.append((s, a))
+    return [a for _, a in sorted(treffer, key=lambda x: -x[0])[:2]]
+
+
 def briefing(zeichen, tag):
     d = tagesdaten(tag)
+    portrait = lade(f"zeichen/{zeichen.lower()}.yaml")
     fs = faktoren(d, zeichen)[:3]
+    for f in fs:
+        f["andockpunkte"] = andocken(f, portrait)
     alt = verlauf(zeichen, vor=tag.isoformat())[-3:]
     grundton = sum(f["score"] * (1 if f.get("qualitaet") == "harmonisch" else -1 if f.get("qualitaet") == "fordernd" else 0) for f in fs)
     bereiche = sorted({h for f in fs for h in f.get("bereiche", [f.get("bereich")])})
@@ -123,6 +138,8 @@ def briefing(zeichen, tag):
         "einstieg": waehle(STIL["einstiege"], [v["einstieg"] for v in alt], tag),
         "schluss": waehle(STIL["schluesse"], [v["schluss"] for v in alt], tag),
         "letzte_texte": [v["datei"] for v in alt],
+        "motive_zuletzt": sorted({m for v in verlauf(zeichen, vor=tag.isoformat())[-7:] for m in v.get("motive", [])}),
+        "grundzug": portrait["grundzug"], "nicht_verwenden": portrait["nicht_verwenden"],
     }
 
 

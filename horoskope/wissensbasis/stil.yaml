@@ -1,49 +1,70 @@
-# Stilregeln für alle Horoskope
-ton: "warm, klar, ermutigend, auf Augenhöhe; du-Form; konkret statt nebulös"
-fachbegriffe: "Planetennamen erlaubt, Aspektnamen (Quadrat, Trigon …), Haus, Transit, Orbis NICHT verwenden, sondern übersetzen"
-fakten: "Nur Konstellationen nennen, die im Briefing stehen. Nichts erfinden."
+# Stilregeln für alle Horoskope (positiv formuliert – was wir wollen)
+
+grundhaltung: >
+  Staunen statt Behaupten. Der Himmel ist ein reales, faszinierendes Geschehen; der Mensch ein kleiner,
+  staunenswerter Teil davon. Horoskope sind Anregung, keine Vorhersage. Diese Haltung schimmert
+  gelegentlich durch (z. B. ein echtes astronomisches Detail), wird aber nie erklärt oder gepredigt.
+
+ton:
+  - "herzlich, ermutigend, auf Augenhöhe, immer duzen, direkte Ansprache"
+  - "kraftvoll und klar, nie kitschig, nie esoterisch, nie belehrend"
+  - "nie drohen, nie Angst machen: Fordernde Konstellationen sind Einladungen, Hinweise oder Chancen"
+  - "Lesende sollen denken: 'Interessant – und das kann ich heute tun.'"
+
+sprache:
+  - "aktive Verben, kurze und lange Sätze im Wechsel, kein Nominalstil"
+  - "ein starker Gedanke pro Abschnitt, mit einem konkreten Bild aus dem echten Alltag"
+  - "keine Füllsätze, z. B.: 'Das kann befreiend sein.' 'Das darf warten.' 'Mehr braucht es nicht.'"
+  - "keine Allgemeinplätze, die auf jedes Zeichen und jeden Tag passen"
+
+astrologie_im_text:
+  - "Die Konstellation bestimmt das Thema, nicht die Wortwahl"
+  - "Sonne und Mond dürfen vorkommen; zusätzlich höchstens 2 weitere Planeten, bekannte bevorzugt (Venus, Mars, Merkur, Jupiter, Saturn)"
+  - "Es muss kein Planet genannt werden. Wird einer genannt, dann mit kurzer, klarer Übersetzung ('Merkur, der Planet der Gespräche')"
+  - "Keine Fachbegriffe (Quadrat, Trigon, Haus, Transit …) und keine Konstrukte wie 'im Bereich deiner Beziehungen' – stattdessen konkret: 'bei Menschen, die dir nah sind'"
+  - "Echte Fakten (Uhrzeit des Vollmonds, Sonne verlässt das Zeichen) sind willkommen – sie machen den Text glaubwürdig"
+
+tipp_des_tages:
+  arten: ["dir selbst etwas Gutes tun", "jemand anderem etwas Gutes tun", "dich etwas trauen",
+          "etwas entdecken oder ausprobieren", "etwas angehen oder abschließen", "einen Perspektivwechsel wagen"]
+  regeln:
+    - "folgt direkt aus der Konstellation des Tages und knüpft an einen Andockpunkt an"
+    - "konkret, alltagsnah und heute machbar; ohne Geld, Partner*in, Job oder Wohnung vorauszusetzen"
+    - "Bekannte Motive (Spaziergang, Bad, Tee, Musik, Notizen …) sind erlaubt, wenn sie zur Konstellation passen und einen eigenen Dreh haben – aber nicht wiederholt (die Prüfung achtet darauf)"
+
 diversitaet:
   - "keine Annahmen zu Geschlecht, Beziehungsstatus, sexueller Orientierung, Familienform, Alter, Körper, Beruf oder Einkommen"
-  - "Beziehungen offen formulieren: 'Menschen, die dir nahestehen', 'Partner*in', 'Freund*innen'"
-  - "Geld/Beruf ohne Wohlstandsannahme (nicht jede*r hat Chef*in, Auto, Urlaub)"
-  - "gendern mit Sternchen, wo es nötig ist; lieber neutrale Formulierungen"
-  - "keine Heilsversprechen, keine Gesundheits- oder Finanzratschläge"
-  - "keine Erwerbsarbeit voraussetzen (nicht 'Weg zur Arbeit', 'Bewerbung'); Beruf nur, wenn das Briefing Bereich 10 nennt, dann offen ('Aufgaben', 'Vorhaben')"
-aufbau: "Reihenfolge der Faktoren und Satzmuster von Text zu Text variieren; keine Etiketten wie 'Mini-Impuls:'; nur deuten, was im Briefing steht (keine Zusatzbehauptungen wie 'das ist dein Terrain')"
-einstiege:  # wird rotiert, damit nicht jeder Text gleich beginnt
+  - "Beziehungen offen formulieren: 'Menschen, die dir nah sind', 'Partner*in', 'Freund*innen'"
+  - "keine Erwerbsarbeit voraussetzen; Beruf offen formulieren ('Aufgaben', 'Vorhaben', 'Team')"
+  - "gendern mit Sternchen, wo nötig; lieber neutrale Formulierungen"
+  - "keine Gesundheits- oder Finanzratschläge"
+
+einstiege:
   - "Bild aus Natur oder Alltag"
   - "direkte Frage an die Lesenden"
   - "konkrete Alltagsszene"
   - "kurze, klare Aussage zum Tag"
   - "Gegensatz (nicht X, sondern Y)"
-  - "Stimmung des Himmels in einem Satz"
-schluesse:
+  - "echtes Himmelsdetail mit Staunen"
+schluesse:  # Art des Tipps
   - "konkreter Mini-Impuls"
-  - "Frage zum Nachdenken"
-  - "ermutigender Satz"
-  - "kleines Ritual"
-verbotene_floskeln:
-  - "die Sterne stehen günstig"
-  - "die Sterne meinen es gut"
-  - "das Universum"
-  - "kosmisch"
-  - "Energie liegt in der Luft"
-  - "ein Unbekannter"
-  - "eine unbekannte Person"
-  - "Schmetterlinge im Bauch"
-  - "Höhenflug"
-  - "auf Wolke sieben"
-  - "Leidenschaft"
-  - "geheimnisvoll"
-  - "Stachel"
-  - "Achtung"
-  - "heute ist dein Tag"
-  - "lass dich überraschen"
-  - "nimm dir Zeit für dich"
-  - "Gelegenheit beim Schopf"
-  - "positive Energie"
-  - "Me-Time"
-  - "Herzensprojekt"
-  - "spricht für sich"
-  - "festen Boden"
-  - "Mini-Impuls:"
+  - "Frage zum Nachdenken mit Handlung"
+  - "ermutigender Satz mit Handlung"
+  - "kleine Geste für andere"
+
+# Leere Floskeln – die haben keinen guten Einsatz:
+verbotene_floskeln: ["die Sterne stehen günstig", "die Sterne meinen es gut", "das Universum", "kosmisch",
+  "Energie liegt in der Luft", "ein Unbekannter", "eine unbekannte Person", "Schmetterlinge im Bauch",
+  "Höhenflug", "auf Wolke sieben", "Leidenschaft", "geheimnisvoll", "Stachel", "heute ist dein Tag",
+  "lass dich überraschen", "nimm dir Zeit für dich", "Gelegenheit beim Schopf", "positive Energie",
+  "Me-Time", "Herzensprojekt", "spricht für sich", "festen Boden", "Mini-Impuls:", "im Bereich deine",
+  "Bereich deiner", "das darf warten", "mehr braucht es nicht", "kann befreiend sein"]
+
+# Motive: erlaubt, aber nicht in den letzten 7 Texten desselben Zeichens wiederholt
+motive: {Kerze: "kerze", Bad: "\\bbad\\b|badewanne", Tee: "\\btee\\b", Spaziergang: "spazier",
+  Aufschreiben: "aufschreib|schreib.{0,20}auf|notier|tagebuch|liste", Musik: "musik|playlist|lied",
+  Meditation: "meditier|meditation|atem", Natur: "natur|wald|park", Aufräumen: "aufräum|ausmist|schublade",
+  Frage: "frag|frage", Anruf: "anruf|ruf .{0,20}an|melde dich", Kochen: "koch"}
+
+# Negative Sprache vermeiden
+negativ: ["gefahr", "vorsicht", "unglück", "pech", "droht", "drohen", "katastroph", "warnung", "schlimm"]
