@@ -1,0 +1,132 @@
+{
+  "zeichen": "Skorpion",
+  "datum": "2026-11-22",
+  "format": "tag",
+  "hauptfaktoren": [
+    {
+      "key": "ingress-Sonne-Schütze",
+      "score": 8,
+      "fakt": "Sonne wechselt heute um 08:23 Uhr von Skorpion nach Schütze",
+      "bereich": 2,
+      "planeten": [
+        "Sonne"
+      ]
+    },
+    {
+      "key": "aspekt-Sonne-Mars-Quadrat",
+      "score": 3.89,
+      "fakt": "Sonne (Schütze) und Mars (Löwe): Quadrat, Abstand 1.59°, löst sich",
+      "qualitaet": "fordernd",
+      "bereiche": [
+        2,
+        10
+      ],
+      "planeten": [
+        "Sonne",
+        "Mars"
+      ]
+    },
+    {
+      "key": "imzeichen-Merkur",
+      "score": 3.4,
+      "fakt": "Merkur steht in Skorpion",
+      "bereich": 1,
+      "planeten": [
+        "Merkur"
+      ]
+    }
+  ],
+  "mond": {
+    "mondzeichen": "Stier",
+    "bereich": 7,
+    "wechsel_heute": {
+      "typ": "Zeichenwechsel",
+      "planet": "Mond",
+      "von": "Widder",
+      "nach": "Stier",
+      "uhrzeit": "11:09"
+    },
+    "mondaspekte": [
+      "Mond und Mars: Trigon (harmonisch)",
+      "Mond und Pluto: Quadrat (fordernd)"
+    ],
+    "phase": "zunehmender Mond",
+    "phase_bedeutung": "Aufbau, Dinge voranbringen, Feinschliff"
+  },
+  "grundton": "eher fordernd",
+  "lebensbereiche": {
+    "1": {
+      "bereich": "du selbst, Auftreten, Körper, Neuanfänge",
+      "beispiele": [
+        "neuer Haarschnitt oder Look",
+        "ein eigenes Projekt starten",
+        "auf den eigenen Körper hören"
+      ]
+    },
+    "2": {
+      "bereich": "Geld, Besitz, Selbstwert, Sinnesfreuden",
+      "beispiele": [
+        "Budget sortieren",
+        "gutes Essen",
+        "sich etwas wert sein"
+      ]
+    },
+    "10": {
+      "bereich": "Beruf, Ziele, Ansehen, öffentliche Rolle",
+      "beispiele": [
+        "Bewerbung",
+        "Projekt präsentieren",
+        "Ehrenamt",
+        "langfristige Ziele"
+      ]
+    }
+  },
+  "mondbereich": {
+    "bereich": "Partnerschaften, enge Beziehungen, Kooperationen, Gegenüber",
+    "beispiele": [
+      "Liebesbeziehung",
+      "beste Freundschaft",
+      "Geschäftspartner*innen",
+      "Verhandlungen"
+    ]
+  },
+  "planetendeutung": {
+    "Mars": {
+      "thema": "Antrieb, Mut, Durchsetzung, Körperkraft",
+      "leicht": "Tatkraft, Entschlossenheit, Sportlichkeit",
+      "fordernd": "Ungeduld, Gereiztheit, Konflikte",
+      "tempo": "mittel",
+      "gewicht": 3
+    },
+    "Merkur": {
+      "thema": "Denken, Sprechen, Lernen, Nachrichten, kurze Wege",
+      "leicht": "klare Worte, gute Ideen, gelungene Absprachen",
+      "fordernd": "Missverständnisse, Zerstreutheit, zu viel Gerede",
+      "tempo": "schnell",
+      "gewicht": 3
+    },
+    "Mond": {
+      "thema": "Gefühle, Stimmung, Bedürfnisse, Zuhause, Fürsorge",
+      "leicht": "Wohlgefühl, gutes Bauchgefühl, Nähe",
+      "fordernd": "Empfindlichkeit, Stimmungsschwankungen, Rückzug",
+      "tempo": "sehr_schnell",
+      "gewicht": 3
+    },
+    "Sonne": {
+      "thema": "Energie, Selbstausdruck, worauf du deine Aufmerksamkeit richtest",
+      "leicht": "Klarheit, Präsenz, Lust, sichtbar zu werden",
+      "fordernd": "Eitelkeit, Kraftverlust, Überforderung durch zu viele Ziele",
+      "tempo": "schnell",
+      "gewicht": 4
+    }
+  },
+  "erlaubte_planeten": [
+    "Mars",
+    "Merkur",
+    "Mond",
+    "Sonne"
+  ],
+  "einstieg": "Gegensatz (nicht X, sondern Y)",
+  "schluss": "ermutigender Satz",
+  "letzte_texte": []
+}

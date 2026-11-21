@@ -1,0 +1,168 @@
+{
+  "zeichen": "Skorpion",
+  "datum": "2026-11-23",
+  "format": "tag",
+  "hauptfaktoren": [
+    {
+      "key": "aspekt-Sonne-Neptun-Trigon",
+      "score": 5.38,
+      "fakt": "Sonne (Schütze) und Neptun (Widder): Trigon, Abstand 0.56°, wird enger",
+      "qualitaet": "harmonisch",
+      "bereiche": [
+        2,
+        6
+      ],
+      "planeten": [
+        "Sonne",
+        "Neptun"
+      ]
+    },
+    {
+      "key": "aspekt-Venus-Jupiter-Sextil",
+      "score": 3.78,
+      "fakt": "Venus (Waage) und Jupiter (Löwe): Sextil, Abstand 1.85°, wird enger",
+      "qualitaet": "harmonisch",
+      "bereiche": [
+        12,
+        10
+      ],
+      "planeten": [
+        "Venus",
+        "Jupiter"
+      ]
+    },
+    {
+      "key": "aspekt-Sonne-Pluto-Sextil",
+      "score": 2.4,
+      "fakt": "Sonne (Schütze) und Pluto (Wassermann): Sextil, Abstand 2.25°, wird enger",
+      "qualitaet": "harmonisch",
+      "bereiche": [
+        2,
+        4
+      ],
+      "planeten": [
+        "Sonne",
+        "Pluto"
+      ]
+    }
+  ],
+  "mond": {
+    "mondzeichen": "Stier",
+    "bereich": 7,
+    "wechsel_heute": null,
+    "mondaspekte": [],
+    "phase": "zunehmender Mond (kurz vor Vollmond)",
+    "phase_bedeutung": "Aufbau, Dinge voranbringen, Feinschliff"
+  },
+  "grundton": "eher leicht",
+  "lebensbereiche": {
+    "2": {
+      "bereich": "Geld, Besitz, Selbstwert, Sinnesfreuden",
+      "beispiele": [
+        "Budget sortieren",
+        "gutes Essen",
+        "sich etwas wert sein"
+      ]
+    },
+    "4": {
+      "bereich": "Zuhause, Familie (in jeder Form), Herkunft, Rückzug",
+      "beispiele": [
+        "Wohnung umräumen",
+        "Anruf bei Menschen, die Familie sind",
+        "Erinnerungen"
+      ]
+    },
+    "6": {
+      "bereich": "Alltag, Arbeit, Gesundheit, Routinen",
+      "beispiele": [
+        "To-do-Liste",
+        "Bewegung",
+        "Arbeitsabläufe",
+        "Schlafrhythmus"
+      ]
+    },
+    "10": {
+      "bereich": "Beruf, Ziele, Ansehen, öffentliche Rolle",
+      "beispiele": [
+        "Bewerbung",
+        "Projekt präsentieren",
+        "Ehrenamt",
+        "langfristige Ziele"
+      ]
+    },
+    "12": {
+      "bereich": "Rückzug, Erholung, Unbewusstes, Abschluss",
+      "beispiele": [
+        "Ruhetag",
+        "Meditation oder Spaziergang allein",
+        "etwas abschließen"
+      ]
+    }
+  },
+  "mondbereich": {
+    "bereich": "Partnerschaften, enge Beziehungen, Kooperationen, Gegenüber",
+    "beispiele": [
+      "Liebesbeziehung",
+      "beste Freundschaft",
+      "Geschäftspartner*innen",
+      "Verhandlungen"
+    ]
+  },
+  "planetendeutung": {
+    "Jupiter": {
+      "thema": "Wachstum, Zuversicht, Sinn, Glück, Großzügigkeit",
+      "leicht": "Chancen, Optimismus, Rückenwind",
+      "fordernd": "Übertreibung, Selbstüberschätzung",
+      "tempo": "langsam",
+      "gewicht": 4
+    },
+    "Mond": {
+      "thema": "Gefühle, Stimmung, Bedürfnisse, Zuhause, Fürsorge",
+      "leicht": "Wohlgefühl, gutes Bauchgefühl, Nähe",
+      "fordernd": "Empfindlichkeit, Stimmungsschwankungen, Rückzug",
+      "tempo": "sehr_schnell",
+      "gewicht": 3
+    },
+    "Neptun": {
+      "thema": "Fantasie, Mitgefühl, Intuition, Sehnsucht",
+      "leicht": "Inspiration, Kreativität, Einfühlung",
+      "fordernd": "Unklarheit, Täuschung, Müdigkeit",
+      "tempo": "sehr_langsam",
+      "gewicht": 2
+    },
+    "Pluto": {
+      "thema": "Tiefe, Wandel, innere Stärke, Loslassen",
+      "leicht": "Regeneration, Willenskraft, Mut zur Tiefe",
+      "fordernd": "Machtfragen, Kontrollbedürfnis, Zwang",
+      "tempo": "sehr_langsam",
+      "gewicht": 2
+    },
+    "Sonne": {
+      "thema": "Energie, Selbstausdruck, worauf du deine Aufmerksamkeit richtest",
+      "leicht": "Klarheit, Präsenz, Lust, sichtbar zu werden",
+      "fordernd": "Eitelkeit, Kraftverlust, Überforderung durch zu viele Ziele",
+      "tempo": "schnell",
+      "gewicht": 4
+    },
+    "Venus": {
+      "thema": "Zuneigung, Genuss, Schönheit, Werte, Geld",
+      "leicht": "Harmonie, Charme, Freude an schönen Dingen",
+      "fordernd": "Bequemlichkeit, Gefallsucht, Überkonsum",
+      "tempo": "schnell",
+      "gewicht": 3
+    }
+  },
+  "erlaubte_planeten": [
+    "Jupiter",
+    "Mond",
+    "Neptun",
+    "Pluto",
+    "Sonne",
+    "Venus"
+  ],
+  "einstieg": "kurze, klare Aussage zum Tag",
+  "schluss": "kleines Ritual",
+  "letzte_texte": [
+    "tag/skorpion_2026-11-22.md"
+  ]
+}

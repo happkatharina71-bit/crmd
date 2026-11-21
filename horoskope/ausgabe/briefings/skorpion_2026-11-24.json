@@ -1,0 +1,144 @@
+{
+  "zeichen": "Skorpion",
+  "datum": "2026-11-24",
+  "format": "tag",
+  "hauptfaktoren": [
+    {
+      "key": "Vollmond-2026-11-24",
+      "score": 7,
+      "fakt": "Vollmond um 15:53 Uhr, Mond in Zwillinge",
+      "qualitaet": "fordernd",
+      "bereich": 8,
+      "planeten": [
+        "Mond",
+        "Sonne"
+      ]
+    },
+    {
+      "key": "aspekt-Sonne-Uranus-Opposition",
+      "score": 3.36,
+      "fakt": "Sonne (Schütze) und Uranus (Zwillinge): Opposition, Abstand 1.57°, wird enger",
+      "qualitaet": "fordernd",
+      "bereiche": [
+        2,
+        8
+      ],
+      "planeten": [
+        "Sonne",
+        "Uranus"
+      ]
+    },
+    {
+      "key": "aspekt-Sonne-Neptun-Trigon",
+      "score": 2.54,
+      "fakt": "Sonne (Schütze) und Neptun (Widder): Trigon, Abstand 0.46°, löst sich",
+      "qualitaet": "harmonisch",
+      "bereiche": [
+        2,
+        6
+      ],
+      "planeten": [
+        "Sonne",
+        "Neptun"
+      ],
+      "schon_verwendet": true
+    }
+  ],
+  "mond": {
+    "mondzeichen": "Stier",
+    "bereich": 7,
+    "wechsel_heute": {
+      "typ": "Zeichenwechsel",
+      "planet": "Mond",
+      "von": "Stier",
+      "nach": "Zwillinge",
+      "uhrzeit": "12:09"
+    },
+    "mondaspekte": [
+      "Mond und Sonne: Opposition (fordernd)",
+      "Mond und Mars: Quadrat (fordernd)",
+      "Mond und Neptun: Sextil (harmonisch)"
+    ],
+    "phase": "Vollmond",
+    "phase_bedeutung": "Höhepunkt, Gefühle und Ergebnisse werden sichtbar"
+  },
+  "grundton": "eher fordernd",
+  "lebensbereiche": {
+    "2": {
+      "bereich": "Geld, Besitz, Selbstwert, Sinnesfreuden",
+      "beispiele": [
+        "Budget sortieren",
+        "gutes Essen",
+        "sich etwas wert sein"
+      ]
+    },
+    "6": {
+      "bereich": "Alltag, Arbeit, Gesundheit, Routinen",
+      "beispiele": [
+        "To-do-Liste",
+        "Bewegung",
+        "Arbeitsabläufe",
+        "Schlafrhythmus"
+      ]
+    },
+    "8": {
+      "bereich": "Tiefe Bindungen, gemeinsames Geld, Vertrauen, Wandlung",
+      "beispiele": [
+        "offenes Gespräch über Gefühle",
+        "gemeinsame Finanzen",
+        "Altes loslassen"
+      ]
+    }
+  },
+  "mondbereich": {
+    "bereich": "Partnerschaften, enge Beziehungen, Kooperationen, Gegenüber",
+    "beispiele": [
+      "Liebesbeziehung",
+      "beste Freundschaft",
+      "Geschäftspartner*innen",
+      "Verhandlungen"
+    ]
+  },
+  "planetendeutung": {
+    "Mond": {
+      "thema": "Gefühle, Stimmung, Bedürfnisse, Zuhause, Fürsorge",
+      "leicht": "Wohlgefühl, gutes Bauchgefühl, Nähe",
+      "fordernd": "Empfindlichkeit, Stimmungsschwankungen, Rückzug",
+      "tempo": "sehr_schnell",
+      "gewicht": 3
+    },
+    "Neptun": {
+      "thema": "Fantasie, Mitgefühl, Intuition, Sehnsucht",
+      "leicht": "Inspiration, Kreativität, Einfühlung",
+      "fordernd": "Unklarheit, Täuschung, Müdigkeit",
+      "tempo": "sehr_langsam",
+      "gewicht": 2
+    },
+    "Sonne": {
+      "thema": "Energie, Selbstausdruck, worauf du deine Aufmerksamkeit richtest",
+      "leicht": "Klarheit, Präsenz, Lust, sichtbar zu werden",
+      "fordernd": "Eitelkeit, Kraftverlust, Überforderung durch zu viele Ziele",
+      "tempo": "schnell",
+      "gewicht": 4
+    },
+    "Uranus": {
+      "thema": "Veränderung, Freiheit, Überraschung, Neues",
+      "leicht": "Geistesblitze, befreiende Wendungen",
+      "fordernd": "Unruhe, plötzliche Planänderungen",
+      "tempo": "sehr_langsam",
+      "gewicht": 2
+    }
+  },
+  "erlaubte_planeten": [
+    "Mond",
+    "Neptun",
+    "Sonne",
+    "Uranus"
+  ],
+  "einstieg": "Bild aus Natur oder Alltag",
+  "schluss": "konkreter Mini-Impuls",
+  "letzte_texte": [
+    "tag/skorpion_2026-11-22.md",
+    "tag/skorpion_2026-11-23.md"
+  ]
+}

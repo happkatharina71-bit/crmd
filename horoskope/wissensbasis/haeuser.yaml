@@ -1,0 +1,15 @@
+# Sonnenzeichen-Methode ("ganzes Zeichen"): Das eigene Zeichen ist Bereich 1, das nächste Bereich 2 usw.
+# So berechnen Zeitungshoroskope, welcher Lebensbereich gerade angesprochen ist.
+# Beispiele bewusst vielfältig: verschiedene Lebens-, Wohn-, Arbeits- und Beziehungsformen.
+1:  {bereich: "du selbst, Auftreten, Körper, Neuanfänge", beispiele: ["neuer Haarschnitt oder Look", "ein eigenes Projekt starten", "auf den eigenen Körper hören"]}
+2:  {bereich: "Geld, Besitz, Selbstwert, Sinnesfreuden", beispiele: ["Budget sortieren", "gutes Essen", "sich etwas wert sein"]}
+3:  {bereich: "Kommunikation, Nachbarschaft, Geschwister, Alltagswege, Lernen", beispiele: ["Nachrichten beantworten", "Gespräch im Treppenhaus", "kurzer Ausflug", "Online-Kurs"]}
+4:  {bereich: "Zuhause, Familie (in jeder Form), Herkunft, Rückzug", beispiele: ["Wohnung umräumen", "Anruf bei Menschen, die Familie sind", "Erinnerungen"]}
+5:  {bereich: "Freude, Kreativität, Flirt, Spiel, Kinder", beispiele: ["Hobby", "Tanzen", "Flirt", "Zeit mit Kindern im Umfeld"]}
+6:  {bereich: "Alltag, Arbeit, Gesundheit, Routinen", beispiele: ["To-do-Liste", "Bewegung", "Arbeitsabläufe", "Schlafrhythmus"]}
+7:  {bereich: "Partnerschaften, enge Beziehungen, Kooperationen, Gegenüber", beispiele: ["Liebesbeziehung", "beste Freundschaft", "Geschäftspartner*innen", "Verhandlungen"]}
+8:  {bereich: "Tiefe Bindungen, gemeinsames Geld, Vertrauen, Wandlung", beispiele: ["offenes Gespräch über Gefühle", "gemeinsame Finanzen", "Altes loslassen"]}
+9:  {bereich: "Horizont, Reisen, Bildung, Überzeugungen, Sinn", beispiele: ["Reisepläne", "ein Buch, das neue Perspektiven öffnet", "Weiterbildung"]}
+10: {bereich: "Beruf, Ziele, Ansehen, öffentliche Rolle", beispiele: ["Bewerbung", "Projekt präsentieren", "Ehrenamt", "langfristige Ziele"]}
+11: {bereich: "Freundeskreis, Netzwerke, Gemeinschaft, Zukunftswünsche", beispiele: ["Freund*innen treffen", "Verein oder Community", "Zukunftspläne"]}
+12: {bereich: "Rückzug, Erholung, Unbewusstes, Abschluss", beispiele: ["Ruhetag", "Meditation oder Spaziergang allein", "etwas abschließen"]}

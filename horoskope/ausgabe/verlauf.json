@@ -1,0 +1,41 @@
+[
+  {
+    "zeichen": "Skorpion",
+    "datum": "2026-11-22",
+    "format": "tag",
+    "faktoren": [
+      "ingress-Sonne-Schütze",
+      "aspekt-Sonne-Mars-Quadrat",
+      "imzeichen-Merkur"
+    ],
+    "einstieg": "Gegensatz (nicht X, sondern Y)",
+    "schluss": "ermutigender Satz",
+    "datei": "tag/skorpion_2026-11-22.md"
+  },
+  {
+    "zeichen": "Skorpion",
+    "datum": "2026-11-23",
+    "format": "tag",
+    "faktoren": [
+      "aspekt-Sonne-Neptun-Trigon",
+      "aspekt-Venus-Jupiter-Sextil",
+      "aspekt-Sonne-Pluto-Sextil"
+    ],
+    "einstieg": "kurze, klare Aussage zum Tag",
+    "schluss": "kleines Ritual",
+    "datei": "tag/skorpion_2026-11-23.md"
+  },
+  {
+    "zeichen": "Skorpion",
+    "datum": "2026-11-24",
+    "format": "tag",
+    "faktoren": [
+      "Vollmond-2026-11-24",
+      "aspekt-Sonne-Uranus-Opposition",
+      "aspekt-Sonne-Neptun-Trigon"
+    ],
+    "einstieg": "Bild aus Natur oder Alltag",
+    "schluss": "konkreter Mini-Impuls",
+    "datei": "tag/skorpion_2026-11-24.md"
+  }
+]

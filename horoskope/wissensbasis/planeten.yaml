@@ -1,0 +1,12 @@
+# Bedeutung der Himmelskörper in Alltagssprache (moderne westliche Deutung).
+# "leicht" = bei harmonischen Verbindungen, "fordernd" = bei Spannungen.
+Sonne:   {thema: "Energie, Selbstausdruck, worauf du deine Aufmerksamkeit richtest", leicht: "Klarheit, Präsenz, Lust, sichtbar zu werden", fordernd: "Eitelkeit, Kraftverlust, Überforderung durch zu viele Ziele", tempo: schnell, gewicht: 4}
+Mond:    {thema: "Gefühle, Stimmung, Bedürfnisse, Zuhause, Fürsorge", leicht: "Wohlgefühl, gutes Bauchgefühl, Nähe", fordernd: "Empfindlichkeit, Stimmungsschwankungen, Rückzug", tempo: sehr_schnell, gewicht: 3}
+Merkur:  {thema: "Denken, Sprechen, Lernen, Nachrichten, kurze Wege", leicht: "klare Worte, gute Ideen, gelungene Absprachen", fordernd: "Missverständnisse, Zerstreutheit, zu viel Gerede", tempo: schnell, gewicht: 3}
+Venus:   {thema: "Zuneigung, Genuss, Schönheit, Werte, Geld", leicht: "Harmonie, Charme, Freude an schönen Dingen", fordernd: "Bequemlichkeit, Gefallsucht, Überkonsum", tempo: schnell, gewicht: 3}
+Mars:    {thema: "Antrieb, Mut, Durchsetzung, Körperkraft", leicht: "Tatkraft, Entschlossenheit, Sportlichkeit", fordernd: "Ungeduld, Gereiztheit, Konflikte", tempo: mittel, gewicht: 3}
+Jupiter: {thema: "Wachstum, Zuversicht, Sinn, Glück, Großzügigkeit", leicht: "Chancen, Optimismus, Rückenwind", fordernd: "Übertreibung, Selbstüberschätzung", tempo: langsam, gewicht: 4}
+Saturn:  {thema: "Struktur, Verantwortung, Grenzen, Ausdauer", leicht: "Stabilität, Disziplin, langfristige Erfolge", fordernd: "Druck, Verzögerung, Strenge mit sich selbst", tempo: langsam, gewicht: 4}
+Uranus:  {thema: "Veränderung, Freiheit, Überraschung, Neues", leicht: "Geistesblitze, befreiende Wendungen", fordernd: "Unruhe, plötzliche Planänderungen", tempo: sehr_langsam, gewicht: 2}
+Neptun:  {thema: "Fantasie, Mitgefühl, Intuition, Sehnsucht", leicht: "Inspiration, Kreativität, Einfühlung", fordernd: "Unklarheit, Täuschung, Müdigkeit", tempo: sehr_langsam, gewicht: 2}
+Pluto:   {thema: "Tiefe, Wandel, innere Stärke, Loslassen", leicht: "Regeneration, Willenskraft, Mut zur Tiefe", fordernd: "Machtfragen, Kontrollbedürfnis, Zwang", tempo: sehr_langsam, gewicht: 2}
