@@ -46,8 +46,52 @@
       ]
     },
     {
+      "key": "aspekt-Sonne-Uranus-Opposition",
+      "score": 3.36,
+      "fakt": "Sonne (Schütze) und Uranus (Zwillinge): Opposition, Abstand 1.57°, wird enger",
+      "qualitaet": "fordernd",
+      "bereiche": [
+        2,
+        8
+      ],
+      "planeten": [
+        "Sonne",
+        "Uranus"
+      ],
+      "andockpunkte": [
+        {
+          "thema": "Selbstwert und Besitz",
+          "bereiche": [
+            2
+          ],
+          "planeten": [
+            "Venus",
+            "Sonne"
+          ],
+          "staerke": "weiß genau, was wichtig ist; Qualität vor Menge",
+          "verhakt_sich": "will alles im Griff behalten",
+          "was_wirkt": "bewusst wählen, was einem guttut; sich selbst etwas zutrauen (ohne Geld vorauszusetzen)"
+        },
+        {
+          "thema": "Wandel und Neubeginn",
+          "bereiche": [
+            1,
+            8,
+            12
+          ],
+          "planeten": [
+            "Pluto",
+            "Uranus"
+          ],
+          "staerke": "kann loslassen und neu anfangen, wenn es Sinn hat",
+          "verhakt_sich": "hält an Vertrautem fest, länger als nötig",
+          "was_wirkt": "eine Kleinigkeit bewusst beenden oder ändern; Neues im Kleinen ausprobieren"
+        }
+      ]
+    },
+    {
       "key": "aspekt-Sonne-Neptun-Trigon",
-      "score": 5.08,
+      "score": 2.54,
       "fakt": "Sonne (Schütze) und Neptun (Widder): Trigon, Abstand 0.46°, löst sich",
       "qualitaet": "harmonisch",
       "bereiche": [
@@ -58,6 +102,7 @@
         "Sonne",
         "Neptun"
       ],
+      "schon_verwendet": true,
       "andockpunkte": [
         {
           "thema": "Selbstwert und Besitz",
@@ -88,52 +133,6 @@
           "was_wirkt": "um Unterstützung bitten; eigene Arbeit sichtbar machen; sich etwas trauen"
         }
       ]
-    },
-    {
-      "key": "aspekt-Venus-Jupiter-Sextil",
-      "score": 4.46,
-      "fakt": "Venus (Waage) und Jupiter (Löwe): Sextil, Abstand 1.56°, wird enger",
-      "qualitaet": "harmonisch",
-      "bereiche": [
-        12,
-        10
-      ],
-      "planeten": [
-        "Venus",
-        "Jupiter"
-      ],
-      "andockpunkte": [
-        {
-          "thema": "Aufgaben und Ziele",
-          "bereiche": [
-            6,
-            10
-          ],
-          "planeten": [
-            "Saturn",
-            "Jupiter",
-            "Mars"
-          ],
-          "staerke": "Gründlichkeit, Fokus, Dranbleiben, Diskretion",
-          "verhakt_sich": "macht zu viel allein, wartet, bis etwas perfekt ist",
-          "was_wirkt": "um Unterstützung bitten; eigene Arbeit sichtbar machen; sich etwas trauen"
-        },
-        {
-          "thema": "Wandel und Neubeginn",
-          "bereiche": [
-            1,
-            8,
-            12
-          ],
-          "planeten": [
-            "Pluto",
-            "Uranus"
-          ],
-          "staerke": "kann loslassen und neu anfangen, wenn es Sinn hat",
-          "verhakt_sich": "hält an Vertrautem fest, länger als nötig",
-          "was_wirkt": "eine Kleinigkeit bewusst beenden oder ändern; Neues im Kleinen ausprobieren"
-        }
-      ]
     }
   ],
   "mond": {
@@ -154,7 +153,7 @@
     "phase": "Vollmond",
     "phase_bedeutung": "Höhepunkt, Gefühle und Ergebnisse werden sichtbar"
   },
-  "grundton": "eher leicht",
+  "grundton": "eher fordernd",
   "lebensbereiche": {
     "2": {
       "bereich": "Geld, Besitz, Selbstwert, Sinnesfreuden",
@@ -180,23 +179,6 @@
         "gemeinsame Finanzen",
         "Altes loslassen"
       ]
-    },
-    "10": {
-      "bereich": "Beruf, Ziele, Ansehen, öffentliche Rolle",
-      "beispiele": [
-        "Bewerbung",
-        "Projekt präsentieren",
-        "Ehrenamt",
-        "langfristige Ziele"
-      ]
-    },
-    "12": {
-      "bereich": "Rückzug, Erholung, Unbewusstes, Abschluss",
-      "beispiele": [
-        "Ruhetag",
-        "Meditation oder Spaziergang allein",
-        "etwas abschließen"
-      ]
     }
   },
   "mondbereich": {
@@ -209,13 +191,6 @@
     ]
   },
   "planetendeutung": {
-    "Jupiter": {
-      "thema": "Wachstum, Zuversicht, Sinn, Glück, Großzügigkeit",
-      "leicht": "Chancen, Optimismus, Rückenwind",
-      "fordernd": "Übertreibung, Selbstüberschätzung",
-      "tempo": "langsam",
-      "gewicht": 4
-    },
     "Mond": {
       "thema": "Gefühle, Stimmung, Bedürfnisse, Zuhause, Fürsorge",
       "leicht": "Wohlgefühl, gutes Bauchgefühl, Nähe",
@@ -237,29 +212,27 @@
       "tempo": "schnell",
       "gewicht": 4
     },
-    "Venus": {
-      "thema": "Zuneigung, Genuss, Schönheit, Werte, Geld",
-      "leicht": "Harmonie, Charme, Freude an schönen Dingen",
-      "fordernd": "Bequemlichkeit, Gefallsucht, Überkonsum",
-      "tempo": "schnell",
-      "gewicht": 3
+    "Uranus": {
+      "thema": "Veränderung, Freiheit, Überraschung, Neues",
+      "leicht": "Geistesblitze, befreiende Wendungen",
+      "fordernd": "Unruhe, plötzliche Planänderungen",
+      "tempo": "sehr_langsam",
+      "gewicht": 2
     }
   },
   "erlaubte_planeten": [
-    "Jupiter",
     "Mond",
     "Neptun",
     "Sonne",
-    "Venus"
+    "Uranus"
   ],
-  "einstieg": "echtes Himmelsdetail mit Staunen",
+  "einstieg": "Bild aus Natur oder Alltag",
   "schluss": "konkreter Mini-Impuls",
   "letzte_texte": [
-    "tag/skorpion_2026-11-22.md"
+    "tag/skorpion_2026-11-22.md",
+    "tag/skorpion_2026-11-23.md"
   ],
-  "motive_zuletzt": [
-    "Frage"
-  ],
+  "motive_zuletzt": [],
   "grundzug": "Tiefe statt Oberfläche, Beständigkeit, feines Gespür für Zwischentöne, Kraft zur Erneuerung",
   "nicht_verwenden": [
     "gefährlich, rachsüchtig, nachtragend, giftig, Stachel, geheimnisvoll, düster",

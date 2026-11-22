@@ -14,10 +14,12 @@ auf Basis exakt berechneter Planetenstände (westlich-tropische Astrologie, Sonn
 - Nur Fakten aus dem Briefing verwenden. Nichts erfinden.
 - Grundhaltung: Staunen statt Behaupten; herzlich, ermutigend, nie drohend (Details in `stil.yaml`).
 - Keine Beispieltexte als Vorlage einbinden – sie werden erfahrungsgemäß in Dramaturgie und Wortwahl kopiert. Stil wird nur über Regeln beschrieben.
+- Leitregel: Echte Sprache, echte Inhalte – wie zu einer Freundin, klar und genau, mit echtem Lebensbezug.
+- Feedback-Beispiele sind Illustration, keine Schablone: nie wörtlich als Regel oder Formulierung übernehmen.
 - Stilregeln in `wissensbasis/stil.yaml` sind verbindlich.
 - Kein Fachlatein im Text (übersetzen: Quadrat → Reibung, Trigon → Rückenwind usw.).
 - Keine Annahmen über Geschlecht, Beziehungsform, Familie, Körper, Beruf, Einkommen.
-- Keine Gesundheits- oder Finanzratschläge, keine Heilsversprechen.
+- Geld ist ein normales Thema; keine Anlage-/Kaufempfehlungen, keine Gesundheitsratschläge, keine Heilsversprechen.
 
 ## Befehle
 - `/tageshoroskop <Zeichen> <JJJJ-MM-TT>` – siehe `.claude/skills/tageshoroskop/SKILL.md`

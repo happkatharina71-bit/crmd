@@ -10,9 +10,7 @@
     ],
     "einstieg": "Gegensatz (nicht X, sondern Y)",
     "schluss": "ermutigender Satz mit Handlung",
-    "motive": [
-      "Frage"
-    ],
+    "motive": [],
     "datei": "tag/skorpion_2026-11-22.md"
   },
   {
@@ -35,10 +33,10 @@
     "format": "tag",
     "faktoren": [
       "Vollmond-2026-11-24",
-      "aspekt-Sonne-Neptun-Trigon",
-      "aspekt-Venus-Jupiter-Sextil"
+      "aspekt-Sonne-Uranus-Opposition",
+      "aspekt-Sonne-Neptun-Trigon"
     ],
-    "einstieg": "echtes Himmelsdetail mit Staunen",
+    "einstieg": "Bild aus Natur oder Alltag",
     "schluss": "konkreter Mini-Impuls",
     "motive": [],
     "datei": "tag/skorpion_2026-11-24.md"
