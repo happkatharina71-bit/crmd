@@ -1,0 +1,67 @@
+{% macro quellen(qs) %}{% for q in qs %}    Quelle: {{ q.quelle }} · {{ q.zeit }}{% if q.note %} ({{ q.note }}){% endif %} – {{ q.url }}
+{% endfor %}{% endmacro %}
+{% macro meldung(m) %}
+{{ m.sterne }} {{ m.schlagzeile }}
+    {{ m.fakten }}
+    {{ m.ort }} · {{ m.zeit }}{% if m.nur_eine_quelle %} · NUR EINE QUELLE{% endif %}
+
+{% if m.dreh_idee %}
+    Dreh-Idee: {{ m.dreh_idee }}
+{% endif %}
+{{ quellen(m.quellen) }}
+{% endmacro %}
+{% macro sektion(titel, gruppen) %}
+== {{ titel }} ==
+{% for rubrik, ms in gruppen %}
+
+-- {{ rubrik|upper }} --
+{% for m in ms %}
+{{ meldung(m) }}
+{% endfor %}
+{% endfor %}
+
+{% endmacro %}
+PANORAMA-BRIEFING – {{ v.datum }}
+Stand {{ v.stand }} Uhr · {{ v.n_meldungen }} Meldungen
+{% if v.warnings %}
+
+HINWEISE ZUR PRÜFUNG
+{% for w in v.warnings %}
+* {{ w }}
+{% endfor %}
+{% endif %}
+
+== 1. TOP 5 DES TAGES ==
+{% for t in v.top5 %}
+
+{{ loop.index }}. [{{ t.m.rubrik }}] {{ t.m.schlagzeile }}
+    Warum es zieht: {{ t.warum }}
+    {{ t.m.fakten }}
+    {{ t.m.ort }} · {{ t.m.zeit }}{% if t.m.nur_eine_quelle %} · NUR EINE QUELLE{% endif %}
+
+{{ quellen(t.m.quellen) }}
+{% endfor %}
+
+{{ sektion("2. DEUTSCHLAND", v.deutschland) }}
+{{ sektion("3. INTERNATIONAL", v.international) }}
+== 4. TERMINE / ERWARTBARES HEUTE ==
+{% for t in v.termine %}
+
+* {{ t.thema }}: {{ t.text }}
+{{ quellen(t.quellen) }}
+{% else %}
+Keine Termine gemeldet.
+{% endfor %}
+
+== 5. QUELLEN-CHECK ==
+{{ v.n_items }} Meldungen im 20-Stunden-Fenster gesammelt.
+{% for p in v.protocol %}
+{{ "%-22s"|format(p.quelle) }} {{ p.status }}{% if p.grund %}: {{ p.grund }}{% endif %} ({{ p.im_fenster }}/{{ p.eintraege }})
+{% endfor %}
+{% if v.nicht_aufgenommen %}
+
+Bewusst nicht aufgenommen:
+{% for n in v.nicht_aufgenommen %}
+* {{ n.thema }} – {{ n.grund }}
+{% endfor %}
+{% endif %}

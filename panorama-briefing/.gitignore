@@ -1,0 +1,4 @@
+.venv/
+archive/
+.state/
+__pycache__/

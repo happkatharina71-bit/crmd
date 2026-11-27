@@ -1,0 +1,86 @@
+name: Panorama-Briefing
+
+on:
+  schedule:
+    # Sommer (MESZ): 05:05 / 05:20 / 05:35 – Winter (MEZ): 03:xx UTC = 04:xx, endet sofort per Zeitfenster
+    - cron: "5 3 * * 1-5"
+    - cron: "20 3 * * 1-5"
+    - cron: "35 3 * * 1-5"
+    # Winter (MEZ): 05:05 / 05:20 / 05:35
+    - cron: "5 4 * * 1-5"
+    - cron: "20 4 * * 1-5"
+    - cron: "35 4 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry-Run (kein Versand, HTML als Artefakt)"
+        type: boolean
+        default: true
+      force:
+        description: "Zeitfenster-Gate und Tagesmarker ignorieren"
+        type: boolean
+        default: true
+
+concurrency:
+  group: panorama-briefing
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Berliner Datum bestimmen
+        id: day
+        run: echo "d=$(TZ=Europe/Berlin date +%F)" >> "$GITHUB_OUTPUT"
+
+      # Tagesmarker: verhindert Doppellauf (wird nur nach erfolgreichem Versand geschrieben und gecacht).
+      - name: Tagesmarker wiederherstellen
+        uses: actions/cache@v4
+        with:
+          path: .state
+          key: briefing-done-${{ steps.day.outputs.d }}
+
+      - run: pip install -r requirements.txt
+
+      - name: Briefing erstellen
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          ALERT_MAIL: ${{ secrets.ALERT_MAIL }}
+          EXTRA_ARGS: ${{ github.event_name == 'workflow_dispatch' && format('{0} {1}', inputs.dry_run && '--dry-run' || '', inputs.force && '--force' || '') || '' }}
+        run: python -m panorama_briefing $EXTRA_ARGS | tee run.log
+
+      - name: Kosten in Job-Summary
+        if: always()
+        run: |
+          {
+            echo "### Panorama-Briefing"
+            echo '```'
+            grep -E "TOKENS|KOSTEN|Lauf fehlgeschlagen|Außerhalb|bereits versendet" run.log || true
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Archiv sichern
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: briefing-archiv-${{ github.run_id }}
+          path: archive/
+          retention-days: 90
+          if-no-files-found: ignore

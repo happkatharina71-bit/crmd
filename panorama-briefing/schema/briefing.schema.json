@@ -1,0 +1,80 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Panorama-Briefing",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["datum", "top_5", "deutschland", "international", "termine_heute", "nicht_aufgenommen"],
+  "properties": {
+    "datum": {"type": "string"},
+    "top_5": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["meldung_ref", "warum_es_zieht"],
+        "properties": {
+          "meldung_ref": {"type": "string"},
+          "warum_es_zieht": {"type": "string"}
+        }
+      }
+    },
+    "deutschland": {"type": "array", "items": {"$ref": "#/$defs/meldung"}},
+    "international": {"type": "array", "items": {"$ref": "#/$defs/meldung"}},
+    "termine_heute": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["thema", "text", "source_ids"],
+        "properties": {
+          "thema": {"type": "string"},
+          "text": {"type": "string"},
+          "source_ids": {"type": "array", "items": {"type": "string"}}
+        }
+      }
+    },
+    "nicht_aufgenommen": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["thema", "grund"],
+        "properties": {
+          "thema": {"type": "string"},
+          "grund": {"type": "string"}
+        }
+      }
+    }
+  },
+  "$defs": {
+    "meldung": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["ref", "rubrik", "schlagzeile", "fakten", "ort", "zeit", "source_ids", "neue_urls", "bewertung", "nur_eine_quelle"],
+      "properties": {
+        "ref": {"type": "string"},
+        "rubrik": {"type": "string", "enum": ["Polizei/Blaulicht", "Wetter", "Tiere", "Kurioses", "Lotto", "Menschen", "Unglücke"]},
+        "schlagzeile": {"type": "string"},
+        "fakten": {"type": "string"},
+        "ort": {"type": "string"},
+        "zeit": {"type": "string"},
+        "source_ids": {"type": "array", "items": {"type": "string"}},
+        "neue_urls": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["url", "zeit"],
+            "properties": {
+              "url": {"type": "string"},
+              "zeit": {"type": "string"}
+            }
+          }
+        },
+        "bewertung": {"type": "integer", "enum": [1, 2, 3]},
+        "nur_eine_quelle": {"type": "boolean"},
+        "dreh_idee": {"type": "string"}
+      }
+    }
+  }
+}
